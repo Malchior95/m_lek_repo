@@ -1,7 +1,8 @@
 {
+    "type": "library",
     "name": "lek-main-repos",
     "repos":[
-        "",
-        ""
+        "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/interna.json",
+        "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/interna-2.json"
     ]
 }
