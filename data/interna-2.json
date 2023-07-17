@@ -1,6 +1,6 @@
 {
   "name": "interna-2",
-  "tags": null,
+  "tags": ["interna", "2023"],
   "questions": [
     {
       "id": "int-1-1",
