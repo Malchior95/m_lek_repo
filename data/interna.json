@@ -9,7 +9,7 @@
         {
           "id": "A",
           "text": "wykonać kolonoskopię.",
-          "isCorrect": null
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -48,7 +48,7 @@
         {
           "id": "B",
           "text": "1,4,5.",
-          "isCorrect": null
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -77,7 +77,7 @@
         {
           "id": "A",
           "text": "wszystkie wymienione.",
-          "isCorrect": null
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -121,7 +121,7 @@
         {
           "id": "C",
           "text": "skierowanie pacjenta do poradni kardiologicznej w celu wykonania\nnieinwazyjnej obrazowej próby wysiłkowej.",
-          "isCorrect": null
+          "isCorrect": true
         },
         {
           "id": "D",
