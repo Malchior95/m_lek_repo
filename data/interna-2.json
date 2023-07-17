@@ -9,27 +9,27 @@
         {
           "id": "A",
           "text": "1,2,3,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "1,3,4,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "4,5,6. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "2,4,6. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "wszystkie wymienione.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -43,27 +43,27 @@
         {
           "id": "A",
           "text": "1,2,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "2,3,6. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "3,4,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "2,4,6. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "1,3,5.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -77,27 +77,27 @@
         {
           "id": "A",
           "text": "1,2,6. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "2,3,6. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "3,4,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "2,4,6. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "1,3,4,5.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -111,27 +111,27 @@
         {
           "id": "A",
           "text": "2,4,6. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "2,3,4. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "1,3,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "1,2,6. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "1,5,6.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -145,27 +145,27 @@
         {
           "id": "A",
           "text": "1,3,5,6. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "1,2,4,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "2,3,4,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "1,2,3,6. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "2,4,5,6.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -179,27 +179,27 @@
         {
           "id": "A",
           "text": "perindopryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "amlodypina.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "indapamid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "klonidyna.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "losartan.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -213,27 +213,27 @@
         {
           "id": "A",
           "text": "indapamid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "hydrochlorothiazyd.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "spironolakton.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "furosemid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "eplerenon.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -247,27 +247,27 @@
         {
           "id": "A",
           "text": "amlodypina.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "losartan.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "perindopryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "indapamid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "bisoprolol.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -281,27 +281,27 @@
         {
           "id": "A",
           "text": "amlodypina.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "losartan.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "perindopryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "indapamid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "bisoprolol.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -315,27 +315,27 @@
         {
           "id": "A",
           "text": "amlodypina.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "losartan.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "perindopryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "indapamid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "bisoprolol.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -349,27 +349,27 @@
         {
           "id": "A",
           "text": "amlodypina.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "losartan.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "perindopryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "indapamid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "bisoprolol.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -383,27 +383,27 @@
         {
           "id": "A",
           "text": "amlodypina.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "hydrochlorotiazyd.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "perindopryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "indapamid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "furosemid.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -417,27 +417,27 @@
         {
           "id": "A",
           "text": "walsaltan.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "losartan.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "perindopryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "indapamid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "ramipryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -451,27 +451,27 @@
         {
           "id": "A",
           "text": "perindopryl i indapamid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "perindopryl i amlodypina.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "perindopryl i losartan.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "amlodypina i indapamid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "losartan i amlodypina.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -485,27 +485,27 @@
         {
           "id": "A",
           "text": "amlodypina.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "losartan.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "perindopryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "bisoprolol.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "walsartan.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -519,27 +519,27 @@
         {
           "id": "A",
           "text": "ramipryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "perindopryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "kaptopryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "enarenal.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "amlodypina.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -553,27 +553,27 @@
         {
           "id": "A",
           "text": "ramipryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "perindopryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "kaptopryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "enarenal.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "metyldopa.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -587,27 +587,27 @@
         {
           "id": "A",
           "text": "metyldopa.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "werapamil.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "doksazosyna.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "spironolakton.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "losartan.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -621,27 +621,27 @@
         {
           "id": "A",
           "text": "indapamid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "urapidyl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "kaptopryl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "amlodypina.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "losartan.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -655,27 +655,27 @@
         {
           "id": "A",
           "text": "5% roztwór glukozy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "10% roztwór glukozy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "20% roztwór glukozy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "0,9% roztwór NaCl.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "8,4% roztwór wodorowęglanu sodu.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -689,27 +689,27 @@
         {
           "id": "A",
           "text": "0,9% roztwór chlorku sodu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "insulinę, 0,9% roztwór chlorku sodu 0,3% chlorku potasu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "insulinę, 5% roztwór glukozy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "insulinę, 10% roztwór glukozy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "8,4% roztwór wodorowęglanu sodu.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -723,27 +723,27 @@
         {
           "id": "A",
           "text": "niedobór witaminy B12.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "nowotwór jelita grubego.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "hemochromatozę.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "niedobór kwasu foliowego.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "przewlekłą chorobę nerek.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -757,27 +757,27 @@
         {
           "id": "A",
           "text": "rozpoznać cukrzycę i rozpocząć leczenie farmakologiczne metforminą, jeśli\ntylko nie ma przeciwwskazań do jej stosowania.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "powtórzyć badanie stężenia glukozy we krwi przy pomocy glukometru w\ndowolnym czasie.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "powtórzyć badanie stężenia glukozy w osoczu krwi żylnej na czczo w ciągu\njednego z najbliższych dni.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "wykonać doustny test tolerancji glukozy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "powtórzyć badanie stężenia glukozy w osoczu krwi żylnej na czczo za rok.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -791,27 +791,27 @@
         {
           "id": "A",
           "text": "USG jamy brzusznej.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "scyntygrafia nerek.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "urografia.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "biopsja nerki.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "biopsja prostaty.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -825,27 +825,27 @@
         {
           "id": "A",
           "text": "wzrostu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "ilości tkanki tłuszczowej.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "masy ciała.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "masy mięśniowej.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "ilości spożywanego białka.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -859,27 +859,27 @@
         {
           "id": "A",
           "text": "zwiększone TSH i zwiększone FT4.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "zwiększone TSH i zmniejszone FT4.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "prawidłowe TSH i zmniejszone FT4.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "zmniejszone TSH i zwiększone FT4.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "zmniejszone TSH i zmniejszone FT4.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -893,27 +893,27 @@
         {
           "id": "A",
           "text": "zwiększone TSH i zwiększone FT4.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "zwiększone TSH i zmniejszone FT4.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "prawidłowe TSH i zmniejszone FT4.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "zmniejszone TSH i zwiększone FT4.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "zmniejszone TSH i zmniejszone FT4.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -927,27 +927,27 @@
         {
           "id": "A",
           "text": "zwiększenie aktywności amylazy i lipazy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "zmniejszenie aktywności amylazy i lipazy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "zwiększenie aktywności amylazy i zmniejszenie aktywności lipazy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "zmniejszenie aktywności amylazy i zwiększenie aktywności lipazy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "zwiększenie aktywności amylazy i prawidłową aktywność lipazy.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -961,27 +961,27 @@
         {
           "id": "A",
           "text": "obecność glukozy w moczu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "niski ciężar właściwy moczu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "niskie pH moczu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "obecność białka w moczu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "zwiększona liczba leukocytów w moczu.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -995,27 +995,27 @@
         {
           "id": "A",
           "text": "dożylny wlew 3% roztworu chlorku sodu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "dożylny wlew 10% roztworu chlorku sodu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "zwiększenie spożycia soli kuchennej doustnie.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "ograniczenie podaży wody.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "zwiększenie podaży wody.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1029,27 +1029,27 @@
         {
           "id": "A",
           "text": "25 μg na dobę.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "75 μg na dobę.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "100 μg na dobę.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "150 μg na dobę.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "200 μg na dobę.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1063,27 +1063,27 @@
         {
           "id": "A",
           "text": "furazydyna.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "kotrimoksazol.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "trimetoprim.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "fosfomycyna.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "klindamycyna.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1097,27 +1097,27 @@
         {
           "id": "A",
           "text": "podać jak najszybciej dożylnie roztwór 5% glukozy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "podać jak najszybciej dożylnie roztwór 20% glukozy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "podać jak najszybciej podskórnie insulinę.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "podać jak najszybciej dożylnie insulinę.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "oznaczyć stężenie glukozy i dopiero na podstawie stężenia wtedy\nzadecydować o podaży glukozy lub insuliny dożylnie.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1131,27 +1131,27 @@
         {
           "id": "A",
           "text": "przewlekłe zapalenie oskrzeli.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "zapalenie płuc.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "niedodma płuca z obturacją.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "rozedma płuc.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "astma.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1165,27 +1165,27 @@
         {
           "id": "A",
           "text": "1 okres bezdechu (trwający 10 sekund lub dłużej) lub niedostatecznego\noddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej)\nna godzinę snu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "5 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego\noddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej)\nna godzinę snu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "15 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego\noddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej)\nna godzinę snu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "25 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego\noddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej)\nna godzinę snu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "50 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego\noddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej)\nna godzinę snu.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1199,27 +1199,27 @@
         {
           "id": "A",
           "text": "1,2. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "2,4. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "2,4,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "1,3,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "tylko 1.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1233,27 +1233,27 @@
         {
           "id": "A",
           "text": "1,3. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "3,4. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "1,4,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "1,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "2,4,5.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1267,27 +1267,27 @@
         {
           "id": "A",
           "text": "3,4,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "1,2,3. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "1,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "tylko 4. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "tylko 5.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1301,27 +1301,27 @@
         {
           "id": "A",
           "text": "amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na\npenicylinę klarytromycynę 500 mg co 12 godzin doustnie lub erytromycynę\n500 mg co 6 godzin doustnie.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na\npenicylinę cefuroksym 1,5 g co 8 godzin dożylnie.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "cefuroksym 500 mg co 12 godzin, a jeśli pacjent jest uczulony na penicilinę\nerytromycynę 500 mg co 6 godzin doustnie.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "erytromycynę 500 mg co 6 godzin doustnie, a jeśli pacjent jest uczulony na\npenicylinę cefuroksym 500 mg co 12 godzin.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na\npenicylinę cefuroksym 500 mg co 12 godzin.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1335,27 +1335,27 @@
         {
           "id": "A",
           "text": "należy odstawić leki z grupy doustnych antagonistów receptorów\nleukotrienowych, nawet jeśli powodowały one znaczącą poprawę kontroli\nastmy przed ciążą.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "prostaglandyna F2α może spowodować skurcz oskrzeli i powinna być\nstosowana z ekstremalną ostrożnością.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "w okresie karmienia piersią należy odstawić leki.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "ciąża nigdy nie powoduje pogorszenia kontroli astmy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "w ciąży należy zawsze odstawić wziewne kortykosteroidy.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1369,27 +1369,27 @@
         {
           "id": "A",
           "text": "plamica Henocha i Schönleina dotyczy dzieci i nigdy nie występuje u\ndorosłych.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "obraz mikroskopowy bioptatu nerek jest nie do odróżnienia od obrazu ostrej\nnefropatii IgA.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "ból brzucha jest spowodowany zapaleniem naczyń zajmujących naczynia\nkrwionośne przewodu pokarmowego.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "do obrazu klinicznego należą bóle stawów.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "występuje krwiomocz makro- lub mikroskopowy, z białkomoczem lub bez\nniego.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1403,27 +1403,27 @@
         {
           "id": "A",
           "text": "ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem\nniedrożności żyły głównej górnej spowodowanej przez guz szczytu płuca.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zajęcia\nprzez proces nowotworowy splotu ramiennego przez guz szczytu płuca.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zajęcia\nprzez proces nowotworowy pnia współczulnego w miejscu splotu\ngwiaździstego lub ponad nim.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zepołu\nnieadekwatnego wydzielania hormonu antydiuretycznego przez rak oskrzela.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem miastenii\nw przebiegu raka oskrzela.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1437,27 +1437,27 @@
         {
           "id": "A",
           "text": "napadowe zblednięcia skóry twarzy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "przewlekłe zaparcia.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "bielactwo.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "zanik mięśni kłębu kciuka.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "utrwalone teleangiektazje.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1471,27 +1471,27 @@
         {
           "id": "A",
           "text": "zespołu Turnera.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "achondroplazji.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "zespołu Downa.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "wrodzonej łamliwości kości.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "zespołu Marfana.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1505,27 +1505,27 @@
         {
           "id": "A",
           "text": "1,3,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "1,3. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "2,4. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "tylko 3. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "tylko 5.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1539,27 +1539,27 @@
         {
           "id": "A",
           "text": "podawaniu leku β-adrenolitycznego przez 6 tygodni i dołączeniu leku\nα-adrenolitycznego w przypadku małego efektu hipotensyjnego.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "podawaniu wyłącznie leku α-adrenolitycznego przez 6 tygodni; lek\nβ-adrenolityczny jest zawsze przeciwwskazany.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "podawaniu leku α-adrenolitycznego, a w przypadku znacznej tachykardii\ndodaniu leku β-adrenolitycznego.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "podawaniu leku α-adrenolitycznego, a w przypadku małego efektu\nhipotensyjnego dołączeniu diuretyku pętlowego.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "podawaniu leku α-adrenolitycznego, a w przypadku małego efektu\nhipotensyjnego dołączeniu diuretyku tiazydowego.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1573,27 +1573,27 @@
         {
           "id": "A",
           "text": "nie odpowiada na leczenie z wykorzystaniem żywic jonowymiennych,\ntakich jak cholestyramina.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "nigdy nie towarzyszy jej kamica żółciowa, ponieważ nadmiar żółci jest\nwydalany do jelita cienkiego.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "występuje wyłącznie jak powikłanie po resekcji jelita cienkiego.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "nigdy nie występuje w cukrzycy ze względu na zaburzenia motoryki\nprzewodu pokarmowego w tej chorobie.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "pacjenci zgłaszają się do lekarza z nagłą wodnistą biegunką lub łagodną\ntłuszczową.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1607,27 +1607,27 @@
         {
           "id": "A",
           "text": "zawsze powoduje wystąpienie stałej żółtaczki.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "manifestuje się bólem, niedokrwistością, wymiotami, utratą masy ciała.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "rokowanie jest gorsze niż w przypadku raka dróg żółciowych.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "rozpoznanie nie opiera się na endoskopowym badaniu dwunastnicy z\nbiopsją guza, lecz na endoskopowej ultrasonografii.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "leczenie chirurgiczne obejmuje wyłącznie zabiegi paliatywne – zepolenie\nomijające lub umieszczenie stentu.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1641,27 +1641,27 @@
         {
           "id": "A",
           "text": "3,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "1,3. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "1,2,4. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "tylko 4. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "tylko 1.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1675,27 +1675,27 @@
         {
           "id": "A",
           "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów\nalfa-fetoproteiny (AFP) co 12 miesięcy, u pacjentów wysokiego ryzyka, do\nktórych zalicza się chorych z marskością wątroby spowodowaną\nzapaleniem wątroby typu B i C, hemochromatozą, alkoholem;\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów\nalfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do\nktórych zalicza się chorych z marskością wątroby spowodowaną\nzapaleniem wątroby typu B i C, hemochromatozą, alkoholem;\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów\nalfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do\nktórych zalicza się chorych z marskością wątroby spowodowaną\nzapaleniem wątroby typu B i C, hemochromatozą, z wyłączeniem alkoholu;\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów\nalfa-fetoproteiny (AFP) co 12 miesięcy, u pacjentów wysokiego ryzyka, do\nktórych zalicza się chorych z marskością wątroby spowodowaną\nzapaleniem wątroby typu B i C, hemochromatozą, z wyłączeniem alkoholu;\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów\nalfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do\nktórych zalicza się chorych z marskością wątroby spowodowaną wyłącznie\nzapaleniem wątroby typu B i C.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1709,27 +1709,27 @@
         {
           "id": "A",
           "text": "są zwykle bezobjawowe, choć większe mogą odpowiadać za dyspepsję,\nowrzodzenia i krwawienia z przewodu pokarmowego, w przeciwieństwie do\ninnych nowotworów mezenchmalnych nie wykazują ekspresji\nprotoonkogenu c-kit.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "nawet o średnicy <2 cm manifestują się zwykle krwawieniem z przewodu\npokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych\nnie wykazują ekspresji protoonkogenu c-kit.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "są zwykle bezobjawowe, choć większe mogą odpowiadać za dyspepsję,\nowrzodzenia i krwawienia z przewodu pokarmowego, wykazują ekspresję\nprotoonkogenu c-kit.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "nawet o średnicy <2 cm manifestują się zwykle krwawieniem z przewodu\npokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych\nwykazują ekspresję protoonkogenu c-kit.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "mają charakter łagodny, nigdy nie złośliwieją, jednak ze względu na dużą\nskłonność do powodowania owrzodzeń zawsze wymagają leczenia\ninhibitorem kinazy tyrozynowej.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1743,27 +1743,27 @@
         {
           "id": "A",
           "text": "indukowaną jodem nadmierną syntezą hormonów tarczycy u pacjentów ze\nwspółistniejącą chorobą tarczycy, taką jak utajona choroba Gravesa\n(przykład efektu Jod-Basedow);\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "zapaleniem tarczycy, będącym skutkiem bezpośredniego efektu\ncytotoksycznego amiodaronu;\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "zwiększoną jodochwytnością;\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "złą odpowiedzią na leczenie glikokortykosteroidami;\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "szybkim ustępowaniem po odstawieniu amiodaronu.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1777,27 +1777,27 @@
         {
           "id": "A",
           "text": "regularne badanie krwi utajonej w kale.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "sigmoidoskopia.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "rektoskopia.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "kolonoskopia.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "tomografia komputerowa.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1811,27 +1811,27 @@
         {
           "id": "A",
           "text": "bólem brzucha, utratą masy ciała, jednakże żółtaczka mechaniczna nigdy\nnie występuje, trzustka jest powiększona w badaniach obrazowych, dobrze\nodpowiada na leczenie glikokortykosteroidami.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest\nzmniejszona w badaniach obrazowych, dobrze odpowiada na leczenie\nglikokortykosteroidami.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest\npowiększona w badaniach obrazowych, dobrze odpowiada tylko na\nleczenie azatiopryną.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest\npowiększona w badaniach obrazowych, nie odpowiada na leczenie\nglikokortykosteroidami.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest\npowiększona w badaniach obrazowych, dobrze odpowiada na leczenie\nglikokortykosteroidami.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1845,27 +1845,27 @@
         {
           "id": "A",
           "text": "rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie\nczynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie i\nelektrokardiograficznie przypomina ostry zespół wieńcowy z uniesieniem\nodcinka ST, bez istotnych zmian w koronarografii.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie\nczynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie\nprzypomina ostry zespół wieńcowy, zmian elektrokardiograficznych nie\nstwierdza się, bez istotnych zmian w koronarografii.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie\nczynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie i\nelektrokardiograficznie przypomina ostry zespół wieńcowy z uniesieniem\nodcinka ST, w koronarografii niedrożna tętnica okalająca.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "włóknieniem wsierdzia i zarastaniem jam komór w przebiegu eozynofilowej\nziarniniakowatości z zapaleniem naczyń (określanej dawniej jako zespół\nChurg i Strauss), występuje niedomykalność mitralna i trójdzielna oraz\nobjawy zatorowości płucnej i obwodowej.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "łagodnym przerostem mięśnia lewej komory spowodowanym mutacją\ngenów kodujących troponiny, cechuje się występowaniem hipotensji\nindukowanej wysiłkiem i wysokim ryzykiem nagłego zgonu.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1879,27 +1879,27 @@
         {
           "id": "A",
           "text": "jest guzem łagodnym, zlokalizowanym w obrębie siodła tureckiego,\nodpowiadającym za hiperprolaktynemię.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "jest guzem łagodnym zlokalizowanym w obrębie siodła tureckiego lub w\nprzestrzeni nadsiodłowej, który może powodować objawy niedoczynności\nprzysadki lecz nigdy nie powoduje uszkodzenia podwzgórza.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "jest rodzajem guza złośliwego przestrzeni nadsiodłowej, czynnego\nhormonalnie, wydzielającego wazopresynę.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "jest guzem łagodnym zlokalizowanym w obrębie siodła tureckiego lub w\nprzestrzeni nadsiodłowej, który może powodować wystąpienie objawów\nuszkodzenia podwzgórza i moczówkę prostą.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "jest guzem złośliwym zlokalizowanym w obrębie siodła tureckiego,\nnaciekającym okolicę skrzyżowania wzrokowego, nieczynnym\nhormonalnie.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1913,27 +1913,27 @@
         {
           "id": "A",
           "text": "jest słyszalny tylko na wdechu;\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "jest słyszalny tylko na wydechu;\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "jest słyszalny na wdechu i wydechu;\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "jest wyrazem zapalenia opłucnej, stąd nie występuje w zatorowości\npłucnej;\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "nigdy nie towarzyszy mu szmer tarcia osierdziowego, z którym wymaga\nróżnicowania.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1947,27 +1947,27 @@
         {
           "id": "A",
           "text": "obniżenie wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia\nrestrykcyjne.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "obniżenie wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia\nobturacyjne.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "obniżenie FVC bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na\nzaburzenia obturacyjne.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "obniżenie FVC bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na\nzaburzenia restrykcyjne.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "obniżenie FEV1 bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje\nna zaburzenia obturacyjne.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -1981,27 +1981,27 @@
         {
           "id": "A",
           "text": "tachykardia spoczynkowa.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "bradykardia spoczynkowa.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "zwiększona zmienność rytmu serca.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "nadmierna reakcja źrenic na leki rozszerzające źrenice.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "zwiększenie wielkości źrenic.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2015,27 +2015,27 @@
         {
           "id": "A",
           "text": "Nie może być stosowana u otyłych pacjentów z cukrzycą typu 1.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "Jest stosowana jako terapia pierwszego rzutu w cukrzycy typu 2, bez\nwzględu na masę ciała.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "Należy ją odstawić, jeśli wskaźnik filtracji kłębuszkowej wynosi\n30-45 ml/min/1,73 m2.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "Może zwiększać ryzyko kwasicy ketonowej.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "Głównymi skutkami ubocznymi są zaparcia stolca.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2049,27 +2049,27 @@
         {
           "id": "A",
           "text": "biegunkę.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "skąpomocz.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "zmniejszone pragnienie.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "kolkę nerkową.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "grubofaliste drżenie rąk.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2083,27 +2083,27 @@
         {
           "id": "A",
           "text": "tlenku azotu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "epoprostenolu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "salbutamolu.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "adenozyny.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "iloprostu.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2117,27 +2117,27 @@
         {
           "id": "A",
           "text": "talidomid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "bortezomib.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "cyklofosfamid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "lenalidomid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "doksorubicyna.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2151,27 +2151,27 @@
         {
           "id": "A",
           "text": "pochodne platyny.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "leki alkilujące.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "docetaksel.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "antracykliny.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "przeciwciała anty-VEGF.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2185,27 +2185,27 @@
         {
           "id": "A",
           "text": "bewacyzumab.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "trastuzumab.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "infliksymab.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "tocylizumab.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "rytuksymab.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2219,27 +2219,27 @@
         {
           "id": "A",
           "text": "lokalizacja w części przedodźwiernikowej, związek z zakażeniem Helicobacter\npylori, przerzuty drogą krwionośną do wątroby.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "lokalizacja w kącie żołądka, związek z mutacjami genu kodującego\ne-kadherynę, naciekanie błony otrzewnej przez ciągłość.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "lokalizacja w trzonie żołądka, związek z mutacjami genu kodującego\ne-kadherynę, guz egzofityczny, dobrze odgraniczony.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "lokalizacja w trzonie żołądka, związek przyczynowy z alkoholem i\npapierosami, naciekanie przez ciągłość.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "lokalizacja w części przedodźwiernikowej, pogrubienie ściany żołądka z\nowrzodzeniem śluzówki, brak możliwości leczenia operacyjnego nawet we\nwczesnych postaciach.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2253,27 +2253,27 @@
         {
           "id": "A",
           "text": "allopurynol.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "witamina D.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "witamina C.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "kwas acetylosalicylowy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "N-acetylocysteina.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2287,27 +2287,27 @@
         {
           "id": "A",
           "text": "pęcherzyka żółciowego.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "przewodu żółciowego wspólnego.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "lewego płata wątroby.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "dwunastnicy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "części odźwiernikowej żołądka.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2321,27 +2321,27 @@
         {
           "id": "A",
           "text": "somatoliberyna.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "insulinopodobny czynnik wzrostu 1.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "czynnik martwicy nowotworów alfa.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "transformujący czynnik wzrostu beta.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "somatostatyna.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2355,27 +2355,27 @@
         {
           "id": "A",
           "text": "hiperfosfatemia.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "wzrost stężenia kreatyniny.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "hiperkalemia.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "hiperkalcemia.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "hiperurykemia.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2389,27 +2389,27 @@
         {
           "id": "A",
           "text": "kory nadnerczy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "jądra.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "tarczycy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "przytarczycy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "uroepitelialnego.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2423,27 +2423,27 @@
         {
           "id": "A",
           "text": "skuteczność leczenia wymaga adekwatnego (>30 mIU/ml) stężenia TSH.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "skuteczność leczenia zwiększa się podaniem egzogennego rekombinowanego\nTSH.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "jod promieniotwórczy znajduje zastosowanie w paliatywnym leczeniu\nprzerzutów do kości.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "na trzy miesiące przed terapią jodem promieniotwórczym nie należy\nwykonywać badań obrazowych z kontrastem jodowym.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "jod promieniotwórczy jest skuteczny w leczeniu przerzutów do płuc pod\nwarunkiem pozostawienia zdrowych fragmentów tarczycy po resekcji guza\npierwotnego.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2457,27 +2457,27 @@
         {
           "id": "A",
           "text": "wielorzędowa tomografia spiralna.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "rezonans magnetyczny.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "pozytronowa tomografia emisyjna z podaniem 18F fluorodezoksyglukozy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "scyntygrafia receptorowa z zastosowaniem analogu somatostatyny\nznakowanego promieniotwórczym galem lub technetem.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "scyntygrafia z zastosowaniem metajodobenzyloguanidyny znakowanej\npromieniotwórczym jodem.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2491,27 +2491,27 @@
         {
           "id": "A",
           "text": "serotonina.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "alfa-fetoproteina.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "chromogranina A.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "czynnik martwicy nowotworów alfa.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "insulinopodobny czynnik wzrostu 1.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2525,27 +2525,27 @@
         {
           "id": "A",
           "text": "rytuksymab.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "abatacept.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "etanercept.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "leflunomid.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "tocylizumab.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2559,27 +2559,27 @@
         {
           "id": "A",
           "text": "1,2,3. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "2,4,9. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "4,6,8. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "2,3,7. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "4,5,8.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2593,27 +2593,27 @@
         {
           "id": "A",
           "text": "zapalenie błony maziowej lub bolesność uciskowa w co najmniej dwóch\nstawach ze sztywnością poranną przez co najmniej 30 minut.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "małopłytkowość.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "majaczenie.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "owrzodzenia w jamie ustnej.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "białkomocz >0,5 g/dobę.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2627,27 +2627,27 @@
         {
           "id": "A",
           "text": "anakinra.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "tocylizumab.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "belimumab.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "infliksymab.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "daratumumab.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2661,27 +2661,27 @@
         {
           "id": "A",
           "text": "1,5,6. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "1,3,4. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "2,3,4. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "2,3,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "2,3,6.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2695,27 +2695,27 @@
         {
           "id": "A",
           "text": "nefropatię IgA.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "wrzodziejące zapalenie jelita grubego.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "chorobę Hashimoto.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "bielactwo.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "zesztywniejące zapalenie stawów kręgosłupa.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2729,27 +2729,27 @@
         {
           "id": "A",
           "text": "klarytromycyna.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "amoksycylina.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "cefuroksym.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "metronidazol.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "lewofloksacyna.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2763,27 +2763,27 @@
         {
           "id": "A",
           "text": "niedomykalność zastawki dwudzielnej.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "niedomykalność zastawki aortalnej.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "niedomykalność zastawki trójdzielnej.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "zwężenie zastawki aortalnej.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "zespół wypadania płatka zastawki dwudzielnej.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2797,27 +2797,27 @@
         {
           "id": "A",
           "text": "rozkurczowym, którego źródłem jest zastawka aortalna.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "rozkurczowym, którego źródłem jest zastawka dwudzielna.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "skurczowym, którego źródłem jest zastawka dwudzielna.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "skurczowym, którego źródłem jest zastawka aortalna.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "skurczowym, którego przyczyną jest przeciek lewo-prawy w ubytku przegrody\nmiędzykomorowej.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2831,27 +2831,27 @@
         {
           "id": "A",
           "text": "wykonać badanie tomograficzne głowy.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "oznaczyć stężenie CRP (białka C- reaktywnego).\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "wykonać rezonans szyjnego odcinka kręgosłupa.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "wykonać badanie elektrokardiograficzne.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "oznaczyć stężenie troponiny.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2865,27 +2865,27 @@
         {
           "id": "A",
           "text": "tachykardia i wzrost ciśnienia tętniczego.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "bradykardia i obrzęk powiek.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "bradykardia i hipotonia.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "tachykardia i hipotonia.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "bezwiedne oddanie moczu.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2899,27 +2899,27 @@
         {
           "id": "A",
           "text": "1,2,3,4. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "1,2,4,5. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "1,2,5,6. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "2,3,6,7. ",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "4,6,7,8.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2933,27 +2933,27 @@
         {
           "id": "A",
           "text": "holosystoliczny w rzucie koniuszka serca.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "telesystoliczny w drugiej przestrzeni międzyżebrowej prawej przy krawędzi\nmostka.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "mezosystoliczny w drugiej przestrzeni międzyżebrowej lewej przy krawędzi\nmostka.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "protodiastoliczny w drugiej przestrzeni międzyżebrowej prawej przy krawędzi\nmostka.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "pandiastoliczny w rzucie koniuszka serca.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -2967,27 +2967,27 @@
         {
           "id": "A",
           "text": "tikagrelor.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "aspiryna.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "prasugrel.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "statyna.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "klopidogrel.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -3001,27 +3001,27 @@
         {
           "id": "A",
           "text": "obniżanie ciśnienia tętniczego nie redukuje ryzyka powikłań\nsercowo-naczyniowych i śmiertelności w tej grupie chorych.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "izolowane nadciśnienie tętnicze skurczowe jest w tej grupie najczęstszym\ntypem nadciśnienia.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "u osób w tym wieku należy unikać wartości ciśnienia <130/80 mmHg.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "rozpoczynanie terapii od niższych dawek niż u osób młodszych minimalizuje\nryzyko działań niepożądanych.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "ryzyko hipotonii ortostatycznej jest większe niż u innych chorych.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
@@ -3035,27 +3035,27 @@
         {
           "id": "A",
           "text": "bloker receptora dla angiotensyny II i lek tiazydowy lub tiazydopodobny.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "B",
           "text": "dihydropirydynowy bloker kanału wapniowego i lek tiazydowy lub\ntiazydopodobny.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "C",
           "text": "dihydropirydynowy bloker kanału wapniowego i inhibitor konwertazy\nangiotensyny.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "D",
           "text": "inhibitor konwertazy angiotensyny i beta-bloker.\n",
-          "isCorrect": null
+          "isCorrect": false
         },
         {
           "id": "E",
           "text": "inhibitor konwertazy angiotensyny i lek tiazydowy lub tiazydopodobny.\n",
-          "isCorrect": null
+          "isCorrect": false
         }
       ],
       "explanation": null,
