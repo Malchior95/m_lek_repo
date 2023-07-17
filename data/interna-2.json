@@ -4,7 +4,7 @@
   "questions": [
     {
       "id": "int-1-1",
-      "question": "Wskaż prawdziwe stwierdzenia:\n1) ropień płuca może być wynikiem centralnej martwicy nowotworu, przeważnie raka gruczołowego;\n2) rak gruczołowy płuca rozwija się w jego obwodowych częściach;\n3) ryzyko raka drobnokomórkowego, w odróżnieniu od raka płaskonabłonkowego płuc, jest słabo związane z paleniem tytoniu;\n4) u pacjenta z nowotworem płuca jednostronne ściszenie szmerów oddechowych może być wynikiem nie tylko obecności płynu w jamie opłucnowej, ale także niedodmy z zatkania tożstronnego oskrzela lub porażenia nerwu przeponowego;\n5) w diagnostyce „nieinfekcyjnej chrypki” i zespołu Hornera wystarczająca jest odpowiednia ocena laryngologiczna i neurologiczna;\n6) rak płuca może przebiegać ze wzrostem stężenia antygenu rakowo- płodowego (CEA) w surowicy krwi. Prawidłowa odpowiedź to: A. 1,2,3,5. B. 1,3,4,5. C. 4,5,6. D. 2,4,6. ",
+      "question": "Wskaż prawdziwe stwierdzenia:\n1) ropień płuca może być wynikiem centralnej martwicy nowotworu, przeważnie raka gruczołowego;\n2) rak gruczołowy płuca rozwija się w jego obwodowych częściach;\n3) ryzyko raka drobnokomórkowego, w odróżnieniu od raka płaskonabłonkowego płuc, jest słabo związane z paleniem tytoniu;\n4) u pacjenta z nowotworem płuca jednostronne ściszenie szmerów oddechowych może być wynikiem nie tylko obecności płynu w jamie opłucnowej, ale także niedodmy z zatkania tożstronnego oskrzela lub porażenia nerwu przeponowego;\n5) w diagnostyce „nieinfekcyjnej chrypki” i zespołu Hornera wystarczająca jest odpowiednia ocena laryngologiczna i neurologiczna;\n6) rak płuca może przebiegać ze wzrostem stężenia antygenu rakowo- płodowego (CEA) w surowicy krwi. Prawidłowa odpowiedź to: A. 1,2,3,5. B. 1,3,4,5. C. 4,5,6. D. 2,4,6. E. wszystkie wymienione.\n",
       "answers": [
         {
           "id": "A",
@@ -28,7 +28,7 @@
         },
         {
           "id": "E",
-          "text": "wszystkie wymienione.\n",
+          "text": "wszystkie wymienione. ",
           "isCorrect": false
         }
       ],
@@ -38,7 +38,7 @@
     },
     {
       "id": "int-1-2",
-      "question": "Wskaż prawdziwe stwierdzenia:\n1) powiększenie węzła chłonnego nadobojczykowego lewego u pacjenta z rakiem żołądka, tzw. węzła Virchowa, nazywane jest także objawem Troisiera;\n2) dysfagia nie występuje w przebiegu raka żołądka;\n3) zakażenie Helicobacter pylori jest czynnikiem ryzyka raka gruczołowego\nżołądka typu jelitowego;\n4) rozpoznanie wczesnego raka żołądka nie jest możliwe, gdy stwierdza się obecność przerzutów w regionalnych węzłach chłonnych;\n5) rak wczesny żołądka może objawiać się nawracającymi krwawieniami;\n6) leczenie endoskopowe jest zawsze wystarczającą metodą leczenia wczesnego raka żołądka. Prawidłowa odpowiedź to: A. 1,2,5. B. 2,3,6. C. 3,4,5. D. 2,4,6. ",
+      "question": "Wskaż prawdziwe stwierdzenia:\n1) powiększenie węzła chłonnego nadobojczykowego lewego u pacjenta z rakiem żołądka, tzw. węzła Virchowa, nazywane jest także objawem Troisiera;\n2) dysfagia nie występuje w przebiegu raka żołądka;\n3) zakażenie Helicobacter pylori jest czynnikiem ryzyka raka gruczołowego\nżołądka typu jelitowego;\n4) rozpoznanie wczesnego raka żołądka nie jest możliwe, gdy stwierdza się obecność przerzutów w regionalnych węzłach chłonnych;\n5) rak wczesny żołądka może objawiać się nawracającymi krwawieniami;\n6) leczenie endoskopowe jest zawsze wystarczającą metodą leczenia wczesnego raka żołądka. Prawidłowa odpowiedź to: A. 1,2,5. B. 2,3,6. C. 3,4,5. D. 2,4,6. E. 1,3,5.\n",
       "answers": [
         {
           "id": "A",
@@ -62,7 +62,7 @@
         },
         {
           "id": "E",
-          "text": "1,3,5.\n",
+          "text": "1,3,5. ",
           "isCorrect": false
         }
       ],
@@ -72,7 +72,7 @@
     },
     {
       "id": "int-1-3",
-      "question": "Wskaż prawdziwe stwierdzenia:\n1) rak trzustki jest choroba tytoniozależną;\n2) pierwszym objawem raka trzustki, u osoby po 50 r.ż. może być cukrzyca;\n3) objaw Courvoisiera polega na wystąpieniu żółtaczki po ostrym bólu w okolicy prawego podżebrza, często towarzyszy mu objaw Chełmońskiego i objaw Murphy’ego;\n4) śluzowe i surowicze nowotwory torbielowate trzustki występują częściej u mężczyzn;\n5) wysokie stężenie CA-19-9 w surowicy ma wysoką czułość i swoistość w diagnostyce raka trzustki;\n6) USG jamy brzusznej nie nadaje się do badań przesiewowych raka trzustki i monitorowania pooperacyjnego. Prawidłowa odpowiedź to: A. 1,2,6. B. 2,3,6. C. 3,4,5. D. 2,4,6. ",
+      "question": "Wskaż prawdziwe stwierdzenia:\n1) rak trzustki jest choroba tytoniozależną;\n2) pierwszym objawem raka trzustki, u osoby po 50 r.ż. może być cukrzyca;\n3) objaw Courvoisiera polega na wystąpieniu żółtaczki po ostrym bólu w okolicy prawego podżebrza, często towarzyszy mu objaw Chełmońskiego i objaw Murphy’ego;\n4) śluzowe i surowicze nowotwory torbielowate trzustki występują częściej u mężczyzn;\n5) wysokie stężenie CA-19-9 w surowicy ma wysoką czułość i swoistość w diagnostyce raka trzustki;\n6) USG jamy brzusznej nie nadaje się do badań przesiewowych raka trzustki i monitorowania pooperacyjnego. Prawidłowa odpowiedź to: A. 1,2,6. B. 2,3,6. C. 3,4,5. D. 2,4,6. E. 1,3,4,5.\n",
       "answers": [
         {
           "id": "A",
@@ -96,7 +96,7 @@
         },
         {
           "id": "E",
-          "text": "1,3,4,5.\n",
+          "text": "1,3,4,5. ",
           "isCorrect": false
         }
       ],
@@ -106,7 +106,7 @@
     },
     {
       "id": "int-1-4",
-      "question": "Wskaż zdania prawdziwe:\n1) nowotwór złośliwy nerki może przebiegać zarówno z niedokrwistością, jak i nadkrwistością;\n2) rak jasnokomórkowy wcześnie daje przerzuty odległe, które mogą ulec regresji po usunięciu ogniska pierwotnego;\n3) embolizacja tętnicy nerkowej nie ma znaczenia w terapii, u pacjenta z guzem nerki;\n4) klasyczna triada objawów guza nerki (krwiomocz, guz wyczuwalny przez powłoki, ból w okolicy lędźwiowej) jest częsta, ale przeważnie wskazuje na znaczne zaawansowanie procesu nowotworowego;\n5) nagłe wystąpienie żylaków sromu lub powrózka nasiennego nawet teoretycznie nie ma związku z patologią nerki lewej;\n6) nabyta torbielowatość nerek uważana jest za stan przedrakowy. Prawidłowa odpowiedź to: A. 2,4,6. B. 2,3,4. C. 1,3,5. D. 1,2,6. ",
+      "question": "Wskaż zdania prawdziwe:\n1) nowotwór złośliwy nerki może przebiegać zarówno z niedokrwistością, jak i nadkrwistością;\n2) rak jasnokomórkowy wcześnie daje przerzuty odległe, które mogą ulec regresji po usunięciu ogniska pierwotnego;\n3) embolizacja tętnicy nerkowej nie ma znaczenia w terapii, u pacjenta z guzem nerki;\n4) klasyczna triada objawów guza nerki (krwiomocz, guz wyczuwalny przez powłoki, ból w okolicy lędźwiowej) jest częsta, ale przeważnie wskazuje na znaczne zaawansowanie procesu nowotworowego;\n5) nagłe wystąpienie żylaków sromu lub powrózka nasiennego nawet teoretycznie nie ma związku z patologią nerki lewej;\n6) nabyta torbielowatość nerek uważana jest za stan przedrakowy. Prawidłowa odpowiedź to: A. 2,4,6. B. 2,3,4. C. 1,3,5. D. 1,2,6. E. 1,5,6.\n",
       "answers": [
         {
           "id": "A",
@@ -130,7 +130,7 @@
         },
         {
           "id": "E",
-          "text": "1,5,6.\n",
+          "text": "1,5,6. ",
           "isCorrect": false
         }
       ],
@@ -140,7 +140,7 @@
     },
     {
       "id": "int-1-5",
-      "question": "Wskaż prawdziwe stwierdzenia:\n1) Hipertriglicerydemia >1000mg/dl jest uważana za rzadki czynnik ryzyka ostrego zapalenia trzustki;\n2) objaw Cullena jest markerem ciężkiej postaci ostrego zapalenia trzustki;\n3) w przebiegu ostrego zapalenia trzustki aktywność amylazy we krwi może utrzymywać się miesiącami, nawet po „wygaszeniu” choroby;\n4) obecność zbiorników płynowych z martwicą >½ miąższu trzustki prognozują ciężki przebieg ostrego zapalenia trzustki wg CTSI;\n5) przewlekłe zapalenie trzustki może być spowodowane zwężeniem i kamicą przewodu Wirsunga;\n6) pacjenci z przewlekłym zapaleniem trzustki rozwijają objawy niedoboru wszystkich witamin rozpuszczalnych w tłuszczach. Prawidłowa odpowiedź to: A. 1,3,5,6. B. 1,2,4,5. C. 2,3,4,5. D. 1,2,3,6. ",
+      "question": "Wskaż prawdziwe stwierdzenia:\n1) Hipertriglicerydemia >1000mg/dl jest uważana za rzadki czynnik ryzyka ostrego zapalenia trzustki;\n2) objaw Cullena jest markerem ciężkiej postaci ostrego zapalenia trzustki;\n3) w przebiegu ostrego zapalenia trzustki aktywność amylazy we krwi może utrzymywać się miesiącami, nawet po „wygaszeniu” choroby;\n4) obecność zbiorników płynowych z martwicą >½ miąższu trzustki prognozują ciężki przebieg ostrego zapalenia trzustki wg CTSI;\n5) przewlekłe zapalenie trzustki może być spowodowane zwężeniem i kamicą przewodu Wirsunga;\n6) pacjenci z przewlekłym zapaleniem trzustki rozwijają objawy niedoboru wszystkich witamin rozpuszczalnych w tłuszczach. Prawidłowa odpowiedź to: A. 1,3,5,6. B. 1,2,4,5. C. 2,3,4,5. D. 1,2,3,6. E. 2,4,5,6.\n",
       "answers": [
         {
           "id": "A",
@@ -164,7 +164,7 @@
         },
         {
           "id": "E",
-          "text": "2,4,5,6.\n",
+          "text": "2,4,5,6. ",
           "isCorrect": false
         }
       ],
@@ -174,31 +174,31 @@
     },
     {
       "id": "int-1-6",
-      "question": "Wskaż lek, który nie jest lekiem pierwszego rzutu w leczeniu nadciśnienia tętniczego: A. perindopryl. B. amlodypina. C. indapamid. D. klonidyna.\n",
+      "question": "Wskaż lek, który nie jest lekiem pierwszego rzutu w leczeniu nadciśnienia tętniczego: A. perindopryl. B. amlodypina. C. indapamid. D. klonidyna. E. losartan.\n",
       "answers": [
         {
           "id": "A",
-          "text": "perindopryl.\n",
+          "text": "perindopryl. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "amlodypina.\n",
+          "text": "amlodypina. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "indapamid.\n",
+          "text": "indapamid. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "klonidyna.\n",
+          "text": "klonidyna. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "losartan.\n",
+          "text": "losartan. ",
           "isCorrect": false
         }
       ],
@@ -208,31 +208,31 @@
     },
     {
       "id": "int-1-7",
-      "question": "Wskaż diuretyk, który powinien być użyty w pierwszej kolejności w leczeniu nadciśnienia tętniczego u chorego z GFR <30 ml/min/1,73 m2: A. indapamid. B. hydrochlorothiazyd. C. spironolakton. D. furosemid.\n",
+      "question": "Wskaż diuretyk, który powinien być użyty w pierwszej kolejności w leczeniu nadciśnienia tętniczego u chorego z GFR <30 ml/min/1,73 m2: A. indapamid. B. hydrochlorothiazyd. C. spironolakton. D. furosemid. E. eplerenon.\n",
       "answers": [
         {
           "id": "A",
-          "text": "indapamid.\n",
+          "text": "indapamid. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "hydrochlorothiazyd.\n",
+          "text": "hydrochlorothiazyd. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "spironolakton.\n",
+          "text": "spironolakton. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "furosemid.\n",
+          "text": "furosemid. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "eplerenon.\n",
+          "text": "eplerenon. ",
           "isCorrect": false
         }
       ],
@@ -242,31 +242,31 @@
     },
     {
       "id": "int-1-8",
-      "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować ostry napad dny moczanowej: A. amlodypina. B. losartan. C. perindopryl. D. indapamid.\n",
+      "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować ostry napad dny moczanowej: A. amlodypina. B. losartan. C. perindopryl. D. indapamid. E. bisoprolol.\n",
       "answers": [
         {
           "id": "A",
-          "text": "amlodypina.\n",
+          "text": "amlodypina. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "losartan.\n",
+          "text": "losartan. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "perindopryl.\n",
+          "text": "perindopryl. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "indapamid.\n",
+          "text": "indapamid. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "bisoprolol.\n",
+          "text": "bisoprolol. ",
           "isCorrect": false
         }
       ],
@@ -276,31 +276,31 @@
     },
     {
       "id": "int-1-9",
-      "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować suchy kaszel: A. amlodypina. B. losartan. C. perindopryl. D. indapamid.\n",
+      "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować suchy kaszel: A. amlodypina. B. losartan. C. perindopryl. D. indapamid. E. bisoprolol.\n",
       "answers": [
         {
           "id": "A",
-          "text": "amlodypina.\n",
+          "text": "amlodypina. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "losartan.\n",
+          "text": "losartan. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "perindopryl.\n",
+          "text": "perindopryl. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "indapamid.\n",
+          "text": "indapamid. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "bisoprolol.\n",
+          "text": "bisoprolol. ",
           "isCorrect": false
         }
       ],
@@ -310,31 +310,31 @@
     },
     {
       "id": "int-1-10",
-      "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować obrzęk okolicy kostek: A. amlodypina. B. losartan. C. perindopryl. D. indapamid.\n",
+      "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować obrzęk okolicy kostek: A. amlodypina. B. losartan. C. perindopryl. D. indapamid. E. bisoprolol.\n",
       "answers": [
         {
           "id": "A",
-          "text": "amlodypina.\n",
+          "text": "amlodypina. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "losartan.\n",
+          "text": "losartan. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "perindopryl.\n",
+          "text": "perindopryl. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "indapamid.\n",
+          "text": "indapamid. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "bisoprolol.\n",
+          "text": "bisoprolol. ",
           "isCorrect": false
         }
       ],
@@ -344,31 +344,31 @@
     },
     {
       "id": "int-1-11",
-      "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować bradykardię: A. amlodypina. B. losartan. C. perindopryl. D. indapamid.\n",
+      "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować bradykardię: A. amlodypina. B. losartan. C. perindopryl. D. indapamid. E. bisoprolol.\n",
       "answers": [
         {
           "id": "A",
-          "text": "amlodypina.\n",
+          "text": "amlodypina. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "losartan.\n",
+          "text": "losartan. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "perindopryl.\n",
+          "text": "perindopryl. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "indapamid.\n",
+          "text": "indapamid. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "bisoprolol.\n",
+          "text": "bisoprolol. ",
           "isCorrect": false
         }
       ],
@@ -378,31 +378,31 @@
     },
     {
       "id": "int-1-12",
-      "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować hiperkalemię: A. amlodypina. B. hydrochlorotiazyd. C. perindopryl. D. indapamid.\n",
+      "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować hiperkalemię: A. amlodypina. B. hydrochlorotiazyd. C. perindopryl. D. indapamid. E. furosemid.\n",
       "answers": [
         {
           "id": "A",
-          "text": "amlodypina.\n",
+          "text": "amlodypina. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "hydrochlorotiazyd.\n",
+          "text": "hydrochlorotiazyd. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "perindopryl.\n",
+          "text": "perindopryl. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "indapamid.\n",
+          "text": "indapamid. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "furosemid.\n",
+          "text": "furosemid. ",
           "isCorrect": false
         }
       ],
@@ -412,31 +412,31 @@
     },
     {
       "id": "int-1-13",
-      "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować hipokalemię: A. walsaltan. B. losartan. C. perindopryl. D. indapamid.\n",
+      "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować hipokalemię: A. walsaltan. B. losartan. C. perindopryl. D. indapamid. E. ramipryl.\n",
       "answers": [
         {
           "id": "A",
-          "text": "walsaltan.\n",
+          "text": "walsaltan. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "losartan.\n",
+          "text": "losartan. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "perindopryl.\n",
+          "text": "perindopryl. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "indapamid.\n",
+          "text": "indapamid. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "ramipryl.\n",
+          "text": "ramipryl. ",
           "isCorrect": false
         }
       ],
@@ -446,31 +446,31 @@
     },
     {
       "id": "int-1-14",
-      "question": "Wskaż kombinację leków, której nie należy stosować w leczeniu nadciśnienia tętniczego: A. perindopryl i indapamid. B. perindopryl i amlodypina. C. perindopryl i losartan. D. amlodypina i indapamid.\n",
+      "question": "Wskaż kombinację leków, której nie należy stosować w leczeniu nadciśnienia tętniczego: A. perindopryl i indapamid. B. perindopryl i amlodypina. C. perindopryl i losartan. D. amlodypina i indapamid. E. losartan i amlodypina.\n",
       "answers": [
         {
           "id": "A",
-          "text": "perindopryl i indapamid.\n",
+          "text": "perindopryl i indapamid. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "perindopryl i amlodypina.\n",
+          "text": "perindopryl i amlodypina. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "perindopryl i losartan.\n",
+          "text": "perindopryl i losartan. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "amlodypina i indapamid.\n",
+          "text": "amlodypina i indapamid. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "losartan i amlodypina.\n",
+          "text": "losartan i amlodypina. ",
           "isCorrect": false
         }
       ],
@@ -480,31 +480,31 @@
     },
     {
       "id": "int-1-15",
-      "question": "Wskaż lek, którego stosowanie wiąże się z najwyższym ryzykiem wystąpienia zaburzeń wzwodu u mężczyzn: A. amlodypina. B. losartan. C. perindopryl. D. bisoprolol.\n",
+      "question": "Wskaż lek, którego stosowanie wiąże się z najwyższym ryzykiem wystąpienia zaburzeń wzwodu u mężczyzn: A. amlodypina. B. losartan. C. perindopryl. D. bisoprolol. E. walsartan.\n",
       "answers": [
         {
           "id": "A",
-          "text": "amlodypina.\n",
+          "text": "amlodypina. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "losartan.\n",
+          "text": "losartan. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "perindopryl.\n",
+          "text": "perindopryl. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "bisoprolol.\n",
+          "text": "bisoprolol. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "walsartan.\n",
+          "text": "walsartan. ",
           "isCorrect": false
         }
       ],
@@ -514,31 +514,31 @@
     },
     {
       "id": "int-1-16",
-      "question": "Do poradni zgłosił się mężczyzna z powodu bólu głowy i wzrostu ciśnienia tętniczego do wartości 210/110 mm Hg. Pacjent przyjmuje nieregularnie leki z powodu nadciśnienia tętniczego, takie jak perindopryl, indapamid i amlodypinę. Który z leków należy podać choremu w pierwszej kolejności w celu szybkiego obniżenia ciśnienia tętniczego? A. ramipryl. B. perindopryl. C. kaptopryl. D. enarenal.\n",
+      "question": "Do poradni zgłosił się mężczyzna z powodu bólu głowy i wzrostu ciśnienia tętniczego do wartości 210/110 mm Hg. Pacjent przyjmuje nieregularnie leki z powodu nadciśnienia tętniczego, takie jak perindopryl, indapamid i amlodypinę. Który z leków należy podać choremu w pierwszej kolejności w celu szybkiego obniżenia ciśnienia tętniczego? A. ramipryl. B. perindopryl. C. kaptopryl. D. enarenal. E. amlodypina.\n",
       "answers": [
         {
           "id": "A",
-          "text": "ramipryl.\n",
+          "text": "ramipryl. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "perindopryl.\n",
+          "text": "perindopryl. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "kaptopryl.\n",
+          "text": "kaptopryl. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "enarenal.\n",
+          "text": "enarenal. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "amlodypina.\n",
+          "text": "amlodypina. ",
           "isCorrect": false
         }
       ],
@@ -548,31 +548,31 @@
     },
     {
       "id": "int-1-17",
-      "question": "Wskaż lek, który należy zastosować w pierwszej kolejności w leczeniu nadciśnienia tętniczego u kobiety w ciąży: A. ramipryl. B. perindopryl. C. kaptopryl. D. enarenal.\n",
+      "question": "Wskaż lek, który należy zastosować w pierwszej kolejności w leczeniu nadciśnienia tętniczego u kobiety w ciąży: A. ramipryl. B. perindopryl. C. kaptopryl. D. enarenal. E. metyldopa.\n",
       "answers": [
         {
           "id": "A",
-          "text": "ramipryl.\n",
+          "text": "ramipryl. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "perindopryl.\n",
+          "text": "perindopryl. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "kaptopryl.\n",
+          "text": "kaptopryl. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "enarenal.\n",
+          "text": "enarenal. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "metyldopa.\n",
+          "text": "metyldopa. ",
           "isCorrect": false
         }
       ],
@@ -582,31 +582,31 @@
     },
     {
       "id": "int-1-18",
-      "question": "U 54-letniego chorego nie udało się obniżyć ciśnienia tętniczego do zamierzonych wartości, mimo stosowania trzech leków, takich jak perindopryl, amlodypina i indapamid. U tego chorego eGFR wynosi 64 ml/min/1,73 m2, a stężenie potasu 4,1 mmol/l. Który z leków należy rozważyć w pierwszej kolejności jako kolejny lek obniżający ciśnienie tętnicze? A. metyldopa. B. werapamil. C. doksazosyna. D. spironolakton.\n",
+      "question": "U 54-letniego chorego nie udało się obniżyć ciśnienia tętniczego do zamierzonych wartości, mimo stosowania trzech leków, takich jak perindopryl, amlodypina i indapamid. U tego chorego eGFR wynosi 64 ml/min/1,73 m2, a stężenie potasu 4,1 mmol/l. Który z leków należy rozważyć w pierwszej kolejności jako kolejny lek obniżający ciśnienie tętnicze? A. metyldopa. B. werapamil. C. doksazosyna. D. spironolakton. E. losartan.\n",
       "answers": [
         {
           "id": "A",
-          "text": "metyldopa.\n",
+          "text": "metyldopa. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "werapamil.\n",
+          "text": "werapamil. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "doksazosyna.\n",
+          "text": "doksazosyna. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "spironolakton.\n",
+          "text": "spironolakton. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "losartan.\n",
+          "text": "losartan. ",
           "isCorrect": false
         }
       ],
@@ -616,31 +616,31 @@
     },
     {
       "id": "int-1-19",
-      "question": "U nieprzytomnego pacjenta stwierdza się ciśnienie tętnicze 240/120 mm Hg. Jaki lek należy podać w pierwszej kolejności w celu obniżenia ciśnienia tętniczego? A. indapamid. B. urapidyl. C. kaptopryl. D. amlodypina.\n",
+      "question": "U nieprzytomnego pacjenta stwierdza się ciśnienie tętnicze 240/120 mm Hg. Jaki lek należy podać w pierwszej kolejności w celu obniżenia ciśnienia tętniczego? A. indapamid. B. urapidyl. C. kaptopryl. D. amlodypina. E. losartan.\n",
       "answers": [
         {
           "id": "A",
-          "text": "indapamid.\n",
+          "text": "indapamid. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "urapidyl.\n",
+          "text": "urapidyl. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "kaptopryl.\n",
+          "text": "kaptopryl. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "amlodypina.\n",
+          "text": "amlodypina. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "losartan.\n",
+          "text": "losartan. ",
           "isCorrect": false
         }
       ],
@@ -650,31 +650,31 @@
     },
     {
       "id": "int-1-20",
-      "question": "Na SOR została przewieziona 80-letnia kobieta, która nie spożywała w domu\nżadnych pokarmów ani napojów przez ostatnie dwie doby z powodu złego samopoczucia. Ciśnienie tętnicze wynosi 80/50 mm Hg, a tętno 96/min. Stężenie sodu w surowicy krwi wynosi 154 mmol/l, a stężenia potasu 4,8 mmol/l. Chora ma suche błony śluzowe jamy ustnej. Jaki płyn należy podać dożylnie w pierwszej kolejności? A. 5% roztwór glukozy. B. 10% roztwór glukozy. C. 20% roztwór glukozy. D. 0,9% roztwór NaCl.\n",
+      "question": "Na SOR została przewieziona 80-letnia kobieta, która nie spożywała w domu\nżadnych pokarmów ani napojów przez ostatnie dwie doby z powodu złego samopoczucia. Ciśnienie tętnicze wynosi 80/50 mm Hg, a tętno 96/min. Stężenie sodu w surowicy krwi wynosi 154 mmol/l, a stężenia potasu 4,8 mmol/l. Chora ma suche błony śluzowe jamy ustnej. Jaki płyn należy podać dożylnie w pierwszej kolejności? A. 5% roztwór glukozy. B. 10% roztwór glukozy. C. 20% roztwór glukozy. D. 0,9% roztwór NaCl. E. 8,4% roztwór wodorowęglanu sodu.\n",
       "answers": [
         {
           "id": "A",
-          "text": "5% roztwór glukozy.\n",
+          "text": "5% roztwór glukozy. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "10% roztwór glukozy.\n",
+          "text": "10% roztwór glukozy. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "20% roztwór glukozy.\n",
+          "text": "20% roztwór glukozy. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "0,9% roztwór NaCl.\n",
+          "text": "0,9% roztwór NaCl. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "8,4% roztwór wodorowęglanu sodu.\n",
+          "text": "8,4% roztwór wodorowęglanu sodu. ",
           "isCorrect": false
         }
       ],
@@ -684,31 +684,31 @@
     },
     {
       "id": "int-1-21",
-      "question": "Na SOR został przywieziony 41-letni chory z powodu zasłabnięcia. Choruje on na cukrzycę typu 1 od 25 lat, która jest leczona insuliną. U chorego tego stwierdza się w badaniach krwi pH 7,2 oraz HCO3 10 mmol/l. Stężenie sodu wynosi 139 mmol/l, a potasu 4,9 mmol/l. Stężenie glukozy we krwi wynosi 380 mg/dl. Jaki lek należy podać dożylmnie w pierwszej kolejności? A. 0,9% roztwór chlorku sodu. B. insulinę, 0,9% roztwór chlorku sodu 0,3% chlorku potasu. C. insulinę, 5% roztwór glukozy. D. insulinę, 10% roztwór glukozy.\n",
+      "question": "Na SOR został przywieziony 41-letni chory z powodu zasłabnięcia. Choruje on na cukrzycę typu 1 od 25 lat, która jest leczona insuliną. U chorego tego stwierdza się w badaniach krwi pH 7,2 oraz HCO3 10 mmol/l. Stężenie sodu wynosi 139 mmol/l, a potasu 4,9 mmol/l. Stężenie glukozy we krwi wynosi 380 mg/dl. Jaki lek należy podać dożylmnie w pierwszej kolejności? A. 0,9% roztwór chlorku sodu. B. insulinę, 0,9% roztwór chlorku sodu 0,3% chlorku potasu. C. insulinę, 5% roztwór glukozy. D. insulinę, 10% roztwór glukozy. E. 8,4% roztwór wodorowęglanu sodu.\n",
       "answers": [
         {
           "id": "A",
-          "text": "0,9% roztwór chlorku sodu.\n",
+          "text": "0,9% roztwór chlorku sodu. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "insulinę, 0,9% roztwór chlorku sodu 0,3% chlorku potasu.\n",
+          "text": "insulinę, 0,9% roztwór chlorku sodu 0,3% chlorku potasu. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "insulinę, 5% roztwór glukozy.\n",
+          "text": "insulinę, 5% roztwór glukozy. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "insulinę, 10% roztwór glukozy.\n",
+          "text": "insulinę, 10% roztwór glukozy. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "8,4% roztwór wodorowęglanu sodu.\n",
+          "text": "8,4% roztwór wodorowęglanu sodu. ",
           "isCorrect": false
         }
       ],
@@ -718,31 +718,31 @@
     },
     {
       "id": "int-1-22",
-      "question": "79-letni mężczyzna zgłosił się do lekarza z powodu złego samopoczucia. W badaniach krwi stwierdzono stężenie hemoglobiny 10 g/dl. Wartości MCV, MCH i MCHC są poniżej zakresu normy. Liczba płytek krwi i leukocytów jest prawidłowa. Wskaż, którą z chorób należy wykluczyć u tego chorego w pierwszej kolejności: A. niedobór witaminy B12. B. nowotwór jelita grubego. C. hemochromatozę. D. niedobór kwasu foliowego.\n",
+      "question": "79-letni mężczyzna zgłosił się do lekarza z powodu złego samopoczucia. W badaniach krwi stwierdzono stężenie hemoglobiny 10 g/dl. Wartości MCV, MCH i MCHC są poniżej zakresu normy. Liczba płytek krwi i leukocytów jest prawidłowa. Wskaż, którą z chorób należy wykluczyć u tego chorego w pierwszej kolejności: A. niedobór witaminy B12. B. nowotwór jelita grubego. C. hemochromatozę. D. niedobór kwasu foliowego. E. przewlekłą chorobę nerek.\n",
       "answers": [
         {
           "id": "A",
-          "text": "niedobór witaminy B12.\n",
+          "text": "niedobór witaminy B12. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "nowotwór jelita grubego.\n",
+          "text": "nowotwór jelita grubego. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "hemochromatozę.\n",
+          "text": "hemochromatozę. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "niedobór kwasu foliowego.\n",
+          "text": "niedobór kwasu foliowego. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "przewlekłą chorobę nerek.\n",
+          "text": "przewlekłą chorobę nerek. ",
           "isCorrect": false
         }
       ],
@@ -752,31 +752,31 @@
     },
     {
       "id": "int-1-23",
-      "question": "W ramach badań przesiewowych w kierunku cukrzycy u bezobjawowego\n68-letniego mężczyzny wykonano na czczo badanie stężenia glukozy w osoczu krwi\nżylnej, które wyniosło 152 mg/dl. U chorego tego należy: A. rozpoznać cukrzycę i rozpocząć leczenie farmakologiczne metforminą, jeśli tylko nie ma przeciwwskazań do jej stosowania. B. powtórzyć badanie stężenia glukozy we krwi przy pomocy glukometru w dowolnym czasie. C. powtórzyć badanie stężenia glukozy w osoczu krwi żylnej na czczo w ciągu jednego z najbliższych dni. D. wykonać doustny test tolerancji glukozy.\n",
+      "question": "W ramach badań przesiewowych w kierunku cukrzycy u bezobjawowego\n68-letniego mężczyzny wykonano na czczo badanie stężenia glukozy w osoczu krwi\nżylnej, które wyniosło 152 mg/dl. U chorego tego należy: A. rozpoznać cukrzycę i rozpocząć leczenie farmakologiczne metforminą, jeśli tylko nie ma przeciwwskazań do jej stosowania. B. powtórzyć badanie stężenia glukozy we krwi przy pomocy glukometru w dowolnym czasie. C. powtórzyć badanie stężenia glukozy w osoczu krwi żylnej na czczo w ciągu jednego z najbliższych dni. D. wykonać doustny test tolerancji glukozy. E. powtórzyć badanie stężenia glukozy w osoczu krwi żylnej na czczo za rok.\n",
       "answers": [
         {
           "id": "A",
-          "text": "rozpoznać cukrzycę i rozpocząć leczenie farmakologiczne metforminą, jeśli\ntylko nie ma przeciwwskazań do jej stosowania.\n",
+          "text": "rozpoznać cukrzycę i rozpocząć leczenie farmakologiczne metforminą, jeśli tylko nie ma przeciwwskazań do jej stosowania. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "powtórzyć badanie stężenia glukozy we krwi przy pomocy glukometru w\ndowolnym czasie.\n",
+          "text": "powtórzyć badanie stężenia glukozy we krwi przy pomocy glukometru w dowolnym czasie. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "powtórzyć badanie stężenia glukozy w osoczu krwi żylnej na czczo w ciągu\njednego z najbliższych dni.\n",
+          "text": "powtórzyć badanie stężenia glukozy w osoczu krwi żylnej na czczo w ciągu jednego z najbliższych dni. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "wykonać doustny test tolerancji glukozy.\n",
+          "text": "wykonać doustny test tolerancji glukozy. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "powtórzyć badanie stężenia glukozy w osoczu krwi żylnej na czczo za rok.\n",
+          "text": "powtórzyć badanie stężenia glukozy w osoczu krwi żylnej na czczo za rok. ",
           "isCorrect": false
         }
       ],
@@ -786,31 +786,31 @@
     },
     {
       "id": "int-1-24",
-      "question": "74-letni mężczyzna zgłosił się do lekarza z powodu krwistego zabarwienia moczu. Badanie moczu wykazało zwiększoną liczbę erytrocytów w moczu. Wskaż badanie, od którego należy rozpocząć diagnostykę różnicową krwiomoczu u tego chorego: A. USG jamy brzusznej. B. scyntygrafia nerek. C. urografia. D. biopsja nerki.\n",
+      "question": "74-letni mężczyzna zgłosił się do lekarza z powodu krwistego zabarwienia moczu. Badanie moczu wykazało zwiększoną liczbę erytrocytów w moczu. Wskaż badanie, od którego należy rozpocząć diagnostykę różnicową krwiomoczu u tego chorego: A. USG jamy brzusznej. B. scyntygrafia nerek. C. urografia. D. biopsja nerki. E. biopsja prostaty.\n",
       "answers": [
         {
           "id": "A",
-          "text": "USG jamy brzusznej.\n",
+          "text": "USG jamy brzusznej. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "scyntygrafia nerek.\n",
+          "text": "scyntygrafia nerek. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "urografia.\n",
+          "text": "urografia. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "biopsja nerki.\n",
+          "text": "biopsja nerki. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "biopsja prostaty.\n",
+          "text": "biopsja prostaty. ",
           "isCorrect": false
         }
       ],
@@ -820,31 +820,31 @@
     },
     {
       "id": "int-1-25",
-      "question": "Stężenie kreatyniny w surowicy krwi zależy przede wszystkim od czynności wydalniczej nerek oraz od: A. wzrostu. B. ilości tkanki tłuszczowej. C. masy ciała. D. masy mięśniowej.\n",
+      "question": "Stężenie kreatyniny w surowicy krwi zależy przede wszystkim od czynności wydalniczej nerek oraz od: A. wzrostu. B. ilości tkanki tłuszczowej. C. masy ciała. D. masy mięśniowej. E. ilości spożywanego białka.\n",
       "answers": [
         {
           "id": "A",
-          "text": "wzrostu.\n",
+          "text": "wzrostu. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "ilości tkanki tłuszczowej.\n",
+          "text": "ilości tkanki tłuszczowej. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "masy ciała.\n",
+          "text": "masy ciała. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "masy mięśniowej.\n",
+          "text": "masy mięśniowej. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "ilości spożywanego białka.\n",
+          "text": "ilości spożywanego białka. ",
           "isCorrect": false
         }
       ],
@@ -854,31 +854,31 @@
     },
     {
       "id": "int-1-26",
-      "question": "W pierwotnej nadczynności tarczycy występują następujące odchylenia w badaniach: A. zwiększone TSH i zwiększone FT4. B. zwiększone TSH i zmniejszone FT4. C. prawidłowe TSH i zmniejszone FT4. D. zmniejszone TSH i zwiększone FT4.\n",
+      "question": "W pierwotnej nadczynności tarczycy występują następujące odchylenia w badaniach: A. zwiększone TSH i zwiększone FT4. B. zwiększone TSH i zmniejszone FT4. C. prawidłowe TSH i zmniejszone FT4. D. zmniejszone TSH i zwiększone FT4. E. zmniejszone TSH i zmniejszone FT4.\n",
       "answers": [
         {
           "id": "A",
-          "text": "zwiększone TSH i zwiększone FT4.\n",
+          "text": "zwiększone TSH i zwiększone FT4. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "zwiększone TSH i zmniejszone FT4.\n",
+          "text": "zwiększone TSH i zmniejszone FT4. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "prawidłowe TSH i zmniejszone FT4.\n",
+          "text": "prawidłowe TSH i zmniejszone FT4. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "zmniejszone TSH i zwiększone FT4.\n",
+          "text": "zmniejszone TSH i zwiększone FT4. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "zmniejszone TSH i zmniejszone FT4.\n",
+          "text": "zmniejszone TSH i zmniejszone FT4. ",
           "isCorrect": false
         }
       ],
@@ -888,31 +888,31 @@
     },
     {
       "id": "int-1-27",
-      "question": "W pierwotnej niedoczynności tarczycy występują następujące odchylenia w badaniach: A. zwiększone TSH i zwiększone FT4. B. zwiększone TSH i zmniejszone FT4. C. prawidłowe TSH i zmniejszone FT4. D. zmniejszone TSH i zwiększone FT4.\n",
+      "question": "W pierwotnej niedoczynności tarczycy występują następujące odchylenia w badaniach: A. zwiększone TSH i zwiększone FT4. B. zwiększone TSH i zmniejszone FT4. C. prawidłowe TSH i zmniejszone FT4. D. zmniejszone TSH i zwiększone FT4. E. zmniejszone TSH i zmniejszone FT4.\n",
       "answers": [
         {
           "id": "A",
-          "text": "zwiększone TSH i zwiększone FT4.\n",
+          "text": "zwiększone TSH i zwiększone FT4. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "zwiększone TSH i zmniejszone FT4.\n",
+          "text": "zwiększone TSH i zmniejszone FT4. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "prawidłowe TSH i zmniejszone FT4.\n",
+          "text": "prawidłowe TSH i zmniejszone FT4. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "zmniejszone TSH i zwiększone FT4.\n",
+          "text": "zmniejszone TSH i zwiększone FT4. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "zmniejszone TSH i zmniejszone FT4.\n",
+          "text": "zmniejszone TSH i zmniejszone FT4. ",
           "isCorrect": false
         }
       ],
@@ -922,31 +922,31 @@
     },
     {
       "id": "int-1-28",
-      "question": "W ostrym zapaleniu trzustki stwierdza się najczęściej następujące nieprawidłowości w badaniach krwi: A. zwiększenie aktywności amylazy i lipazy. B. zmniejszenie aktywności amylazy i lipazy. C. zwiększenie aktywności amylazy i zmniejszenie aktywności lipazy. D. zmniejszenie aktywności amylazy i zwiększenie aktywności lipazy.\n",
+      "question": "W ostrym zapaleniu trzustki stwierdza się najczęściej następujące nieprawidłowości w badaniach krwi: A. zwiększenie aktywności amylazy i lipazy. B. zmniejszenie aktywności amylazy i lipazy. C. zwiększenie aktywności amylazy i zmniejszenie aktywności lipazy. D. zmniejszenie aktywności amylazy i zwiększenie aktywności lipazy. E. zwiększenie aktywności amylazy i prawidłową aktywność lipazy.\n",
       "answers": [
         {
           "id": "A",
-          "text": "zwiększenie aktywności amylazy i lipazy.\n",
+          "text": "zwiększenie aktywności amylazy i lipazy. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "zmniejszenie aktywności amylazy i lipazy.\n",
+          "text": "zmniejszenie aktywności amylazy i lipazy. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "zwiększenie aktywności amylazy i zmniejszenie aktywności lipazy.\n",
+          "text": "zwiększenie aktywności amylazy i zmniejszenie aktywności lipazy. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "zmniejszenie aktywności amylazy i zwiększenie aktywności lipazy.\n",
+          "text": "zmniejszenie aktywności amylazy i zwiększenie aktywności lipazy. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "zwiększenie aktywności amylazy i prawidłową aktywność lipazy.\n",
+          "text": "zwiększenie aktywności amylazy i prawidłową aktywność lipazy. ",
           "isCorrect": false
         }
       ],
@@ -956,31 +956,31 @@
     },
     {
       "id": "int-1-29",
-      "question": "25-letnia kobieta zgłosiła się do lekarza z powodu częstego bolesnego oddawania moczu od kilku godzin. Który z parametrów badania ogólnego moczu wykonany u tej kobiety wskazuje na zakażenie układu moczowego: A. obecność glukozy w moczu. B. niski ciężar właściwy moczu. C. niskie pH moczu. D. obecność białka w moczu.\n",
+      "question": "25-letnia kobieta zgłosiła się do lekarza z powodu częstego bolesnego oddawania moczu od kilku godzin. Który z parametrów badania ogólnego moczu wykonany u tej kobiety wskazuje na zakażenie układu moczowego: A. obecność glukozy w moczu. B. niski ciężar właściwy moczu. C. niskie pH moczu. D. obecność białka w moczu. E. zwiększona liczba leukocytów w moczu.\n",
       "answers": [
         {
           "id": "A",
-          "text": "obecność glukozy w moczu.\n",
+          "text": "obecność glukozy w moczu. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "niski ciężar właściwy moczu.\n",
+          "text": "niski ciężar właściwy moczu. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "niskie pH moczu.\n",
+          "text": "niskie pH moczu. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "obecność białka w moczu.\n",
+          "text": "obecność białka w moczu. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "zwiększona liczba leukocytów w moczu.\n",
+          "text": "zwiększona liczba leukocytów w moczu. ",
           "isCorrect": false
         }
       ],
@@ -990,31 +990,31 @@
     },
     {
       "id": "int-1-30",
-      "question": "U 72-letniego mężczyzny z nowo rozpoznanym rakiem płuca stwierdzono w badaniach stężenie sodu w surowicy krwi 119 mmol/l. U mężczyzny nie stwierdza się obrzęków ani cech odwodnienia. Kilkukrotny dożylny wlew 500 ml 0,9% roztworu chlorku sodu nie spowodował podwyższenia stężenia sodu w surowicy krwi. Wskaż, które postępowanie należy zastosować w celu normalizacji stężenia sodu we krwi: A. dożylny wlew 3% roztworu chlorku sodu. B. dożylny wlew 10% roztworu chlorku sodu. C. zwiększenie spożycia soli kuchennej doustnie. D. ograniczenie podaży wody.\n",
+      "question": "U 72-letniego mężczyzny z nowo rozpoznanym rakiem płuca stwierdzono w badaniach stężenie sodu w surowicy krwi 119 mmol/l. U mężczyzny nie stwierdza się obrzęków ani cech odwodnienia. Kilkukrotny dożylny wlew 500 ml 0,9% roztworu chlorku sodu nie spowodował podwyższenia stężenia sodu w surowicy krwi. Wskaż, które postępowanie należy zastosować w celu normalizacji stężenia sodu we krwi: A. dożylny wlew 3% roztworu chlorku sodu. B. dożylny wlew 10% roztworu chlorku sodu. C. zwiększenie spożycia soli kuchennej doustnie. D. ograniczenie podaży wody. E. zwiększenie podaży wody.\n",
       "answers": [
         {
           "id": "A",
-          "text": "dożylny wlew 3% roztworu chlorku sodu.\n",
+          "text": "dożylny wlew 3% roztworu chlorku sodu. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "dożylny wlew 10% roztworu chlorku sodu.\n",
+          "text": "dożylny wlew 10% roztworu chlorku sodu. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "zwiększenie spożycia soli kuchennej doustnie.\n",
+          "text": "zwiększenie spożycia soli kuchennej doustnie. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "ograniczenie podaży wody.\n",
+          "text": "ograniczenie podaży wody. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "zwiększenie podaży wody.\n",
+          "text": "zwiększenie podaży wody. ",
           "isCorrect": false
         }
       ],
@@ -1024,31 +1024,31 @@
     },
     {
       "id": "int-1-31",
-      "question": "U 76-letniego mężczyzny stwierdzono stężenie TSH wynoszące 16 mIU/l i obniżone stężenie FT4. U mężczyzny rozpoczęto leczenie lewotyroksyną. Która z wymienionych dawek będzie najlepsza przy rozpoczęciu leczenia lewotyroksyną u tego pacjenta: A. 25 μg na dobę. B. 75 μg na dobę. C. 100 μg na dobę. D. 150 μg na dobę.\n",
+      "question": "U 76-letniego mężczyzny stwierdzono stężenie TSH wynoszące 16 mIU/l i obniżone stężenie FT4. U mężczyzny rozpoczęto leczenie lewotyroksyną. Która z wymienionych dawek będzie najlepsza przy rozpoczęciu leczenia lewotyroksyną u tego pacjenta: A. 25 μg na dobę. B. 75 μg na dobę. C. 100 μg na dobę. D. 150 μg na dobę. E. 200 μg na dobę.\n",
       "answers": [
         {
           "id": "A",
-          "text": "25 μg na dobę.\n",
+          "text": "25 μg na dobę. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "75 μg na dobę.\n",
+          "text": "75 μg na dobę. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "100 μg na dobę.\n",
+          "text": "100 μg na dobę. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "150 μg na dobę.\n",
+          "text": "150 μg na dobę. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "200 μg na dobę.\n",
+          "text": "200 μg na dobę. ",
           "isCorrect": false
         }
       ],
@@ -1058,31 +1058,31 @@
     },
     {
       "id": "int-1-32",
-      "question": "W leczeniu niepowikłanego zapalenia pęcherza moczowego lekiem pierwszego wyboru nie jest: A. furazydyna. B. kotrimoksazol. C. trimetoprim. D. fosfomycyna.\n",
+      "question": "W leczeniu niepowikłanego zapalenia pęcherza moczowego lekiem pierwszego wyboru nie jest: A. furazydyna. B. kotrimoksazol. C. trimetoprim. D. fosfomycyna. E. klindamycyna.\n",
       "answers": [
         {
           "id": "A",
-          "text": "furazydyna.\n",
+          "text": "furazydyna. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "kotrimoksazol.\n",
+          "text": "kotrimoksazol. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "trimetoprim.\n",
+          "text": "trimetoprim. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "fosfomycyna.\n",
+          "text": "fosfomycyna. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "klindamycyna.\n",
+          "text": "klindamycyna. ",
           "isCorrect": false
         }
       ],
@@ -1092,31 +1092,31 @@
     },
     {
       "id": "int-1-33",
-      "question": "U 24-letniego chorego na cukrzycę typu 1, leczonego insuliną w 4 wstrzyknięciach podskórnych na dobę, doszło do nagłej utraty przytomności. Pacjent oddycha prawidłowo i jego tętno wynosi 120/minutę. W takiej sytuacji należy: A. podać jak najszybciej dożylnie roztwór 5% glukozy. B. podać jak najszybciej dożylnie roztwór 20% glukozy. C. podać jak najszybciej podskórnie insulinę. D. podać jak najszybciej dożylnie insulinę.\n",
+      "question": "U 24-letniego chorego na cukrzycę typu 1, leczonego insuliną w 4 wstrzyknięciach podskórnych na dobę, doszło do nagłej utraty przytomności. Pacjent oddycha prawidłowo i jego tętno wynosi 120/minutę. W takiej sytuacji należy: A. podać jak najszybciej dożylnie roztwór 5% glukozy. B. podać jak najszybciej dożylnie roztwór 20% glukozy. C. podać jak najszybciej podskórnie insulinę. D. podać jak najszybciej dożylnie insulinę. E. oznaczyć stężenie glukozy i dopiero na podstawie stężenia wtedy zadecydować o podaży glukozy lub insuliny dożylnie.\n",
       "answers": [
         {
           "id": "A",
-          "text": "podać jak najszybciej dożylnie roztwór 5% glukozy.\n",
+          "text": "podać jak najszybciej dożylnie roztwór 5% glukozy. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "podać jak najszybciej dożylnie roztwór 20% glukozy.\n",
+          "text": "podać jak najszybciej dożylnie roztwór 20% glukozy. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "podać jak najszybciej podskórnie insulinę.\n",
+          "text": "podać jak najszybciej podskórnie insulinę. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "podać jak najszybciej dożylnie insulinę.\n",
+          "text": "podać jak najszybciej dożylnie insulinę. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "oznaczyć stężenie glukozy i dopiero na podstawie stężenia wtedy\nzadecydować o podaży glukozy lub insuliny dożylnie.\n",
+          "text": "oznaczyć stężenie glukozy i dopiero na podstawie stężenia wtedy zadecydować o podaży glukozy lub insuliny dożylnie. ",
           "isCorrect": false
         }
       ],
@@ -1126,31 +1126,31 @@
     },
     {
       "id": "int-1-34",
-      "question": "Przyczyną wystąpienia szmeru oskrzelowego nad płucami jest: A. przewlekłe zapalenie oskrzeli. B. zapalenie płuc. C. niedodma płuca z obturacją. D. rozedma płuc.\n",
+      "question": "Przyczyną wystąpienia szmeru oskrzelowego nad płucami jest: A. przewlekłe zapalenie oskrzeli. B. zapalenie płuc. C. niedodma płuca z obturacją. D. rozedma płuc. E. astma.\n",
       "answers": [
         {
           "id": "A",
-          "text": "przewlekłe zapalenie oskrzeli.\n",
+          "text": "przewlekłe zapalenie oskrzeli. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "zapalenie płuc.\n",
+          "text": "zapalenie płuc. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "niedodma płuca z obturacją.\n",
+          "text": "niedodma płuca z obturacją. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "rozedma płuc.\n",
+          "text": "rozedma płuc. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "astma.\n",
+          "text": "astma. ",
           "isCorrect": false
         }
       ],
@@ -1160,31 +1160,31 @@
     },
     {
       "id": "int-1-35",
-      "question": "Wskaż próg, powyżej którego rozpoznaje się zespół bezdechu sennego lub zespół śródsennego osłabienia oddychania: A. 1 okres bezdechu (trwający 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. B. 5 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. C. 15 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. D. 25 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu.\n",
+      "question": "Wskaż próg, powyżej którego rozpoznaje się zespół bezdechu sennego lub zespół śródsennego osłabienia oddychania: A. 1 okres bezdechu (trwający 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. B. 5 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. C. 15 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. D. 25 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. E. 50 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu.\n",
       "answers": [
         {
           "id": "A",
-          "text": "1 okres bezdechu (trwający 10 sekund lub dłużej) lub niedostatecznego\noddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej)\nna godzinę snu.\n",
+          "text": "1 okres bezdechu (trwający 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "5 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego\noddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej)\nna godzinę snu.\n",
+          "text": "5 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "15 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego\noddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej)\nna godzinę snu.\n",
+          "text": "15 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "25 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego\noddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej)\nna godzinę snu.\n",
+          "text": "25 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "50 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego\noddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej)\nna godzinę snu.\n",
+          "text": "50 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. ",
           "isCorrect": false
         }
       ],
@@ -1194,7 +1194,7 @@
     },
     {
       "id": "int-1-36",
-      "question": "Wskaż objawy retencji CO2 w ostrej nakładającej się na przewlekłą niewydolności oddechowej typu II:\n1) splątanie;\n2) zimny obwód ciała;\n3) trzepoczące drżenie rąk;\n4) tachykardia zatokowa;\n5) tętno skaczące. Prawidłowa odpowiedź to: A. 1,2. B. 2,4. C. 2,4,5. D. 1,3,5. ",
+      "question": "Wskaż objawy retencji CO2 w ostrej nakładającej się na przewlekłą niewydolności oddechowej typu II:\n1) splątanie;\n2) zimny obwód ciała;\n3) trzepoczące drżenie rąk;\n4) tachykardia zatokowa;\n5) tętno skaczące. Prawidłowa odpowiedź to: A. 1,2. B. 2,4. C. 2,4,5. D. 1,3,5. E. tylko 1.\n",
       "answers": [
         {
           "id": "A",
@@ -1218,7 +1218,7 @@
         },
         {
           "id": "E",
-          "text": "tylko 1.\n",
+          "text": "tylko 1. ",
           "isCorrect": false
         }
       ],
@@ -1228,7 +1228,7 @@
     },
     {
       "id": "int-1-37",
-      "question": "Wskaż prawdziwe stwierdzenia dotyczące zaporowych (obturacyjnych) chorób płuc u osób w podeszłym wieku:\n1) astma nie pojawia się po raz pierwszy w wieku podeszłym, stąd objawy obturacji można przypisać przewlekłej obturacyjnej chorobie płuc;\n2) pozytywne skutki rezygnacji z palenia tytoniu obserwuje się nawet do\n80 roku życia;\n3) zaawansowany wiek jest barierą uniemożliwiającą podejmowanie intensywnej terapii i wentylacji mechanicznej w ostrym epizodzie przewlekłej obturacyjnej choroby płuc;\n4) ludzie starsi w mniejszym stopniu niż młodzi odczuwają zwężenie dróg oddechowych, zatem na podstawie ich opisu nie można wnioskować o nasileniu tego stanu;\n5) w wieku podeszłym przyspieszenie czynności serca jest mniejsze w porównaniu do ludzi młodych przy tym samym stopniu zwężenia oskrzeli. Prawidłowa odpowiedź to: A. 1,3. B. 3,4. C. 1,4,5. D. 1,5. ",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące zaporowych (obturacyjnych) chorób płuc u osób w podeszłym wieku:\n1) astma nie pojawia się po raz pierwszy w wieku podeszłym, stąd objawy obturacji można przypisać przewlekłej obturacyjnej chorobie płuc;\n2) pozytywne skutki rezygnacji z palenia tytoniu obserwuje się nawet do\n80 roku życia;\n3) zaawansowany wiek jest barierą uniemożliwiającą podejmowanie intensywnej terapii i wentylacji mechanicznej w ostrym epizodzie przewlekłej obturacyjnej choroby płuc;\n4) ludzie starsi w mniejszym stopniu niż młodzi odczuwają zwężenie dróg oddechowych, zatem na podstawie ich opisu nie można wnioskować o nasileniu tego stanu;\n5) w wieku podeszłym przyspieszenie czynności serca jest mniejsze w porównaniu do ludzi młodych przy tym samym stopniu zwężenia oskrzeli. Prawidłowa odpowiedź to: A. 1,3. B. 3,4. C. 1,4,5. D. 1,5. E. 2,4,5.\n",
       "answers": [
         {
           "id": "A",
@@ -1252,7 +1252,7 @@
         },
         {
           "id": "E",
-          "text": "2,4,5.\n",
+          "text": "2,4,5. ",
           "isCorrect": false
         }
       ],
@@ -1262,7 +1262,7 @@
     },
     {
       "id": "int-1-38",
-      "question": "Regularną terapię przeciwzapalną w astmie, najlepiej w postaci wziewnych kortkosteroidów należy podjąć u pacjenta, który:\n1) nie stosuje agonistów receptorów β2-adrenergicznych;\n2) doświadcza dolegliwości pojawiających się nie częściej niż jeden raz w tygodniu;\n3) budzi się z powodu astmy co najmniej jeden raz w tygodniu;\n4) podaje, że dolegliwości występują trzy razy w tygodniu lub częściej;\n5) doświadczył zaostrzenia choroby w ciągu ostatnich 2 lat. Prawidłowa odpowiedź to: A. 3,4,5. B. 1,2,3. C. 1,5. D. tylko 4. ",
+      "question": "Regularną terapię przeciwzapalną w astmie, najlepiej w postaci wziewnych kortkosteroidów należy podjąć u pacjenta, który:\n1) nie stosuje agonistów receptorów β2-adrenergicznych;\n2) doświadcza dolegliwości pojawiających się nie częściej niż jeden raz w tygodniu;\n3) budzi się z powodu astmy co najmniej jeden raz w tygodniu;\n4) podaje, że dolegliwości występują trzy razy w tygodniu lub częściej;\n5) doświadczył zaostrzenia choroby w ciągu ostatnich 2 lat. Prawidłowa odpowiedź to: A. 3,4,5. B. 1,2,3. C. 1,5. D. tylko 4. E. tylko 5.\n",
       "answers": [
         {
           "id": "A",
@@ -1286,7 +1286,7 @@
         },
         {
           "id": "E",
-          "text": "tylko 5.\n",
+          "text": "tylko 5. ",
           "isCorrect": false
         }
       ],
@@ -1296,31 +1296,31 @@
     },
     {
       "id": "int-1-39",
-      "question": "W leczeniu antybiotykami niepowikłanego pozaszpitalnego zapalenia płuc należy zastosować: A. amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę klarytromycynę 500 mg co 12 godzin doustnie lub erytromycynę\n500 mg co 6 godzin doustnie. B. amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę cefuroksym 1,5 g co 8 godzin dożylnie. C. cefuroksym 500 mg co 12 godzin, a jeśli pacjent jest uczulony na penicilinę erytromycynę 500 mg co 6 godzin doustnie. D. erytromycynę 500 mg co 6 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę cefuroksym 500 mg co 12 godzin.\n",
+      "question": "W leczeniu antybiotykami niepowikłanego pozaszpitalnego zapalenia płuc należy zastosować: A. amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę klarytromycynę 500 mg co 12 godzin doustnie lub erytromycynę\n500 mg co 6 godzin doustnie. B. amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę cefuroksym 1,5 g co 8 godzin dożylnie. C. cefuroksym 500 mg co 12 godzin, a jeśli pacjent jest uczulony na penicilinę erytromycynę 500 mg co 6 godzin doustnie. D. erytromycynę 500 mg co 6 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę cefuroksym 500 mg co 12 godzin. E. amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę cefuroksym 500 mg co 12 godzin.\n",
       "answers": [
         {
           "id": "A",
-          "text": "amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na\npenicylinę klarytromycynę 500 mg co 12 godzin doustnie lub erytromycynę\n500 mg co 6 godzin doustnie.\n",
+          "text": "amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę klarytromycynę 500 mg co 12 godzin doustnie lub erytromycynę 500 mg co 6 godzin doustnie. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na\npenicylinę cefuroksym 1,5 g co 8 godzin dożylnie.\n",
+          "text": "amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę cefuroksym 1,5 g co 8 godzin dożylnie. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "cefuroksym 500 mg co 12 godzin, a jeśli pacjent jest uczulony na penicilinę\nerytromycynę 500 mg co 6 godzin doustnie.\n",
+          "text": "cefuroksym 500 mg co 12 godzin, a jeśli pacjent jest uczulony na penicilinę erytromycynę 500 mg co 6 godzin doustnie. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "erytromycynę 500 mg co 6 godzin doustnie, a jeśli pacjent jest uczulony na\npenicylinę cefuroksym 500 mg co 12 godzin.\n",
+          "text": "erytromycynę 500 mg co 6 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę cefuroksym 500 mg co 12 godzin. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na\npenicylinę cefuroksym 500 mg co 12 godzin.\n",
+          "text": "amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę cefuroksym 500 mg co 12 godzin. ",
           "isCorrect": false
         }
       ],
@@ -1330,31 +1330,31 @@
     },
     {
       "id": "int-1-40",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące leczenia astmy w ciąży i okresie karmienia piersią: A. należy odstawić leki z grupy doustnych antagonistów receptorów leukotrienowych, nawet jeśli powodowały one znaczącą poprawę kontroli astmy przed ciążą. B. prostaglandyna F2α może spowodować skurcz oskrzeli i powinna być stosowana z ekstremalną ostrożnością. C. w okresie karmienia piersią należy odstawić leki. D. ciąża nigdy nie powoduje pogorszenia kontroli astmy.\n",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące leczenia astmy w ciąży i okresie karmienia piersią: A. należy odstawić leki z grupy doustnych antagonistów receptorów leukotrienowych, nawet jeśli powodowały one znaczącą poprawę kontroli astmy przed ciążą. B. prostaglandyna F2α może spowodować skurcz oskrzeli i powinna być stosowana z ekstremalną ostrożnością. C. w okresie karmienia piersią należy odstawić leki. D. ciąża nigdy nie powoduje pogorszenia kontroli astmy. E. w ciąży należy zawsze odstawić wziewne kortykosteroidy.\n",
       "answers": [
         {
           "id": "A",
-          "text": "należy odstawić leki z grupy doustnych antagonistów receptorów\nleukotrienowych, nawet jeśli powodowały one znaczącą poprawę kontroli\nastmy przed ciążą.\n",
+          "text": "należy odstawić leki z grupy doustnych antagonistów receptorów leukotrienowych, nawet jeśli powodowały one znaczącą poprawę kontroli astmy przed ciążą. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "prostaglandyna F2α może spowodować skurcz oskrzeli i powinna być\nstosowana z ekstremalną ostrożnością.\n",
+          "text": "prostaglandyna F2α może spowodować skurcz oskrzeli i powinna być stosowana z ekstremalną ostrożnością. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "w okresie karmienia piersią należy odstawić leki.\n",
+          "text": "w okresie karmienia piersią należy odstawić leki. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "ciąża nigdy nie powoduje pogorszenia kontroli astmy.\n",
+          "text": "ciąża nigdy nie powoduje pogorszenia kontroli astmy. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "w ciąży należy zawsze odstawić wziewne kortykosteroidy.\n",
+          "text": "w ciąży należy zawsze odstawić wziewne kortykosteroidy. ",
           "isCorrect": false
         }
       ],
@@ -1364,31 +1364,31 @@
     },
     {
       "id": "int-1-41",
-      "question": "Wskaż fałszywe stwierdzenie: A. plamica Henocha i Schönleina dotyczy dzieci i nigdy nie występuje u dorosłych. B. obraz mikroskopowy bioptatu nerek jest nie do odróżnienia od obrazu ostrej nefropatii IgA. C. ból brzucha jest spowodowany zapaleniem naczyń zajmujących naczynia krwionośne przewodu pokarmowego. D. do obrazu klinicznego należą bóle stawów.\n",
+      "question": "Wskaż fałszywe stwierdzenie: A. plamica Henocha i Schönleina dotyczy dzieci i nigdy nie występuje u dorosłych. B. obraz mikroskopowy bioptatu nerek jest nie do odróżnienia od obrazu ostrej nefropatii IgA. C. ból brzucha jest spowodowany zapaleniem naczyń zajmujących naczynia krwionośne przewodu pokarmowego. D. do obrazu klinicznego należą bóle stawów. E. występuje krwiomocz makro- lub mikroskopowy, z białkomoczem lub bez niego.\n",
       "answers": [
         {
           "id": "A",
-          "text": "plamica Henocha i Schönleina dotyczy dzieci i nigdy nie występuje u\ndorosłych.\n",
+          "text": "plamica Henocha i Schönleina dotyczy dzieci i nigdy nie występuje u dorosłych. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "obraz mikroskopowy bioptatu nerek jest nie do odróżnienia od obrazu ostrej\nnefropatii IgA.\n",
+          "text": "obraz mikroskopowy bioptatu nerek jest nie do odróżnienia od obrazu ostrej nefropatii IgA. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "ból brzucha jest spowodowany zapaleniem naczyń zajmujących naczynia\nkrwionośne przewodu pokarmowego.\n",
+          "text": "ból brzucha jest spowodowany zapaleniem naczyń zajmujących naczynia krwionośne przewodu pokarmowego. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "do obrazu klinicznego należą bóle stawów.\n",
+          "text": "do obrazu klinicznego należą bóle stawów. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "występuje krwiomocz makro- lub mikroskopowy, z białkomoczem lub bez\nniego.\n",
+          "text": "występuje krwiomocz makro- lub mikroskopowy, z białkomoczem lub bez niego. ",
           "isCorrect": false
         }
       ],
@@ -1398,31 +1398,31 @@
     },
     {
       "id": "int-1-42",
-      "question": "Wskaż prawdziwe stwierdzenie: A. ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem niedrożności żyły głównej górnej spowodowanej przez guz szczytu płuca. B. ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zajęcia przez proces nowotworowy splotu ramiennego przez guz szczytu płuca. C. ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zajęcia przez proces nowotworowy pnia współczulnego w miejscu splotu gwiaździstego lub ponad nim. D. ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zepołu nieadekwatnego wydzielania hormonu antydiuretycznego przez rak oskrzela.\n",
+      "question": "Wskaż prawdziwe stwierdzenie: A. ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem niedrożności żyły głównej górnej spowodowanej przez guz szczytu płuca. B. ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zajęcia przez proces nowotworowy splotu ramiennego przez guz szczytu płuca. C. ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zajęcia przez proces nowotworowy pnia współczulnego w miejscu splotu gwiaździstego lub ponad nim. D. ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zepołu nieadekwatnego wydzielania hormonu antydiuretycznego przez rak oskrzela. E. ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem miastenii w przebiegu raka oskrzela.\n",
       "answers": [
         {
           "id": "A",
-          "text": "ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem\nniedrożności żyły głównej górnej spowodowanej przez guz szczytu płuca.\n",
+          "text": "ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem niedrożności żyły głównej górnej spowodowanej przez guz szczytu płuca. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zajęcia\nprzez proces nowotworowy splotu ramiennego przez guz szczytu płuca.\n",
+          "text": "ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zajęcia przez proces nowotworowy splotu ramiennego przez guz szczytu płuca. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zajęcia\nprzez proces nowotworowy pnia współczulnego w miejscu splotu\ngwiaździstego lub ponad nim.\n",
+          "text": "ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zajęcia przez proces nowotworowy pnia współczulnego w miejscu splotu gwiaździstego lub ponad nim. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zepołu\nnieadekwatnego wydzielania hormonu antydiuretycznego przez rak oskrzela.\n",
+          "text": "ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zepołu nieadekwatnego wydzielania hormonu antydiuretycznego przez rak oskrzela. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem miastenii\nw przebiegu raka oskrzela.\n",
+          "text": "ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem miastenii w przebiegu raka oskrzela. ",
           "isCorrect": false
         }
       ],
@@ -1432,31 +1432,31 @@
     },
     {
       "id": "int-1-43",
-      "question": "Wskaż objaw kliniczny zespołu rakowiaka: A. napadowe zblednięcia skóry twarzy. B. przewlekłe zaparcia. C. bielactwo. D. zanik mięśni kłębu kciuka.\n",
+      "question": "Wskaż objaw kliniczny zespołu rakowiaka: A. napadowe zblednięcia skóry twarzy. B. przewlekłe zaparcia. C. bielactwo. D. zanik mięśni kłębu kciuka. E. utrwalone teleangiektazje.\n",
       "answers": [
         {
           "id": "A",
-          "text": "napadowe zblednięcia skóry twarzy.\n",
+          "text": "napadowe zblednięcia skóry twarzy. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "przewlekłe zaparcia.\n",
+          "text": "przewlekłe zaparcia. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "bielactwo.\n",
+          "text": "bielactwo. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "zanik mięśni kłębu kciuka.\n",
+          "text": "zanik mięśni kłębu kciuka. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "utrwalone teleangiektazje.\n",
+          "text": "utrwalone teleangiektazje. ",
           "isCorrect": false
         }
       ],
@@ -1466,31 +1466,31 @@
     },
     {
       "id": "int-1-44",
-      "question": "Niebieskie twardówki są objawem: A. zespołu Turnera. B. achondroplazji. C. zespołu Downa. D. wrodzonej łamliwości kości.\n",
+      "question": "Niebieskie twardówki są objawem: A. zespołu Turnera. B. achondroplazji. C. zespołu Downa. D. wrodzonej łamliwości kości. E. zespołu Marfana.\n",
       "answers": [
         {
           "id": "A",
-          "text": "zespołu Turnera.\n",
+          "text": "zespołu Turnera. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "achondroplazji.\n",
+          "text": "achondroplazji. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "zespołu Downa.\n",
+          "text": "zespołu Downa. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "wrodzonej łamliwości kości.\n",
+          "text": "wrodzonej łamliwości kości. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "zespołu Marfana.\n",
+          "text": "zespołu Marfana. ",
           "isCorrect": false
         }
       ],
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "int-1-45",
-      "question": "U pacjenta wystąpiły objawy hipoglikemii. Stwierdzono niski poziom glukozy we krwi w pomiarze wykonanym w czasie trwania objawów, objawy ustąpiły po skorygowaniu hipoglikemii. Stężenie insuliny i peptydu C we krwi było podwyższone. Wskaż przyczyne:\n1) niedoczynność przysadki;\n2) guz insulinowy;\n3) pierwotna niedoczynność przysadki;\n4) pochodne sulfonylomocznika;\n5) egzogenna insulina. Prawidłowa odpowiedź to: A. 1,3,5. B. 1,3. C. 2,4. D. tylko 3. ",
+      "question": "U pacjenta wystąpiły objawy hipoglikemii. Stwierdzono niski poziom glukozy we krwi w pomiarze wykonanym w czasie trwania objawów, objawy ustąpiły po skorygowaniu hipoglikemii. Stężenie insuliny i peptydu C we krwi było podwyższone. Wskaż przyczyne:\n1) niedoczynność przysadki;\n2) guz insulinowy;\n3) pierwotna niedoczynność przysadki;\n4) pochodne sulfonylomocznika;\n5) egzogenna insulina. Prawidłowa odpowiedź to: A. 1,3,5. B. 1,3. C. 2,4. D. tylko 3. E. tylko 5.\n",
       "answers": [
         {
           "id": "A",
@@ -1524,7 +1524,7 @@
         },
         {
           "id": "E",
-          "text": "tylko 5.\n",
+          "text": "tylko 5. ",
           "isCorrect": false
         }
       ],
@@ -1534,31 +1534,31 @@
     },
     {
       "id": "int-1-46",
-      "question": "U pacjenta z guzem chromochłonnym czynnym hormonalnie niezbędne jest leczenie farmakologiczne celem przygotowania pacjenta do zabiegu operacyjnego. Polega ono na: A. podawaniu leku β-adrenolitycznego przez 6 tygodni i dołączeniu leku\nα-adrenolitycznego w przypadku małego efektu hipotensyjnego. B. podawaniu wyłącznie leku α-adrenolitycznego przez 6 tygodni; lek\nβ-adrenolityczny jest zawsze przeciwwskazany. C. podawaniu leku α-adrenolitycznego, a w przypadku znacznej tachykardii dodaniu leku β-adrenolitycznego. D. podawaniu leku α-adrenolitycznego, a w przypadku małego efektu hipotensyjnego dołączeniu diuretyku pętlowego.\n",
+      "question": "U pacjenta z guzem chromochłonnym czynnym hormonalnie niezbędne jest leczenie farmakologiczne celem przygotowania pacjenta do zabiegu operacyjnego. Polega ono na: A. podawaniu leku β-adrenolitycznego przez 6 tygodni i dołączeniu leku\nα-adrenolitycznego w przypadku małego efektu hipotensyjnego. B. podawaniu wyłącznie leku α-adrenolitycznego przez 6 tygodni; lek\nβ-adrenolityczny jest zawsze przeciwwskazany. C. podawaniu leku α-adrenolitycznego, a w przypadku znacznej tachykardii dodaniu leku β-adrenolitycznego. D. podawaniu leku α-adrenolitycznego, a w przypadku małego efektu hipotensyjnego dołączeniu diuretyku pętlowego. E. podawaniu leku α-adrenolitycznego, a w przypadku małego efektu hipotensyjnego dołączeniu diuretyku tiazydowego.\n",
       "answers": [
         {
           "id": "A",
-          "text": "podawaniu leku β-adrenolitycznego przez 6 tygodni i dołączeniu leku\nα-adrenolitycznego w przypadku małego efektu hipotensyjnego.\n",
+          "text": "podawaniu leku β-adrenolitycznego przez 6 tygodni i dołączeniu leku α-adrenolitycznego w przypadku małego efektu hipotensyjnego. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "podawaniu wyłącznie leku α-adrenolitycznego przez 6 tygodni; lek\nβ-adrenolityczny jest zawsze przeciwwskazany.\n",
+          "text": "podawaniu wyłącznie leku α-adrenolitycznego przez 6 tygodni; lek β-adrenolityczny jest zawsze przeciwwskazany. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "podawaniu leku α-adrenolitycznego, a w przypadku znacznej tachykardii\ndodaniu leku β-adrenolitycznego.\n",
+          "text": "podawaniu leku α-adrenolitycznego, a w przypadku znacznej tachykardii dodaniu leku β-adrenolitycznego. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "podawaniu leku α-adrenolitycznego, a w przypadku małego efektu\nhipotensyjnego dołączeniu diuretyku pętlowego.\n",
+          "text": "podawaniu leku α-adrenolitycznego, a w przypadku małego efektu hipotensyjnego dołączeniu diuretyku pętlowego. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "podawaniu leku α-adrenolitycznego, a w przypadku małego efektu\nhipotensyjnego dołączeniu diuretyku tiazydowego.\n",
+          "text": "podawaniu leku α-adrenolitycznego, a w przypadku małego efektu hipotensyjnego dołączeniu diuretyku tiazydowego. ",
           "isCorrect": false
         }
       ],
@@ -1568,31 +1568,31 @@
     },
     {
       "id": "int-1-47",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące biegunki żółciowej: A. nie odpowiada na leczenie z wykorzystaniem żywic jonowymiennych, takich jak cholestyramina. B. nigdy nie towarzyszy jej kamica żółciowa, ponieważ nadmiar żółci jest wydalany do jelita cienkiego. C. występuje wyłącznie jak powikłanie po resekcji jelita cienkiego. D. nigdy nie występuje w cukrzycy ze względu na zaburzenia motoryki przewodu pokarmowego w tej chorobie.\n",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące biegunki żółciowej: A. nie odpowiada na leczenie z wykorzystaniem żywic jonowymiennych, takich jak cholestyramina. B. nigdy nie towarzyszy jej kamica żółciowa, ponieważ nadmiar żółci jest wydalany do jelita cienkiego. C. występuje wyłącznie jak powikłanie po resekcji jelita cienkiego. D. nigdy nie występuje w cukrzycy ze względu na zaburzenia motoryki przewodu pokarmowego w tej chorobie. E. pacjenci zgłaszają się do lekarza z nagłą wodnistą biegunką lub łagodną tłuszczową.\n",
       "answers": [
         {
           "id": "A",
-          "text": "nie odpowiada na leczenie z wykorzystaniem żywic jonowymiennych,\ntakich jak cholestyramina.\n",
+          "text": "nie odpowiada na leczenie z wykorzystaniem żywic jonowymiennych, takich jak cholestyramina. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "nigdy nie towarzyszy jej kamica żółciowa, ponieważ nadmiar żółci jest\nwydalany do jelita cienkiego.\n",
+          "text": "nigdy nie towarzyszy jej kamica żółciowa, ponieważ nadmiar żółci jest wydalany do jelita cienkiego. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "występuje wyłącznie jak powikłanie po resekcji jelita cienkiego.\n",
+          "text": "występuje wyłącznie jak powikłanie po resekcji jelita cienkiego. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "nigdy nie występuje w cukrzycy ze względu na zaburzenia motoryki\nprzewodu pokarmowego w tej chorobie.\n",
+          "text": "nigdy nie występuje w cukrzycy ze względu na zaburzenia motoryki przewodu pokarmowego w tej chorobie. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "pacjenci zgłaszają się do lekarza z nagłą wodnistą biegunką lub łagodną\ntłuszczową.\n",
+          "text": "pacjenci zgłaszają się do lekarza z nagłą wodnistą biegunką lub łagodną tłuszczową. ",
           "isCorrect": false
         }
       ],
@@ -1602,31 +1602,31 @@
     },
     {
       "id": "int-1-48",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące raka brodawki Vatera: A. zawsze powoduje wystąpienie stałej żółtaczki. B. manifestuje się bólem, niedokrwistością, wymiotami, utratą masy ciała. C. rokowanie jest gorsze niż w przypadku raka dróg żółciowych. D. rozpoznanie nie opiera się na endoskopowym badaniu dwunastnicy z biopsją guza, lecz na endoskopowej ultrasonografii.\n",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące raka brodawki Vatera: A. zawsze powoduje wystąpienie stałej żółtaczki. B. manifestuje się bólem, niedokrwistością, wymiotami, utratą masy ciała. C. rokowanie jest gorsze niż w przypadku raka dróg żółciowych. D. rozpoznanie nie opiera się na endoskopowym badaniu dwunastnicy z biopsją guza, lecz na endoskopowej ultrasonografii. E. leczenie chirurgiczne obejmuje wyłącznie zabiegi paliatywne – zepolenie omijające lub umieszczenie stentu.\n",
       "answers": [
         {
           "id": "A",
-          "text": "zawsze powoduje wystąpienie stałej żółtaczki.\n",
+          "text": "zawsze powoduje wystąpienie stałej żółtaczki. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "manifestuje się bólem, niedokrwistością, wymiotami, utratą masy ciała.\n",
+          "text": "manifestuje się bólem, niedokrwistością, wymiotami, utratą masy ciała. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "rokowanie jest gorsze niż w przypadku raka dróg żółciowych.\n",
+          "text": "rokowanie jest gorsze niż w przypadku raka dróg żółciowych. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "rozpoznanie nie opiera się na endoskopowym badaniu dwunastnicy z\nbiopsją guza, lecz na endoskopowej ultrasonografii.\n",
+          "text": "rozpoznanie nie opiera się na endoskopowym badaniu dwunastnicy z biopsją guza, lecz na endoskopowej ultrasonografii. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "leczenie chirurgiczne obejmuje wyłącznie zabiegi paliatywne – zepolenie\nomijające lub umieszczenie stentu.\n",
+          "text": "leczenie chirurgiczne obejmuje wyłącznie zabiegi paliatywne – zepolenie omijające lub umieszczenie stentu. ",
           "isCorrect": false
         }
       ],
@@ -1636,7 +1636,7 @@
     },
     {
       "id": "int-1-49",
-      "question": "Wskaż prawdziwe stwierdzenia dotyczące raka rdzeniastego tarczycy:\n1) powstaje z komórek okołopęcherzykowych C tarczycy;\n2) leczenie jodem radioaktywnym i supresja TSH za pomocą lewotyroksyny nie mają zastosowania w leczeniu tegu typu nowotworu;\n3) odległe przerzuty w momencie rozpoznania występują często;\n4) może wydzielać kalcytoninę, serotoninę, ACTH;\n5) w następstwie hyperkalcytonemii mogą występować przewlekłe zaparcia. Prawidłowa odpowiedź to: A. 3,5. B. 1,3. C. 1,2,4. D. tylko 4. ",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące raka rdzeniastego tarczycy:\n1) powstaje z komórek okołopęcherzykowych C tarczycy;\n2) leczenie jodem radioaktywnym i supresja TSH za pomocą lewotyroksyny nie mają zastosowania w leczeniu tegu typu nowotworu;\n3) odległe przerzuty w momencie rozpoznania występują często;\n4) może wydzielać kalcytoninę, serotoninę, ACTH;\n5) w następstwie hyperkalcytonemii mogą występować przewlekłe zaparcia. Prawidłowa odpowiedź to: A. 3,5. B. 1,3. C. 1,2,4. D. tylko 4. E. tylko 1.\n",
       "answers": [
         {
           "id": "A",
@@ -1660,7 +1660,7 @@
         },
         {
           "id": "E",
-          "text": "tylko 1.\n",
+          "text": "tylko 1. ",
           "isCorrect": false
         }
       ],
@@ -1670,31 +1670,31 @@
     },
     {
       "id": "int-1-50",
-      "question": "Skrining w kierunku raka wątrobowokomórkowego (HCC): A. polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 12 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, alkoholem; B. polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, alkoholem; C. polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, z wyłączeniem alkoholu; D. polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 12 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, z wyłączeniem alkoholu;\n",
+      "question": "Skrining w kierunku raka wątrobowokomórkowego (HCC): A. polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 12 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, alkoholem; B. polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, alkoholem; C. polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, z wyłączeniem alkoholu; D. polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 12 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, z wyłączeniem alkoholu; E. polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną wyłącznie zapaleniem wątroby typu B i C.\n",
       "answers": [
         {
           "id": "A",
-          "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów\nalfa-fetoproteiny (AFP) co 12 miesięcy, u pacjentów wysokiego ryzyka, do\nktórych zalicza się chorych z marskością wątroby spowodowaną\nzapaleniem wątroby typu B i C, hemochromatozą, alkoholem;\n",
+          "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 12 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, alkoholem; ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów\nalfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do\nktórych zalicza się chorych z marskością wątroby spowodowaną\nzapaleniem wątroby typu B i C, hemochromatozą, alkoholem;\n",
+          "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, alkoholem; ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów\nalfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do\nktórych zalicza się chorych z marskością wątroby spowodowaną\nzapaleniem wątroby typu B i C, hemochromatozą, z wyłączeniem alkoholu;\n",
+          "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, z wyłączeniem alkoholu; ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów\nalfa-fetoproteiny (AFP) co 12 miesięcy, u pacjentów wysokiego ryzyka, do\nktórych zalicza się chorych z marskością wątroby spowodowaną\nzapaleniem wątroby typu B i C, hemochromatozą, z wyłączeniem alkoholu;\n",
+          "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 12 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, z wyłączeniem alkoholu; ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów\nalfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do\nktórych zalicza się chorych z marskością wątroby spowodowaną wyłącznie\nzapaleniem wątroby typu B i C.\n",
+          "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną wyłącznie zapaleniem wątroby typu B i C. ",
           "isCorrect": false
         }
       ],
@@ -1704,31 +1704,31 @@
     },
     {
       "id": "int-1-51",
-      "question": "Nowotwory podścieliskowe przewodu pokarmowego (GIST): A. są zwykle bezobjawowe, choć większe mogą odpowiadać za dyspepsję, owrzodzenia i krwawienia z przewodu pokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych nie wykazują ekspresji protoonkogenu c-kit. B. nawet o średnicy <2 cm manifestują się zwykle krwawieniem z przewodu pokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych nie wykazują ekspresji protoonkogenu c-kit. C. są zwykle bezobjawowe, choć większe mogą odpowiadać za dyspepsję, owrzodzenia i krwawienia z przewodu pokarmowego, wykazują ekspresję protoonkogenu c-kit. D. nawet o średnicy <2 cm manifestują się zwykle krwawieniem z przewodu pokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych wykazują ekspresję protoonkogenu c-kit.\n",
+      "question": "Nowotwory podścieliskowe przewodu pokarmowego (GIST): A. są zwykle bezobjawowe, choć większe mogą odpowiadać za dyspepsję, owrzodzenia i krwawienia z przewodu pokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych nie wykazują ekspresji protoonkogenu c-kit. B. nawet o średnicy <2 cm manifestują się zwykle krwawieniem z przewodu pokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych nie wykazują ekspresji protoonkogenu c-kit. C. są zwykle bezobjawowe, choć większe mogą odpowiadać za dyspepsję, owrzodzenia i krwawienia z przewodu pokarmowego, wykazują ekspresję protoonkogenu c-kit. D. nawet o średnicy <2 cm manifestują się zwykle krwawieniem z przewodu pokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych wykazują ekspresję protoonkogenu c-kit. E. mają charakter łagodny, nigdy nie złośliwieją, jednak ze względu na dużą skłonność do powodowania owrzodzeń zawsze wymagają leczenia inhibitorem kinazy tyrozynowej.\n",
       "answers": [
         {
           "id": "A",
-          "text": "są zwykle bezobjawowe, choć większe mogą odpowiadać za dyspepsję,\nowrzodzenia i krwawienia z przewodu pokarmowego, w przeciwieństwie do\ninnych nowotworów mezenchmalnych nie wykazują ekspresji\nprotoonkogenu c-kit.\n",
+          "text": "są zwykle bezobjawowe, choć większe mogą odpowiadać za dyspepsję, owrzodzenia i krwawienia z przewodu pokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych nie wykazują ekspresji protoonkogenu c-kit. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "nawet o średnicy <2 cm manifestują się zwykle krwawieniem z przewodu\npokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych\nnie wykazują ekspresji protoonkogenu c-kit.\n",
+          "text": "nawet o średnicy <2 cm manifestują się zwykle krwawieniem z przewodu pokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych nie wykazują ekspresji protoonkogenu c-kit. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "są zwykle bezobjawowe, choć większe mogą odpowiadać za dyspepsję,\nowrzodzenia i krwawienia z przewodu pokarmowego, wykazują ekspresję\nprotoonkogenu c-kit.\n",
+          "text": "są zwykle bezobjawowe, choć większe mogą odpowiadać za dyspepsję, owrzodzenia i krwawienia z przewodu pokarmowego, wykazują ekspresję protoonkogenu c-kit. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "nawet o średnicy <2 cm manifestują się zwykle krwawieniem z przewodu\npokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych\nwykazują ekspresję protoonkogenu c-kit.\n",
+          "text": "nawet o średnicy <2 cm manifestują się zwykle krwawieniem z przewodu pokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych wykazują ekspresję protoonkogenu c-kit. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "mają charakter łagodny, nigdy nie złośliwieją, jednak ze względu na dużą\nskłonność do powodowania owrzodzeń zawsze wymagają leczenia\ninhibitorem kinazy tyrozynowej.\n",
+          "text": "mają charakter łagodny, nigdy nie złośliwieją, jednak ze względu na dużą skłonność do powodowania owrzodzeń zawsze wymagają leczenia inhibitorem kinazy tyrozynowej. ",
           "isCorrect": false
         }
       ],
@@ -1738,31 +1738,31 @@
     },
     {
       "id": "int-1-52",
-      "question": "Poamiodaronowa nadczynność tarczycy typu II cechuje się: A. indukowaną jodem nadmierną syntezą hormonów tarczycy u pacjentów ze współistniejącą chorobą tarczycy, taką jak utajona choroba Gravesa\n(przykład efektu Jod-Basedow); B. zapaleniem tarczycy, będącym skutkiem bezpośredniego efektu cytotoksycznego amiodaronu; C. zwiększoną jodochwytnością; D. złą odpowiedzią na leczenie glikokortykosteroidami;\n",
+      "question": "Poamiodaronowa nadczynność tarczycy typu II cechuje się: A. indukowaną jodem nadmierną syntezą hormonów tarczycy u pacjentów ze współistniejącą chorobą tarczycy, taką jak utajona choroba Gravesa\n(przykład efektu Jod-Basedow); B. zapaleniem tarczycy, będącym skutkiem bezpośredniego efektu cytotoksycznego amiodaronu; C. zwiększoną jodochwytnością; D. złą odpowiedzią na leczenie glikokortykosteroidami; E. szybkim ustępowaniem po odstawieniu amiodaronu.\n",
       "answers": [
         {
           "id": "A",
-          "text": "indukowaną jodem nadmierną syntezą hormonów tarczycy u pacjentów ze\nwspółistniejącą chorobą tarczycy, taką jak utajona choroba Gravesa\n(przykład efektu Jod-Basedow);\n",
+          "text": "indukowaną jodem nadmierną syntezą hormonów tarczycy u pacjentów ze współistniejącą chorobą tarczycy, taką jak utajona choroba Gravesa (przykład efektu Jod-Basedow); ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "zapaleniem tarczycy, będącym skutkiem bezpośredniego efektu\ncytotoksycznego amiodaronu;\n",
+          "text": "zapaleniem tarczycy, będącym skutkiem bezpośredniego efektu cytotoksycznego amiodaronu; ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "zwiększoną jodochwytnością;\n",
+          "text": "zwiększoną jodochwytnością; ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "złą odpowiedzią na leczenie glikokortykosteroidami;\n",
+          "text": "złą odpowiedzią na leczenie glikokortykosteroidami; ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "szybkim ustępowaniem po odstawieniu amiodaronu.\n",
+          "text": "szybkim ustępowaniem po odstawieniu amiodaronu. ",
           "isCorrect": false
         }
       ],
@@ -1772,31 +1772,31 @@
     },
     {
       "id": "int-1-53",
-      "question": "„Złotym” standardem prewencji i skriningu raka jelita grubego jest: A. regularne badanie krwi utajonej w kale. B. sigmoidoskopia. C. rektoskopia. D. kolonoskopia.\n",
+      "question": "„Złotym” standardem prewencji i skriningu raka jelita grubego jest: A. regularne badanie krwi utajonej w kale. B. sigmoidoskopia. C. rektoskopia. D. kolonoskopia. E. tomografia komputerowa.\n",
       "answers": [
         {
           "id": "A",
-          "text": "regularne badanie krwi utajonej w kale.\n",
+          "text": "regularne badanie krwi utajonej w kale. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "sigmoidoskopia.\n",
+          "text": "sigmoidoskopia. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "rektoskopia.\n",
+          "text": "rektoskopia. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "kolonoskopia.\n",
+          "text": "kolonoskopia. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "tomografia komputerowa.\n",
+          "text": "tomografia komputerowa. ",
           "isCorrect": false
         }
       ],
@@ -1806,31 +1806,31 @@
     },
     {
       "id": "int-1-54",
-      "question": "Autoimmunologiczne zapalenie trzustki charakteryzuje się: A. bólem brzucha, utratą masy ciała, jednakże żółtaczka mechaniczna nigdy nie występuje, trzustka jest powiększona w badaniach obrazowych, dobrze odpowiada na leczenie glikokortykosteroidami. B. bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest zmniejszona w badaniach obrazowych, dobrze odpowiada na leczenie glikokortykosteroidami. C. bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest powiększona w badaniach obrazowych, dobrze odpowiada tylko na leczenie azatiopryną. D. bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest powiększona w badaniach obrazowych, nie odpowiada na leczenie glikokortykosteroidami.\n",
+      "question": "Autoimmunologiczne zapalenie trzustki charakteryzuje się: A. bólem brzucha, utratą masy ciała, jednakże żółtaczka mechaniczna nigdy nie występuje, trzustka jest powiększona w badaniach obrazowych, dobrze odpowiada na leczenie glikokortykosteroidami. B. bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest zmniejszona w badaniach obrazowych, dobrze odpowiada na leczenie glikokortykosteroidami. C. bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest powiększona w badaniach obrazowych, dobrze odpowiada tylko na leczenie azatiopryną. D. bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest powiększona w badaniach obrazowych, nie odpowiada na leczenie glikokortykosteroidami. E. bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest powiększona w badaniach obrazowych, dobrze odpowiada na leczenie glikokortykosteroidami.\n",
       "answers": [
         {
           "id": "A",
-          "text": "bólem brzucha, utratą masy ciała, jednakże żółtaczka mechaniczna nigdy\nnie występuje, trzustka jest powiększona w badaniach obrazowych, dobrze\nodpowiada na leczenie glikokortykosteroidami.\n",
+          "text": "bólem brzucha, utratą masy ciała, jednakże żółtaczka mechaniczna nigdy nie występuje, trzustka jest powiększona w badaniach obrazowych, dobrze odpowiada na leczenie glikokortykosteroidami. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest\nzmniejszona w badaniach obrazowych, dobrze odpowiada na leczenie\nglikokortykosteroidami.\n",
+          "text": "bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest zmniejszona w badaniach obrazowych, dobrze odpowiada na leczenie glikokortykosteroidami. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest\npowiększona w badaniach obrazowych, dobrze odpowiada tylko na\nleczenie azatiopryną.\n",
+          "text": "bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest powiększona w badaniach obrazowych, dobrze odpowiada tylko na leczenie azatiopryną. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest\npowiększona w badaniach obrazowych, nie odpowiada na leczenie\nglikokortykosteroidami.\n",
+          "text": "bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest powiększona w badaniach obrazowych, nie odpowiada na leczenie glikokortykosteroidami. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest\npowiększona w badaniach obrazowych, dobrze odpowiada na leczenie\nglikokortykosteroidami.\n",
+          "text": "bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest powiększona w badaniach obrazowych, dobrze odpowiada na leczenie glikokortykosteroidami. ",
           "isCorrect": false
         }
       ],
@@ -1840,31 +1840,31 @@
     },
     {
       "id": "int-1-55",
-      "question": "Kardiomiopatia takotsubo charakteryzuje się: A. rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie czynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie i elektrokardiograficznie przypomina ostry zespół wieńcowy z uniesieniem odcinka ST, bez istotnych zmian w koronarografii. B. rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie czynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie przypomina ostry zespół wieńcowy, zmian elektrokardiograficznych nie stwierdza się, bez istotnych zmian w koronarografii. C. rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie czynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie i elektrokardiograficznie przypomina ostry zespół wieńcowy z uniesieniem odcinka ST, w koronarografii niedrożna tętnica okalająca. D. włóknieniem wsierdzia i zarastaniem jam komór w przebiegu eozynofilowej ziarniniakowatości z zapaleniem naczyń (określanej dawniej jako zespół Churg i Strauss), występuje niedomykalność mitralna i trójdzielna oraz objawy zatorowości płucnej i obwodowej.\n",
+      "question": "Kardiomiopatia takotsubo charakteryzuje się: A. rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie czynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie i elektrokardiograficznie przypomina ostry zespół wieńcowy z uniesieniem odcinka ST, bez istotnych zmian w koronarografii. B. rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie czynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie przypomina ostry zespół wieńcowy, zmian elektrokardiograficznych nie stwierdza się, bez istotnych zmian w koronarografii. C. rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie czynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie i elektrokardiograficznie przypomina ostry zespół wieńcowy z uniesieniem odcinka ST, w koronarografii niedrożna tętnica okalająca. D. włóknieniem wsierdzia i zarastaniem jam komór w przebiegu eozynofilowej ziarniniakowatości z zapaleniem naczyń (określanej dawniej jako zespół Churg i Strauss), występuje niedomykalność mitralna i trójdzielna oraz objawy zatorowości płucnej i obwodowej. E. łagodnym przerostem mięśnia lewej komory spowodowanym mutacją genów kodujących troponiny, cechuje się występowaniem hipotensji indukowanej wysiłkiem i wysokim ryzykiem nagłego zgonu.\n",
       "answers": [
         {
           "id": "A",
-          "text": "rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie\nczynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie i\nelektrokardiograficznie przypomina ostry zespół wieńcowy z uniesieniem\nodcinka ST, bez istotnych zmian w koronarografii.\n",
+          "text": "rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie czynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie i elektrokardiograficznie przypomina ostry zespół wieńcowy z uniesieniem odcinka ST, bez istotnych zmian w koronarografii. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie\nczynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie\nprzypomina ostry zespół wieńcowy, zmian elektrokardiograficznych nie\nstwierdza się, bez istotnych zmian w koronarografii.\n",
+          "text": "rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie czynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie przypomina ostry zespół wieńcowy, zmian elektrokardiograficznych nie stwierdza się, bez istotnych zmian w koronarografii. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie\nczynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie i\nelektrokardiograficznie przypomina ostry zespół wieńcowy z uniesieniem\nodcinka ST, w koronarografii niedrożna tętnica okalająca.\n",
+          "text": "rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie czynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie i elektrokardiograficznie przypomina ostry zespół wieńcowy z uniesieniem odcinka ST, w koronarografii niedrożna tętnica okalająca. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "włóknieniem wsierdzia i zarastaniem jam komór w przebiegu eozynofilowej\nziarniniakowatości z zapaleniem naczyń (określanej dawniej jako zespół\nChurg i Strauss), występuje niedomykalność mitralna i trójdzielna oraz\nobjawy zatorowości płucnej i obwodowej.\n",
+          "text": "włóknieniem wsierdzia i zarastaniem jam komór w przebiegu eozynofilowej ziarniniakowatości z zapaleniem naczyń (określanej dawniej jako zespół Churg i Strauss), występuje niedomykalność mitralna i trójdzielna oraz objawy zatorowości płucnej i obwodowej. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "łagodnym przerostem mięśnia lewej komory spowodowanym mutacją\ngenów kodujących troponiny, cechuje się występowaniem hipotensji\nindukowanej wysiłkiem i wysokim ryzykiem nagłego zgonu.\n",
+          "text": "łagodnym przerostem mięśnia lewej komory spowodowanym mutacją genów kodujących troponiny, cechuje się występowaniem hipotensji indukowanej wysiłkiem i wysokim ryzykiem nagłego zgonu. ",
           "isCorrect": false
         }
       ],
@@ -1874,31 +1874,31 @@
     },
     {
       "id": "int-1-56",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące czaszkogardlaka\n(craniopharyngioma): A. jest guzem łagodnym, zlokalizowanym w obrębie siodła tureckiego, odpowiadającym za hiperprolaktynemię. B. jest guzem łagodnym zlokalizowanym w obrębie siodła tureckiego lub w przestrzeni nadsiodłowej, który może powodować objawy niedoczynności przysadki lecz nigdy nie powoduje uszkodzenia podwzgórza. C. jest rodzajem guza złośliwego przestrzeni nadsiodłowej, czynnego hormonalnie, wydzielającego wazopresynę. D. jest guzem łagodnym zlokalizowanym w obrębie siodła tureckiego lub w przestrzeni nadsiodłowej, który może powodować wystąpienie objawów uszkodzenia podwzgórza i moczówkę prostą.\n",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące czaszkogardlaka\n(craniopharyngioma): A. jest guzem łagodnym, zlokalizowanym w obrębie siodła tureckiego, odpowiadającym za hiperprolaktynemię. B. jest guzem łagodnym zlokalizowanym w obrębie siodła tureckiego lub w przestrzeni nadsiodłowej, który może powodować objawy niedoczynności przysadki lecz nigdy nie powoduje uszkodzenia podwzgórza. C. jest rodzajem guza złośliwego przestrzeni nadsiodłowej, czynnego hormonalnie, wydzielającego wazopresynę. D. jest guzem łagodnym zlokalizowanym w obrębie siodła tureckiego lub w przestrzeni nadsiodłowej, który może powodować wystąpienie objawów uszkodzenia podwzgórza i moczówkę prostą. E. jest guzem złośliwym zlokalizowanym w obrębie siodła tureckiego, naciekającym okolicę skrzyżowania wzrokowego, nieczynnym hormonalnie.\n",
       "answers": [
         {
           "id": "A",
-          "text": "jest guzem łagodnym, zlokalizowanym w obrębie siodła tureckiego,\nodpowiadającym za hiperprolaktynemię.\n",
+          "text": "jest guzem łagodnym, zlokalizowanym w obrębie siodła tureckiego, odpowiadającym za hiperprolaktynemię. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "jest guzem łagodnym zlokalizowanym w obrębie siodła tureckiego lub w\nprzestrzeni nadsiodłowej, który może powodować objawy niedoczynności\nprzysadki lecz nigdy nie powoduje uszkodzenia podwzgórza.\n",
+          "text": "jest guzem łagodnym zlokalizowanym w obrębie siodła tureckiego lub w przestrzeni nadsiodłowej, który może powodować objawy niedoczynności przysadki lecz nigdy nie powoduje uszkodzenia podwzgórza. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "jest rodzajem guza złośliwego przestrzeni nadsiodłowej, czynnego\nhormonalnie, wydzielającego wazopresynę.\n",
+          "text": "jest rodzajem guza złośliwego przestrzeni nadsiodłowej, czynnego hormonalnie, wydzielającego wazopresynę. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "jest guzem łagodnym zlokalizowanym w obrębie siodła tureckiego lub w\nprzestrzeni nadsiodłowej, który może powodować wystąpienie objawów\nuszkodzenia podwzgórza i moczówkę prostą.\n",
+          "text": "jest guzem łagodnym zlokalizowanym w obrębie siodła tureckiego lub w przestrzeni nadsiodłowej, który może powodować wystąpienie objawów uszkodzenia podwzgórza i moczówkę prostą. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "jest guzem złośliwym zlokalizowanym w obrębie siodła tureckiego,\nnaciekającym okolicę skrzyżowania wzrokowego, nieczynnym\nhormonalnie.\n",
+          "text": "jest guzem złośliwym zlokalizowanym w obrębie siodła tureckiego, naciekającym okolicę skrzyżowania wzrokowego, nieczynnym hormonalnie. ",
           "isCorrect": false
         }
       ],
@@ -1908,31 +1908,31 @@
     },
     {
       "id": "int-1-57",
-      "question": "Szmer tarcia opłucnej: A. jest słyszalny tylko na wdechu; B. jest słyszalny tylko na wydechu; C. jest słyszalny na wdechu i wydechu; D. jest wyrazem zapalenia opłucnej, stąd nie występuje w zatorowości płucnej;\n",
+      "question": "Szmer tarcia opłucnej: A. jest słyszalny tylko na wdechu; B. jest słyszalny tylko na wydechu; C. jest słyszalny na wdechu i wydechu; D. jest wyrazem zapalenia opłucnej, stąd nie występuje w zatorowości płucnej; E. nigdy nie towarzyszy mu szmer tarcia osierdziowego, z którym wymaga różnicowania.\n",
       "answers": [
         {
           "id": "A",
-          "text": "jest słyszalny tylko na wdechu;\n",
+          "text": "jest słyszalny tylko na wdechu; ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "jest słyszalny tylko na wydechu;\n",
+          "text": "jest słyszalny tylko na wydechu; ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "jest słyszalny na wdechu i wydechu;\n",
+          "text": "jest słyszalny na wdechu i wydechu; ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "jest wyrazem zapalenia opłucnej, stąd nie występuje w zatorowości\npłucnej;\n",
+          "text": "jest wyrazem zapalenia opłucnej, stąd nie występuje w zatorowości płucnej; ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "nigdy nie towarzyszy mu szmer tarcia osierdziowego, z którym wymaga\nróżnicowania.\n",
+          "text": "nigdy nie towarzyszy mu szmer tarcia osierdziowego, z którym wymaga różnicowania. ",
           "isCorrect": false
         }
       ],
@@ -1942,31 +1942,31 @@
     },
     {
       "id": "int-1-58",
-      "question": "Choroby śródmiąższowe płuc, np. idiopatyczne włóknienie, sarkoidoza płuc, powodują w spirometrii następujące zmiany w zakresie natężonej pojemności\nżyciowej (FVC) i natężonej objętości wydechowej pierwszosekundowej (FEV1): A. obniżenie wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia restrykcyjne. B. obniżenie wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia obturacyjne. C. obniżenie FVC bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia obturacyjne. D. obniżenie FVC bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia restrykcyjne.\n",
+      "question": "Choroby śródmiąższowe płuc, np. idiopatyczne włóknienie, sarkoidoza płuc, powodują w spirometrii następujące zmiany w zakresie natężonej pojemności\nżyciowej (FVC) i natężonej objętości wydechowej pierwszosekundowej (FEV1): A. obniżenie wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia restrykcyjne. B. obniżenie wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia obturacyjne. C. obniżenie FVC bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia obturacyjne. D. obniżenie FVC bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia restrykcyjne. E. obniżenie FEV1 bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia obturacyjne.\n",
       "answers": [
         {
           "id": "A",
-          "text": "obniżenie wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia\nrestrykcyjne.\n",
+          "text": "obniżenie wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia restrykcyjne. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "obniżenie wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia\nobturacyjne.\n",
+          "text": "obniżenie wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia obturacyjne. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "obniżenie FVC bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na\nzaburzenia obturacyjne.\n",
+          "text": "obniżenie FVC bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia obturacyjne. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "obniżenie FVC bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na\nzaburzenia restrykcyjne.\n",
+          "text": "obniżenie FVC bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia restrykcyjne. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "obniżenie FEV1 bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje\nna zaburzenia obturacyjne.\n",
+          "text": "obniżenie FEV1 bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia obturacyjne. ",
           "isCorrect": false
         }
       ],
@@ -1976,31 +1976,31 @@
     },
     {
       "id": "int-1-59",
-      "question": "Cechą kliniczną neuropatii autonomicznej w przebiegu cukrzycy jest: A. tachykardia spoczynkowa. B. bradykardia spoczynkowa. C. zwiększona zmienność rytmu serca. D. nadmierna reakcja źrenic na leki rozszerzające źrenice.\n",
+      "question": "Cechą kliniczną neuropatii autonomicznej w przebiegu cukrzycy jest: A. tachykardia spoczynkowa. B. bradykardia spoczynkowa. C. zwiększona zmienność rytmu serca. D. nadmierna reakcja źrenic na leki rozszerzające źrenice. E. zwiększenie wielkości źrenic.\n",
       "answers": [
         {
           "id": "A",
-          "text": "tachykardia spoczynkowa.\n",
+          "text": "tachykardia spoczynkowa. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "bradykardia spoczynkowa.\n",
+          "text": "bradykardia spoczynkowa. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "zwiększona zmienność rytmu serca.\n",
+          "text": "zwiększona zmienność rytmu serca. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "nadmierna reakcja źrenic na leki rozszerzające źrenice.\n",
+          "text": "nadmierna reakcja źrenic na leki rozszerzające źrenice. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "zwiększenie wielkości źrenic.\n",
+          "text": "zwiększenie wielkości źrenic. ",
           "isCorrect": false
         }
       ],
@@ -2010,31 +2010,31 @@
     },
     {
       "id": "int-1-60",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące metforminy: A. Nie może być stosowana u otyłych pacjentów z cukrzycą typu 1. B. Jest stosowana jako terapia pierwszego rzutu w cukrzycy typu 2, bez względu na masę ciała. C. Należy ją odstawić, jeśli wskaźnik filtracji kłębuszkowej wynosi\n30-45 ml/min/1,73 m2. D. Może zwiększać ryzyko kwasicy ketonowej.\n",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące metforminy: A. Nie może być stosowana u otyłych pacjentów z cukrzycą typu 1. B. Jest stosowana jako terapia pierwszego rzutu w cukrzycy typu 2, bez względu na masę ciała. C. Należy ją odstawić, jeśli wskaźnik filtracji kłębuszkowej wynosi\n30-45 ml/min/1,73 m2. D. Może zwiększać ryzyko kwasicy ketonowej. E. Głównymi skutkami ubocznymi są zaparcia stolca.\n",
       "answers": [
         {
           "id": "A",
-          "text": "Nie może być stosowana u otyłych pacjentów z cukrzycą typu 1.\n",
+          "text": "Nie może być stosowana u otyłych pacjentów z cukrzycą typu 1. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "Jest stosowana jako terapia pierwszego rzutu w cukrzycy typu 2, bez\nwzględu na masę ciała.\n",
+          "text": "Jest stosowana jako terapia pierwszego rzutu w cukrzycy typu 2, bez względu na masę ciała. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "Należy ją odstawić, jeśli wskaźnik filtracji kłębuszkowej wynosi\n30-45 ml/min/1,73 m2.\n",
+          "text": "Należy ją odstawić, jeśli wskaźnik filtracji kłębuszkowej wynosi 30-45 ml/min/1,73 m2. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "Może zwiększać ryzyko kwasicy ketonowej.\n",
+          "text": "Może zwiększać ryzyko kwasicy ketonowej. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "Głównymi skutkami ubocznymi są zaparcia stolca.\n",
+          "text": "Głównymi skutkami ubocznymi są zaparcia stolca. ",
           "isCorrect": false
         }
       ],
@@ -2044,31 +2044,31 @@
     },
     {
       "id": "int-1-61",
-      "question": "Do objawów hiperkalcemii zalicza się: A. biegunkę. B. skąpomocz. C. zmniejszone pragnienie. D. kolkę nerkową.\n",
+      "question": "Do objawów hiperkalcemii zalicza się: A. biegunkę. B. skąpomocz. C. zmniejszone pragnienie. D. kolkę nerkową. E. grubofaliste drżenie rąk.\n",
       "answers": [
         {
           "id": "A",
-          "text": "biegunkę.\n",
+          "text": "biegunkę. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "skąpomocz.\n",
+          "text": "skąpomocz. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "zmniejszone pragnienie.\n",
+          "text": "zmniejszone pragnienie. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "kolkę nerkową.\n",
+          "text": "kolkę nerkową. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "grubofaliste drżenie rąk.\n",
+          "text": "grubofaliste drżenie rąk. ",
           "isCorrect": false
         }
       ],
@@ -2078,31 +2078,31 @@
     },
     {
       "id": "int-1-62",
-      "question": "Test reaktywności naczyń płucnych, wykorzystywany w diagnostyce nadciśnienia płucnego można wykonać z zastosowaniem wymienionych poniżej leków, z wyjątkiem: A. tlenku azotu. B. epoprostenolu. C. salbutamolu. D. adenozyny.\n",
+      "question": "Test reaktywności naczyń płucnych, wykorzystywany w diagnostyce nadciśnienia płucnego można wykonać z zastosowaniem wymienionych poniżej leków, z wyjątkiem: A. tlenku azotu. B. epoprostenolu. C. salbutamolu. D. adenozyny. E. iloprostu.\n",
       "answers": [
         {
           "id": "A",
-          "text": "tlenku azotu.\n",
+          "text": "tlenku azotu. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "epoprostenolu.\n",
+          "text": "epoprostenolu. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "salbutamolu.\n",
+          "text": "salbutamolu. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "adenozyny.\n",
+          "text": "adenozyny. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "iloprostu.\n",
+          "text": "iloprostu. ",
           "isCorrect": false
         }
       ],
@@ -2112,31 +2112,31 @@
     },
     {
       "id": "int-1-63",
-      "question": "Który z wymienionych leków wchodzi w skład każdego protokołu leczenia szpiczaka plazmocytowego, u pacjenta przygotowywanego do autologicznego przeszczepienia komórek macierzystych: A. talidomid. B. bortezomib. C. cyklofosfamid. D. lenalidomid.\n",
+      "question": "Który z wymienionych leków wchodzi w skład każdego protokołu leczenia szpiczaka plazmocytowego, u pacjenta przygotowywanego do autologicznego przeszczepienia komórek macierzystych: A. talidomid. B. bortezomib. C. cyklofosfamid. D. lenalidomid. E. doksorubicyna.\n",
       "answers": [
         {
           "id": "A",
-          "text": "talidomid.\n",
+          "text": "talidomid. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "bortezomib.\n",
+          "text": "bortezomib. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "cyklofosfamid.\n",
+          "text": "cyklofosfamid. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "lenalidomid.\n",
+          "text": "lenalidomid. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "doksorubicyna.\n",
+          "text": "doksorubicyna. ",
           "isCorrect": false
         }
       ],
@@ -2146,31 +2146,31 @@
     },
     {
       "id": "int-1-64",
-      "question": "Najwyższe ryzyko powikłań kardiologicznych (w tym rozwoju kardiomiopatii rozstrzeniowej) dotyczy pacjentów z chorobami nowotworowymi otrzymujących w chemioterapii: A. pochodne platyny. B. leki alkilujące. C. docetaksel. D. antracykliny.\n",
+      "question": "Najwyższe ryzyko powikłań kardiologicznych (w tym rozwoju kardiomiopatii rozstrzeniowej) dotyczy pacjentów z chorobami nowotworowymi otrzymujących w chemioterapii: A. pochodne platyny. B. leki alkilujące. C. docetaksel. D. antracykliny. E. przeciwciała anty-VEGF.\n",
       "answers": [
         {
           "id": "A",
-          "text": "pochodne platyny.\n",
+          "text": "pochodne platyny. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "leki alkilujące.\n",
+          "text": "leki alkilujące. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "docetaksel.\n",
+          "text": "docetaksel. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "antracykliny.\n",
+          "text": "antracykliny. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "przeciwciała anty-VEGF.\n",
+          "text": "przeciwciała anty-VEGF. ",
           "isCorrect": false
         }
       ],
@@ -2180,31 +2180,31 @@
     },
     {
       "id": "int-1-65",
-      "question": "Przeciwciałem monoklonalnym, które znalazło zastosowanie zarówno w leczeniu szeregu chorób nowotworowych (chłoniaki nie-Hodgkina, przewlekła białaczka limfatyczna, ostra białaczka limfoblastyczna), jak i autoimmunologicznych\n(reumatoidalne zapalenie stawów, zapalenia naczyń z przeciwciałami przeciwko cytoplazmie neutrofilów) jest: A. bewacyzumab. B. trastuzumab. C. infliksymab. D. tocylizumab.\n",
+      "question": "Przeciwciałem monoklonalnym, które znalazło zastosowanie zarówno w leczeniu szeregu chorób nowotworowych (chłoniaki nie-Hodgkina, przewlekła białaczka limfatyczna, ostra białaczka limfoblastyczna), jak i autoimmunologicznych\n(reumatoidalne zapalenie stawów, zapalenia naczyń z przeciwciałami przeciwko cytoplazmie neutrofilów) jest: A. bewacyzumab. B. trastuzumab. C. infliksymab. D. tocylizumab. E. rytuksymab.\n",
       "answers": [
         {
           "id": "A",
-          "text": "bewacyzumab.\n",
+          "text": "bewacyzumab. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "trastuzumab.\n",
+          "text": "trastuzumab. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "infliksymab.\n",
+          "text": "infliksymab. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "tocylizumab.\n",
+          "text": "tocylizumab. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "rytuksymab.\n",
+          "text": "rytuksymab. ",
           "isCorrect": false
         }
       ],
@@ -2214,31 +2214,31 @@
     },
     {
       "id": "int-1-66",
-      "question": "Poniżej wymieniono wybrane cechy raków żołądka wg klasyfikacji Laurena. Wybierz te, które najlepiej charakteryzują raka gruczołowego typu jelitowego: A. lokalizacja w części przedodźwiernikowej, związek z zakażeniem Helicobacter pylori, przerzuty drogą krwionośną do wątroby. B. lokalizacja w kącie żołądka, związek z mutacjami genu kodującego e-kadherynę, naciekanie błony otrzewnej przez ciągłość. C. lokalizacja w trzonie żołądka, związek z mutacjami genu kodującego e-kadherynę, guz egzofityczny, dobrze odgraniczony. D. lokalizacja w trzonie żołądka, związek przyczynowy z alkoholem i papierosami, naciekanie przez ciągłość.\n",
+      "question": "Poniżej wymieniono wybrane cechy raków żołądka wg klasyfikacji Laurena. Wybierz te, które najlepiej charakteryzują raka gruczołowego typu jelitowego: A. lokalizacja w części przedodźwiernikowej, związek z zakażeniem Helicobacter pylori, przerzuty drogą krwionośną do wątroby. B. lokalizacja w kącie żołądka, związek z mutacjami genu kodującego e-kadherynę, naciekanie błony otrzewnej przez ciągłość. C. lokalizacja w trzonie żołądka, związek z mutacjami genu kodującego e-kadherynę, guz egzofityczny, dobrze odgraniczony. D. lokalizacja w trzonie żołądka, związek przyczynowy z alkoholem i papierosami, naciekanie przez ciągłość. E. lokalizacja w części przedodźwiernikowej, pogrubienie ściany żołądka z owrzodzeniem śluzówki, brak możliwości leczenia operacyjnego nawet we wczesnych postaciach.\n",
       "answers": [
         {
           "id": "A",
-          "text": "lokalizacja w części przedodźwiernikowej, związek z zakażeniem Helicobacter\npylori, przerzuty drogą krwionośną do wątroby.\n",
+          "text": "lokalizacja w części przedodźwiernikowej, związek z zakażeniem Helicobacter pylori, przerzuty drogą krwionośną do wątroby. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "lokalizacja w kącie żołądka, związek z mutacjami genu kodującego\ne-kadherynę, naciekanie błony otrzewnej przez ciągłość.\n",
+          "text": "lokalizacja w kącie żołądka, związek z mutacjami genu kodującego e-kadherynę, naciekanie błony otrzewnej przez ciągłość. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "lokalizacja w trzonie żołądka, związek z mutacjami genu kodującego\ne-kadherynę, guz egzofityczny, dobrze odgraniczony.\n",
+          "text": "lokalizacja w trzonie żołądka, związek z mutacjami genu kodującego e-kadherynę, guz egzofityczny, dobrze odgraniczony. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "lokalizacja w trzonie żołądka, związek przyczynowy z alkoholem i\npapierosami, naciekanie przez ciągłość.\n",
+          "text": "lokalizacja w trzonie żołądka, związek przyczynowy z alkoholem i papierosami, naciekanie przez ciągłość. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "lokalizacja w części przedodźwiernikowej, pogrubienie ściany żołądka z\nowrzodzeniem śluzówki, brak możliwości leczenia operacyjnego nawet we\nwczesnych postaciach.\n",
+          "text": "lokalizacja w części przedodźwiernikowej, pogrubienie ściany żołądka z owrzodzeniem śluzówki, brak możliwości leczenia operacyjnego nawet we wczesnych postaciach. ",
           "isCorrect": false
         }
       ],
@@ -2248,31 +2248,31 @@
     },
     {
       "id": "int-1-67",
-      "question": "Który z wymienionych poniżej leków stosowanych przewlekle zmniejsza ryzyko rozwoju raka jelita grubego (choć nie jest rekomendowany jako profilaktyka tego nowotworu): A. allopurynol. B. witamina D. C. witamina C. D. kwas acetylosalicylowy.\n",
+      "question": "Który z wymienionych poniżej leków stosowanych przewlekle zmniejsza ryzyko rozwoju raka jelita grubego (choć nie jest rekomendowany jako profilaktyka tego nowotworu): A. allopurynol. B. witamina D. C. witamina C. D. kwas acetylosalicylowy. E. N-acetylocysteina.\n",
       "answers": [
         {
           "id": "A",
-          "text": "allopurynol.\n",
+          "text": "allopurynol. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "witamina D.\n",
+          "text": "witamina D. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "witamina C.\n",
+          "text": "witamina C. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "kwas acetylosalicylowy.\n",
+          "text": "kwas acetylosalicylowy. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "N-acetylocysteina.\n",
+          "text": "N-acetylocysteina. ",
           "isCorrect": false
         }
       ],
@@ -2282,31 +2282,31 @@
     },
     {
       "id": "int-1-68",
-      "question": "W trakcie zabiegu Kauscha-Whipple’a, stosowanego w operacyjnym leczeniu raka głowy trzustki rutynowo usuwa się wszystkie wymienione struktury z wyjątkiem: A. pęcherzyka żółciowego. B. przewodu żółciowego wspólnego. C. lewego płata wątroby. D. dwunastnicy.\n",
+      "question": "W trakcie zabiegu Kauscha-Whipple’a, stosowanego w operacyjnym leczeniu raka głowy trzustki rutynowo usuwa się wszystkie wymienione struktury z wyjątkiem: A. pęcherzyka żółciowego. B. przewodu żółciowego wspólnego. C. lewego płata wątroby. D. dwunastnicy. E. części odźwiernikowej żołądka.\n",
       "answers": [
         {
           "id": "A",
-          "text": "pęcherzyka żółciowego.\n",
+          "text": "pęcherzyka żółciowego. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "przewodu żółciowego wspólnego.\n",
+          "text": "przewodu żółciowego wspólnego. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "lewego płata wątroby.\n",
+          "text": "lewego płata wątroby. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "dwunastnicy.\n",
+          "text": "dwunastnicy. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "części odźwiernikowej żołądka.\n",
+          "text": "części odźwiernikowej żołądka. ",
           "isCorrect": false
         }
       ],
@@ -2316,31 +2316,31 @@
     },
     {
       "id": "int-1-69",
-      "question": "Biomarkerem o dużej przydatności w rozpoznawaniu i monitorowaniu gruczolaków przysadki wywodzących się z komórek somatotropowych jest: A. somatoliberyna. B. insulinopodobny czynnik wzrostu 1. C. czynnik martwicy nowotworów alfa. D. transformujący czynnik wzrostu beta.\n",
+      "question": "Biomarkerem o dużej przydatności w rozpoznawaniu i monitorowaniu gruczolaków przysadki wywodzących się z komórek somatotropowych jest: A. somatoliberyna. B. insulinopodobny czynnik wzrostu 1. C. czynnik martwicy nowotworów alfa. D. transformujący czynnik wzrostu beta. E. somatostatyna.\n",
       "answers": [
         {
           "id": "A",
-          "text": "somatoliberyna.\n",
+          "text": "somatoliberyna. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "insulinopodobny czynnik wzrostu 1.\n",
+          "text": "insulinopodobny czynnik wzrostu 1. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "czynnik martwicy nowotworów alfa.\n",
+          "text": "czynnik martwicy nowotworów alfa. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "transformujący czynnik wzrostu beta.\n",
+          "text": "transformujący czynnik wzrostu beta. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "somatostatyna.\n",
+          "text": "somatostatyna. ",
           "isCorrect": false
         }
       ],
@@ -2350,31 +2350,31 @@
     },
     {
       "id": "int-1-70",
-      "question": "Wskaż nieprawidłowość, która nie jest charakterystyczna dla jawnego zespołu rozpadu nowotworu: A. hiperfosfatemia. B. wzrost stężenia kreatyniny. C. hiperkalemia. D. hiperkalcemia.\n",
+      "question": "Wskaż nieprawidłowość, która nie jest charakterystyczna dla jawnego zespołu rozpadu nowotworu: A. hiperfosfatemia. B. wzrost stężenia kreatyniny. C. hiperkalemia. D. hiperkalcemia. E. hiperurykemia.\n",
       "answers": [
         {
           "id": "A",
-          "text": "hiperfosfatemia.\n",
+          "text": "hiperfosfatemia. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "wzrost stężenia kreatyniny.\n",
+          "text": "wzrost stężenia kreatyniny. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "hiperkalemia.\n",
+          "text": "hiperkalemia. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "hiperkalcemia.\n",
+          "text": "hiperkalcemia. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "hiperurykemia.\n",
+          "text": "hiperurykemia. ",
           "isCorrect": false
         }
       ],
@@ -2384,31 +2384,31 @@
     },
     {
       "id": "int-1-71",
-      "question": "Mitotan jest lekiem znajdującym zastosowanie w leczeni zaawansowanego raka: A. kory nadnerczy. B. jądra. C. tarczycy. D. przytarczycy.\n",
+      "question": "Mitotan jest lekiem znajdującym zastosowanie w leczeni zaawansowanego raka: A. kory nadnerczy. B. jądra. C. tarczycy. D. przytarczycy. E. uroepitelialnego.\n",
       "answers": [
         {
           "id": "A",
-          "text": "kory nadnerczy.\n",
+          "text": "kory nadnerczy. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "jądra.\n",
+          "text": "jądra. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "tarczycy.\n",
+          "text": "tarczycy. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "przytarczycy.\n",
+          "text": "przytarczycy. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "uroepitelialnego.\n",
+          "text": "uroepitelialnego. ",
           "isCorrect": false
         }
       ],
@@ -2418,31 +2418,31 @@
     },
     {
       "id": "int-1-72",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące leczenia zróżnicowanych raków tarczycy jodem promieniotwórczym: A. skuteczność leczenia wymaga adekwatnego (>30 mIU/ml) stężenia TSH. B. skuteczność leczenia zwiększa się podaniem egzogennego rekombinowanego TSH. C. jod promieniotwórczy znajduje zastosowanie w paliatywnym leczeniu przerzutów do kości. D. na trzy miesiące przed terapią jodem promieniotwórczym nie należy wykonywać badań obrazowych z kontrastem jodowym.\n",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące leczenia zróżnicowanych raków tarczycy jodem promieniotwórczym: A. skuteczność leczenia wymaga adekwatnego (>30 mIU/ml) stężenia TSH. B. skuteczność leczenia zwiększa się podaniem egzogennego rekombinowanego TSH. C. jod promieniotwórczy znajduje zastosowanie w paliatywnym leczeniu przerzutów do kości. D. na trzy miesiące przed terapią jodem promieniotwórczym nie należy wykonywać badań obrazowych z kontrastem jodowym. E. jod promieniotwórczy jest skuteczny w leczeniu przerzutów do płuc pod warunkiem pozostawienia zdrowych fragmentów tarczycy po resekcji guza pierwotnego.\n",
       "answers": [
         {
           "id": "A",
-          "text": "skuteczność leczenia wymaga adekwatnego (>30 mIU/ml) stężenia TSH.\n",
+          "text": "skuteczność leczenia wymaga adekwatnego (>30 mIU/ml) stężenia TSH. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "skuteczność leczenia zwiększa się podaniem egzogennego rekombinowanego\nTSH.\n",
+          "text": "skuteczność leczenia zwiększa się podaniem egzogennego rekombinowanego TSH. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "jod promieniotwórczy znajduje zastosowanie w paliatywnym leczeniu\nprzerzutów do kości.\n",
+          "text": "jod promieniotwórczy znajduje zastosowanie w paliatywnym leczeniu przerzutów do kości. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "na trzy miesiące przed terapią jodem promieniotwórczym nie należy\nwykonywać badań obrazowych z kontrastem jodowym.\n",
+          "text": "na trzy miesiące przed terapią jodem promieniotwórczym nie należy wykonywać badań obrazowych z kontrastem jodowym. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "jod promieniotwórczy jest skuteczny w leczeniu przerzutów do płuc pod\nwarunkiem pozostawienia zdrowych fragmentów tarczycy po resekcji guza\npierwotnego.\n",
+          "text": "jod promieniotwórczy jest skuteczny w leczeniu przerzutów do płuc pod warunkiem pozostawienia zdrowych fragmentów tarczycy po resekcji guza pierwotnego. ",
           "isCorrect": false
         }
       ],
@@ -2452,31 +2452,31 @@
     },
     {
       "id": "int-1-73",
-      "question": "Najbardziej czułą i uniwersalną metodą diagnostyczną identyfikującą hormonalnie czynne nowotwory neuroendokrynne jest: A. wielorzędowa tomografia spiralna. B. rezonans magnetyczny. C. pozytronowa tomografia emisyjna z podaniem 18F fluorodezoksyglukozy. D. scyntygrafia receptorowa z zastosowaniem analogu somatostatyny znakowanego promieniotwórczym galem lub technetem.\n",
+      "question": "Najbardziej czułą i uniwersalną metodą diagnostyczną identyfikującą hormonalnie czynne nowotwory neuroendokrynne jest: A. wielorzędowa tomografia spiralna. B. rezonans magnetyczny. C. pozytronowa tomografia emisyjna z podaniem 18F fluorodezoksyglukozy. D. scyntygrafia receptorowa z zastosowaniem analogu somatostatyny znakowanego promieniotwórczym galem lub technetem. E. scyntygrafia z zastosowaniem metajodobenzyloguanidyny znakowanej promieniotwórczym jodem.\n",
       "answers": [
         {
           "id": "A",
-          "text": "wielorzędowa tomografia spiralna.\n",
+          "text": "wielorzędowa tomografia spiralna. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "rezonans magnetyczny.\n",
+          "text": "rezonans magnetyczny. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "pozytronowa tomografia emisyjna z podaniem 18F fluorodezoksyglukozy.\n",
+          "text": "pozytronowa tomografia emisyjna z podaniem 18F fluorodezoksyglukozy. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "scyntygrafia receptorowa z zastosowaniem analogu somatostatyny\nznakowanego promieniotwórczym galem lub technetem.\n",
+          "text": "scyntygrafia receptorowa z zastosowaniem analogu somatostatyny znakowanego promieniotwórczym galem lub technetem. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "scyntygrafia z zastosowaniem metajodobenzyloguanidyny znakowanej\npromieniotwórczym jodem.\n",
+          "text": "scyntygrafia z zastosowaniem metajodobenzyloguanidyny znakowanej promieniotwórczym jodem. ",
           "isCorrect": false
         }
       ],
@@ -2486,31 +2486,31 @@
     },
     {
       "id": "int-1-74",
-      "question": "Nieswoistym (uniwersalnym) biomarkerem, którego oznaczanie pozwala z dużą czułością i specyficznością na ustalenie obecności nowotworów neuroendokrynnych rożnego pochodzenia jest: A. serotonina. B. alfa-fetoproteina. C. chromogranina A. D. czynnik martwicy nowotworów alfa.\n",
+      "question": "Nieswoistym (uniwersalnym) biomarkerem, którego oznaczanie pozwala z dużą czułością i specyficznością na ustalenie obecności nowotworów neuroendokrynnych rożnego pochodzenia jest: A. serotonina. B. alfa-fetoproteina. C. chromogranina A. D. czynnik martwicy nowotworów alfa. E. insulinopodobny czynnik wzrostu 1.\n",
       "answers": [
         {
           "id": "A",
-          "text": "serotonina.\n",
+          "text": "serotonina. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "alfa-fetoproteina.\n",
+          "text": "alfa-fetoproteina. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "chromogranina A.\n",
+          "text": "chromogranina A. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "czynnik martwicy nowotworów alfa.\n",
+          "text": "czynnik martwicy nowotworów alfa. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "insulinopodobny czynnik wzrostu 1.\n",
+          "text": "insulinopodobny czynnik wzrostu 1. ",
           "isCorrect": false
         }
       ],
@@ -2520,31 +2520,31 @@
     },
     {
       "id": "int-1-75",
-      "question": "Lekiem biologicznym stosowanym w leczeniu chorób autoimmunologicznych\n(w tym reumatoidalnego zapalenia stawów), który hamuje tzw. drugi sygnał w aktywacji limfocytów T (interakcję pomiędzy limfocytem T i komórką prezentującą antygen) jest: A. rytuksymab. B. abatacept. C. etanercept. D. leflunomid.\n",
+      "question": "Lekiem biologicznym stosowanym w leczeniu chorób autoimmunologicznych\n(w tym reumatoidalnego zapalenia stawów), który hamuje tzw. drugi sygnał w aktywacji limfocytów T (interakcję pomiędzy limfocytem T i komórką prezentującą antygen) jest: A. rytuksymab. B. abatacept. C. etanercept. D. leflunomid. E. tocylizumab.\n",
       "answers": [
         {
           "id": "A",
-          "text": "rytuksymab.\n",
+          "text": "rytuksymab. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "abatacept.\n",
+          "text": "abatacept. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "etanercept.\n",
+          "text": "etanercept. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "leflunomid.\n",
+          "text": "leflunomid. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "tocylizumab.\n",
+          "text": "tocylizumab. ",
           "isCorrect": false
         }
       ],
@@ -2554,7 +2554,7 @@
     },
     {
       "id": "int-1-76",
-      "question": "Poniżej wymieniono wybrane wskaźniki diagnostyczne lub objawy pozwalające na rozpoznanie oraz ocenę aktywności reumatoidalnego zapalenia stawów. Wskaż te, które nie wchodzą w skład podstawowej skali służącej ocenie aktywności tej choroby (Disease Activity Index; DAS):\n1) subiektywna ocena nasilenia objawów przez pacjenta (w skali 0-100);\n2) liczba leukocytów w badaniu morfologii krwi;\n3) miano czynnika reumatoidalnego w klasie IgM;\n4) wartość OB;\n5) stężenie CRP;\n6) stężenie fibrynogenu;\n7) miano przeciwciał przeciwko cytrulinowanym peptydom;\n8) liczba obrzękniętych stawów;\n9) odsetek limfocytów w badaniu morfologii krwi. Prawidłowa odpowiedź to: A. 1,2,3. B. 2,4,9. C. 4,6,8. D. 2,3,7. ",
+      "question": "Poniżej wymieniono wybrane wskaźniki diagnostyczne lub objawy pozwalające na rozpoznanie oraz ocenę aktywności reumatoidalnego zapalenia stawów. Wskaż te, które nie wchodzą w skład podstawowej skali służącej ocenie aktywności tej choroby (Disease Activity Index; DAS):\n1) subiektywna ocena nasilenia objawów przez pacjenta (w skali 0-100);\n2) liczba leukocytów w badaniu morfologii krwi;\n3) miano czynnika reumatoidalnego w klasie IgM;\n4) wartość OB;\n5) stężenie CRP;\n6) stężenie fibrynogenu;\n7) miano przeciwciał przeciwko cytrulinowanym peptydom;\n8) liczba obrzękniętych stawów;\n9) odsetek limfocytów w badaniu morfologii krwi. Prawidłowa odpowiedź to: A. 1,2,3. B. 2,4,9. C. 4,6,8. D. 2,3,7. E. 4,5,8.\n",
       "answers": [
         {
           "id": "A",
@@ -2578,7 +2578,7 @@
         },
         {
           "id": "E",
-          "text": "4,5,8.\n",
+          "text": "4,5,8. ",
           "isCorrect": false
         }
       ],
@@ -2588,31 +2588,31 @@
     },
     {
       "id": "int-1-77",
-      "question": "Poniżej wymieniono domeny kliniczne pozwalające na rozpoznanie tocznia rumieniowatego układowego wg ACR/EULAR. Do rozpoznania choroby niezbędne jest stwierdzenie >10 punktów, a poszczególne domeny mają „wartość” od 2 do 10 punktów. Wskaż kryteria kliniczne punktowane najwyżej: A. zapalenie błony maziowej lub bolesność uciskowa w co najmniej dwóch stawach ze sztywnością poranną przez co najmniej 30 minut. B. małopłytkowość. C. majaczenie. D. owrzodzenia w jamie ustnej.\n",
+      "question": "Poniżej wymieniono domeny kliniczne pozwalające na rozpoznanie tocznia rumieniowatego układowego wg ACR/EULAR. Do rozpoznania choroby niezbędne jest stwierdzenie >10 punktów, a poszczególne domeny mają „wartość” od 2 do 10 punktów. Wskaż kryteria kliniczne punktowane najwyżej: A. zapalenie błony maziowej lub bolesność uciskowa w co najmniej dwóch stawach ze sztywnością poranną przez co najmniej 30 minut. B. małopłytkowość. C. majaczenie. D. owrzodzenia w jamie ustnej. E. białkomocz >0,5 g/dobę.\n",
       "answers": [
         {
           "id": "A",
-          "text": "zapalenie błony maziowej lub bolesność uciskowa w co najmniej dwóch\nstawach ze sztywnością poranną przez co najmniej 30 minut.\n",
+          "text": "zapalenie błony maziowej lub bolesność uciskowa w co najmniej dwóch stawach ze sztywnością poranną przez co najmniej 30 minut. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "małopłytkowość.\n",
+          "text": "małopłytkowość. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "majaczenie.\n",
+          "text": "majaczenie. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "owrzodzenia w jamie ustnej.\n",
+          "text": "owrzodzenia w jamie ustnej. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "białkomocz >0,5 g/dobę.\n",
+          "text": "białkomocz >0,5 g/dobę. ",
           "isCorrect": false
         }
       ],
@@ -2622,31 +2622,31 @@
     },
     {
       "id": "int-1-78",
-      "question": "Jedynym lekiem biologicznym (przeciwciałem) zarejestrowanym w leczeniu tocznia rumieniowatego układowego jest: A. anakinra. B. tocylizumab. C. belimumab. D. infliksymab.\n",
+      "question": "Jedynym lekiem biologicznym (przeciwciałem) zarejestrowanym w leczeniu tocznia rumieniowatego układowego jest: A. anakinra. B. tocylizumab. C. belimumab. D. infliksymab. E. daratumumab.\n",
       "answers": [
         {
           "id": "A",
-          "text": "anakinra.\n",
+          "text": "anakinra. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "tocylizumab.\n",
+          "text": "tocylizumab. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "belimumab.\n",
+          "text": "belimumab. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "infliksymab.\n",
+          "text": "infliksymab. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "daratumumab.\n",
+          "text": "daratumumab. ",
           "isCorrect": false
         }
       ],
@@ -2656,7 +2656,7 @@
     },
     {
       "id": "int-1-79",
-      "question": "Poniżej wymieniono leki stosowane w terapii przewlekłej obturacyjnej choroby płuc. Wskaż te, które charakteryzują się krótkim czasem działania:\n1) ipratropium;\n2) tiopropium;\n3) bromek glikopironium;\n4) formoterol;\n5) fenoterol;\n6) salbutamol. Prawidłowa odpowiedź to: A. 1,5,6. B. 1,3,4. C. 2,3,4. D. 2,3,5. ",
+      "question": "Poniżej wymieniono leki stosowane w terapii przewlekłej obturacyjnej choroby płuc. Wskaż te, które charakteryzują się krótkim czasem działania:\n1) ipratropium;\n2) tiopropium;\n3) bromek glikopironium;\n4) formoterol;\n5) fenoterol;\n6) salbutamol. Prawidłowa odpowiedź to: A. 1,5,6. B. 1,3,4. C. 2,3,4. D. 2,3,5. E. 2,3,6.\n",
       "answers": [
         {
           "id": "A",
@@ -2680,7 +2680,7 @@
         },
         {
           "id": "E",
-          "text": "2,3,6.\n",
+          "text": "2,3,6. ",
           "isCorrect": false
         }
       ],
@@ -2690,31 +2690,31 @@
     },
     {
       "id": "int-1-80",
-      "question": "Pacjenci z pierwotnym stwardniejącym zapaleniem dróg żółciowych w około\n70% chorują jednocześnie na: A. nefropatię IgA. B. wrzodziejące zapalenie jelita grubego. C. chorobę Hashimoto. D. bielactwo.\n",
+      "question": "Pacjenci z pierwotnym stwardniejącym zapaleniem dróg żółciowych w około\n70% chorują jednocześnie na: A. nefropatię IgA. B. wrzodziejące zapalenie jelita grubego. C. chorobę Hashimoto. D. bielactwo. E. zesztywniejące zapalenie stawów kręgosłupa.\n",
       "answers": [
         {
           "id": "A",
-          "text": "nefropatię IgA.\n",
+          "text": "nefropatię IgA. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "wrzodziejące zapalenie jelita grubego.\n",
+          "text": "wrzodziejące zapalenie jelita grubego. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "chorobę Hashimoto.\n",
+          "text": "chorobę Hashimoto. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "bielactwo.\n",
+          "text": "bielactwo. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "zesztywniejące zapalenie stawów kręgosłupa.\n",
+          "text": "zesztywniejące zapalenie stawów kręgosłupa. ",
           "isCorrect": false
         }
       ],
@@ -2724,31 +2724,31 @@
     },
     {
       "id": "int-1-81",
-      "question": "Wskaż antybiotyk, który nie wchodzi w skład żadnego ze współczesnych schematów eradykacji Helicobacter pylori: A. klarytromycyna. B. amoksycylina. C. cefuroksym. D. metronidazol.\n",
+      "question": "Wskaż antybiotyk, który nie wchodzi w skład żadnego ze współczesnych schematów eradykacji Helicobacter pylori: A. klarytromycyna. B. amoksycylina. C. cefuroksym. D. metronidazol. E. lewofloksacyna.\n",
       "answers": [
         {
           "id": "A",
-          "text": "klarytromycyna.\n",
+          "text": "klarytromycyna. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "amoksycylina.\n",
+          "text": "amoksycylina. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "cefuroksym.\n",
+          "text": "cefuroksym. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "metronidazol.\n",
+          "text": "metronidazol. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "lewofloksacyna.\n",
+          "text": "lewofloksacyna. ",
           "isCorrect": false
         }
       ],
@@ -2758,31 +2758,31 @@
     },
     {
       "id": "int-1-82",
-      "question": "W której spośród wymienionych poniżej nabytych wad serca najczęściej należy spodziewać się omdleń? A. niedomykalność zastawki dwudzielnej. B. niedomykalność zastawki aortalnej. C. niedomykalność zastawki trójdzielnej. D. zwężenie zastawki aortalnej.\n",
+      "question": "W której spośród wymienionych poniżej nabytych wad serca najczęściej należy spodziewać się omdleń? A. niedomykalność zastawki dwudzielnej. B. niedomykalność zastawki aortalnej. C. niedomykalność zastawki trójdzielnej. D. zwężenie zastawki aortalnej. E. zespół wypadania płatka zastawki dwudzielnej.\n",
       "answers": [
         {
           "id": "A",
-          "text": "niedomykalność zastawki dwudzielnej.\n",
+          "text": "niedomykalność zastawki dwudzielnej. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "niedomykalność zastawki aortalnej.\n",
+          "text": "niedomykalność zastawki aortalnej. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "niedomykalność zastawki trójdzielnej.\n",
+          "text": "niedomykalność zastawki trójdzielnej. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "zwężenie zastawki aortalnej.\n",
+          "text": "zwężenie zastawki aortalnej. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "zespół wypadania płatka zastawki dwudzielnej.\n",
+          "text": "zespół wypadania płatka zastawki dwudzielnej. ",
           "isCorrect": false
         }
       ],
@@ -2792,31 +2792,31 @@
     },
     {
       "id": "int-1-83",
-      "question": "Szmer Austina-Flinta jest szmerem: A. rozkurczowym, którego źródłem jest zastawka aortalna. B. rozkurczowym, którego źródłem jest zastawka dwudzielna. C. skurczowym, którego źródłem jest zastawka dwudzielna. D. skurczowym, którego źródłem jest zastawka aortalna.\n",
+      "question": "Szmer Austina-Flinta jest szmerem: A. rozkurczowym, którego źródłem jest zastawka aortalna. B. rozkurczowym, którego źródłem jest zastawka dwudzielna. C. skurczowym, którego źródłem jest zastawka dwudzielna. D. skurczowym, którego źródłem jest zastawka aortalna. E. skurczowym, którego przyczyną jest przeciek lewo-prawy w ubytku przegrody międzykomorowej.\n",
       "answers": [
         {
           "id": "A",
-          "text": "rozkurczowym, którego źródłem jest zastawka aortalna.\n",
+          "text": "rozkurczowym, którego źródłem jest zastawka aortalna. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "rozkurczowym, którego źródłem jest zastawka dwudzielna.\n",
+          "text": "rozkurczowym, którego źródłem jest zastawka dwudzielna. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "skurczowym, którego źródłem jest zastawka dwudzielna.\n",
+          "text": "skurczowym, którego źródłem jest zastawka dwudzielna. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "skurczowym, którego źródłem jest zastawka aortalna.\n",
+          "text": "skurczowym, którego źródłem jest zastawka aortalna. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "skurczowym, którego przyczyną jest przeciek lewo-prawy w ubytku przegrody\nmiędzykomorowej.\n",
+          "text": "skurczowym, którego przyczyną jest przeciek lewo-prawy w ubytku przegrody międzykomorowej. ",
           "isCorrect": false
         }
       ],
@@ -2826,31 +2826,31 @@
     },
     {
       "id": "int-1-84",
-      "question": "U każdego pacjenta przywiezionego do Szpitalnego Oddziału Ratunkowego z powodu omdlenia należy: A. wykonać badanie tomograficzne głowy. B. oznaczyć stężenie CRP (białka C- reaktywnego). C. wykonać rezonans szyjnego odcinka kręgosłupa. D. wykonać badanie elektrokardiograficzne.\n",
+      "question": "U każdego pacjenta przywiezionego do Szpitalnego Oddziału Ratunkowego z powodu omdlenia należy: A. wykonać badanie tomograficzne głowy. B. oznaczyć stężenie CRP (białka C- reaktywnego). C. wykonać rezonans szyjnego odcinka kręgosłupa. D. wykonać badanie elektrokardiograficzne. E. oznaczyć stężenie troponiny.\n",
       "answers": [
         {
           "id": "A",
-          "text": "wykonać badanie tomograficzne głowy.\n",
+          "text": "wykonać badanie tomograficzne głowy. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "oznaczyć stężenie CRP (białka C- reaktywnego).\n",
+          "text": "oznaczyć stężenie CRP (białka C- reaktywnego). ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "wykonać rezonans szyjnego odcinka kręgosłupa.\n",
+          "text": "wykonać rezonans szyjnego odcinka kręgosłupa. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "wykonać badanie elektrokardiograficzne.\n",
+          "text": "wykonać badanie elektrokardiograficzne. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "oznaczyć stężenie troponiny.\n",
+          "text": "oznaczyć stężenie troponiny. ",
           "isCorrect": false
         }
       ],
@@ -2860,31 +2860,31 @@
     },
     {
       "id": "int-1-85",
-      "question": "Omdleniu wazo-wagalnemu towarzyszy: A. tachykardia i wzrost ciśnienia tętniczego. B. bradykardia i obrzęk powiek. C. bradykardia i hipotonia. D. tachykardia i hipotonia.\n",
+      "question": "Omdleniu wazo-wagalnemu towarzyszy: A. tachykardia i wzrost ciśnienia tętniczego. B. bradykardia i obrzęk powiek. C. bradykardia i hipotonia. D. tachykardia i hipotonia. E. bezwiedne oddanie moczu.\n",
       "answers": [
         {
           "id": "A",
-          "text": "tachykardia i wzrost ciśnienia tętniczego.\n",
+          "text": "tachykardia i wzrost ciśnienia tętniczego. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "bradykardia i obrzęk powiek.\n",
+          "text": "bradykardia i obrzęk powiek. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "bradykardia i hipotonia.\n",
+          "text": "bradykardia i hipotonia. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "tachykardia i hipotonia.\n",
+          "text": "tachykardia i hipotonia. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "bezwiedne oddanie moczu.\n",
+          "text": "bezwiedne oddanie moczu. ",
           "isCorrect": false
         }
       ],
@@ -2894,7 +2894,7 @@
     },
     {
       "id": "int-1-86",
-      "question": "Które leki nie są lekami pierwszego rzutu w leczeniu niewydolności serca z obniżoną frakcją wyrzutową wg współczesnych wytycznych europejskich?\n1) długodziałające nitraty;\n2) dihydropirydynowe blokery kanału wapniowego;\n3) dapagliflozyna;\n4) semaglutyd;\n5) digoksyna;\n6) ramipryl;\n7) torasemid;\n8) eplerenon. Prawidłowa odpowiedź to: A. 1,2,3,4. B. 1,2,4,5. C. 1,2,5,6. D. 2,3,6,7. ",
+      "question": "Które leki nie są lekami pierwszego rzutu w leczeniu niewydolności serca z obniżoną frakcją wyrzutową wg współczesnych wytycznych europejskich?\n1) długodziałające nitraty;\n2) dihydropirydynowe blokery kanału wapniowego;\n3) dapagliflozyna;\n4) semaglutyd;\n5) digoksyna;\n6) ramipryl;\n7) torasemid;\n8) eplerenon. Prawidłowa odpowiedź to: A. 1,2,3,4. B. 1,2,4,5. C. 1,2,5,6. D. 2,3,6,7. E. 4,6,7,8.\n",
       "answers": [
         {
           "id": "A",
@@ -2918,7 +2918,7 @@
         },
         {
           "id": "E",
-          "text": "4,6,7,8.\n",
+          "text": "4,6,7,8. ",
           "isCorrect": false
         }
       ],
@@ -2928,31 +2928,31 @@
     },
     {
       "id": "int-1-87",
-      "question": "U stabilnego pacjenta, po zawale lewej komory serca obejmującym jeden z mięśni brodawkowatych pojawił się nowy szmer nad sercem. Najbardziej prawdopodobny jest szmer: A. holosystoliczny w rzucie koniuszka serca. B. telesystoliczny w drugiej przestrzeni międzyżebrowej prawej przy krawędzi mostka. C. mezosystoliczny w drugiej przestrzeni międzyżebrowej lewej przy krawędzi mostka. D. protodiastoliczny w drugiej przestrzeni międzyżebrowej prawej przy krawędzi mostka.\n",
+      "question": "U stabilnego pacjenta, po zawale lewej komory serca obejmującym jeden z mięśni brodawkowatych pojawił się nowy szmer nad sercem. Najbardziej prawdopodobny jest szmer: A. holosystoliczny w rzucie koniuszka serca. B. telesystoliczny w drugiej przestrzeni międzyżebrowej prawej przy krawędzi mostka. C. mezosystoliczny w drugiej przestrzeni międzyżebrowej lewej przy krawędzi mostka. D. protodiastoliczny w drugiej przestrzeni międzyżebrowej prawej przy krawędzi mostka. E. pandiastoliczny w rzucie koniuszka serca.\n",
       "answers": [
         {
           "id": "A",
-          "text": "holosystoliczny w rzucie koniuszka serca.\n",
+          "text": "holosystoliczny w rzucie koniuszka serca. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "telesystoliczny w drugiej przestrzeni międzyżebrowej prawej przy krawędzi\nmostka.\n",
+          "text": "telesystoliczny w drugiej przestrzeni międzyżebrowej prawej przy krawędzi mostka. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "mezosystoliczny w drugiej przestrzeni międzyżebrowej lewej przy krawędzi\nmostka.\n",
+          "text": "mezosystoliczny w drugiej przestrzeni międzyżebrowej lewej przy krawędzi mostka. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "protodiastoliczny w drugiej przestrzeni międzyżebrowej prawej przy krawędzi\nmostka.\n",
+          "text": "protodiastoliczny w drugiej przestrzeni międzyżebrowej prawej przy krawędzi mostka. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "pandiastoliczny w rzucie koniuszka serca.\n",
+          "text": "pandiastoliczny w rzucie koniuszka serca. ",
           "isCorrect": false
         }
       ],
@@ -2962,31 +2962,31 @@
     },
     {
       "id": "int-1-88",
-      "question": "Który lek nie należy do leków stosowanych z wyboru w ciągu pierwszych\n24 godzin od rozpoznania zawału serca STEMI: A. tikagrelor. B. aspiryna. C. prasugrel. D. statyna.\n",
+      "question": "Który lek nie należy do leków stosowanych z wyboru w ciągu pierwszych\n24 godzin od rozpoznania zawału serca STEMI: A. tikagrelor. B. aspiryna. C. prasugrel. D. statyna. E. klopidogrel.\n",
       "answers": [
         {
           "id": "A",
-          "text": "tikagrelor.\n",
+          "text": "tikagrelor. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "aspiryna.\n",
+          "text": "aspiryna. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "prasugrel.\n",
+          "text": "prasugrel. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "statyna.\n",
+          "text": "statyna. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "klopidogrel.\n",
+          "text": "klopidogrel. ",
           "isCorrect": false
         }
       ],
@@ -2996,31 +2996,31 @@
     },
     {
       "id": "int-1-89",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące nadciśnienia tętniczego u osób starszych (powyżej 70 roku życia): A. obniżanie ciśnienia tętniczego nie redukuje ryzyka powikłań sercowo-naczyniowych i śmiertelności w tej grupie chorych. B. izolowane nadciśnienie tętnicze skurczowe jest w tej grupie najczęstszym typem nadciśnienia. C. u osób w tym wieku należy unikać wartości ciśnienia <130/80 mmHg. D. rozpoczynanie terapii od niższych dawek niż u osób młodszych minimalizuje ryzyko działań niepożądanych.\n",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące nadciśnienia tętniczego u osób starszych (powyżej 70 roku życia): A. obniżanie ciśnienia tętniczego nie redukuje ryzyka powikłań sercowo-naczyniowych i śmiertelności w tej grupie chorych. B. izolowane nadciśnienie tętnicze skurczowe jest w tej grupie najczęstszym typem nadciśnienia. C. u osób w tym wieku należy unikać wartości ciśnienia <130/80 mmHg. D. rozpoczynanie terapii od niższych dawek niż u osób młodszych minimalizuje ryzyko działań niepożądanych. E. ryzyko hipotonii ortostatycznej jest większe niż u innych chorych.\n",
       "answers": [
         {
           "id": "A",
-          "text": "obniżanie ciśnienia tętniczego nie redukuje ryzyka powikłań\nsercowo-naczyniowych i śmiertelności w tej grupie chorych.\n",
+          "text": "obniżanie ciśnienia tętniczego nie redukuje ryzyka powikłań sercowo-naczyniowych i śmiertelności w tej grupie chorych. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "izolowane nadciśnienie tętnicze skurczowe jest w tej grupie najczęstszym\ntypem nadciśnienia.\n",
+          "text": "izolowane nadciśnienie tętnicze skurczowe jest w tej grupie najczęstszym typem nadciśnienia. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "u osób w tym wieku należy unikać wartości ciśnienia <130/80 mmHg.\n",
+          "text": "u osób w tym wieku należy unikać wartości ciśnienia <130/80 mmHg. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "rozpoczynanie terapii od niższych dawek niż u osób młodszych minimalizuje\nryzyko działań niepożądanych.\n",
+          "text": "rozpoczynanie terapii od niższych dawek niż u osób młodszych minimalizuje ryzyko działań niepożądanych. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "ryzyko hipotonii ortostatycznej jest większe niż u innych chorych.\n",
+          "text": "ryzyko hipotonii ortostatycznej jest większe niż u innych chorych. ",
           "isCorrect": false
         }
       ],
@@ -3030,31 +3030,31 @@
     },
     {
       "id": "int-1-90",
-      "question": "Poniżej wymieniono zestawienia leków hipotensyjnych, stosowane w leczeniu nadciśnienia tętniczego. Które z połączeń (choć dopuszczalne) nie należy do połączeń preferowanych w terapii pierwszego rzutu (o ile nie wystąpią dodatkowe wskazania)? A. bloker receptora dla angiotensyny II i lek tiazydowy lub tiazydopodobny. B. dihydropirydynowy bloker kanału wapniowego i lek tiazydowy lub tiazydopodobny. C. dihydropirydynowy bloker kanału wapniowego i inhibitor konwertazy angiotensyny. D. inhibitor konwertazy angiotensyny i beta-bloker.\n",
+      "question": "Poniżej wymieniono zestawienia leków hipotensyjnych, stosowane w leczeniu nadciśnienia tętniczego. Które z połączeń (choć dopuszczalne) nie należy do połączeń preferowanych w terapii pierwszego rzutu (o ile nie wystąpią dodatkowe wskazania)? A. bloker receptora dla angiotensyny II i lek tiazydowy lub tiazydopodobny. B. dihydropirydynowy bloker kanału wapniowego i lek tiazydowy lub tiazydopodobny. C. dihydropirydynowy bloker kanału wapniowego i inhibitor konwertazy angiotensyny. D. inhibitor konwertazy angiotensyny i beta-bloker. E. inhibitor konwertazy angiotensyny i lek tiazydowy lub tiazydopodobny.\n",
       "answers": [
         {
           "id": "A",
-          "text": "bloker receptora dla angiotensyny II i lek tiazydowy lub tiazydopodobny.\n",
+          "text": "bloker receptora dla angiotensyny II i lek tiazydowy lub tiazydopodobny. ",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "dihydropirydynowy bloker kanału wapniowego i lek tiazydowy lub\ntiazydopodobny.\n",
+          "text": "dihydropirydynowy bloker kanału wapniowego i lek tiazydowy lub tiazydopodobny. ",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "dihydropirydynowy bloker kanału wapniowego i inhibitor konwertazy\nangiotensyny.\n",
+          "text": "dihydropirydynowy bloker kanału wapniowego i inhibitor konwertazy angiotensyny. ",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "inhibitor konwertazy angiotensyny i beta-bloker.\n",
+          "text": "inhibitor konwertazy angiotensyny i beta-bloker. ",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "inhibitor konwertazy angiotensyny i lek tiazydowy lub tiazydopodobny.\n",
+          "text": "inhibitor konwertazy angiotensyny i lek tiazydowy lub tiazydopodobny. ",
           "isCorrect": false
         }
       ],

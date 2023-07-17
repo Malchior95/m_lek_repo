@@ -106,26 +106,26 @@
     },
     {
       "id": "int-1-4",
-      "question": "62-letni pacjent, z nadciśnieniem tętniczym i cukrzycą typu 2, zgłosił się do Poradni Podstawowej Opieki Zdrowotnej, z powodu bólu o charakterze kłucia za mostkiem, który pojawia się po wejściu na pierwsze piętro. Dolegliwości wystąpiły po raz pierwszy około 6 tygodni temu. W badaniu przedmiotowym bez istotnych odchyleń. W EKG rytm zatokowy miarowy\n70/min. Bez zmian odcinka ST i załamka T. Jakie jest prawidłowe dalsze postępowanie?\n\n",
+      "question": "62-letni pacjent, z nadciśnieniem tętniczym i cukrzycą typu 2, zgłosił się do Poradni Podstawowej Opieki Zdrowotnej, z powodu bólu o charakterze kłucia za mostkiem, który pojawia się po wejściu na pierwsze piętro. Dolegliwości wystąpiły po raz pierwszy około 6 tygodni temu. W badaniu przedmiotowym bez istotnych odchyleń. W EKG rytm zatokowy miarowy\n70/min. Bez zmian odcinka ST i załamka T. Jakie jest prawidłowe dalsze postępowanie? A. skierowanie pacjenta na oddział kardiologiczny w celu wykluczenia zawału mięśnia sercowego i wykonania pilnej koronarografii. B. skierowanie pacjenta do poradni kardiologicznej w celu umówienia terminu na koronarografię w trybie planowym. C. skierowanie pacjenta do poradni kardiologicznej w celu wykonania nieinwazyjnej obrazowej próby wysiłkowej. D. skierowanie pacjenta do poradni kardiologicznej w celu wykonania elektrokardiograficznej próby wysiłkowej.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "skierowanie pacjenta na oddział kardiologiczny w celu wykluczenia\nzawału mięśnia sercowego i wykonania pilnej koronarografii.",
+          "text": "skierowanie pacjenta na oddział kardiologiczny w celu wykluczenia zawału mięśnia sercowego i wykonania pilnej koronarografii.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "skierowanie pacjenta do poradni kardiologicznej w celu umówienia\nterminu na koronarografię w trybie planowym.",
+          "text": "skierowanie pacjenta do poradni kardiologicznej w celu umówienia terminu na koronarografię w trybie planowym.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "skierowanie pacjenta do poradni kardiologicznej w celu wykonania\nnieinwazyjnej obrazowej próby wysiłkowej.",
-          "isCorrect":  true
+          "text": "skierowanie pacjenta do poradni kardiologicznej w celu wykonania nieinwazyjnej obrazowej próby wysiłkowej.",
+          "isCorrect": true
         },
         {
           "id": "D",
-          "text": "skierowanie pacjenta do poradni kardiologicznej w celu wykonania\nelektrokardiograficznej próby wysiłkowej.",
+          "text": "skierowanie pacjenta do poradni kardiologicznej w celu wykonania elektrokardiograficznej próby wysiłkowej.",
           "isCorrect": false
         },
         {
@@ -242,16 +242,16 @@
     },
     {
       "id": "int-1-8",
-      "question": "Nowotworowa niedrożność jelit:\n\n",
+      "question": "Nowotworowa niedrożność jelit: A. najczęściej występuje u chorych na raka jajnika i nowotwory układu pokarmowego. B. może mieć charakter mechaniczny lub być następstwem zaburzeń metabolicznych.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "najczęściej występuje u chorych na raka jajnika i nowotwory układu\npokarmowego.",
+          "text": "najczęściej występuje u chorych na raka jajnika i nowotwory układu pokarmowego.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "może mieć charakter mechaniczny lub być następstwem zaburzeń\nmetabolicznych.",
+          "text": "może mieć charakter mechaniczny lub być następstwem zaburzeń metabolicznych.",
           "isCorrect": false
         },
         {
@@ -344,7 +344,7 @@
     },
     {
       "id": "int-1-11",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące nowotworu neuroendokrynnego\nżołądka:\n\n",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące nowotworu neuroendokrynnego\nżołądka: B. sporadyczny nowotwór (typ 3) jest związany z najgorszym rokowaniem z powodu skłonności do rozsiewu. D. wystąpienie „zespołu rakowiaka” świadczy o dużym zaawansowaniu choroby (przerzuty). E. do rozpoznania wystarczające jest stwierdzenie ponad dwukrotnie podwyższonego stężenia chromograniny A we krwi.\n",
       "answers": [
         {
           "id": "A",
@@ -353,7 +353,7 @@
         },
         {
           "id": "B",
-          "text": "sporadyczny nowotwór (typ 3) jest związany z najgorszym rokowaniem z\npowodu skłonności do rozsiewu.",
+          "text": "sporadyczny nowotwór (typ 3) jest związany z najgorszym rokowaniem z powodu skłonności do rozsiewu.",
           "isCorrect": false
         },
         {
@@ -363,12 +363,12 @@
         },
         {
           "id": "D",
-          "text": "wystąpienie „zespołu rakowiaka” świadczy o dużym zaawansowaniu\nchoroby (przerzuty).",
+          "text": "wystąpienie „zespołu rakowiaka” świadczy o dużym zaawansowaniu choroby (przerzuty).",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "do rozpoznania wystarczające jest stwierdzenie ponad dwukrotnie\npodwyższonego stężenia chromograniny A we krwi.",
+          "text": "do rozpoznania wystarczające jest stwierdzenie ponad dwukrotnie podwyższonego stężenia chromograniny A we krwi.",
           "isCorrect": false
         }
       ],
@@ -446,7 +446,7 @@
     },
     {
       "id": "int-1-14",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące zasad i czasu leczenia przewlekłego zapalenia wątroby typu B (PZW B):\n\n",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące zasad i czasu leczenia przewlekłego zapalenia wątroby typu B (PZW B): B. PZW B powinno leczyć się lamiwudyną dożywotnio u każdego chorego HBsAg dodatniego. C. PZW B powinno leczyć się entekawirem lub tenofowirem przez 48 tygodni. D. PZW B powinno leczyć się pegylowanym interferonem u wybranych chorych przez 48 tygodni lub entekawirem lub tenofowirem do utraty antygenu HBs i pojawienia się anty-HBs.\n\n",
       "answers": [
         {
           "id": "A",
@@ -455,17 +455,17 @@
         },
         {
           "id": "B",
-          "text": "PZW B powinno leczyć się lamiwudyną dożywotnio u każdego chorego\nHBsAg dodatniego.",
+          "text": "PZW B powinno leczyć się lamiwudyną dożywotnio u każdego chorego HBsAg dodatniego.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "PZW B powinno leczyć się entekawirem lub tenofowirem przez 48\ntygodni.",
+          "text": "PZW B powinno leczyć się entekawirem lub tenofowirem przez 48 tygodni.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "PZW B powinno leczyć się pegylowanym interferonem u wybranych\nchorych przez 48 tygodni lub entekawirem lub tenofowirem do utraty\nantygenu HBs i pojawienia się anty-HBs.",
+          "text": "PZW B powinno leczyć się pegylowanym interferonem u wybranych chorych przez 48 tygodni lub entekawirem lub tenofowirem do utraty antygenu HBs i pojawienia się anty-HBs.",
           "isCorrect": false
         },
         {
@@ -582,7 +582,7 @@
     },
     {
       "id": "int-1-18",
-      "question": "Stwierdzenie podwyższonego stężenia antygenu swoistego dla prostaty\n(PSA):\n\n",
+      "question": "Stwierdzenie podwyższonego stężenia antygenu swoistego dla prostaty\n(PSA): B. jest wskazaniem do wykonania przezodbytniczej ultrasonografii z biopsją cienkoigłową. C. jest wskazaniem do wykonania przezodbytniczej ultrasonografii z pobraniem wycinków do badania histologicznego. D. jest wskazaniem do wykonania badania magnetycznego rezonansu miednicy. E. jest wskazaniem do wykonania badania pozytonowej tomografii emisyjnej.\n",
       "answers": [
         {
           "id": "A",
@@ -591,22 +591,22 @@
         },
         {
           "id": "B",
-          "text": "jest wskazaniem do wykonania przezodbytniczej ultrasonografii z biopsją\ncienkoigłową.",
+          "text": "jest wskazaniem do wykonania przezodbytniczej ultrasonografii z biopsją cienkoigłową.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "jest wskazaniem do wykonania przezodbytniczej ultrasonografii z\npobraniem wycinków do badania histologicznego.",
+          "text": "jest wskazaniem do wykonania przezodbytniczej ultrasonografii z pobraniem wycinków do badania histologicznego.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "jest wskazaniem do wykonania badania magnetycznego rezonansu\nmiednicy.",
+          "text": "jest wskazaniem do wykonania badania magnetycznego rezonansu miednicy.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "jest wskazaniem do wykonania badania pozytonowej tomografii\nemisyjnej.",
+          "text": "jest wskazaniem do wykonania badania pozytonowej tomografii emisyjnej.",
           "isCorrect": false
         }
       ],
@@ -616,11 +616,11 @@
     },
     {
       "id": "int-1-19",
-      "question": "Wskaż badanie laboratoryjne, które wykonuje się w celu rozstrzygnięcia czy wodobrzusze powstało w mechanizmie nadciśnienia wrotnego:\n\n",
+      "question": "Wskaż badanie laboratoryjne, które wykonuje się w celu rozstrzygnięcia czy wodobrzusze powstało w mechanizmie nadciśnienia wrotnego: A. test APRI (stosunek aktywności aminotransferazy asparaginianowej do liczby płytek krwi).\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "test APRI (stosunek aktywności aminotransferazy asparaginianowej do\nliczby płytek krwi).",
+          "text": "test APRI (stosunek aktywności aminotransferazy asparaginianowej do liczby płytek krwi).",
           "isCorrect": false
         },
         {
@@ -752,7 +752,7 @@
     },
     {
       "id": "int-1-23",
-      "question": "U pacjenta z ostrym uszkodzeniem nerek stwierdzono w biopsji cechy mikroangiopatii zakrzepowej. Może ona wystąpić w przebiegu:\n1) ziarniniakowatości z zapaleniem naczyń (GPA);\n2) fazy złośliwej nadciśnienia tętniczego;\n3) atypowego zespołu hemolityczno-mocznicowego;\n4) zespołu płucno-nerkowego;\n5) zespołu antyfosfolipidowego. Prawidłowa odpowiedź to:\n\n",
+      "question": "U pacjenta z ostrym uszkodzeniem nerek stwierdzono w biopsji cechy mikroangiopatii zakrzepowej. Może ona wystąpić w przebiegu:\n1) ziarniniakowatości z zapaleniem naczyń (GPA);\n2) fazy złośliwej nadciśnienia tętniczego;\n3) atypowego zespołu hemolityczno-mocznicowego;\n4) zespołu płucno-nerkowego;\n5) zespołu antyfosfolipidowego. Prawidłowa odpowiedź to: B. 2,3,5.\n2\n\n",
       "answers": [
         {
           "id": "A",
@@ -761,7 +761,7 @@
         },
         {
           "id": "B",
-          "text": "2,3,5.\n2",
+          "text": "2,3,5. 2",
           "isCorrect": false
         },
         {
@@ -820,31 +820,31 @@
     },
     {
       "id": "int-1-25",
-      "question": "Duszność typu ortopnoe u pacjenta z niewydolnością lewokomorową typowo pojawia się:\n\n",
+      "question": "Duszność typu ortopnoe u pacjenta z niewydolnością lewokomorową typowo pojawia się: A. późno po położeniu się, budzi chorego ze snu i ustępuje po ≥ 30 minutach od pionizacji. B. późno po położeniu się, ale nie budzi chorego ze snu i ustępuje po ≥ 30 minutach od pionizacji. C. natychmiast po położeniu się i ustępuje natychmiast po przyjęciu pozycji siedzącej lub stojącej. D. po 1-2 minutach po położeniu się i ustępuje w kilka minut po przyjęciu pozycji siedzącej lub stojącej. E. po około kwadransie od położenia się i ustępuje po ≥ 30 minutach od przyjęcia pozycji siedzącej.\n",
       "answers": [
         {
           "id": "A",
-          "text": "późno po położeniu się, budzi chorego ze snu i ustępuje po ≥ 30\nminutach od pionizacji.",
+          "text": "późno po położeniu się, budzi chorego ze snu i ustępuje po ≥ 30 minutach od pionizacji.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "późno po położeniu się, ale nie budzi chorego ze snu i ustępuje po ≥ 30\nminutach od pionizacji.",
+          "text": "późno po położeniu się, ale nie budzi chorego ze snu i ustępuje po ≥ 30 minutach od pionizacji.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "natychmiast po położeniu się i ustępuje natychmiast po przyjęciu pozycji\nsiedzącej lub stojącej.",
+          "text": "natychmiast po położeniu się i ustępuje natychmiast po przyjęciu pozycji siedzącej lub stojącej.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "po 1-2 minutach po położeniu się i ustępuje w kilka minut po przyjęciu\npozycji siedzącej lub stojącej.",
+          "text": "po 1-2 minutach po położeniu się i ustępuje w kilka minut po przyjęciu pozycji siedzącej lub stojącej.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "po około kwadransie od położenia się i ustępuje po ≥ 30 minutach od\nprzyjęcia pozycji siedzącej.",
+          "text": "po około kwadransie od położenia się i ustępuje po ≥ 30 minutach od przyjęcia pozycji siedzącej.",
           "isCorrect": false
         }
       ],
@@ -888,7 +888,7 @@
     },
     {
       "id": "int-1-27",
-      "question": "U 54-letniego mężczyzny nadużywającego alkoholu tomografia komputerowa wykazała nierówności konturu wątrobowego i powiększoną\nśledzionę oraz w prawym płacie wątroby zmianę ogniskową o średnicy 3,5 cm. Zmiana ta wzmacniała się silniej od reszty wątroby w fazie tętniczej badania oraz wypłukiwała się z kontrastu w fazie żylnej badania. Radiolog zasugerował rozpoznanie gruczolaka wątroby. Stężenie alfa-fetoproteiny wynosi 14 ng/ml (norma < 5 ng/ml). Wskaż dalsze postępowanie:\n\n",
+      "question": "U 54-letniego mężczyzny nadużywającego alkoholu tomografia komputerowa wykazała nierówności konturu wątrobowego i powiększoną\nśledzionę oraz w prawym płacie wątroby zmianę ogniskową o średnicy 3,5 cm. Zmiana ta wzmacniała się silniej od reszty wątroby w fazie tętniczej badania oraz wypłukiwała się z kontrastu w fazie żylnej badania. Radiolog zasugerował rozpoznanie gruczolaka wątroby. Stężenie alfa-fetoproteiny wynosi 14 ng/ml (norma < 5 ng/ml). Wskaż dalsze postępowanie: E. rozpoznanie raka wątrobowokomórkowego i wybór odpowiedniej formy leczenia.\n",
       "answers": [
         {
           "id": "A",
@@ -912,7 +912,7 @@
         },
         {
           "id": "E",
-          "text": "rozpoznanie raka wątrobowokomórkowego i wybór odpowiedniej formy\nleczenia.",
+          "text": "rozpoznanie raka wątrobowokomórkowego i wybór odpowiedniej formy leczenia.",
           "isCorrect": false
         }
       ],
@@ -922,7 +922,7 @@
     },
     {
       "id": "int-1-28",
-      "question": "56-letnia kobieta z nawrotową obustronną kamicą nerkową, rozpoznaną przed 10 laty, depresją trudno poddającą się leczeniu, nadciśnieniem tętniczym i paląca papierosy zgłosiła się z wykonanym bez konsultacji z lekarzem wynikiem densytometrii metodą DXA kości przedramienia, w którym stwierdzono T-score: -2,9. Wskaż najważniejsze badania w dalszym postępowaniu diagnostycznym:\n\n",
+      "question": "56-letnia kobieta z nawrotową obustronną kamicą nerkową, rozpoznaną przed 10 laty, depresją trudno poddającą się leczeniu, nadciśnieniem tętniczym i paląca papierosy zgłosiła się z wykonanym bez konsultacji z lekarzem wynikiem densytometrii metodą DXA kości przedramienia, w którym stwierdzono T-score: -2,9. Wskaż najważniejsze badania w dalszym postępowaniu diagnostycznym: B. wykonanie densytometrii metodą DXA bliższego odcinka kości udowej, oznaczenie stężenia wapnia i kreatyniny w surowicy krwi. D. oznaczenie stężenia kreatyniny, PTH i TSH w surowicy krwi, badanie ogólne moczu. E. oznaczenie stężenia wapnia, ALP i glukozy w surowicy krwi, badanie ogólne moczu.\n",
       "answers": [
         {
           "id": "A",
@@ -931,7 +931,7 @@
         },
         {
           "id": "B",
-          "text": "wykonanie densytometrii metodą DXA bliższego odcinka kości udowej,\noznaczenie stężenia wapnia i kreatyniny w surowicy krwi.",
+          "text": "wykonanie densytometrii metodą DXA bliższego odcinka kości udowej, oznaczenie stężenia wapnia i kreatyniny w surowicy krwi.",
           "isCorrect": false
         },
         {
@@ -941,12 +941,12 @@
         },
         {
           "id": "D",
-          "text": "oznaczenie stężenia kreatyniny, PTH i TSH w surowicy krwi, badanie\nogólne moczu.",
+          "text": "oznaczenie stężenia kreatyniny, PTH i TSH w surowicy krwi, badanie ogólne moczu.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "oznaczenie stężenia wapnia, ALP i glukozy w surowicy krwi, badanie\nogólne moczu.",
+          "text": "oznaczenie stężenia wapnia, ALP i glukozy w surowicy krwi, badanie ogólne moczu.",
           "isCorrect": false
         }
       ],
@@ -956,11 +956,11 @@
     },
     {
       "id": "int-1-29",
-      "question": "W przypadku zajęcia układu oddechowego u chorej na toczeń układowy pod postacią toczniowego zapalenia płuc można zastosować:\n\n",
+      "question": "W przypadku zajęcia układu oddechowego u chorej na toczeń układowy pod postacią toczniowego zapalenia płuc można zastosować: A. glikokortykosteroidy w dużych dawkach doustnych lub w postaci dożylnych pulsów. D. azatioprynę, zwłaszcza jako leczenie podtrzymujące po indukcji za pomocą cyklofosfamidu.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "glikokortykosteroidy w dużych dawkach doustnych lub w postaci\ndożylnych pulsów.",
+          "text": "glikokortykosteroidy w dużych dawkach doustnych lub w postaci dożylnych pulsów.",
           "isCorrect": false
         },
         {
@@ -975,7 +975,7 @@
         },
         {
           "id": "D",
-          "text": "azatioprynę, zwłaszcza jako leczenie podtrzymujące po indukcji za\npomocą cyklofosfamidu.",
+          "text": "azatioprynę, zwłaszcza jako leczenie podtrzymujące po indukcji za pomocą cyklofosfamidu.",
           "isCorrect": false
         },
         {
@@ -1058,26 +1058,26 @@
     },
     {
       "id": "int-1-32",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące kardiomiopatii restrykcyjnej (RCM):\n\n",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące kardiomiopatii restrykcyjnej (RCM): A. w obrazie klinicznym zaawansowanej RCM dominuje prawokomorowa niewydolność serca. B. postać nabyta RCM może rozwinąć się w przebiegu zaciskającego zapalenia osierdzia. C. w elektrokardiogramie typowo stwierdza się małą amplitudę załamków R we wszystkich odprowadzeniach. D. w badaniu echokardiograficznym zwraca uwagę powiększenie jam obu przedsionków przy stosunkowo małych komorach.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "w obrazie klinicznym zaawansowanej RCM dominuje prawokomorowa\nniewydolność serca.",
+          "text": "w obrazie klinicznym zaawansowanej RCM dominuje prawokomorowa niewydolność serca.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "postać nabyta RCM może rozwinąć się w przebiegu zaciskającego\nzapalenia osierdzia.",
+          "text": "postać nabyta RCM może rozwinąć się w przebiegu zaciskającego zapalenia osierdzia.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "w elektrokardiogramie typowo stwierdza się małą amplitudę załamków R\nwe wszystkich odprowadzeniach.",
+          "text": "w elektrokardiogramie typowo stwierdza się małą amplitudę załamków R we wszystkich odprowadzeniach.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "w badaniu echokardiograficznym zwraca uwagę powiększenie jam obu\nprzedsionków przy stosunkowo małych komorach.",
+          "text": "w badaniu echokardiograficznym zwraca uwagę powiększenie jam obu przedsionków przy stosunkowo małych komorach.",
           "isCorrect": false
         },
         {
@@ -1092,11 +1092,11 @@
     },
     {
       "id": "int-1-33",
-      "question": "Wynik badania morfologii krwi: WBC 126,2 G/L, LY 33,61 G/L, MO 82,95 G/L, NE 9,62 G/L, RBC 3,82 T/L, HGB 10,8 g/dL, MCV 84,6 fL, PLT 48 G/L sugeruje rozpoznanie:\n\n",
+      "question": "Wynik badania morfologii krwi: WBC 126,2 G/L, LY 33,61 G/L, MO 82,95 G/L, NE 9,62 G/L, RBC 3,82 T/L, HGB 10,8 g/dL, MCV 84,6 fL, PLT 48 G/L sugeruje rozpoznanie: A. przewlekłej białaczki limfocytowej.\n2\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "przewlekłej białaczki limfocytowej.\n2",
+          "text": "przewlekłej białaczki limfocytowej. 2",
           "isCorrect": false
         },
         {
@@ -1194,11 +1194,11 @@
     },
     {
       "id": "int-1-36",
-      "question": "45-letnia pacjentka z marskością wątroby na podłożu infekcji HCV skarży się na znaczne osłabienie i duszność nasilającą się po zmianie pozycji ciała z leżącej na stojącą. W badaniach laboratoryjnych wykluczono niedokrwistość i sideropenię. Stężenie białka CRP jest prawidłowe. RTG klatki piersiowej nie wykazało nieprawidłowości. Jakie badanie należy wykonać, aby wyjaśnić przyczynę skarg pacjentki?\n\n",
+      "question": "45-letnia pacjentka z marskością wątroby na podłożu infekcji HCV skarży się na znaczne osłabienie i duszność nasilającą się po zmianie pozycji ciała z leżącej na stojącą. W badaniach laboratoryjnych wykluczono niedokrwistość i sideropenię. Stężenie białka CRP jest prawidłowe. RTG klatki piersiowej nie wykazało nieprawidłowości. Jakie badanie należy wykonać, aby wyjaśnić przyczynę skarg pacjentki? A. ultrasonografię dopplerowską naczyń jamy brzusznej i elektrokardiografię\n(EKG). D. gazometrię krwi i echokardiografię z użyciem wstrząśniętej soli fizjologicznej.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "ultrasonografię dopplerowską naczyń jamy brzusznej i elektrokardiografię\n(EKG).",
+          "text": "ultrasonografię dopplerowską naczyń jamy brzusznej i elektrokardiografię (EKG).",
           "isCorrect": false
         },
         {
@@ -1213,7 +1213,7 @@
         },
         {
           "id": "D",
-          "text": "gazometrię krwi i echokardiografię z użyciem wstrząśniętej soli\nfizjologicznej.",
+          "text": "gazometrię krwi i echokardiografię z użyciem wstrząśniętej soli fizjologicznej.",
           "isCorrect": false
         },
         {
@@ -1228,11 +1228,11 @@
     },
     {
       "id": "int-1-37",
-      "question": "78-letni chory został przywieziony przez zespół ratownictwa medycznego do szpitalnego oddziału ratunkowego z powodu ogólnego osłabienia, narastających od około miesiąca ciastowatych obrzęków kończyn dolnych i duszności. Chory z wieloletnim wywiadem dobrze kontrolowanego nadciśnienia tętniczego i reumatoidalnego zapalenia stawów (RZS), z utrzymującą się umiarkowaną aktywnością choroby pomimo stosowania niesteroidowych leków przeciwzapalnych. Z powodu narastających obrzęków lekarz POZ, przed 10 dniami, zalecił stosowanie furosemidu 2 razy dziennie. Leczenie to nie przyniosło zahamowania narastania obrzęków. W celu ustalenia przyczyny narastającej retencji płynu należy w pierwszej kolejności zlecić:\n\n",
+      "question": "78-letni chory został przywieziony przez zespół ratownictwa medycznego do szpitalnego oddziału ratunkowego z powodu ogólnego osłabienia, narastających od około miesiąca ciastowatych obrzęków kończyn dolnych i duszności. Chory z wieloletnim wywiadem dobrze kontrolowanego nadciśnienia tętniczego i reumatoidalnego zapalenia stawów (RZS), z utrzymującą się umiarkowaną aktywnością choroby pomimo stosowania niesteroidowych leków przeciwzapalnych. Z powodu narastających obrzęków lekarz POZ, przed 10 dniami, zalecił stosowanie furosemidu 2 razy dziennie. Leczenie to nie przyniosło zahamowania narastania obrzęków. W celu ustalenia przyczyny narastającej retencji płynu należy w pierwszej kolejności zlecić: A. pobranie krwi w celu oznaczenia stężenia CRP i OB, aby ocenić aktywność RZS. E. pobranie moczu w celu wykonania badania ogólnego oraz krwi w celu oznaczenia stężenia kreatyniny.\n",
       "answers": [
         {
           "id": "A",
-          "text": "pobranie krwi w celu oznaczenia stężenia CRP i OB, aby ocenić\naktywność RZS.",
+          "text": "pobranie krwi w celu oznaczenia stężenia CRP i OB, aby ocenić aktywność RZS.",
           "isCorrect": false
         },
         {
@@ -1252,7 +1252,7 @@
         },
         {
           "id": "E",
-          "text": "pobranie moczu w celu wykonania badania ogólnego oraz krwi w celu\noznaczenia stężenia kreatyniny.",
+          "text": "pobranie moczu w celu wykonania badania ogólnego oraz krwi w celu oznaczenia stężenia kreatyniny.",
           "isCorrect": false
         }
       ],
@@ -1330,7 +1330,7 @@
     },
     {
       "id": "int-1-40",
-      "question": "Infliksymab (przeciwciała anty-TNF alfa) jest stosowany w nieswoistych chorobach zapalnych jelita w niżej wymienionych przypadkach, z wyjątkiem:\n\n",
+      "question": "Infliksymab (przeciwciała anty-TNF alfa) jest stosowany w nieswoistych chorobach zapalnych jelita w niżej wymienionych przypadkach, z wyjątkiem: D. terapii ratunkowej w ciężkiej postaci wrzodziejącego zapalenia jelita grubego.\n\n",
       "answers": [
         {
           "id": "A",
@@ -1349,7 +1349,7 @@
         },
         {
           "id": "D",
-          "text": "terapii ratunkowej w ciężkiej postaci wrzodziejącego zapalenia jelita\ngrubego.",
+          "text": "terapii ratunkowej w ciężkiej postaci wrzodziejącego zapalenia jelita grubego.",
           "isCorrect": false
         },
         {
@@ -1364,21 +1364,21 @@
     },
     {
       "id": "int-1-41",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące inhibitorów pompy protonowej\n(IPP):\n\n",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące inhibitorów pompy protonowej\n(IPP): A. wszystkie IPP muszą być stosowane 15-30 minut przed porannym posiłkiem. B. mechanizm działania IPP polega na nieodwracalnym blokowaniu H /K - ATPazy komórek okładzinowych żołądka. C. przewlekłe stosowanie IPP u osób z infekcją Helicobacter pylori może powodować zanikowe zapalenie błony śluzowej żołądka. E. u pacjentów z zespołem Zollingera-Ellisona zaleca się IPP w kilkukrotnie większej dawce od standardowej.\n",
       "answers": [
         {
           "id": "A",
-          "text": "wszystkie IPP muszą być stosowane 15-30 minut przed porannym\nposiłkiem.",
+          "text": "wszystkie IPP muszą być stosowane 15-30 minut przed porannym posiłkiem.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "mechanizm działania IPP polega na nieodwracalnym blokowaniu H /K -\nATPazy komórek okładzinowych żołądka.",
+          "text": "mechanizm działania IPP polega na nieodwracalnym blokowaniu H /K - ATPazy komórek okładzinowych żołądka.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "przewlekłe stosowanie IPP u osób z infekcją Helicobacter pylori może\npowodować zanikowe zapalenie błony śluzowej żołądka.",
+          "text": "przewlekłe stosowanie IPP u osób z infekcją Helicobacter pylori może powodować zanikowe zapalenie błony śluzowej żołądka.",
           "isCorrect": false
         },
         {
@@ -1388,7 +1388,7 @@
         },
         {
           "id": "E",
-          "text": "u pacjentów z zespołem Zollingera-Ellisona zaleca się IPP w kilkukrotnie\nwiększej dawce od standardowej.",
+          "text": "u pacjentów z zespołem Zollingera-Ellisona zaleca się IPP w kilkukrotnie większej dawce od standardowej.",
           "isCorrect": false
         }
       ],
@@ -1398,7 +1398,7 @@
     },
     {
       "id": "int-1-42",
-      "question": "Wskaż sytuacje kliniczne, w których rozwija się przewlekłe cewkowo-\nśródmiąższowe, niebakteryjne zapalenie nerek:\n1) nefropatia dnawa;\n2) przewlekłe leczenie litem;\n3) pierwotny zespół Sjӧgrena;\n4) nefropatia hiperkalcemiczna;\n5) nefropatia hipokaliemiczna. Prawidłowa odpowiedź to:\n\n",
+      "question": "Wskaż sytuacje kliniczne, w których rozwija się przewlekłe cewkowo-\nśródmiąższowe, niebakteryjne zapalenie nerek:\n1) nefropatia dnawa;\n2) przewlekłe leczenie litem;\n3) pierwotny zespół Sjӧgrena;\n4) nefropatia hiperkalcemiczna;\n5) nefropatia hipokaliemiczna. Prawidłowa odpowiedź to: B. 1,2,3.\n+ +\n\n",
       "answers": [
         {
           "id": "A",
@@ -1407,7 +1407,7 @@
         },
         {
           "id": "B",
-          "text": "1,2,3.\n+ +",
+          "text": "1,2,3. + +",
           "isCorrect": false
         },
         {
@@ -1432,31 +1432,31 @@
     },
     {
       "id": "int-1-43",
-      "question": "Kardiostymulatory wszczepialne oznaczane są trójliterowym kodem XYZ, w którym poszczególne litery oznaczają:\n\n",
+      "question": "Kardiostymulatory wszczepialne oznaczane są trójliterowym kodem XYZ, w którym poszczególne litery oznaczają: A. X - miejsce stymulacji; Y - miejsce odczytywania potencjałów; Z - tryb pracy. B. X - miejsce odczytywania potencjałów; Y - miejsce stymulacji; Z - tryb pracy. C. X - tryb pracy; Y - miejsce odczytywania potencjałów; Z - miejsce stymulacji. D. X - tryb pracy; Y - miejsce stymulacji; Z - miejsce odczytywania potencjałów. E. X - miejsce stymulacji; Y - tryb pracy; Z - miejsce odczytywania potencjałów.\n",
       "answers": [
         {
           "id": "A",
-          "text": "X - miejsce stymulacji; Y - miejsce odczytywania potencjałów; Z - tryb\npracy.",
+          "text": "X - miejsce stymulacji; Y - miejsce odczytywania potencjałów; Z - tryb pracy.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "X - miejsce odczytywania potencjałów; Y - miejsce stymulacji; Z - tryb\npracy.",
+          "text": "X - miejsce odczytywania potencjałów; Y - miejsce stymulacji; Z - tryb pracy.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "X - tryb pracy; Y - miejsce odczytywania potencjałów; Z - miejsce\nstymulacji.",
+          "text": "X - tryb pracy; Y - miejsce odczytywania potencjałów; Z - miejsce stymulacji.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "X - tryb pracy; Y - miejsce stymulacji; Z - miejsce odczytywania\npotencjałów.",
+          "text": "X - tryb pracy; Y - miejsce stymulacji; Z - miejsce odczytywania potencjałów.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "X - miejsce stymulacji; Y - tryb pracy; Z - miejsce odczytywania\npotencjałów.",
+          "text": "X - miejsce stymulacji; Y - tryb pracy; Z - miejsce odczytywania potencjałów.",
           "isCorrect": false
         }
       ],
@@ -1548,7 +1548,7 @@
         },
         {
           "id": "C",
-          "text": "Wskaż\nnajbardziej prawdopodobne rozpoznanie:\nA. kamica nerkowa.\nB. kamica nerkowa z towarzyszącym zakażeniem układu moczowego.\nC. ostre odmiedniczkowe zapalenie nerek.",
+          "text": "Wskaż najbardziej prawdopodobne rozpoznanie: A. kamica nerkowa. B. kamica nerkowa z towarzyszącym zakażeniem układu moczowego. C. ostre odmiedniczkowe zapalenie nerek.",
           "isCorrect": false
         },
         {
@@ -1806,11 +1806,11 @@
     },
     {
       "id": "int-1-54",
-      "question": "U pacjenta l. 66, z napadem migotania przedsionków stwierdzono TSH 0,1 mIU/l (N: 0,27-4,2) i FT4 1,98 ng/dl (N: 0,7-1,7). Z wywiadu wiadomo, że pacjent przyjmuje tyroksynę w dawce 100 μg/dobę z powodu rozpoznania niedoczynności tarczycy przed 3 latami. Wskaż optymalne postępowanie w zakresie zmiany leczenia choroby tarczycy:\n\n",
+      "question": "U pacjenta l. 66, z napadem migotania przedsionków stwierdzono TSH 0,1 mIU/l (N: 0,27-4,2) i FT4 1,98 ng/dl (N: 0,7-1,7). Z wywiadu wiadomo, że pacjent przyjmuje tyroksynę w dawce 100 μg/dobę z powodu rozpoznania niedoczynności tarczycy przed 3 latami. Wskaż optymalne postępowanie w zakresie zmiany leczenia choroby tarczycy: A. należy zmniejszyć dawkę tyroksyny do 75 μg/dobę i skontrolować TSH za\n4-6 tygodni.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "należy zmniejszyć dawkę tyroksyny do 75 μg/dobę i skontrolować TSH za\n4-6 tygodni.",
+          "text": "należy zmniejszyć dawkę tyroksyny do 75 μg/dobę i skontrolować TSH za 4-6 tygodni.",
           "isCorrect": false
         },
         {
@@ -1874,7 +1874,7 @@
     },
     {
       "id": "int-1-56",
-      "question": "U chorego z zespołem Wolffa-Parkinsona-White’a (WPW) należy niezwłocznie wykonać kardiowersję elektryczną migotania przedsionków\n(AF), gdy:\n\n",
+      "question": "U chorego z zespołem Wolffa-Parkinsona-White’a (WPW) należy niezwłocznie wykonać kardiowersję elektryczną migotania przedsionków\n(AF), gdy: D. w każdej z wymienionych sytuacji należy niezwłocznie wykonać kardiowersję.\n\n",
       "answers": [
         {
           "id": "A",
@@ -1893,7 +1893,7 @@
         },
         {
           "id": "D",
-          "text": "w każdej z wymienionych sytuacji należy niezwłocznie wykonać\nkardiowersję.",
+          "text": "w każdej z wymienionych sytuacji należy niezwłocznie wykonać kardiowersję.",
           "isCorrect": false
         },
         {
@@ -2044,7 +2044,7 @@
     },
     {
       "id": "int-1-61",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące leczenia krwotoku z żylaków przełyku:\n\n",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące leczenia krwotoku z żylaków przełyku: B. somatostatyna i glipresyna posiadają podobną skuteczność w hamowaniu krwotoku. C. pacjent wymaga przetoczenia krwi do wartości stężenia hemoglobiny 7-8 g/dL. D. należy unikać przetoczeń dużych objętości mrożonego osocza w celu normalizacji wskaźnika INR.\n\n",
       "answers": [
         {
           "id": "A",
@@ -2053,17 +2053,17 @@
         },
         {
           "id": "B",
-          "text": "somatostatyna i glipresyna posiadają podobną skuteczność w\nhamowaniu krwotoku.",
+          "text": "somatostatyna i glipresyna posiadają podobną skuteczność w hamowaniu krwotoku.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "pacjent wymaga przetoczenia krwi do wartości stężenia hemoglobiny 7-8\ng/dL.",
+          "text": "pacjent wymaga przetoczenia krwi do wartości stężenia hemoglobiny 7-8 g/dL.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "należy unikać przetoczeń dużych objętości mrożonego osocza w celu\nnormalizacji wskaźnika INR.",
+          "text": "należy unikać przetoczeń dużych objętości mrożonego osocza w celu normalizacji wskaźnika INR.",
           "isCorrect": false
         },
         {
@@ -2146,31 +2146,31 @@
     },
     {
       "id": "int-1-64",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące zespołu nieadekwatnego wydzielania hormonu antydiuretycznego (syndrome of inappropriate antidiuretic hormone secretion - SIADH):\n\n",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące zespołu nieadekwatnego wydzielania hormonu antydiuretycznego (syndrome of inappropriate antidiuretic hormone secretion - SIADH): A. rozpoznanie SIADH nie jest możliwe bez wykluczenia niedoczynności kory nadnerczy. B. ryzyko demielinizacji mostu narasta przy zbyt szybkim wyrównaniu hiponatremii. C. oznaczanie sodu w moczu ma znaczenie diagnostyczne tylko wtedy, gdy pacjent nie przyjmuje diuretyków. D. korekta hiponatremii wymaga podania stężonego (3%) roztworu soli fizjologicznej u większości pacjentów. E. osmolalność surowicy jest niższa od 280 mOsm/kg, zaś osmolalność moczu powinna być wyższa od 100 mOsm/kg.\n",
       "answers": [
         {
           "id": "A",
-          "text": "rozpoznanie SIADH nie jest możliwe bez wykluczenia niedoczynności\nkory nadnerczy.",
+          "text": "rozpoznanie SIADH nie jest możliwe bez wykluczenia niedoczynności kory nadnerczy.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "ryzyko demielinizacji mostu narasta przy zbyt szybkim wyrównaniu\nhiponatremii.",
+          "text": "ryzyko demielinizacji mostu narasta przy zbyt szybkim wyrównaniu hiponatremii.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "oznaczanie sodu w moczu ma znaczenie diagnostyczne tylko wtedy, gdy\npacjent nie przyjmuje diuretyków.",
+          "text": "oznaczanie sodu w moczu ma znaczenie diagnostyczne tylko wtedy, gdy pacjent nie przyjmuje diuretyków.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "korekta hiponatremii wymaga podania stężonego (3%) roztworu soli\nfizjologicznej u większości pacjentów.",
+          "text": "korekta hiponatremii wymaga podania stężonego (3%) roztworu soli fizjologicznej u większości pacjentów.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "osmolalność surowicy jest niższa od 280 mOsm/kg, zaś osmolalność\nmoczu powinna być wyższa od 100 mOsm/kg.",
+          "text": "osmolalność surowicy jest niższa od 280 mOsm/kg, zaś osmolalność moczu powinna być wyższa od 100 mOsm/kg.",
           "isCorrect": false
         }
       ],
@@ -2248,11 +2248,11 @@
     },
     {
       "id": "int-1-67",
-      "question": "W celu rozpoznania przewlekłej obturacyjnej choroby płuc oprócz analizy objawów klinicznych należy wykonać badanie spirometryczne. Który z parametrów spirometrii służy do rozpoznania tej choroby?\n\n",
+      "question": "W celu rozpoznania przewlekłej obturacyjnej choroby płuc oprócz analizy objawów klinicznych należy wykonać badanie spirometryczne. Który z parametrów spirometrii służy do rozpoznania tej choroby? A. natężona objętość wydechowa pierwszosekundowa (FEV1) oraz natężona pojemność życiowa (FVC).\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "natężona objętość wydechowa pierwszosekundowa (FEV1) oraz\nnatężona pojemność życiowa (FVC).",
+          "text": "natężona objętość wydechowa pierwszosekundowa (FEV1) oraz natężona pojemność życiowa (FVC).",
           "isCorrect": false
         },
         {
@@ -2282,7 +2282,7 @@
     },
     {
       "id": "int-1-68",
-      "question": "W jakiej chorobie lub stanie klinicznym może wystąpić nabyta hemofilia A?\n3\n\n",
+      "question": "W jakiej chorobie lub stanie klinicznym może wystąpić nabyta hemofilia A?\n3 C. bez uchwytnej przyczyny u osoby w wieku podeszłym, tzw. postać idiopatyczna.\n\n",
       "answers": [
         {
           "id": "A",
@@ -2296,7 +2296,7 @@
         },
         {
           "id": "C",
-          "text": "bez uchwytnej przyczyny u osoby w wieku podeszłym, tzw. postać\nidiopatyczna.",
+          "text": "bez uchwytnej przyczyny u osoby w wieku podeszłym, tzw. postać idiopatyczna.",
           "isCorrect": false
         },
         {
@@ -2520,7 +2520,7 @@
     },
     {
       "id": "int-1-75",
-      "question": "Wskaż wynik badania gazometrycznego krwi tętniczej, który świadczy o kwasicy oddechowej niewyrównanej:\n\n",
+      "question": "Wskaż wynik badania gazometrycznego krwi tętniczej, który świadczy o kwasicy oddechowej niewyrównanej: C. pH - 7,50, pCO - 30 mmHg, HCO - 23 mmol/l.\n2 3\n2 3\n2 3\n\n",
       "answers": [
         {
           "id": "A",
@@ -2534,7 +2534,7 @@
         },
         {
           "id": "C",
-          "text": "pH - 7,50, pCO - 30 mmHg, HCO - 23 mmol/l.\n2 3\n2 3\n2 3",
+          "text": "pH - 7,50, pCO - 30 mmHg, HCO - 23 mmol/l. 2 3 2 3 2 3",
           "isCorrect": false
         },
         {
@@ -2622,11 +2622,11 @@
     },
     {
       "id": "int-1-78",
-      "question": "Kwasica metaboliczna w zaawansowanej przewlekłej chorobie nerek jest spowodowana:\n\n",
+      "question": "Kwasica metaboliczna w zaawansowanej przewlekłej chorobie nerek jest spowodowana: A. stosowaniem węglanu wapnia.\n2 3\n2 3\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "stosowaniem węglanu wapnia.\n2 3\n2 3",
+          "text": "stosowaniem węglanu wapnia. 2 3 2 3",
           "isCorrect": false
         },
         {
@@ -2724,7 +2724,7 @@
     },
     {
       "id": "int-1-81",
-      "question": "Które z czynników przyspieszają progresję przewlekłej choroby nerek?\n\n",
+      "question": "Które z czynników przyspieszają progresję przewlekłej choroby nerek? C. nadmiar białka zwierzęcego.\n3-\n12\n\n",
       "answers": [
         {
           "id": "A",
@@ -2738,7 +2738,7 @@
         },
         {
           "id": "C",
-          "text": "nadmiar białka zwierzęcego.\n3-\n12",
+          "text": "nadmiar białka zwierzęcego. 3- 12",
           "isCorrect": false
         },
         {
@@ -2996,7 +2996,7 @@
     },
     {
       "id": "int-1-89",
-      "question": "80-letnia pensjonariuszka domu opieki społecznej została przewieziona na izbę przyjęć z powodu pogorszenia kontaktu, osłabienia siły kończyny dolnej prawej od około 5 godzin. Z wywiadu środowiskowego chora bez gorączki, bólów brzucha. W wykonanym badaniu ogólnym moczu stwierdzono białkomocz 0,1 mg/dl, leukocyty 15-20 wpw z obecnością licznych bakterii. CRP 10 ng/ml (n < 5 ng/ml), prawidłowa morfologia krwi, eGFR 39 ml/min. Najbardziej prawdopodobną przyczyną dolegliwości jest:\n\n",
+      "question": "80-letnia pensjonariuszka domu opieki społecznej została przewieziona na izbę przyjęć z powodu pogorszenia kontaktu, osłabienia siły kończyny dolnej prawej od około 5 godzin. Z wywiadu środowiskowego chora bez gorączki, bólów brzucha. W wykonanym badaniu ogólnym moczu stwierdzono białkomocz 0,1 mg/dl, leukocyty 15-20 wpw z obecnością licznych bakterii. CRP 10 ng/ml (n < 5 ng/ml), prawidłowa morfologia krwi, eGFR 39 ml/min. Najbardziej prawdopodobną przyczyną dolegliwości jest: E. opisywane zmiany w moczu są typowe dla osób starszych i nie powinny być wskazaniem do włączenia leczenia przeciwbakteryjnego przy braku objawów klinicznych.\n",
       "answers": [
         {
           "id": "A",
@@ -3020,7 +3020,7 @@
         },
         {
           "id": "E",
-          "text": "opisywane zmiany w moczu są typowe dla osób starszych i nie powinny\nbyć wskazaniem do włączenia leczenia przeciwbakteryjnego przy braku\nobjawów klinicznych.",
+          "text": "opisywane zmiany w moczu są typowe dla osób starszych i nie powinny być wskazaniem do włączenia leczenia przeciwbakteryjnego przy braku objawów klinicznych.",
           "isCorrect": false
         }
       ],
@@ -3132,31 +3132,31 @@
     },
     {
       "id": "int-1-93",
-      "question": "68-letni chory zgłosił się do Poradni Chorób Zakaźnych z rozpoznaniem przewlekłego zapalenia wątroby typu C (PZW C), z potwierdzonym badaniem elastograficznym włóknieniem F3. Dodatkowo chory cierpi na chorobę niedokrwienną serca. Choremu powinno zostać zaproponowane następujące postępowanie, które będzie skutkowało następującym rokowaniem:\n\n",
+      "question": "68-letni chory zgłosił się do Poradni Chorób Zakaźnych z rozpoznaniem przewlekłego zapalenia wątroby typu C (PZW C), z potwierdzonym badaniem elastograficznym włóknieniem F3. Dodatkowo chory cierpi na chorobę niedokrwienną serca. Choremu powinno zostać zaproponowane następujące postępowanie, które będzie skutkowało następującym rokowaniem: A. leczenie przewlekłego zakażenia HCV prowadzi się tylko z zastosowaniem pegylowanego interferonu i można osiągnąć w ten sposób wyleczenie u 90% chorych, jednak u chorego taka terapia jest przeciwwskazana z powodu choroby niedokrwiennej serca. B. chory nie będzie leczony, gdyż w Polsce leczenie przeciwwirusowe PZWC u chorych po 65. roku życia nie jest refundowane. C. skojarzone leczenie pegylowanym interferonem α z rybawiryną i telaprewirem przez 11 miesięcy, które daje trwałą odpowiedź wirusową\n(SVR) u 80% wszystkich leczonych, jest leczeniem optymalnym, zalecanym obecnie u większości chorych, niezależnie od chorób współistniejących. D. chory nie wymaga leczenia przeciwwirusowego ze względu na małe zaawansowanie włóknienia w wątrobie. E. terapia doustna dwoma lub trzema lekami o bezpośrednim działaniu hamującym replikację HCV, której celem jest wyleczenie zakażenia HCV\n(genotyp 1) w ponad 90% przepadków.\n",
       "answers": [
         {
           "id": "A",
-          "text": "leczenie przewlekłego zakażenia HCV prowadzi się tylko z\nzastosowaniem pegylowanego interferonu i można osiągnąć w ten sposób\nwyleczenie u 90% chorych, jednak u chorego taka terapia jest\nprzeciwwskazana z powodu choroby niedokrwiennej serca.",
+          "text": "leczenie przewlekłego zakażenia HCV prowadzi się tylko z zastosowaniem pegylowanego interferonu i można osiągnąć w ten sposób wyleczenie u 90% chorych, jednak u chorego taka terapia jest przeciwwskazana z powodu choroby niedokrwiennej serca.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "chory nie będzie leczony, gdyż w Polsce leczenie przeciwwirusowe\nPZWC u chorych po 65. roku życia nie jest refundowane.",
+          "text": "chory nie będzie leczony, gdyż w Polsce leczenie przeciwwirusowe PZWC u chorych po 65. roku życia nie jest refundowane.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "skojarzone leczenie pegylowanym interferonem α z rybawiryną i\ntelaprewirem przez 11 miesięcy, które daje trwałą odpowiedź wirusową\n(SVR) u 80% wszystkich leczonych, jest leczeniem optymalnym, zalecanym\nobecnie u większości chorych, niezależnie od chorób współistniejących.",
+          "text": "skojarzone leczenie pegylowanym interferonem α z rybawiryną i telaprewirem przez 11 miesięcy, które daje trwałą odpowiedź wirusową (SVR) u 80% wszystkich leczonych, jest leczeniem optymalnym, zalecanym obecnie u większości chorych, niezależnie od chorób współistniejących.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "chory nie wymaga leczenia przeciwwirusowego ze względu na małe\nzaawansowanie włóknienia w wątrobie.",
+          "text": "chory nie wymaga leczenia przeciwwirusowego ze względu na małe zaawansowanie włóknienia w wątrobie.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "terapia doustna dwoma lub trzema lekami o bezpośrednim działaniu\nhamującym replikację HCV, której celem jest wyleczenie zakażenia HCV\n(genotyp 1) w ponad 90% przepadków.",
+          "text": "terapia doustna dwoma lub trzema lekami o bezpośrednim działaniu hamującym replikację HCV, której celem jest wyleczenie zakażenia HCV (genotyp 1) w ponad 90% przepadków.",
           "isCorrect": false
         }
       ],
@@ -3302,31 +3302,31 @@
     },
     {
       "id": "int-1-98",
-      "question": "Główne cechy laboratoryjne niedokrwistości chorób przewlekłych to:\n\n",
+      "question": "Główne cechy laboratoryjne niedokrwistości chorób przewlekłych to: A. obniżone stężenie żelaza w surowicy, podwyższone stężenie transferyny, obniżone wysycenie transferyny, obniżone stężenie ferrytyny. B. podwyższone stężenie żelaza w surowicy, podwyższone wysycenie transferyny, obniżone stężenie ferrytyny. C. obniżone stężenie żelaza w surowicy, obniżone lub prawidłowe stężenie transferyny, obniżone wysycenie transferyny, prawidłowe lub podwyższone stężenie ferrytyny. D. makrocytoza krwinek czerwonych, obniżone stężenie żelaza w surowicy, podwyższone stężenie transferyny, obniżone stężenie ferrytyny. E. normo- lub mikrocytoza krwinek czerwonych, obniżone stężenie żelaza, podwyższone wysycenie transferyny, podwyższone stężenie ferrytyny.\n",
       "answers": [
         {
           "id": "A",
-          "text": "obniżone stężenie żelaza w surowicy, podwyższone stężenie transferyny,\nobniżone wysycenie transferyny, obniżone stężenie ferrytyny.",
+          "text": "obniżone stężenie żelaza w surowicy, podwyższone stężenie transferyny, obniżone wysycenie transferyny, obniżone stężenie ferrytyny.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "podwyższone stężenie żelaza w surowicy, podwyższone wysycenie\ntransferyny, obniżone stężenie ferrytyny.",
+          "text": "podwyższone stężenie żelaza w surowicy, podwyższone wysycenie transferyny, obniżone stężenie ferrytyny.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "obniżone stężenie żelaza w surowicy, obniżone lub prawidłowe stężenie\ntransferyny, obniżone wysycenie transferyny, prawidłowe lub podwyższone\nstężenie ferrytyny.",
+          "text": "obniżone stężenie żelaza w surowicy, obniżone lub prawidłowe stężenie transferyny, obniżone wysycenie transferyny, prawidłowe lub podwyższone stężenie ferrytyny.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "makrocytoza krwinek czerwonych, obniżone stężenie żelaza w surowicy,\npodwyższone stężenie transferyny, obniżone stężenie ferrytyny.",
+          "text": "makrocytoza krwinek czerwonych, obniżone stężenie żelaza w surowicy, podwyższone stężenie transferyny, obniżone stężenie ferrytyny.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "normo- lub mikrocytoza krwinek czerwonych, obniżone stężenie żelaza,\npodwyższone wysycenie transferyny, podwyższone stężenie ferrytyny.",
+          "text": "normo- lub mikrocytoza krwinek czerwonych, obniżone stężenie żelaza, podwyższone wysycenie transferyny, podwyższone stężenie ferrytyny.",
           "isCorrect": false
         }
       ],
@@ -3404,7 +3404,7 @@
     },
     {
       "id": "int-1-101",
-      "question": "Do typowych objawów reumatoidalnego zapalenia stawów nie należy:\n\n",
+      "question": "Do typowych objawów reumatoidalnego zapalenia stawów nie należy: E. obecność czynnika reumatoidalnego i/lub przeciwciał przeciwcytrulinowych.\n",
       "answers": [
         {
           "id": "A",
@@ -3428,7 +3428,7 @@
         },
         {
           "id": "E",
-          "text": "obecność czynnika reumatoidalnego i/lub przeciwciał\nprzeciwcytrulinowych.",
+          "text": "obecność czynnika reumatoidalnego i/lub przeciwciał przeciwcytrulinowych.",
           "isCorrect": false
         }
       ],
@@ -3540,31 +3540,31 @@
     },
     {
       "id": "int-1-105",
-      "question": "75-letni pacjent z kardiomiopatią niedokrwienną, po implantacji kardiowertera-defibrylatora dwujamowego 5 lat temu, z nawracającymi gorączkami i stanami zapalnymi dolnych dróg oddechowych od 6 miesięcy, zgłosił się do poradni kardiologicznej z powodu nasilenia objawów prawokomorowej niewydolności serca. Wskaż właściwe postępowanie:\n\n",
+      "question": "75-letni pacjent z kardiomiopatią niedokrwienną, po implantacji kardiowertera-defibrylatora dwujamowego 5 lat temu, z nawracającymi gorączkami i stanami zapalnymi dolnych dróg oddechowych od 6 miesięcy, zgłosił się do poradni kardiologicznej z powodu nasilenia objawów prawokomorowej niewydolności serca. Wskaż właściwe postępowanie: A. aktualnie pacjent nie wymaga dalszej diagnostyki kardiologicznej, konieczna pilna konsultacja pulmonologiczna. B. po wykluczeniu wegetacji w badaniu echokardiografii przezklatkowej, należy zintensyfikować leczenie niewydolności serca, pacjent nie wymaga dalszej diagnostyki kardiologicznej. C. podejrzewając infekcyjne zapalenie wsierdzia należy wykonać badania echokardiografii przezklatkowej i przezprzełykowej. D. brak cech infekcji okolicy loży urządzenia wyklucza odelektrodowe zapalenie wsierdzia, a zatem pacjent wymaga jedynie kontroli urządzenia oraz intensyfikacji leczenia niewydolności serca. E. należy wdrożyć profilaktykę antybiotykową odelektrodowego zapalenia wsierdzia oraz zintensyfikować leczenie niewydolności serca.\n",
       "answers": [
         {
           "id": "A",
-          "text": "aktualnie pacjent nie wymaga dalszej diagnostyki kardiologicznej,\nkonieczna pilna konsultacja pulmonologiczna.",
+          "text": "aktualnie pacjent nie wymaga dalszej diagnostyki kardiologicznej, konieczna pilna konsultacja pulmonologiczna.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "po wykluczeniu wegetacji w badaniu echokardiografii przezklatkowej,\nnależy zintensyfikować leczenie niewydolności serca, pacjent nie wymaga\ndalszej diagnostyki kardiologicznej.",
+          "text": "po wykluczeniu wegetacji w badaniu echokardiografii przezklatkowej, należy zintensyfikować leczenie niewydolności serca, pacjent nie wymaga dalszej diagnostyki kardiologicznej.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "podejrzewając infekcyjne zapalenie wsierdzia należy wykonać badania\nechokardiografii przezklatkowej i przezprzełykowej.",
+          "text": "podejrzewając infekcyjne zapalenie wsierdzia należy wykonać badania echokardiografii przezklatkowej i przezprzełykowej.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "brak cech infekcji okolicy loży urządzenia wyklucza odelektrodowe\nzapalenie wsierdzia, a zatem pacjent wymaga jedynie kontroli urządzenia\noraz intensyfikacji leczenia niewydolności serca.",
+          "text": "brak cech infekcji okolicy loży urządzenia wyklucza odelektrodowe zapalenie wsierdzia, a zatem pacjent wymaga jedynie kontroli urządzenia oraz intensyfikacji leczenia niewydolności serca.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "należy wdrożyć profilaktykę antybiotykową odelektrodowego zapalenia\nwsierdzia oraz zintensyfikować leczenie niewydolności serca.",
+          "text": "należy wdrożyć profilaktykę antybiotykową odelektrodowego zapalenia wsierdzia oraz zintensyfikować leczenie niewydolności serca.",
           "isCorrect": false
         }
       ],
@@ -3676,31 +3676,31 @@
     },
     {
       "id": "int-1-109",
-      "question": "Wskaż nieprawdziwe stwierdzenie dotyczące opornego nadciśnienia tętniczego:\n\n",
+      "question": "Wskaż nieprawdziwe stwierdzenie dotyczące opornego nadciśnienia tętniczego: A. u chorego utrzymuje się ciśnienie tętnicze > 140/90 mmHg pomimo odpowiedniej zmiany stylu życia oraz skojarzonego leczenia blokerem kanału wapniowego, blokerem receptora angiotensynowego oraz diuretykiem tiazydowym w optymalnych dawkach. B. ciśnienie tętnicze jest zwiększone podczas wizyt w gabinecie/przychodni natomiast prawidłowe w pomiarach domowych/ambulatoryjnych. C. chorzy z nadciśnieniem tętniczym opornym mają większe ryzyko sercowo-naczyniowe. D. u chorych z nadciśnieniem opornym należy rozważyć zastosowanie antagonisty aldosteronu lub α-blokera. E. w przypadku nieskuteczności farmakoterapii u chorego z opornym nadciśnieniem tętniczym można rozważyć procedury inwazyjne, takie jak odnerwienie nerek lub stymulacja baroreceptorów szyjnych.\n",
       "answers": [
         {
           "id": "A",
-          "text": "u chorego utrzymuje się ciśnienie tętnicze > 140/90 mmHg pomimo\nodpowiedniej zmiany stylu życia oraz skojarzonego leczenia blokerem\nkanału wapniowego, blokerem receptora angiotensynowego oraz\ndiuretykiem tiazydowym w optymalnych dawkach.",
+          "text": "u chorego utrzymuje się ciśnienie tętnicze > 140/90 mmHg pomimo odpowiedniej zmiany stylu życia oraz skojarzonego leczenia blokerem kanału wapniowego, blokerem receptora angiotensynowego oraz diuretykiem tiazydowym w optymalnych dawkach.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "ciśnienie tętnicze jest zwiększone podczas wizyt w gabinecie/przychodni\nnatomiast prawidłowe w pomiarach domowych/ambulatoryjnych.",
+          "text": "ciśnienie tętnicze jest zwiększone podczas wizyt w gabinecie/przychodni natomiast prawidłowe w pomiarach domowych/ambulatoryjnych.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "chorzy z nadciśnieniem tętniczym opornym mają większe ryzyko\nsercowo-naczyniowe.",
+          "text": "chorzy z nadciśnieniem tętniczym opornym mają większe ryzyko sercowo-naczyniowe.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "u chorych z nadciśnieniem opornym należy rozważyć zastosowanie\nantagonisty aldosteronu lub α-blokera.",
+          "text": "u chorych z nadciśnieniem opornym należy rozważyć zastosowanie antagonisty aldosteronu lub α-blokera.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "w przypadku nieskuteczności farmakoterapii u chorego z opornym\nnadciśnieniem tętniczym można rozważyć procedury inwazyjne, takie jak\nodnerwienie nerek lub stymulacja baroreceptorów szyjnych.",
+          "text": "w przypadku nieskuteczności farmakoterapii u chorego z opornym nadciśnieniem tętniczym można rozważyć procedury inwazyjne, takie jak odnerwienie nerek lub stymulacja baroreceptorów szyjnych.",
           "isCorrect": false
         }
       ],
@@ -3744,7 +3744,7 @@
     },
     {
       "id": "int-1-111",
-      "question": "Mężczyzna lat 51, z astmą oskrzelową zgłosił się do lekarza z powodu powtarzających się epizodów uwięźnięcia kęsa pokarmowego, uczucia zgagi oraz bólów zamostkowych nasilających się po posiłku, niemających związku z wysiłkiem fizycznym. Ze względu na obraz kliniczny pacjentowi należy zalecić w pierwszej kolejności:\n\n",
+      "question": "Mężczyzna lat 51, z astmą oskrzelową zgłosił się do lekarza z powodu powtarzających się epizodów uwięźnięcia kęsa pokarmowego, uczucia zgagi oraz bólów zamostkowych nasilających się po posiłku, niemających związku z wysiłkiem fizycznym. Ze względu na obraz kliniczny pacjentowi należy zalecić w pierwszej kolejności: C. gastroskopię z pobraniem testu ureazowego i bioptatów na całej długości przełyku do oceny hist.-pat.\n\n",
       "answers": [
         {
           "id": "A",
@@ -3758,7 +3758,7 @@
         },
         {
           "id": "C",
-          "text": "gastroskopię z pobraniem testu ureazowego i bioptatów na całej długości\nprzełyku do oceny hist.-pat.",
+          "text": "gastroskopię z pobraniem testu ureazowego i bioptatów na całej długości przełyku do oceny hist.-pat.",
           "isCorrect": false
         },
         {
@@ -3914,7 +3914,7 @@
     },
     {
       "id": "int-1-116",
-      "question": "W przypadku nagłej duszności u 25-letniej kobiety w 28. tygodniu ciąży, u której w 5. - 6. r.ż. rozpoznano astmę, która od co najmniej 15 lat nie miała napadów astmy i u której stwierdza się przedmiotowo szmer oddechowy pęcherzykowy, a czynność serca wynosi 130/min. należy:\n\n",
+      "question": "W przypadku nagłej duszności u 25-letniej kobiety w 28. tygodniu ciąży, u której w 5. - 6. r.ż. rozpoznano astmę, która od co najmniej 15 lat nie miała napadów astmy i u której stwierdza się przedmiotowo szmer oddechowy pęcherzykowy, a czynność serca wynosi 130/min. należy: B. podać 2 wdechy salbutamolu i wstrzyknąć 100 mg hydrokortyzonu dożylnie.\n\n",
       "answers": [
         {
           "id": "A",
@@ -3923,7 +3923,7 @@
         },
         {
           "id": "B",
-          "text": "podać 2 wdechy salbutamolu i wstrzyknąć 100 mg hydrokortyzonu\ndożylnie.",
+          "text": "podać 2 wdechy salbutamolu i wstrzyknąć 100 mg hydrokortyzonu dożylnie.",
           "isCorrect": false
         },
         {
@@ -4084,7 +4084,7 @@
     },
     {
       "id": "int-1-121",
-      "question": "Cechą charakterystyczną zespołów mielodysplastycznych jest:\n\n",
+      "question": "Cechą charakterystyczną zespołów mielodysplastycznych jest: B. podwyższona leukocytoza z obecnością erytroblastów we krwi obwodowej.\n\n",
       "answers": [
         {
           "id": "A",
@@ -4093,7 +4093,7 @@
         },
         {
           "id": "B",
-          "text": "podwyższona leukocytoza z obecnością erytroblastów we krwi\nobwodowej.",
+          "text": "podwyższona leukocytoza z obecnością erytroblastów we krwi obwodowej.",
           "isCorrect": false
         },
         {
@@ -4176,7 +4176,7 @@
         },
         {
           "id": "E",
-          "text": "coli.\nB. Streptococcus pneumoniae i Haemophilus influenzae t. b.\nC. Streptococcus pneumoniae i Neisseria meningitidis.\nD. Neisseria meningitidis i Haemophilus influenzae t. b.\nE. Listeria monocytogenes i streptokoki grupy D.",
+          "text": "coli. B. Streptococcus pneumoniae i Haemophilus influenzae t. b. C. Streptococcus pneumoniae i Neisseria meningitidis. D. Neisseria meningitidis i Haemophilus influenzae t. b. E. Listeria monocytogenes i streptokoki grupy D.",
           "isCorrect": false
         }
       ],
@@ -4186,7 +4186,7 @@
     },
     {
       "id": "int-1-124",
-      "question": "76-letni pacjent palacz, z nadciśnieniem tętniczym, cukrzycą typu 2 od lat, zgłosił się do SOR z powodu spadku tolerancji wysiłku, nasilonej duszności, obrzęków kończyn dolnych nasilających się od 3 tygodni. Chory zgłasza, że dolegliwości pojawiły się po epizodzie bardzo silnego bólu w klatce piersiowej przed kilkoma tygodniami. W badaniu przedmiotowym trzeszczenia u podstawy płuc, obrzęk ciastowaty kończyn dolnych. U powyższego chorego najbardziej prawdopodobną przyczyną dolegliwości jest:\n\n",
+      "question": "76-letni pacjent palacz, z nadciśnieniem tętniczym, cukrzycą typu 2 od lat, zgłosił się do SOR z powodu spadku tolerancji wysiłku, nasilonej duszności, obrzęków kończyn dolnych nasilających się od 3 tygodni. Chory zgłasza, że dolegliwości pojawiły się po epizodzie bardzo silnego bólu w klatce piersiowej przed kilkoma tygodniami. W badaniu przedmiotowym trzeszczenia u podstawy płuc, obrzęk ciastowaty kończyn dolnych. U powyższego chorego najbardziej prawdopodobną przyczyną dolegliwości jest: E. zaostrzenie niewydolności serca, prawdopodobnie na skutek przebytego zawału serca.\n",
       "answers": [
         {
           "id": "A",
@@ -4210,7 +4210,7 @@
         },
         {
           "id": "E",
-          "text": "zaostrzenie niewydolności serca, prawdopodobnie na skutek przebytego\nzawału serca.",
+          "text": "zaostrzenie niewydolności serca, prawdopodobnie na skutek przebytego zawału serca.",
           "isCorrect": false
         }
       ],
@@ -4254,26 +4254,26 @@
     },
     {
       "id": "int-1-126",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące niealkoholowego stłuszczeniowego zapalenia wątroby (NASH):\n\n",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące niealkoholowego stłuszczeniowego zapalenia wątroby (NASH): A. NASH jest etapem pośrednim między izolowanym stłuszczeniem wątroby i zaawansowanymi postaciami niealkoholowej choroby stłuszczeniowej wątroby. B. najlepszym badaniem rozpoznającym NASH jest ultradźwiękowa elastografia. C. w badaniu histopatologicznym o rozpoznaniu NASH decyduje obecność stłuszczenia i włóknienia wątroby. D. obecność NASH jest związana z 50% ryzykiem rozwoju marskości wątroby w ciągu 5 lat.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "NASH jest etapem pośrednim między izolowanym stłuszczeniem wątroby\ni zaawansowanymi postaciami niealkoholowej choroby stłuszczeniowej\nwątroby.",
+          "text": "NASH jest etapem pośrednim między izolowanym stłuszczeniem wątroby i zaawansowanymi postaciami niealkoholowej choroby stłuszczeniowej wątroby.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "najlepszym badaniem rozpoznającym NASH jest ultradźwiękowa\nelastografia.",
+          "text": "najlepszym badaniem rozpoznającym NASH jest ultradźwiękowa elastografia.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "w badaniu histopatologicznym o rozpoznaniu NASH decyduje obecność\nstłuszczenia i włóknienia wątroby.",
+          "text": "w badaniu histopatologicznym o rozpoznaniu NASH decyduje obecność stłuszczenia i włóknienia wątroby.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "obecność NASH jest związana z 50% ryzykiem rozwoju marskości\nwątroby w ciągu 5 lat.",
+          "text": "obecność NASH jest związana z 50% ryzykiem rozwoju marskości wątroby w ciągu 5 lat.",
           "isCorrect": false
         },
         {
@@ -4322,31 +4322,31 @@
     },
     {
       "id": "int-1-128",
-      "question": "U chorego z klinicznymi objawami nadczynności tarczycy można spodziewać się następujących odchyleń w laboratoryjnych badaniach dodatkowych:\n\n",
+      "question": "U chorego z klinicznymi objawami nadczynności tarczycy można spodziewać się następujących odchyleń w laboratoryjnych badaniach dodatkowych: A. obniżone stężenie TSH, podwyższone stężenie FT4 i FT3, niedokrwistość, hipercholesterolemia. B. obniżone stężenie TSH, podwyższone stężenie FT4 i FT3, hipocholesterolemia, hiperkalcemia. C. obniżone stężenie TSH, obniżone stężenie FT4 i FT3, hipocholesterolemia, hipokalcemia. D. podwyższone stężenie TSH, podwyższone stężenie FT4 i FT3, nadkrwistość, hiperkalcemia. E. podwyższone stężenie TSH, obniżone stężenie FT4 i FT3, niedokrwistość, podwyższone stężenie ALT, hipertriglicerydemia.\n",
       "answers": [
         {
           "id": "A",
-          "text": "obniżone stężenie TSH, podwyższone stężenie FT4 i FT3,\nniedokrwistość, hipercholesterolemia.",
+          "text": "obniżone stężenie TSH, podwyższone stężenie FT4 i FT3, niedokrwistość, hipercholesterolemia.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "obniżone stężenie TSH, podwyższone stężenie FT4 i FT3,\nhipocholesterolemia, hiperkalcemia.",
+          "text": "obniżone stężenie TSH, podwyższone stężenie FT4 i FT3, hipocholesterolemia, hiperkalcemia.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "obniżone stężenie TSH, obniżone stężenie FT4 i FT3,\nhipocholesterolemia, hipokalcemia.",
+          "text": "obniżone stężenie TSH, obniżone stężenie FT4 i FT3, hipocholesterolemia, hipokalcemia.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "podwyższone stężenie TSH, podwyższone stężenie FT4 i FT3,\nnadkrwistość, hiperkalcemia.",
+          "text": "podwyższone stężenie TSH, podwyższone stężenie FT4 i FT3, nadkrwistość, hiperkalcemia.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "podwyższone stężenie TSH, obniżone stężenie FT4 i FT3,\nniedokrwistość, podwyższone stężenie ALT, hipertriglicerydemia.",
+          "text": "podwyższone stężenie TSH, obniżone stężenie FT4 i FT3, niedokrwistość, podwyższone stężenie ALT, hipertriglicerydemia.",
           "isCorrect": false
         }
       ],
@@ -4390,31 +4390,31 @@
     },
     {
       "id": "int-1-130",
-      "question": "Wskazaniem do biopsji wątroby nie jest:\n\n",
+      "question": "Wskazaniem do biopsji wątroby nie jest: A. ocena stanu wątroby przeszczepionej lub stanu wątroby dawcy przed planowanym przeszczepieniem. B. monitorowanie efektów leczenia niektórych chorób wątroby lub hepatotoksyczności stosowanych leków. C. ból brzucha w prawym górnym kwadrancie z gorączką oraz podejrzeniem zapalenia dróg żółciowych. D. diagnostyka biochemicznych cech uszkodzenia wątroby, którego przyczyny nie udało się ustalić za pomocą innych badań. E. rozpoznanie, ocena aktywności i zaawansowania przewlekłych chorób wątroby.\n",
       "answers": [
         {
           "id": "A",
-          "text": "ocena stanu wątroby przeszczepionej lub stanu wątroby dawcy przed\nplanowanym przeszczepieniem.",
+          "text": "ocena stanu wątroby przeszczepionej lub stanu wątroby dawcy przed planowanym przeszczepieniem.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "monitorowanie efektów leczenia niektórych chorób wątroby lub\nhepatotoksyczności stosowanych leków.",
+          "text": "monitorowanie efektów leczenia niektórych chorób wątroby lub hepatotoksyczności stosowanych leków.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "ból brzucha w prawym górnym kwadrancie z gorączką oraz podejrzeniem\nzapalenia dróg żółciowych.",
+          "text": "ból brzucha w prawym górnym kwadrancie z gorączką oraz podejrzeniem zapalenia dróg żółciowych.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "diagnostyka biochemicznych cech uszkodzenia wątroby, którego\nprzyczyny nie udało się ustalić za pomocą innych badań.",
+          "text": "diagnostyka biochemicznych cech uszkodzenia wątroby, którego przyczyny nie udało się ustalić za pomocą innych badań.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "rozpoznanie, ocena aktywności i zaawansowania przewlekłych chorób\nwątroby.",
+          "text": "rozpoznanie, ocena aktywności i zaawansowania przewlekłych chorób wątroby.",
           "isCorrect": false
         }
       ],
@@ -4424,7 +4424,7 @@
     },
     {
       "id": "int-1-131",
-      "question": "Kryteria rozpoznania przewlekłego zapalenia wątroby typu C stanowią:\n\n",
+      "question": "Kryteria rozpoznania przewlekłego zapalenia wątroby typu C stanowią: B. obecność HCV RNA w surowicy utrzymująca się powyżej 6 miesięcy oraz zmiany zapalno-martwicze i włóknienie w wątrobie. C. obecność anty-HCV w surowicy powyżej 6 miesięcy i cechy zapalenia wątroby w biopunktacie.\n\n",
       "answers": [
         {
           "id": "A",
@@ -4433,12 +4433,12 @@
         },
         {
           "id": "B",
-          "text": "obecność HCV RNA w surowicy utrzymująca się powyżej 6 miesięcy oraz\nzmiany zapalno-martwicze i włóknienie w wątrobie.",
+          "text": "obecność HCV RNA w surowicy utrzymująca się powyżej 6 miesięcy oraz zmiany zapalno-martwicze i włóknienie w wątrobie.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "obecność anty-HCV w surowicy powyżej 6 miesięcy i cechy zapalenia\nwątroby w biopunktacie.",
+          "text": "obecność anty-HCV w surowicy powyżej 6 miesięcy i cechy zapalenia wątroby w biopunktacie.",
           "isCorrect": false
         },
         {
@@ -4662,7 +4662,7 @@
     },
     {
       "id": "int-1-138",
-      "question": "Za kaszel przewlekły uważa się:\n\n",
+      "question": "Za kaszel przewlekły uważa się: E. kaszel nieustępujący pod wpływem terapii antybiotykiem lub β-agonistą i glikokortykosteroidem.\n",
       "answers": [
         {
           "id": "A",
@@ -4686,7 +4686,7 @@
         },
         {
           "id": "E",
-          "text": "kaszel nieustępujący pod wpływem terapii antybiotykiem lub β-agonistą i\nglikokortykosteroidem.",
+          "text": "kaszel nieustępujący pod wpływem terapii antybiotykiem lub β-agonistą i glikokortykosteroidem.",
           "isCorrect": false
         }
       ],
@@ -4730,7 +4730,7 @@
     },
     {
       "id": "int-1-140",
-      "question": "Najczęstszy mechanizm niedomykalności trójdzielnej to:\n\n",
+      "question": "Najczęstszy mechanizm niedomykalności trójdzielnej to: D. zniekształcenie pierścienia zastawki trójdzielnej wskutek zwapnień na tle zwyrodnieniowym. E. zerwanie struny ścięgnistej zastawki trójdzielnej w przebiegu zawału\nściany dolnej.\n",
       "answers": [
         {
           "id": "A",
@@ -4749,12 +4749,12 @@
         },
         {
           "id": "D",
-          "text": "zniekształcenie pierścienia zastawki trójdzielnej wskutek zwapnień na tle\nzwyrodnieniowym.",
+          "text": "zniekształcenie pierścienia zastawki trójdzielnej wskutek zwapnień na tle zwyrodnieniowym.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "zerwanie struny ścięgnistej zastawki trójdzielnej w przebiegu zawału\nściany dolnej.",
+          "text": "zerwanie struny ścięgnistej zastawki trójdzielnej w przebiegu zawału ściany dolnej.",
           "isCorrect": false
         }
       ],
@@ -4764,31 +4764,31 @@
     },
     {
       "id": "int-1-141",
-      "question": "Wskaż prawidłowe postępowanie u pacjenta chorującego na cukrzycę typu 2 stosującego gliklazyd o przedłużonym działaniu, u którego pojawiły się poty, osłabienie oraz drżenie rąk, a stężenie glukozy zmierzone przy pomocy glukometru wynosiło 61 mg/dl:\n\n",
+      "question": "Wskaż prawidłowe postępowanie u pacjenta chorującego na cukrzycę typu 2 stosującego gliklazyd o przedłużonym działaniu, u którego pojawiły się poty, osłabienie oraz drżenie rąk, a stężenie glukozy zmierzone przy pomocy glukometru wynosiło 61 mg/dl: A. natychmiast podać glukagon w dawce 1 mg domięśniowo lub podskórnie, a następnie dożylnie 500 ml 10% roztworu glukozy i wykonać kontrolny pomiar glikemii po 30 minutach. B. należy podać powoli dożylnie 20% roztwór glukozy w objętości 250 ml soli fizjologicznej i wykonywać kontrolne pomiary glikemii co 30 minut. C. należy podać węglowodany proste, np. słodzoną herbatę, a następnie węglowodany złożone, np. kanapkę z chleba pełnoziarnistego i wykonać kontrolny pomiar glikemii za około godzinę. D. należy podać w pierwszej kolejności dożylnie 50 ml 20% roztworu glukozy, a następnie 500 ml 10% roztworu glukozy i wykonać kontrolny pomiar glikemii po 15 minutach. E. w przypadku hipoglikemii związanej ze stosowaniem pochodnych sulfonylomocznika wskazane jest zastosowanie reguły 15/15.\n",
       "answers": [
         {
           "id": "A",
-          "text": "natychmiast podać glukagon w dawce 1 mg domięśniowo lub podskórnie,\na następnie dożylnie 500 ml 10% roztworu glukozy i wykonać kontrolny\npomiar glikemii po 30 minutach.",
+          "text": "natychmiast podać glukagon w dawce 1 mg domięśniowo lub podskórnie, a następnie dożylnie 500 ml 10% roztworu glukozy i wykonać kontrolny pomiar glikemii po 30 minutach.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "należy podać powoli dożylnie 20% roztwór glukozy w objętości 250 ml\nsoli fizjologicznej i wykonywać kontrolne pomiary glikemii co 30 minut.",
+          "text": "należy podać powoli dożylnie 20% roztwór glukozy w objętości 250 ml soli fizjologicznej i wykonywać kontrolne pomiary glikemii co 30 minut.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "należy podać węglowodany proste, np. słodzoną herbatę, a następnie\nwęglowodany złożone, np. kanapkę z chleba pełnoziarnistego i wykonać\nkontrolny pomiar glikemii za około godzinę.",
+          "text": "należy podać węglowodany proste, np. słodzoną herbatę, a następnie węglowodany złożone, np. kanapkę z chleba pełnoziarnistego i wykonać kontrolny pomiar glikemii za około godzinę.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "należy podać w pierwszej kolejności dożylnie 50 ml 20% roztworu\nglukozy, a następnie 500 ml 10% roztworu glukozy i wykonać kontrolny\npomiar glikemii po 15 minutach.",
+          "text": "należy podać w pierwszej kolejności dożylnie 50 ml 20% roztworu glukozy, a następnie 500 ml 10% roztworu glukozy i wykonać kontrolny pomiar glikemii po 15 minutach.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "w przypadku hipoglikemii związanej ze stosowaniem pochodnych\nsulfonylomocznika wskazane jest zastosowanie reguły 15/15.",
+          "text": "w przypadku hipoglikemii związanej ze stosowaniem pochodnych sulfonylomocznika wskazane jest zastosowanie reguły 15/15.",
           "isCorrect": false
         }
       ],
@@ -4832,31 +4832,31 @@
     },
     {
       "id": "int-1-143",
-      "question": "Pacjentka lat 72 przyjęta do szpitala z niedowładem połowiczym prawostronnym, który - jak wynika z wywiadu - wystąpił przed 3 godzinami. Wykonane badanie tomografii komputerowej mózgowia nie wykazało odchyleń od stanu prawidłowego. Badanie ultrasonograficzne duplex tętnic szyjnych, kręgowych i wewnątrzczaszkowych wykazało zwężenie tętnicy szyjnej wewnętrznej lewej rzędu 90-95% oraz prawej rzędu 50%. Wskaż dalsze postępowanie:\n\n",
+      "question": "Pacjentka lat 72 przyjęta do szpitala z niedowładem połowiczym prawostronnym, który - jak wynika z wywiadu - wystąpił przed 3 godzinami. Wykonane badanie tomografii komputerowej mózgowia nie wykazało odchyleń od stanu prawidłowego. Badanie ultrasonograficzne duplex tętnic szyjnych, kręgowych i wewnątrzczaszkowych wykazało zwężenie tętnicy szyjnej wewnętrznej lewej rzędu 90-95% oraz prawej rzędu 50%. Wskaż dalsze postępowanie: A. jak najszybsze przeprowadzenie leczenia operacyjnego tętnicy szyjnej wewnętrznej lewej, maksymalnie w czasie do 6 godzin od wystąpienia udaru. B. przy braku przeciwwskazań do wdrożenia terapii dożylnej rekombinowanym aktywatorem plazminogenu, jak najszybsze zastosowanie leczenia trombolitycznego. C. ze względu na brak zmian w badaniu tomografii komputerowej, należy odroczyć terapię o co najmniej 12 godzin i zalecić powtórne badanie tomografii komputerowej po 12 godzinach w celu doprecyzowania diagnozy. D. ze względu na podejrzenie udaru niedokrwiennego mózgu należy natychmiast po przyjęciu do szpitala (lub o ile to możliwe jeszcze na poziomie pomocy przedszpitalnej) podać heparynę drobnocząsteczkową podskórnie w pojedynczej dawce leczniczej, a następnie rozważyć wskazania do leczenia trombolitycznego. E. ze względu na przekroczenie czasu od wystąpienia udaru w jakim można stosować trombolizę dożylną, nie należy w takiej sytuacji kwalifikować chorego do leczenia trombolitycznego, ale zalecić podanie kwasu acetylosalicylowego w dawce 300 mg i w ramach profilaktyki wtórnej zakwalifikować pacjenta do leczenia operacyjnego tętnicy szyjnej wewnętrznej prawej w czasie do 6 tygodni od udaru.\n",
       "answers": [
         {
           "id": "A",
-          "text": "jak najszybsze przeprowadzenie leczenia operacyjnego tętnicy szyjnej\nwewnętrznej lewej, maksymalnie w czasie do 6 godzin od wystąpienia\nudaru.",
+          "text": "jak najszybsze przeprowadzenie leczenia operacyjnego tętnicy szyjnej wewnętrznej lewej, maksymalnie w czasie do 6 godzin od wystąpienia udaru.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "przy braku przeciwwskazań do wdrożenia terapii dożylnej\nrekombinowanym aktywatorem plazminogenu, jak najszybsze zastosowanie\nleczenia trombolitycznego.",
+          "text": "przy braku przeciwwskazań do wdrożenia terapii dożylnej rekombinowanym aktywatorem plazminogenu, jak najszybsze zastosowanie leczenia trombolitycznego.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "ze względu na brak zmian w badaniu tomografii komputerowej, należy\nodroczyć terapię o co najmniej 12 godzin i zalecić powtórne badanie\ntomografii komputerowej po 12 godzinach w celu doprecyzowania diagnozy.",
+          "text": "ze względu na brak zmian w badaniu tomografii komputerowej, należy odroczyć terapię o co najmniej 12 godzin i zalecić powtórne badanie tomografii komputerowej po 12 godzinach w celu doprecyzowania diagnozy.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "ze względu na podejrzenie udaru niedokrwiennego mózgu należy\nnatychmiast po przyjęciu do szpitala (lub o ile to możliwe jeszcze na\npoziomie pomocy przedszpitalnej) podać heparynę drobnocząsteczkową\npodskórnie w pojedynczej dawce leczniczej, a następnie rozważyć\nwskazania do leczenia trombolitycznego.",
+          "text": "ze względu na podejrzenie udaru niedokrwiennego mózgu należy natychmiast po przyjęciu do szpitala (lub o ile to możliwe jeszcze na poziomie pomocy przedszpitalnej) podać heparynę drobnocząsteczkową podskórnie w pojedynczej dawce leczniczej, a następnie rozważyć wskazania do leczenia trombolitycznego.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "ze względu na przekroczenie czasu od wystąpienia udaru w jakim można\nstosować trombolizę dożylną, nie należy w takiej sytuacji kwalifikować\nchorego do leczenia trombolitycznego, ale zalecić podanie kwasu\nacetylosalicylowego w dawce 300 mg i w ramach profilaktyki wtórnej\nzakwalifikować pacjenta do leczenia operacyjnego tętnicy szyjnej\nwewnętrznej prawej w czasie do 6 tygodni od udaru.",
+          "text": "ze względu na przekroczenie czasu od wystąpienia udaru w jakim można stosować trombolizę dożylną, nie należy w takiej sytuacji kwalifikować chorego do leczenia trombolitycznego, ale zalecić podanie kwasu acetylosalicylowego w dawce 300 mg i w ramach profilaktyki wtórnej zakwalifikować pacjenta do leczenia operacyjnego tętnicy szyjnej wewnętrznej prawej w czasie do 6 tygodni od udaru.",
           "isCorrect": false
         }
       ],
@@ -4866,7 +4866,7 @@
     },
     {
       "id": "int-1-144",
-      "question": "W leczeniu ciężkiego (stopień III) nadciśnienia tętniczego w przewlekłej chorobie nerek u chorych ze znacznym białkomoczem i obrzękami obwodowymi oraz hiperkaliemią 6,6 mmol/l i filtracją kłębuszkową < 30 ml/min/1,73 m w pierwszej kolejności należy zastosować:\n\n",
+      "question": "W leczeniu ciężkiego (stopień III) nadciśnienia tętniczego w przewlekłej chorobie nerek u chorych ze znacznym białkomoczem i obrzękami obwodowymi oraz hiperkaliemią 6,6 mmol/l i filtracją kłębuszkową < 30 ml/min/1,73 m w pierwszej kolejności należy zastosować: C. inhibitor enzymu konwertującego (IKA) z antagonistą receptora angiotensyny II (ARB).\n\n",
       "answers": [
         {
           "id": "A",
@@ -4880,7 +4880,7 @@
         },
         {
           "id": "C",
-          "text": "inhibitor enzymu konwertującego (IKA) z antagonistą receptora\nangiotensyny II (ARB).",
+          "text": "inhibitor enzymu konwertującego (IKA) z antagonistą receptora angiotensyny II (ARB).",
           "isCorrect": false
         },
         {
@@ -4900,7 +4900,7 @@
     },
     {
       "id": "int-1-145",
-      "question": "82-letni pacjent został przywieziony na izbę przyjęć z powodu zaburzeń\nświadomości nasilających się od dnia poprzedniego. W badaniach dodatkowych stwierdzono stężenie sodu w surowicy 122 mmol/l, potasu 3,9 mmol/l, stężenie kreatyniny 1,6 mg/ml. W leczeniu w pierwszej kolejności należy zastosować:\n\n",
+      "question": "82-letni pacjent został przywieziony na izbę przyjęć z powodu zaburzeń\nświadomości nasilających się od dnia poprzedniego. W badaniach dodatkowych stwierdzono stężenie sodu w surowicy 122 mmol/l, potasu 3,9 mmol/l, stężenie kreatyniny 1,6 mg/ml. W leczeniu w pierwszej kolejności należy zastosować: E. 5% glukoza 500 ml z 40 mEq 8,4% roztworem NaHCO - wlew w ciągu\n2\n3\n15 min.\n",
       "answers": [
         {
           "id": "A",
@@ -4924,7 +4924,7 @@
         },
         {
           "id": "E",
-          "text": "5% glukoza 500 ml z 40 mEq 8,4% roztworem NaHCO - wlew w ciągu\n2\n3\n15 min.",
+          "text": "5% glukoza 500 ml z 40 mEq 8,4% roztworem NaHCO - wlew w ciągu 2 3 15 min.",
           "isCorrect": false
         }
       ],
@@ -5002,16 +5002,16 @@
     },
     {
       "id": "int-1-148",
-      "question": "Autoprzeciwciała biorące udział w patogenezie pierwotnej nefropatii błoniastej to przeciwciała:\n\n",
+      "question": "Autoprzeciwciała biorące udział w patogenezie pierwotnej nefropatii błoniastej to przeciwciała: A. przeciwko niekolagenowej domenie łańcucha α3 (kolagenu IV) kłębuszków nerkowych. B. przeciwko receptorowi fosfolipazy A2 (PLA2R) błony komórkowej podocyta.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "przeciwko niekolagenowej domenie łańcucha α3 (kolagenu IV)\nkłębuszków nerkowych.",
+          "text": "przeciwko niekolagenowej domenie łańcucha α3 (kolagenu IV) kłębuszków nerkowych.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "przeciwko receptorowi fosfolipazy A2 (PLA2R) błony komórkowej\npodocyta.",
+          "text": "przeciwko receptorowi fosfolipazy A2 (PLA2R) błony komórkowej podocyta.",
           "isCorrect": false
         },
         {
@@ -5138,16 +5138,16 @@
     },
     {
       "id": "int-1-152",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące nadciśnienia złośliwego:\n\n",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące nadciśnienia złośliwego: A. charakteryzuje się wysokimi wartościami ciśnienia rozkurczowego, typowo > 120 mmHg. B. towarzyszą mu powikłania narządowe, takie jak ostra niewydolność serca, ostre uszkodzenie nerek, encefalopatia. D. stwierdza się retinopatię w III lub IV stopniu klasyfikacji wg Keitha, Wagenera i Barkera.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "charakteryzuje się wysokimi wartościami ciśnienia rozkurczowego,\ntypowo > 120 mmHg.",
+          "text": "charakteryzuje się wysokimi wartościami ciśnienia rozkurczowego, typowo > 120 mmHg.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "towarzyszą mu powikłania narządowe, takie jak ostra niewydolność\nserca, ostre uszkodzenie nerek, encefalopatia.",
+          "text": "towarzyszą mu powikłania narządowe, takie jak ostra niewydolność serca, ostre uszkodzenie nerek, encefalopatia.",
           "isCorrect": false
         },
         {
@@ -5157,7 +5157,7 @@
         },
         {
           "id": "D",
-          "text": "stwierdza się retinopatię w III lub IV stopniu klasyfikacji wg Keitha,\nWagenera i Barkera.",
+          "text": "stwierdza się retinopatię w III lub IV stopniu klasyfikacji wg Keitha, Wagenera i Barkera.",
           "isCorrect": false
         },
         {
@@ -5206,11 +5206,11 @@
     },
     {
       "id": "int-1-154",
-      "question": "Usunięcie śledziony z powodu jej pourazowego pęknięcia, u osoby zdrowej:\n\n",
+      "question": "Usunięcie śledziony z powodu jej pourazowego pęknięcia, u osoby zdrowej: A. może spowodować przeniesienie hematopoezy pozaszpikowej do wątroby.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "może spowodować przeniesienie hematopoezy pozaszpikowej do\nwątroby.",
+          "text": "może spowodować przeniesienie hematopoezy pozaszpikowej do wątroby.",
           "isCorrect": false
         },
         {
@@ -5376,7 +5376,7 @@
     },
     {
       "id": "int-1-159",
-      "question": "U 25-letniej pacjentki podczas hospitalizacji stwierdzono stężenie TSH 0,1 mIU/l. Jak należy zinterpretować ten wynik?\n\n",
+      "question": "U 25-letniej pacjentki podczas hospitalizacji stwierdzono stężenie TSH 0,1 mIU/l. Jak należy zinterpretować ten wynik? E. wynik nie powinien być analizowany w oderwaniu od danych klinicznych i oceny stężenia FT4.\n",
       "answers": [
         {
           "id": "A",
@@ -5400,7 +5400,7 @@
         },
         {
           "id": "E",
-          "text": "wynik nie powinien być analizowany w oderwaniu od danych klinicznych i\noceny stężenia FT4.",
+          "text": "wynik nie powinien być analizowany w oderwaniu od danych klinicznych i oceny stężenia FT4.",
           "isCorrect": false
         }
       ],
@@ -5444,31 +5444,31 @@
     },
     {
       "id": "int-1-161",
-      "question": "Pilnym wskazaniem do rozpoczęcia przewlekłego leczenia nerkozastępczego - dializoterapii jest:\n\n",
+      "question": "Pilnym wskazaniem do rozpoczęcia przewlekłego leczenia nerkozastępczego - dializoterapii jest: A. obniżenie się wartości filtracji kłębuszkowej < 15 ml/min/1,73 m bez objawów mocznicowych. B. znaczna retencja płynów z dusznością i trzeszczeniami u podstawy płuc pomimo stosowania diuretyku pętlowego w dużej dawce u chorego z przewlekłą niewydolnością nerek (filtracja kłębuszkowa < 15 ml/min/1,73 m ). C. umiarkowana hiperkaliemia (6,3 mmol/l) u pacjenta z filtracją kłębuszkową około 20 ml/min/1,73 m , nie stosującego przewlekle diuretyku pętlowego. D. umiarkowana hiperurykemia (8,5 mg/dl) u chorego z filtracją kłębuszkową około 20 ml/min/1,73 m , stosującego przewlekle allopurinol. E. umiarkowana niedokrwistość (st. hemoglobiny 9,0 g/dl) u chorego z cukrzycową chorobą nerek i filtracją kłębuszkową około 20 ml/min/1,73 m .\n",
       "answers": [
         {
           "id": "A",
-          "text": "obniżenie się wartości filtracji kłębuszkowej < 15 ml/min/1,73 m bez\nobjawów mocznicowych.",
+          "text": "obniżenie się wartości filtracji kłębuszkowej < 15 ml/min/1,73 m bez objawów mocznicowych.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "znaczna retencja płynów z dusznością i trzeszczeniami u podstawy płuc\npomimo stosowania diuretyku pętlowego w dużej dawce u chorego z\nprzewlekłą niewydolnością nerek (filtracja kłębuszkowa < 15 ml/min/1,73\nm ).",
+          "text": "znaczna retencja płynów z dusznością i trzeszczeniami u podstawy płuc pomimo stosowania diuretyku pętlowego w dużej dawce u chorego z przewlekłą niewydolnością nerek (filtracja kłębuszkowa < 15 ml/min/1,73 m ).",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "umiarkowana hiperkaliemia (6,3 mmol/l) u pacjenta z filtracją\nkłębuszkową około 20 ml/min/1,73 m , nie stosującego przewlekle diuretyku\npętlowego.",
+          "text": "umiarkowana hiperkaliemia (6,3 mmol/l) u pacjenta z filtracją kłębuszkową około 20 ml/min/1,73 m , nie stosującego przewlekle diuretyku pętlowego.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "umiarkowana hiperurykemia (8,5 mg/dl) u chorego z filtracją kłębuszkową\nokoło 20 ml/min/1,73 m , stosującego przewlekle allopurinol.",
+          "text": "umiarkowana hiperurykemia (8,5 mg/dl) u chorego z filtracją kłębuszkową około 20 ml/min/1,73 m , stosującego przewlekle allopurinol.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "umiarkowana niedokrwistość (st. hemoglobiny 9,0 g/dl) u chorego z\ncukrzycową chorobą nerek i filtracją kłębuszkową około 20 ml/min/1,73 m .",
+          "text": "umiarkowana niedokrwistość (st. hemoglobiny 9,0 g/dl) u chorego z cukrzycową chorobą nerek i filtracją kłębuszkową około 20 ml/min/1,73 m .",
           "isCorrect": false
         }
       ],
@@ -5546,26 +5546,26 @@
     },
     {
       "id": "int-1-164",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące objawów klinicznych u chorych z wadami serca:\n\n",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące objawów klinicznych u chorych z wadami serca: A. w niedomykalności mitralnej często obserwuje się znaczną amplitudę ciśnienia tętniczego. B. w wypadaniu płatka zastawki mitralnej występuje szmer późnorozkurczowy. C. w stenozie aortalnej głośność szmeru nie odzwierciedla stopnia zwężenia zastawki. D. w stenozie mitralnej nie obserwuje się wodobrzusza, powiększenia wątroby i poszerzenia żył szyjnych.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "w niedomykalności mitralnej często obserwuje się znaczną amplitudę\nciśnienia tętniczego.",
+          "text": "w niedomykalności mitralnej często obserwuje się znaczną amplitudę ciśnienia tętniczego.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "w wypadaniu płatka zastawki mitralnej występuje szmer\npóźnorozkurczowy.",
+          "text": "w wypadaniu płatka zastawki mitralnej występuje szmer późnorozkurczowy.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "w stenozie aortalnej głośność szmeru nie odzwierciedla stopnia zwężenia\nzastawki.",
+          "text": "w stenozie aortalnej głośność szmeru nie odzwierciedla stopnia zwężenia zastawki.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "w stenozie mitralnej nie obserwuje się wodobrzusza, powiększenia\nwątroby i poszerzenia żył szyjnych.",
+          "text": "w stenozie mitralnej nie obserwuje się wodobrzusza, powiększenia wątroby i poszerzenia żył szyjnych.",
           "isCorrect": false
         },
         {
@@ -5614,31 +5614,31 @@
     },
     {
       "id": "int-1-166",
-      "question": "Pacjentka lat 53 została przyjęta do szpitala z powodu narastających od kilku dni bólów głowy, gorączki ( 38,8 °C), nudności. W badaniu przedmiotowym stwierdzono apatię i senność, sztywność karku na 3 palce, objaw Kerniga. Wykonano badanie płynu mózgowo-rdzeniowego, gdzie stwierdzono: płyn mętny opalizujący, stężenie białka 220 mg/dl (0,22 g/l), cytozę 390 krwinek białych na mm (w tym 70% granulocytów), stężenie glukozy 40 mg/dl (2,22 mmol/l); natomiast stężenie glukozy w surowicy wynosiło w tym czasie 100 mg/dl (5,55 mmol/l). W takiej sytuacji klinicznej w pierwszej dobie po przyjęciu na oddział szpitalny należy:\n\n",
+      "question": "Pacjentka lat 53 została przyjęta do szpitala z powodu narastających od kilku dni bólów głowy, gorączki ( 38,8 °C), nudności. W badaniu przedmiotowym stwierdzono apatię i senność, sztywność karku na 3 palce, objaw Kerniga. Wykonano badanie płynu mózgowo-rdzeniowego, gdzie stwierdzono: płyn mętny opalizujący, stężenie białka 220 mg/dl (0,22 g/l), cytozę 390 krwinek białych na mm (w tym 70% granulocytów), stężenie glukozy 40 mg/dl (2,22 mmol/l); natomiast stężenie glukozy w surowicy wynosiło w tym czasie 100 mg/dl (5,55 mmol/l). W takiej sytuacji klinicznej w pierwszej dobie po przyjęciu na oddział szpitalny należy: A. przesłać pobrany płyn mózgowo-rdzeniowy na badanie bakteriologiczne oraz niezwłocznie włączyć empirycznie leczenie dożylne maksymalną dawką antybiotyku o szerokim spektrum (np. cefalosporyną III generacji). B. przesłać pobrany płyn mózgowo-rdzeniowy na badanie bakteriologiczne, ale ze względu na brak danych odnośnie do czynnika etiologicznego i stabilny stan chorej, włączyć leczenie przeciwgorączkowe (paracetamol) i przeciwobrzękowe (mannitol), aż do czasu otrzymania wyników posiewu płynu mózgowo-rdzeniowego i antybiogramu. C. wykonać badanie neuroobrazowe tomografii komputerowej lub rezonansu magnetycznego głowy i zależnie od wyniku podjąć decyzje o dalszym leczeniu. D. włączyć dożylnie lek przeciwwirusowy (optymalnie acyklowir) w dawce maksymalnej, gdyż wynik badania płynu mózgowo-rdzeniowego wskazuje na wysokie prawdopodobieństwo zakażenia wirusowego opon mózgowo- rdzeniowych. E. wykonać angiografię cyfrową, gdyż opisana sytuacja kliniczna może\n3 sugerować krwotok podpajeczynówkowy.\n",
       "answers": [
         {
           "id": "A",
-          "text": "przesłać pobrany płyn mózgowo-rdzeniowy na badanie bakteriologiczne\noraz niezwłocznie włączyć empirycznie leczenie dożylne maksymalną\ndawką antybiotyku o szerokim spektrum (np. cefalosporyną III generacji).",
+          "text": "przesłać pobrany płyn mózgowo-rdzeniowy na badanie bakteriologiczne oraz niezwłocznie włączyć empirycznie leczenie dożylne maksymalną dawką antybiotyku o szerokim spektrum (np. cefalosporyną III generacji).",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "przesłać pobrany płyn mózgowo-rdzeniowy na badanie bakteriologiczne,\nale ze względu na brak danych odnośnie do czynnika etiologicznego i\nstabilny stan chorej, włączyć leczenie przeciwgorączkowe (paracetamol) i\nprzeciwobrzękowe (mannitol), aż do czasu otrzymania wyników posiewu\npłynu mózgowo-rdzeniowego i antybiogramu.",
+          "text": "przesłać pobrany płyn mózgowo-rdzeniowy na badanie bakteriologiczne, ale ze względu na brak danych odnośnie do czynnika etiologicznego i stabilny stan chorej, włączyć leczenie przeciwgorączkowe (paracetamol) i przeciwobrzękowe (mannitol), aż do czasu otrzymania wyników posiewu płynu mózgowo-rdzeniowego i antybiogramu.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "wykonać badanie neuroobrazowe tomografii komputerowej lub rezonansu\nmagnetycznego głowy i zależnie od wyniku podjąć decyzje o dalszym\nleczeniu.",
+          "text": "wykonać badanie neuroobrazowe tomografii komputerowej lub rezonansu magnetycznego głowy i zależnie od wyniku podjąć decyzje o dalszym leczeniu.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "włączyć dożylnie lek przeciwwirusowy (optymalnie acyklowir) w dawce\nmaksymalnej, gdyż wynik badania płynu mózgowo-rdzeniowego wskazuje\nna wysokie prawdopodobieństwo zakażenia wirusowego opon mózgowo-\nrdzeniowych.",
+          "text": "włączyć dożylnie lek przeciwwirusowy (optymalnie acyklowir) w dawce maksymalnej, gdyż wynik badania płynu mózgowo-rdzeniowego wskazuje na wysokie prawdopodobieństwo zakażenia wirusowego opon mózgowo- rdzeniowych.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "wykonać angiografię cyfrową, gdyż opisana sytuacja kliniczna może\n3\nsugerować krwotok podpajeczynówkowy.",
+          "text": "wykonać angiografię cyfrową, gdyż opisana sytuacja kliniczna może 3 sugerować krwotok podpajeczynówkowy.",
           "isCorrect": false
         }
       ],
@@ -5682,7 +5682,7 @@
     },
     {
       "id": "int-1-168",
-      "question": "Aplazja szpiku charakteryzuje się:\n\n",
+      "question": "Aplazja szpiku charakteryzuje się: C. pancytopenią we krwi obwodowej, ubogokomórkowym szpikiem i nieobecnością choroby nowotworowej.\n\n",
       "answers": [
         {
           "id": "A",
@@ -5696,7 +5696,7 @@
         },
         {
           "id": "C",
-          "text": "pancytopenią we krwi obwodowej, ubogokomórkowym szpikiem i\nnieobecnością choroby nowotworowej.",
+          "text": "pancytopenią we krwi obwodowej, ubogokomórkowym szpikiem i nieobecnością choroby nowotworowej.",
           "isCorrect": false
         },
         {
@@ -5716,21 +5716,21 @@
     },
     {
       "id": "int-1-169",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące leczenia pierwszego zachorowania na lekką postać rzekomobłoniastego zapalenia jelit:\n\n",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące leczenia pierwszego zachorowania na lekką postać rzekomobłoniastego zapalenia jelit: A. leczeniem pierwszego rzutu jest metronidazol i/lub wankomycyna, podawane dożylnie. B. leczeniem pierwszego rzutu jest metronidazol lub wankomycyna, podawane doustnie. C. leczenie należy rozpocząć od pulsacyjnego stosowania wankomycyny\n(10 razy co trzeci dzień przez 27 dni). E. lekiem pierwszego rzutu jest klindamycyna.\n4\n",
       "answers": [
         {
           "id": "A",
-          "text": "leczeniem pierwszego rzutu jest metronidazol i/lub wankomycyna,\npodawane dożylnie.",
+          "text": "leczeniem pierwszego rzutu jest metronidazol i/lub wankomycyna, podawane dożylnie.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "leczeniem pierwszego rzutu jest metronidazol lub wankomycyna,\npodawane doustnie.",
+          "text": "leczeniem pierwszego rzutu jest metronidazol lub wankomycyna, podawane doustnie.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "leczenie należy rozpocząć od pulsacyjnego stosowania wankomycyny\n(10 razy co trzeci dzień przez 27 dni).",
+          "text": "leczenie należy rozpocząć od pulsacyjnego stosowania wankomycyny (10 razy co trzeci dzień przez 27 dni).",
           "isCorrect": false
         },
         {
@@ -5740,7 +5740,7 @@
         },
         {
           "id": "E",
-          "text": "lekiem pierwszego rzutu jest klindamycyna.\n4",
+          "text": "lekiem pierwszego rzutu jest klindamycyna. 4",
           "isCorrect": false
         }
       ],
@@ -5750,31 +5750,31 @@
     },
     {
       "id": "int-1-170",
-      "question": "Wskaż wynik badania gazometrycznego odpowiadający rozpoznaniu zaostrzenia przewlekłej hiperkapnicznej niewydolności oddechowej:\n\n",
+      "question": "Wskaż wynik badania gazometrycznego odpowiadający rozpoznaniu zaostrzenia przewlekłej hiperkapnicznej niewydolności oddechowej: A. pH 7,32; PaCO 60,4 mmHg; PaO 43,8 mmHg; HCO 31,6 mmol/l; SaO\n75,5%. B. pH 7,15; PaCO 80,6 mmHg; PaO 24,1 mmHg; HCO 16,3 mmol/l; SaO\n51%. C. pH 7,38; PaCO 59,6 mmHg; PaO 49,1 mmHg; HCO 38 mmol/l; SaO\n80,1%. D. pH 7,47; PaCO 31 mmHg; PaO 60,1 mmHg; HCO 21,1 mmol/l; SaO\n92,8%. E. pH 7,42 PaCO 41 mmHg; PaO 51,6 mmHg; HCO 22,6 mmol/l; SaO\n85,2%.\n",
       "answers": [
         {
           "id": "A",
-          "text": "pH 7,32; PaCO 60,4 mmHg; PaO 43,8 mmHg; HCO 31,6 mmol/l; SaO\n75,5%.",
+          "text": "pH 7,32; PaCO 60,4 mmHg; PaO 43,8 mmHg; HCO 31,6 mmol/l; SaO 75,5%.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "pH 7,15; PaCO 80,6 mmHg; PaO 24,1 mmHg; HCO 16,3 mmol/l; SaO\n51%.",
+          "text": "pH 7,15; PaCO 80,6 mmHg; PaO 24,1 mmHg; HCO 16,3 mmol/l; SaO 51%.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "pH 7,38; PaCO 59,6 mmHg; PaO 49,1 mmHg; HCO 38 mmol/l; SaO\n80,1%.",
+          "text": "pH 7,38; PaCO 59,6 mmHg; PaO 49,1 mmHg; HCO 38 mmol/l; SaO 80,1%.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "pH 7,47; PaCO 31 mmHg; PaO 60,1 mmHg; HCO 21,1 mmol/l; SaO\n92,8%.",
+          "text": "pH 7,47; PaCO 31 mmHg; PaO 60,1 mmHg; HCO 21,1 mmol/l; SaO 92,8%.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "pH 7,42 PaCO 41 mmHg; PaO 51,6 mmHg; HCO 22,6 mmol/l; SaO\n85,2%.",
+          "text": "pH 7,42 PaCO 41 mmHg; PaO 51,6 mmHg; HCO 22,6 mmol/l; SaO 85,2%.",
           "isCorrect": false
         }
       ],
@@ -5886,7 +5886,7 @@
     },
     {
       "id": "int-1-174",
-      "question": "Wybór leków u chorych na POChP uzależnia się:\n\n",
+      "question": "Wybór leków u chorych na POChP uzależnia się: C. od ryzyka wystąpienia zaostrzeń POChP i od nasilenia objawów podmiotowych.\n\n",
       "answers": [
         {
           "id": "A",
@@ -5900,7 +5900,7 @@
         },
         {
           "id": "C",
-          "text": "od ryzyka wystąpienia zaostrzeń POChP i od nasilenia objawów\npodmiotowych.",
+          "text": "od ryzyka wystąpienia zaostrzeń POChP i od nasilenia objawów podmiotowych.",
           "isCorrect": false
         },
         {
@@ -6090,7 +6090,7 @@
     },
     {
       "id": "int-1-180",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące autoimmunologicznego zapalenia trzustki:\n\n",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące autoimmunologicznego zapalenia trzustki: B. choroba może także dotyczyć innych narządów (np. drogi żółciowe, tarczyca).\n\n",
       "answers": [
         {
           "id": "A",
@@ -6099,7 +6099,7 @@
         },
         {
           "id": "B",
-          "text": "choroba może także dotyczyć innych narządów (np. drogi żółciowe,\ntarczyca).",
+          "text": "choroba może także dotyczyć innych narządów (np. drogi żółciowe, tarczyca).",
           "isCorrect": false
         },
         {
@@ -6158,16 +6158,16 @@
     },
     {
       "id": "int-1-183",
-      "question": "72-letni pacjent ma kołatanie serca od 3 dni, odczuwa ból w klatce piersiowej i duszność. Nigdy wcześniej nie leczył się kardiologicznie. HR\n150/min, RR 100/60 mmHg, SaO 96% przy tlenoterapii z przepływem O 10 L/min. W badaniu przedmiotowym trzeszczenia u podstaw obu płuc. EKG\n(jak w załączeniu). Wskaż optymalne leczenie poza podaniem heparyny:\n\n",
+      "question": "72-letni pacjent ma kołatanie serca od 3 dni, odczuwa ból w klatce piersiowej i duszność. Nigdy wcześniej nie leczył się kardiologicznie. HR\n150/min, RR 100/60 mmHg, SaO 96% przy tlenoterapii z przepływem O 10 L/min. W badaniu przedmiotowym trzeszczenia u podstaw obu płuc. EKG\n(jak w załączeniu). Wskaż optymalne leczenie poza podaniem heparyny: A. manewry pobudzające nerw błędny, ewentualnie adenozyna 6 mg iv w bolusie.\n2 2 B. amiodaron 300 mg iv w ciągu 60 minut, a następnie amiodaron 900 mg iv we wlewie 24-godzinnym.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "manewry pobudzające nerw błędny, ewentualnie adenozyna 6 mg iv w\nbolusie.\n2 2",
+          "text": "manewry pobudzające nerw błędny, ewentualnie adenozyna 6 mg iv w bolusie. 2 2",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "amiodaron 300 mg iv w ciągu 60 minut, a następnie amiodaron 900 mg iv\nwe wlewie 24-godzinnym.",
+          "text": "amiodaron 300 mg iv w ciągu 60 minut, a następnie amiodaron 900 mg iv we wlewie 24-godzinnym.",
           "isCorrect": false
         },
         {
@@ -6192,31 +6192,31 @@
     },
     {
       "id": "int-1-184",
-      "question": "Które z poniższych stwierdzeń dotyczących pourazowych krwiaków namózgowych nie jest prawdziwe?\n\n",
+      "question": "Które z poniższych stwierdzeń dotyczących pourazowych krwiaków namózgowych nie jest prawdziwe? A. krwiak nadtwardówkowy to nagromadzenie krwi między kością czaszki a oponą twardą. B. krwiak podtwardówkowy to nagromadzenie krwi między oponą twardą a pajęczą. C. źródłem krwiaka podtwardówkowego są najczęściej uszkodzone żyły mostowe (łączące powierzchnię kory mózgu z zatokami żylnymi opony twardej). D. źródłem krwiaka nadtwardówkowego są najczęściej uszkodzone tętnice oponowe - szczególnie tętnica oponowa środkowa. E. po stronie krwiaka nadtwardówkowego można stwierdzić niedowład połowiczy oraz poszerzenie źrenicy.\n",
       "answers": [
         {
           "id": "A",
-          "text": "krwiak nadtwardówkowy to nagromadzenie krwi między kością czaszki a\noponą twardą.",
+          "text": "krwiak nadtwardówkowy to nagromadzenie krwi między kością czaszki a oponą twardą.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "krwiak podtwardówkowy to nagromadzenie krwi między oponą twardą a\npajęczą.",
+          "text": "krwiak podtwardówkowy to nagromadzenie krwi między oponą twardą a pajęczą.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "źródłem krwiaka podtwardówkowego są najczęściej uszkodzone żyły\nmostowe (łączące powierzchnię kory mózgu z zatokami żylnymi opony\ntwardej).",
+          "text": "źródłem krwiaka podtwardówkowego są najczęściej uszkodzone żyły mostowe (łączące powierzchnię kory mózgu z zatokami żylnymi opony twardej).",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "źródłem krwiaka nadtwardówkowego są najczęściej uszkodzone tętnice\noponowe - szczególnie tętnica oponowa środkowa.",
+          "text": "źródłem krwiaka nadtwardówkowego są najczęściej uszkodzone tętnice oponowe - szczególnie tętnica oponowa środkowa.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "po stronie krwiaka nadtwardówkowego można stwierdzić niedowład\npołowiczy oraz poszerzenie źrenicy.",
+          "text": "po stronie krwiaka nadtwardówkowego można stwierdzić niedowład połowiczy oraz poszerzenie źrenicy.",
           "isCorrect": false
         }
       ],
@@ -6226,7 +6226,7 @@
     },
     {
       "id": "int-1-185",
-      "question": "24-letni mężczyzna został przywieziony do szpitalnego oddziału ratunkowego z powodu śpiączki. W badaniu fizykalnym stwierdza się niskie ciśnienie tętnicze i tachykardię a w badaniach laboratoryjnych: glukozę w osoczu krwi 432 mg/dl, pH 7,1, HCO 9 mmol/l, Na 141 mmol/l, K 6,1 mmol/l, kreatyninę w surowicy krwi 106 μmol/l (1,2 mg/dl). Jakie jest najbardziej prawdopodobne rozpoznanie?\n\n",
+      "question": "24-letni mężczyzna został przywieziony do szpitalnego oddziału ratunkowego z powodu śpiączki. W badaniu fizykalnym stwierdza się niskie ciśnienie tętnicze i tachykardię a w badaniach laboratoryjnych: glukozę w osoczu krwi 432 mg/dl, pH 7,1, HCO 9 mmol/l, Na 141 mmol/l, K 6,1 mmol/l, kreatyninę w surowicy krwi 106 μmol/l (1,2 mg/dl). Jakie jest najbardziej prawdopodobne rozpoznanie? D. marskość wątroby.\n3-\n\n",
       "answers": [
         {
           "id": "A",
@@ -6245,7 +6245,7 @@
         },
         {
           "id": "D",
-          "text": "marskość wątroby.\n3-",
+          "text": "marskość wątroby. 3-",
           "isCorrect": false
         },
         {
@@ -6464,7 +6464,7 @@
     },
     {
       "id": "int-1-192",
-      "question": "Jakich korekt najczęściej wymaga dawkowanie insuliny u chorego na cukrzycę typu 1 wraz z postępem przewlekłej choroby nerek do schyłkowej choroby nerek?\n\n",
+      "question": "Jakich korekt najczęściej wymaga dawkowanie insuliny u chorego na cukrzycę typu 1 wraz z postępem przewlekłej choroby nerek do schyłkowej choroby nerek? D. należy zwiększać dawkę insuliny krótko działającej a zmniejszać dawkę insuliny długo działającej. E. należy zwiększać dawkę insuliny długo działającej a zmniejszać dawkę insuliny krótko działającej.\n",
       "answers": [
         {
           "id": "A",
@@ -6483,12 +6483,12 @@
         },
         {
           "id": "D",
-          "text": "należy zwiększać dawkę insuliny krótko działającej a zmniejszać dawkę\ninsuliny długo działającej.",
+          "text": "należy zwiększać dawkę insuliny krótko działającej a zmniejszać dawkę insuliny długo działającej.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "należy zwiększać dawkę insuliny długo działającej a zmniejszać dawkę\ninsuliny krótko działającej.",
+          "text": "należy zwiększać dawkę insuliny długo działającej a zmniejszać dawkę insuliny krótko działającej.",
           "isCorrect": false
         }
       ],
@@ -6532,7 +6532,7 @@
     },
     {
       "id": "int-1-194",
-      "question": "Który z wymienionych objawów nie należy do zespołu Zollinger-Ellisona?\n\n",
+      "question": "Który z wymienionych objawów nie należy do zespołu Zollinger-Ellisona? C. biegunka tłuszczowa.\n+\n\n",
       "answers": [
         {
           "id": "A",
@@ -6546,7 +6546,7 @@
         },
         {
           "id": "C",
-          "text": "biegunka tłuszczowa.\n+",
+          "text": "biegunka tłuszczowa. +",
           "isCorrect": false
         },
         {
@@ -6566,31 +6566,31 @@
     },
     {
       "id": "int-1-195",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące stosowania pętlowych leków moczopędnych u pacjentów z nadciśnieniem tętniczym w przewlekłej chorobie nerek:\n\n",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące stosowania pętlowych leków moczopędnych u pacjentów z nadciśnieniem tętniczym w przewlekłej chorobie nerek: A. pętlowe leki moczopędne są skuteczne nawet u chorych z filtracją kłębuszkową (GFR) < 15 ml/min/1,73 m . B. stosowanie dużych dawek pętlowych leków moczopędnych może spowodować odwodnienie i zmniejszenie GFR. C. nie należy stosować pętlowych leków moczopędnych u chorych bez hiperkaliemii. D. stosowanie leków moczopędnych w połączeniu z inhibitorami konwertazy angiotensyny zmniejsza albuminurię. E. stosowanie dużych dawek pętlowych leków moczopędnych może spowodować uszkodzenie słuchu.\n",
       "answers": [
         {
           "id": "A",
-          "text": "pętlowe leki moczopędne są skuteczne nawet u chorych z filtracją\nkłębuszkową (GFR) < 15 ml/min/1,73 m .",
+          "text": "pętlowe leki moczopędne są skuteczne nawet u chorych z filtracją kłębuszkową (GFR) < 15 ml/min/1,73 m .",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "stosowanie dużych dawek pętlowych leków moczopędnych może\nspowodować odwodnienie i zmniejszenie GFR.",
+          "text": "stosowanie dużych dawek pętlowych leków moczopędnych może spowodować odwodnienie i zmniejszenie GFR.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "nie należy stosować pętlowych leków moczopędnych u chorych bez\nhiperkaliemii.",
+          "text": "nie należy stosować pętlowych leków moczopędnych u chorych bez hiperkaliemii.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "stosowanie leków moczopędnych w połączeniu z inhibitorami konwertazy\nangiotensyny zmniejsza albuminurię.",
+          "text": "stosowanie leków moczopędnych w połączeniu z inhibitorami konwertazy angiotensyny zmniejsza albuminurię.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "stosowanie dużych dawek pętlowych leków moczopędnych może\nspowodować uszkodzenie słuchu.",
+          "text": "stosowanie dużych dawek pętlowych leków moczopędnych może spowodować uszkodzenie słuchu.",
           "isCorrect": false
         }
       ],
@@ -6600,7 +6600,7 @@
     },
     {
       "id": "int-1-196",
-      "question": "Do objawów klinicznych przewlekłej (schyłkowej) niewydolności nerek wskazujących na konieczność rozpoczęcia leczenia nerkozastępczego\n(dializoterapii) nie należy:\n\n",
+      "question": "Do objawów klinicznych przewlekłej (schyłkowej) niewydolności nerek wskazujących na konieczność rozpoczęcia leczenia nerkozastępczego\n(dializoterapii) nie należy: B. znaczna retencja płynów z dusznością i trzeszczeniami u podstawy płuc pomimo przewlekłego stosowania diuretyku pętlowego w dużej dawce. C. skurczowe ciśnienie tętnicze > 200 mmHg utrzymujące się pomimo stosowania leków przeciwnadciśnieniowych z 5 grup (beta-adrenolityku, alfa-adrenolityku, antagonisty kanału wapniowego, diuretyku pętlowego i klonidyny) w dużych dawkach.\n\n",
       "answers": [
         {
           "id": "A",
@@ -6609,12 +6609,12 @@
         },
         {
           "id": "B",
-          "text": "znaczna retencja płynów z dusznością i trzeszczeniami u podstawy płuc\npomimo przewlekłego stosowania diuretyku pętlowego w dużej dawce.",
+          "text": "znaczna retencja płynów z dusznością i trzeszczeniami u podstawy płuc pomimo przewlekłego stosowania diuretyku pętlowego w dużej dawce.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "skurczowe ciśnienie tętnicze > 200 mmHg utrzymujące się pomimo\nstosowania leków przeciwnadciśnieniowych z 5 grup (beta-adrenolityku,\nalfa-adrenolityku, antagonisty kanału wapniowego, diuretyku pętlowego i\nklonidyny) w dużych dawkach.",
+          "text": "skurczowe ciśnienie tętnicze > 200 mmHg utrzymujące się pomimo stosowania leków przeciwnadciśnieniowych z 5 grup (beta-adrenolityku, alfa-adrenolityku, antagonisty kanału wapniowego, diuretyku pętlowego i klonidyny) w dużych dawkach.",
           "isCorrect": false
         },
         {
@@ -6634,31 +6634,31 @@
     },
     {
       "id": "int-1-197",
-      "question": "2 Który z poniższych opisów charakteryzuje tętno dwubitne?\n\n",
+      "question": "2 Który z poniższych opisów charakteryzuje tętno dwubitne? A. tętno, w którym po każdym prawidłowym skurczu serca występuje przedwczesne pobudzenie komorowe, występuje przy przedwczesnych pobudzeniach ektopowych towarzyszących rytmowi zatokowemu, przy bloku AV typu Wenckebacha z przewodzeniem 3:2 i przy występowaniu nieprzewiedzionego dodatkowego pobudzenia przedsionkowego po co drugim pobudzeniu zatokowym. B. tętno z dwoma falami dodatnimi w czasie skurczu, wywołane obecnością dodatkowej fali przepływu krwi, występuje w kardiomiopatii przerostowej z zawężeniem drogi odpływu oraz w wadzie złożonej obejmującej niedomykalność i zwężenie zastawki aortalnej. C. tętno, w którym jedna fala przypada na okres skurczu, a druga na początek rozkurczu, zwykle występuje w tamponadzie serca, w ciężkiej niewydolności serca i we wstrząsie hipowolemicznym. D. szybkie, słabo wypełnione tętno, występuje we wstrząsie, rzadko w czasie gorączki lub w tamponadzie serca. E. zmniejszenie wypełnienia tętna lub jego całkowity zanik z towarzyszącym obniżeniem ciśnienia skurczowego o >10 mmHg podczas wdechu.\n",
       "answers": [
         {
           "id": "A",
-          "text": "tętno, w którym po każdym prawidłowym skurczu serca występuje\nprzedwczesne pobudzenie komorowe, występuje przy przedwczesnych\npobudzeniach ektopowych towarzyszących rytmowi zatokowemu, przy bloku\nAV typu Wenckebacha z przewodzeniem 3:2 i przy występowaniu\nnieprzewiedzionego dodatkowego pobudzenia przedsionkowego po co\ndrugim pobudzeniu zatokowym.",
+          "text": "tętno, w którym po każdym prawidłowym skurczu serca występuje przedwczesne pobudzenie komorowe, występuje przy przedwczesnych pobudzeniach ektopowych towarzyszących rytmowi zatokowemu, przy bloku AV typu Wenckebacha z przewodzeniem 3:2 i przy występowaniu nieprzewiedzionego dodatkowego pobudzenia przedsionkowego po co drugim pobudzeniu zatokowym.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "tętno z dwoma falami dodatnimi w czasie skurczu, wywołane obecnością\ndodatkowej fali przepływu krwi, występuje w kardiomiopatii przerostowej z\nzawężeniem drogi odpływu oraz w wadzie złożonej obejmującej\nniedomykalność i zwężenie zastawki aortalnej.",
+          "text": "tętno z dwoma falami dodatnimi w czasie skurczu, wywołane obecnością dodatkowej fali przepływu krwi, występuje w kardiomiopatii przerostowej z zawężeniem drogi odpływu oraz w wadzie złożonej obejmującej niedomykalność i zwężenie zastawki aortalnej.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "tętno, w którym jedna fala przypada na okres skurczu, a druga na\npoczątek rozkurczu, zwykle występuje w tamponadzie serca, w ciężkiej\nniewydolności serca i we wstrząsie hipowolemicznym.",
+          "text": "tętno, w którym jedna fala przypada na okres skurczu, a druga na początek rozkurczu, zwykle występuje w tamponadzie serca, w ciężkiej niewydolności serca i we wstrząsie hipowolemicznym.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "szybkie, słabo wypełnione tętno, występuje we wstrząsie, rzadko w\nczasie gorączki lub w tamponadzie serca.",
+          "text": "szybkie, słabo wypełnione tętno, występuje we wstrząsie, rzadko w czasie gorączki lub w tamponadzie serca.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "zmniejszenie wypełnienia tętna lub jego całkowity zanik z towarzyszącym\nobniżeniem ciśnienia skurczowego o >10 mmHg podczas wdechu.",
+          "text": "zmniejszenie wypełnienia tętna lub jego całkowity zanik z towarzyszącym obniżeniem ciśnienia skurczowego o >10 mmHg podczas wdechu.",
           "isCorrect": false
         }
       ],
@@ -6736,7 +6736,7 @@
     },
     {
       "id": "int-1-200",
-      "question": "Do izby przyjęć zgłosiła się z powodu urazu głowy 44-letnia kobieta chorująca od 20 lat na toczeń układowy, bez innych dolegliwości, przyjmująca na stałe 10 mg/d prednizonu oraz 50 mg/d azatiopryny. W badaniu ogólnym moczu stwierdzono obecność białka 0,1 mg/dl, leukocyty zalegające pole widzenia oraz liczne bakterie. Pacjentce tej należy zalecić:\n\n",
+      "question": "Do izby przyjęć zgłosiła się z powodu urazu głowy 44-letnia kobieta chorująca od 20 lat na toczeń układowy, bez innych dolegliwości, przyjmująca na stałe 10 mg/d prednizonu oraz 50 mg/d azatiopryny. W badaniu ogólnym moczu stwierdzono obecność białka 0,1 mg/dl, leukocyty zalegające pole widzenia oraz liczne bakterie. Pacjentce tej należy zalecić: E. niepodejmowanie dalszej diagnostyki oraz niewłączanie leczenia przeciwbakteryjnego.\n",
       "answers": [
         {
           "id": "A",
@@ -6760,7 +6760,7 @@
         },
         {
           "id": "E",
-          "text": "niepodejmowanie dalszej diagnostyki oraz niewłączanie leczenia\nprzeciwbakteryjnego.",
+          "text": "niepodejmowanie dalszej diagnostyki oraz niewłączanie leczenia przeciwbakteryjnego.",
           "isCorrect": false
         }
       ],
@@ -6804,7 +6804,7 @@
     },
     {
       "id": "int-1-202",
-      "question": "U 45-letniej aktywnej zawodowo kobiety rozpoznano nadciśnienie tętnicze\n(wartości ciśnienia w pomiarach domowych 160/100 mmHg). W początkowej terapii należy zastosować:\n\n",
+      "question": "U 45-letniej aktywnej zawodowo kobiety rozpoznano nadciśnienie tętnicze\n(wartości ciśnienia w pomiarach domowych 160/100 mmHg). W początkowej terapii należy zastosować: D. preparat złożony - inhibitor enzymu konwertującego z diuretykiem tiazydowym.\n\n",
       "answers": [
         {
           "id": "A",
@@ -6823,7 +6823,7 @@
         },
         {
           "id": "D",
-          "text": "preparat złożony - inhibitor enzymu konwertującego z diuretykiem\ntiazydowym.",
+          "text": "preparat złożony - inhibitor enzymu konwertującego z diuretykiem tiazydowym.",
           "isCorrect": false
         },
         {
@@ -6974,7 +6974,7 @@
     },
     {
       "id": "int-1-207",
-      "question": "Które z wymienionych poniżej leków można zastosować u ciężarnej chorej leczonej z powodu nadciśnienia tętniczego?\n1) antagonistę receptora dla angiotensyny - walsartan;\n2) beta adrenolityk - metoprolol;\n3) centralnie działający lek antyadrenergiczny - metylodopa;\n4) antagonistę receptora aldosteronu - spironolakton;\n5) antagonistę wapnia - amlodypinę. Prawidłowa odpowiedź to:\n\n",
+      "question": "Które z wymienionych poniżej leków można zastosować u ciężarnej chorej leczonej z powodu nadciśnienia tętniczego?\n1) antagonistę receptora dla angiotensyny - walsartan;\n2) beta adrenolityk - metoprolol;\n3) centralnie działający lek antyadrenergiczny - metylodopa;\n4) antagonistę receptora aldosteronu - spironolakton;\n5) antagonistę wapnia - amlodypinę. Prawidłowa odpowiedź to: B. 2,3.\n12\n\n",
       "answers": [
         {
           "id": "A",
@@ -6983,7 +6983,7 @@
         },
         {
           "id": "B",
-          "text": "2,3.\n12",
+          "text": "2,3. 12",
           "isCorrect": false
         },
         {
@@ -7178,7 +7178,7 @@
     },
     {
       "id": "int-1-213",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące szczepień przeciw grypie:\n\n",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące szczepień przeciw grypie: E. uczulenie na białko jaja kurzego nie stanowi bezwzględnego przeciwwskazania do szczepienia.\n",
       "answers": [
         {
           "id": "A",
@@ -7202,7 +7202,7 @@
         },
         {
           "id": "E",
-          "text": "uczulenie na białko jaja kurzego nie stanowi bezwzględnego\nprzeciwwskazania do szczepienia.",
+          "text": "uczulenie na białko jaja kurzego nie stanowi bezwzględnego przeciwwskazania do szczepienia.",
           "isCorrect": false
         }
       ],
@@ -7212,26 +7212,26 @@
     },
     {
       "id": "int-1-214",
-      "question": "Wskaż prawdziwe stwierdzenie:\n\n",
+      "question": "Wskaż prawdziwe stwierdzenie: A. zalecana, docelowa wartość ciśnienia tętniczego u chorych z przewlekłą chorobą nerek wynosi < 140/75 mmHg. B. najbardziej racjonalne połączenie trzech leków hipotensyjnych to: inhibitor konwertazy angiotensyny lub antagonista receptora angiotensyny typu II + beta-adrenolityk + tiazydowy lub tiazydopodobny lek moczopędny. C. nadciśnienie tętnicze wywołane ciążą rozwija się po 10. tygodniu ciąży i ustępuje w ciągu kilku godzin po porodzie. D. u chorego z podejrzeniem wtórnego nadciśnienia tętniczego na tle pierwotnego hiperaldosteronizmu, użytecznym badaniem diagnostycznym jest test hamowania 1 mg deksametazonu.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "zalecana, docelowa wartość ciśnienia tętniczego u chorych z przewlekłą\nchorobą nerek wynosi < 140/75 mmHg.",
+          "text": "zalecana, docelowa wartość ciśnienia tętniczego u chorych z przewlekłą chorobą nerek wynosi < 140/75 mmHg.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "najbardziej racjonalne połączenie trzech leków hipotensyjnych to: inhibitor\nkonwertazy angiotensyny lub antagonista receptora angiotensyny typu II +\nbeta-adrenolityk + tiazydowy lub tiazydopodobny lek moczopędny.",
+          "text": "najbardziej racjonalne połączenie trzech leków hipotensyjnych to: inhibitor konwertazy angiotensyny lub antagonista receptora angiotensyny typu II + beta-adrenolityk + tiazydowy lub tiazydopodobny lek moczopędny.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "nadciśnienie tętnicze wywołane ciążą rozwija się po 10. tygodniu ciąży i\nustępuje w ciągu kilku godzin po porodzie.",
+          "text": "nadciśnienie tętnicze wywołane ciążą rozwija się po 10. tygodniu ciąży i ustępuje w ciągu kilku godzin po porodzie.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "u chorego z podejrzeniem wtórnego nadciśnienia tętniczego na tle\npierwotnego hiperaldosteronizmu,\nużytecznym badaniem diagnostycznym jest test hamowania 1 mg\ndeksametazonu.",
+          "text": "u chorego z podejrzeniem wtórnego nadciśnienia tętniczego na tle pierwotnego hiperaldosteronizmu, użytecznym badaniem diagnostycznym jest test hamowania 1 mg deksametazonu.",
           "isCorrect": false
         },
         {
@@ -7382,7 +7382,7 @@
     },
     {
       "id": "int-1-219",
-      "question": "Z powodu urazu głowy (bez innych dolegliwości) do izby przyjęć zgłosiła się\n54-letnia kobieta chorująca od 20 lat na cukrzycę. W badaniu ogólnym moczu stwierdzono obecność białka 0,1 mg/dl; leukocyty zalegające pole widzenia, liczne bakterie. U tej pacjentki należy zalecić:\n\n",
+      "question": "Z powodu urazu głowy (bez innych dolegliwości) do izby przyjęć zgłosiła się\n54-letnia kobieta chorująca od 20 lat na cukrzycę. W badaniu ogólnym moczu stwierdzono obecność białka 0,1 mg/dl; leukocyty zalegające pole widzenia, liczne bakterie. U tej pacjentki należy zalecić: E. nieprowadzenie dalszej diagnostyki ani żadnego leczenia przeciwbakteryjnego.\n",
       "answers": [
         {
           "id": "A",
@@ -7406,7 +7406,7 @@
         },
         {
           "id": "E",
-          "text": "nieprowadzenie dalszej diagnostyki ani żadnego leczenia\nprzeciwbakteryjnego.",
+          "text": "nieprowadzenie dalszej diagnostyki ani żadnego leczenia przeciwbakteryjnego.",
           "isCorrect": false
         }
       ],
@@ -7484,7 +7484,7 @@
     },
     {
       "id": "int-1-222",
-      "question": "Najgłośniejszy szmer związany z niedomykalnością zastawki mitralnej stwierdza się w:\n\n",
+      "question": "Najgłośniejszy szmer związany z niedomykalnością zastawki mitralnej stwierdza się w: E. V przestrzeni międzyżebrowej przyśrodkowo od linii środkowo- obojczykowej lewej.\n",
       "answers": [
         {
           "id": "A",
@@ -7508,7 +7508,7 @@
         },
         {
           "id": "E",
-          "text": "V przestrzeni międzyżebrowej przyśrodkowo od linii środkowo-\nobojczykowej lewej.",
+          "text": "V przestrzeni międzyżebrowej przyśrodkowo od linii środkowo- obojczykowej lewej.",
           "isCorrect": false
         }
       ],
@@ -7552,7 +7552,7 @@
     },
     {
       "id": "int-1-224",
-      "question": "Postępowaniem z wyboru we wstrząsie anafilaktycznym jest:\n\n",
+      "question": "Postępowaniem z wyboru we wstrząsie anafilaktycznym jest: E. podanie domięśniowe adrenaliny, tlenoterapia, dożylne przetoczenie soli fizjologicznej.\n",
       "answers": [
         {
           "id": "A",
@@ -7576,7 +7576,7 @@
         },
         {
           "id": "E",
-          "text": "podanie domięśniowe adrenaliny, tlenoterapia, dożylne przetoczenie soli\nfizjologicznej.",
+          "text": "podanie domięśniowe adrenaliny, tlenoterapia, dożylne przetoczenie soli fizjologicznej.",
           "isCorrect": false
         }
       ],
@@ -7688,11 +7688,11 @@
     },
     {
       "id": "int-1-228",
-      "question": "Pacjent lat 67 zgłosił się do lekarza z powodu niespecyficznych dolegliwości bólowych w klatce piersiowej. W badaniu przedmiotowym z odchyleń stwierdzono: obwód pasa 104 cm; BMI 29,5 kg/m . W dostępnych badaniach laboratoryjnych: glukoza 108 mg/dl; cholesterol całkowity 223 mg/dl; triglicerydy 138 mg/dl, ALT 91 U/l. Wskaż prawdziwe stwierdzenie:\n\n",
+      "question": "Pacjent lat 67 zgłosił się do lekarza z powodu niespecyficznych dolegliwości bólowych w klatce piersiowej. W badaniu przedmiotowym z odchyleń stwierdzono: obwód pasa 104 cm; BMI 29,5 kg/m . W dostępnych badaniach laboratoryjnych: glukoza 108 mg/dl; cholesterol całkowity 223 mg/dl; triglicerydy 138 mg/dl, ALT 91 U/l. Wskaż prawdziwe stwierdzenie: A. na podstawie dostępnych informacji u chorego można rozpoznać zespół metaboliczny. E. ze względu na obwód pasa chory ma zwiększone ryzyko sercowo- naczyniowe.\n",
       "answers": [
         {
           "id": "A",
-          "text": "na podstawie dostępnych informacji u chorego można rozpoznać zespół\nmetaboliczny.",
+          "text": "na podstawie dostępnych informacji u chorego można rozpoznać zespół metaboliczny.",
           "isCorrect": false
         },
         {
@@ -7712,7 +7712,7 @@
         },
         {
           "id": "E",
-          "text": "ze względu na obwód pasa chory ma zwiększone ryzyko sercowo-\nnaczyniowe.",
+          "text": "ze względu na obwód pasa chory ma zwiększone ryzyko sercowo- naczyniowe.",
           "isCorrect": false
         }
       ],
@@ -7756,7 +7756,7 @@
     },
     {
       "id": "int-1-230",
-      "question": "Przy użyciu jakiego leku należy rozpocząć leczenie świeżo rozpoznanej cukrzycy z objawami polidypsji i poliurii?\n\n",
+      "question": "Przy użyciu jakiego leku należy rozpocząć leczenie świeżo rozpoznanej cukrzycy z objawami polidypsji i poliurii? B. gliklazydu.\n2\n\n",
       "answers": [
         {
           "id": "A",
@@ -7765,7 +7765,7 @@
         },
         {
           "id": "B",
-          "text": "gliklazydu.\n2",
+          "text": "gliklazydu. 2",
           "isCorrect": false
         },
         {
@@ -7858,7 +7858,7 @@
     },
     {
       "id": "int-1-233",
-      "question": "Pacjent z układem markerów wirusowych: HBsAg plus, HBeAg plus, anty- HBc IgM minus, anty-HCV minus jest:\n\n",
+      "question": "Pacjent z układem markerów wirusowych: HBsAg plus, HBeAg plus, anty- HBc IgM minus, anty-HCV minus jest: B. zakażony HBV, prawdopodobnie z wysoką replikacją HBV, bez cech kontaktu z wirusem C. D. ozdrowieńcem po wzw B, z cechami nabytego uodpornienia na HBV i HCV.\n\n",
       "answers": [
         {
           "id": "A",
@@ -7867,7 +7867,7 @@
         },
         {
           "id": "B",
-          "text": "zakażony HBV, prawdopodobnie z wysoką replikacją HBV, bez cech\nkontaktu z wirusem C.",
+          "text": "zakażony HBV, prawdopodobnie z wysoką replikacją HBV, bez cech kontaktu z wirusem C.",
           "isCorrect": false
         },
         {
@@ -7877,7 +7877,7 @@
         },
         {
           "id": "D",
-          "text": "ozdrowieńcem po wzw B, z cechami nabytego uodpornienia na HBV i\nHCV.",
+          "text": "ozdrowieńcem po wzw B, z cechami nabytego uodpornienia na HBV i HCV.",
           "isCorrect": false
         },
         {
@@ -7994,7 +7994,7 @@
     },
     {
       "id": "int-1-237",
-      "question": "18-letni chory bez obciążającego wywiadu chorobowego, zgłosił się do poradni lekarza rodzinnego z powodu nasilającego się od tygodnia osłabienia i pojawiających się wieczorem obrzęków kończyn oraz krwiomoczu. Przed 3 tygodniami przebył różę. W badaniu fizykalnym nadciśnienie tętnicze oraz obrzęki wokół kostek. W badaniu moczu albuminuria 0,8 g/l i liczne erytrocyty. Występujące objawy z największym prawdopodobieństwem sugerują:\n\n",
+      "question": "18-letni chory bez obciążającego wywiadu chorobowego, zgłosił się do poradni lekarza rodzinnego z powodu nasilającego się od tygodnia osłabienia i pojawiających się wieczorem obrzęków kończyn oraz krwiomoczu. Przed 3 tygodniami przebył różę. W badaniu fizykalnym nadciśnienie tętnicze oraz obrzęki wokół kostek. W badaniu moczu albuminuria 0,8 g/l i liczne erytrocyty. Występujące objawy z największym prawdopodobieństwem sugerują: E. zespół nerczycowy w przebiegu przewlekłego kłębuszkowego zapalenia nerek.\n",
       "answers": [
         {
           "id": "A",
@@ -8018,7 +8018,7 @@
         },
         {
           "id": "E",
-          "text": "zespół nerczycowy w przebiegu przewlekłego kłębuszkowego zapalenia\nnerek.",
+          "text": "zespół nerczycowy w przebiegu przewlekłego kłębuszkowego zapalenia nerek.",
           "isCorrect": false
         }
       ],
@@ -8028,7 +8028,7 @@
     },
     {
       "id": "int-1-238",
-      "question": "Bezwzględne przeciwwskazanie do wykonania nakłucia lędźwiowego stanowi:\n\n",
+      "question": "Bezwzględne przeciwwskazanie do wykonania nakłucia lędźwiowego stanowi: B. obrzęk mózgu grożący wklinowaniem i guzy OUN (zwłaszcza zlokalizowane w tylnym dole czaszki).\n\n",
       "answers": [
         {
           "id": "A",
@@ -8037,7 +8037,7 @@
         },
         {
           "id": "B",
-          "text": "obrzęk mózgu grożący wklinowaniem i guzy OUN (zwłaszcza\nzlokalizowane w tylnym dole czaszki).",
+          "text": "obrzęk mózgu grożący wklinowaniem i guzy OUN (zwłaszcza zlokalizowane w tylnym dole czaszki).",
           "isCorrect": false
         },
         {
@@ -8164,11 +8164,11 @@
     },
     {
       "id": "int-1-242",
-      "question": "Skala CHA DS -VASc odnosi się do:\n\n",
+      "question": "Skala CHA DS -VASc odnosi się do: A. oceny ryzyka udaru niedokrwiennego mózgu u chorych z niezastawkowym migotaniem przedsionków. C. oceny ryzyka wszystkich incydentów sercowo-naczyniowych u chorych z migotaniem przedsionków. E. oceny prawdopodobieństwa klinicznego zakrzepicy żył głębokich (ZŻG).\n2 2\n",
       "answers": [
         {
           "id": "A",
-          "text": "oceny ryzyka udaru niedokrwiennego mózgu u chorych z\nniezastawkowym migotaniem przedsionków.",
+          "text": "oceny ryzyka udaru niedokrwiennego mózgu u chorych z niezastawkowym migotaniem przedsionków.",
           "isCorrect": false
         },
         {
@@ -8178,7 +8178,7 @@
         },
         {
           "id": "C",
-          "text": "oceny ryzyka wszystkich incydentów sercowo-naczyniowych u chorych z\nmigotaniem przedsionków.",
+          "text": "oceny ryzyka wszystkich incydentów sercowo-naczyniowych u chorych z migotaniem przedsionków.",
           "isCorrect": false
         },
         {
@@ -8188,7 +8188,7 @@
         },
         {
           "id": "E",
-          "text": "oceny prawdopodobieństwa klinicznego zakrzepicy żył głębokich (ZŻG).\n2 2",
+          "text": "oceny prawdopodobieństwa klinicznego zakrzepicy żył głębokich (ZŻG). 2 2",
           "isCorrect": false
         }
       ],
@@ -8198,7 +8198,7 @@
     },
     {
       "id": "int-1-243",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące chłoniaka rozlanego z dużych komórek B:\n\n",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące chłoniaka rozlanego z dużych komórek B: B. leczeniem z wyboru jest monoterapia pojedynczym cytostatykiem, niezależnie od stopnia zaawansowania klinicznego nowotworu. D. w pierwszej linii leczenia preferowana jest allotransplantacja komórek krwiotwórczych.\n\n",
       "answers": [
         {
           "id": "A",
@@ -8207,7 +8207,7 @@
         },
         {
           "id": "B",
-          "text": "leczeniem z wyboru jest monoterapia pojedynczym cytostatykiem,\nniezależnie od stopnia zaawansowania klinicznego nowotworu.",
+          "text": "leczeniem z wyboru jest monoterapia pojedynczym cytostatykiem, niezależnie od stopnia zaawansowania klinicznego nowotworu.",
           "isCorrect": false
         },
         {
@@ -8217,7 +8217,7 @@
         },
         {
           "id": "D",
-          "text": "w pierwszej linii leczenia preferowana jest allotransplantacja komórek\nkrwiotwórczych.",
+          "text": "w pierwszej linii leczenia preferowana jest allotransplantacja komórek krwiotwórczych.",
           "isCorrect": false
         },
         {
@@ -8232,11 +8232,11 @@
     },
     {
       "id": "int-1-244",
-      "question": "Do czynników ryzyka zawartych w karcie SCORE należą:\n\n",
+      "question": "Do czynników ryzyka zawartych w karcie SCORE należą: A. wiek, płeć, cholesterol całkowity, ciśnienie tętnicze rozkurczowe, nikotynizm. D. wiek, płeć, cholesterol całkowity, ciśnienie tętnicze skurczowe, nikotynizm.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "wiek, płeć, cholesterol całkowity, ciśnienie tętnicze rozkurczowe,\nnikotynizm.",
+          "text": "wiek, płeć, cholesterol całkowity, ciśnienie tętnicze rozkurczowe, nikotynizm.",
           "isCorrect": false
         },
         {
@@ -8251,7 +8251,7 @@
         },
         {
           "id": "D",
-          "text": "wiek, płeć, cholesterol całkowity, ciśnienie tętnicze skurczowe,\nnikotynizm.",
+          "text": "wiek, płeć, cholesterol całkowity, ciśnienie tętnicze skurczowe, nikotynizm.",
           "isCorrect": false
         },
         {
@@ -8538,7 +8538,7 @@
     },
     {
       "id": "int-1-253",
-      "question": "W celu oceny uszkodzenia nerek u pacjenta z cukrzycą t. 2 należy badać:\n\n",
+      "question": "W celu oceny uszkodzenia nerek u pacjenta z cukrzycą t. 2 należy badać: E. filtrację kłębuszkową oraz wykonywać badanie ogólne moczu co 6 miesięcy.\n",
       "answers": [
         {
           "id": "A",
@@ -8562,7 +8562,7 @@
         },
         {
           "id": "E",
-          "text": "filtrację kłębuszkową oraz wykonywać badanie ogólne moczu co 6\nmiesięcy.",
+          "text": "filtrację kłębuszkową oraz wykonywać badanie ogólne moczu co 6 miesięcy.",
           "isCorrect": false
         }
       ],
@@ -8640,11 +8640,11 @@
     },
     {
       "id": "int-1-256",
-      "question": "Pacjentka l. 29 gorączkująca od 2 tygodni do 38°C, mimo leczenia NLPZ, skarży się na ból szyi promieniujący do ucha. W badaniach dodatkowych OB po 1 h 70 mm (N do 12), TSH 0,11 mIU/l (N 0,27 - 4,2), leukocyty -\n5600/mm . W pierwszym rzędzie należy wziąć pod uwagę podejrzenie:\n\n",
+      "question": "Pacjentka l. 29 gorączkująca od 2 tygodni do 38°C, mimo leczenia NLPZ, skarży się na ból szyi promieniujący do ucha. W badaniach dodatkowych OB po 1 h 70 mm (N do 12), TSH 0,11 mIU/l (N 0,27 - 4,2), leukocyty -\n5600/mm . W pierwszym rzędzie należy wziąć pod uwagę podejrzenie: A. raka tarczycy.\n2\n3\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "raka tarczycy.\n2\n3",
+          "text": "raka tarczycy. 2 3",
           "isCorrect": false
         },
         {
@@ -8708,31 +8708,31 @@
     },
     {
       "id": "int-1-258",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące automatycznego monitorowania ciśnienia tętniczego (ABPM):\n\n",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące automatycznego monitorowania ciśnienia tętniczego (ABPM): A. wskazaniem do wykonania ABPM jest podejrzenie nadciśnienia tętniczego białego fartucha. B. wskazaniem do wykonania ABPM jest podejrzenie nadciśnienia tętniczego ukrytego. C. wskazaniem do wykonania ABPM jest podejrzenie nadciśnienia tętniczego opornego na leczenie. D. za prawidłowe przyjmuje się średnie ciśnienie tętnicze w ciągu dnia <\n140/90 mmHg, w ciągu nocy < 125/75 mmHg i w ciągu doby < 135/85 mmHg. E. ciśnienie tętnicze jest rejestrowane automatycznie, zwykle co 15-20 min w dzień i co 30 min w nocy.\n",
       "answers": [
         {
           "id": "A",
-          "text": "wskazaniem do wykonania ABPM jest podejrzenie nadciśnienia\ntętniczego białego fartucha.",
+          "text": "wskazaniem do wykonania ABPM jest podejrzenie nadciśnienia tętniczego białego fartucha.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "wskazaniem do wykonania ABPM jest podejrzenie nadciśnienia\ntętniczego ukrytego.",
+          "text": "wskazaniem do wykonania ABPM jest podejrzenie nadciśnienia tętniczego ukrytego.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "wskazaniem do wykonania ABPM jest podejrzenie nadciśnienia\ntętniczego opornego na leczenie.",
+          "text": "wskazaniem do wykonania ABPM jest podejrzenie nadciśnienia tętniczego opornego na leczenie.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "za prawidłowe przyjmuje się średnie ciśnienie tętnicze w ciągu dnia <\n140/90 mmHg, w ciągu nocy < 125/75 mmHg i w ciągu doby < 135/85\nmmHg.",
+          "text": "za prawidłowe przyjmuje się średnie ciśnienie tętnicze w ciągu dnia < 140/90 mmHg, w ciągu nocy < 125/75 mmHg i w ciągu doby < 135/85 mmHg.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "ciśnienie tętnicze jest rejestrowane automatycznie, zwykle co 15-20 min\nw dzień i co 30 min w nocy.",
+          "text": "ciśnienie tętnicze jest rejestrowane automatycznie, zwykle co 15-20 min w dzień i co 30 min w nocy.",
           "isCorrect": false
         }
       ],
@@ -8980,11 +8980,11 @@
     },
     {
       "id": "int-1-266",
-      "question": "54-letnia kobieta z rozpoznaną od kilku lat hiperlipidemią, leczona atorwastatyną w dawce 40 mg, zgłosiła się na badania kontrolne. Przyjmuje z powodu nadciśnienia tętniczego ramipril 10 mg. Nie choruje na cukrzycę, w wywiadzie przebyte przemijające niedokrwienie mózgu (TIA). Przedmiotowo: BMI 27,8 kg/m , RR 138/76 mmHg. Wyniki badań: cholesterol całkowity 6,62 mmol/l (255 mg%), LDL-cholesterol 4,34 mmol/l\n(166 mg%), HDL-cholesterol 0,9 mmol/l (35 mg%), triglicerydy 1,8 mmol/l\n(160 mg%), ALT w normie. Wskaż postępowanie optymalne w zakresie leczenia zaburzeń lipidowych:\n\n",
+      "question": "54-letnia kobieta z rozpoznaną od kilku lat hiperlipidemią, leczona atorwastatyną w dawce 40 mg, zgłosiła się na badania kontrolne. Przyjmuje z powodu nadciśnienia tętniczego ramipril 10 mg. Nie choruje na cukrzycę, w wywiadzie przebyte przemijające niedokrwienie mózgu (TIA). Przedmiotowo: BMI 27,8 kg/m , RR 138/76 mmHg. Wyniki badań: cholesterol całkowity 6,62 mmol/l (255 mg%), LDL-cholesterol 4,34 mmol/l\n(166 mg%), HDL-cholesterol 0,9 mmol/l (35 mg%), triglicerydy 1,8 mmol/l\n(160 mg%), ALT w normie. Wskaż postępowanie optymalne w zakresie leczenia zaburzeń lipidowych: A. dołączenie fibratu.\n2\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "dołączenie fibratu.\n2",
+          "text": "dołączenie fibratu. 2",
           "isCorrect": false
         },
         {
@@ -9014,7 +9014,7 @@
     },
     {
       "id": "int-1-267",
-      "question": "Wskaż cechę, która nie jest charakterystyczna dla przewlekłej obturacyjnej choroby płuc:\n\n",
+      "question": "Wskaż cechę, która nie jest charakterystyczna dla przewlekłej obturacyjnej choroby płuc: E. narażenie na czynniki ryzyka tej choroby, przede wszystkim dym tytoniowy.\n",
       "answers": [
         {
           "id": "A",
@@ -9038,7 +9038,7 @@
         },
         {
           "id": "E",
-          "text": "narażenie na czynniki ryzyka tej choroby, przede wszystkim dym\ntytoniowy.",
+          "text": "narażenie na czynniki ryzyka tej choroby, przede wszystkim dym tytoniowy.",
           "isCorrect": false
         }
       ],
@@ -9082,7 +9082,7 @@
     },
     {
       "id": "int-1-269",
-      "question": "Przyczyną zwiększonej objętości krwinek czerwonych (ang. mean corpuscular volume - MCV) może być:\n\n",
+      "question": "Przyczyną zwiększonej objętości krwinek czerwonych (ang. mean corpuscular volume - MCV) może być: B. niedobór kwasu foliowego.\n12\n\n",
       "answers": [
         {
           "id": "A",
@@ -9091,7 +9091,7 @@
         },
         {
           "id": "B",
-          "text": "niedobór kwasu foliowego.\n12",
+          "text": "niedobór kwasu foliowego. 12",
           "isCorrect": false
         },
         {
@@ -9626,7 +9626,7 @@
     },
     {
       "id": "int-1-285",
-      "question": "Pacjent lat 38, przyjęty do szpitala z powodu występujących od 24 godzin bólów głowy, splątania, niedowładu połowiczego prawostronnego i dysfazji. Ponadto stwierdzono opryszczkę wargową, temperaturę 38,6°C i sztywność karku na 3 palce. Wykonano badanie płynu mózgowo-rdzeniowego i stwierdzono pleocytozę 250 leukocytów/mm z czego 90% to limfocyty, stężenie białka 70 mg/dl, stężenie glukozy 60 mg/dl (w surowicy 85 mg/dl). Badanie rezonansu magnetycznego głowy wykazało wzmocnienie sygnału w sekwencji FLAIR przyśrodkowej części płata skroniowego lewego. Do otrzymania wyników badań mikrobiologicznych i badania PCR lekiem o działaniu przyczynowym na czynnik etiologiczny z wyboru w tej sytuacji jest:\n\n",
+      "question": "Pacjent lat 38, przyjęty do szpitala z powodu występujących od 24 godzin bólów głowy, splątania, niedowładu połowiczego prawostronnego i dysfazji. Ponadto stwierdzono opryszczkę wargową, temperaturę 38,6°C i sztywność karku na 3 palce. Wykonano badanie płynu mózgowo-rdzeniowego i stwierdzono pleocytozę 250 leukocytów/mm z czego 90% to limfocyty, stężenie białka 70 mg/dl, stężenie glukozy 60 mg/dl (w surowicy 85 mg/dl). Badanie rezonansu magnetycznego głowy wykazało wzmocnienie sygnału w sekwencji FLAIR przyśrodkowej części płata skroniowego lewego. Do otrzymania wyników badań mikrobiologicznych i badania PCR lekiem o działaniu przyczynowym na czynnik etiologiczny z wyboru w tej sytuacji jest: E. amoksycylina z kwasem klawulanowym.\n3\n",
       "answers": [
         {
           "id": "A",
@@ -9650,7 +9650,7 @@
         },
         {
           "id": "E",
-          "text": "amoksycylina z kwasem klawulanowym.\n3",
+          "text": "amoksycylina z kwasem klawulanowym. 3",
           "isCorrect": false
         }
       ],
@@ -9830,7 +9830,7 @@
     },
     {
       "id": "int-1-291",
-      "question": "Czynnikiem nie mającym wpływu (korzystnego lub niekorzystnego) na występowanie raka jelita grubego jest:\n\n",
+      "question": "Czynnikiem nie mającym wpływu (korzystnego lub niekorzystnego) na występowanie raka jelita grubego jest: E. terapia inhibitorami konwertazy angiotensyny lub antagonistami receptora angiotensynowego.\n",
       "answers": [
         {
           "id": "A",
@@ -9854,7 +9854,7 @@
         },
         {
           "id": "E",
-          "text": "terapia inhibitorami konwertazy angiotensyny lub antagonistami receptora\nangiotensynowego.",
+          "text": "terapia inhibitorami konwertazy angiotensyny lub antagonistami receptora angiotensynowego.",
           "isCorrect": false
         }
       ],
@@ -10102,31 +10102,31 @@
     },
     {
       "id": "int-1-299",
-      "question": "Jak należy suplementować dożylnie potas u chorego z kwasicą ketonową?\n\n",
+      "question": "Jak należy suplementować dożylnie potas u chorego z kwasicą ketonową? A. nie należy suplementować potasu dożylnie u chorego z kwasicą ketonową. B. należy suplementować potas dożylnie dopiero wtedy, gdy jego stężenie w surowicy krwi obniży się poniżej 4,0 mmol/l. C. należy suplementować potas dożylnie dopiero wtedy, gdy jego stężenie w surowicy krwi obniży się poniżej 3,5 mmol/l. D. należy suplementować potas dożylnie dopiero wtedy, gdy jego stężenie w surowicy krwi obniży się poniżej 3,0 mmol/l. E. należy rozpocząć suplementację potasu dożylnie nawet, gdy jego stężenie w surowicy krwi jest wyższe niż 4,0 mmol/l.\n",
       "answers": [
         {
           "id": "A",
-          "text": "nie należy suplementować potasu dożylnie u chorego z kwasicą\nketonową.",
+          "text": "nie należy suplementować potasu dożylnie u chorego z kwasicą ketonową.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "należy suplementować potas dożylnie dopiero wtedy, gdy jego stężenie w\nsurowicy krwi obniży się poniżej 4,0 mmol/l.",
+          "text": "należy suplementować potas dożylnie dopiero wtedy, gdy jego stężenie w surowicy krwi obniży się poniżej 4,0 mmol/l.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "należy suplementować potas dożylnie dopiero wtedy, gdy jego stężenie w\nsurowicy krwi obniży się poniżej 3,5 mmol/l.",
+          "text": "należy suplementować potas dożylnie dopiero wtedy, gdy jego stężenie w surowicy krwi obniży się poniżej 3,5 mmol/l.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "należy suplementować potas dożylnie dopiero wtedy, gdy jego stężenie w\nsurowicy krwi obniży się poniżej 3,0 mmol/l.",
+          "text": "należy suplementować potas dożylnie dopiero wtedy, gdy jego stężenie w surowicy krwi obniży się poniżej 3,0 mmol/l.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "należy rozpocząć suplementację potasu dożylnie nawet, gdy jego\nstężenie w surowicy krwi jest wyższe niż 4,0 mmol/l.",
+          "text": "należy rozpocząć suplementację potasu dożylnie nawet, gdy jego stężenie w surowicy krwi jest wyższe niż 4,0 mmol/l.",
           "isCorrect": false
         }
       ],
@@ -10170,7 +10170,7 @@
     },
     {
       "id": "int-1-301",
-      "question": "Występowanie trombofilii jest najbardziej prawdopodobne u chorego:\n\n",
+      "question": "Występowanie trombofilii jest najbardziej prawdopodobne u chorego: C. u którego wystąpiła choroba zakrzepowo-zatorowa bez uchwytnych czynników ryzyka.\n\n",
       "answers": [
         {
           "id": "A",
@@ -10184,7 +10184,7 @@
         },
         {
           "id": "C",
-          "text": "u którego wystąpiła choroba zakrzepowo-zatorowa bez uchwytnych\nczynników ryzyka.",
+          "text": "u którego wystąpiła choroba zakrzepowo-zatorowa bez uchwytnych czynników ryzyka.",
           "isCorrect": false
         },
         {
@@ -10204,31 +10204,31 @@
     },
     {
       "id": "int-1-302",
-      "question": "Lekarz lub ratownik medyczny zespołu wyjazdowego pogotowia ratunkowego w przypadku wezwania do chorego, u którego wystąpił niedowład połowiczy lewostronny o nagłym początku i ciśnienie tętnicze wynosiło 180/110 mmHg, po zbadaniu chorego i w razie potrzeby zabezpieczeniu podstawowych czynności życiowych, powinien niezwłocznie:\n\n",
+      "question": "Lekarz lub ratownik medyczny zespołu wyjazdowego pogotowia ratunkowego w przypadku wezwania do chorego, u którego wystąpił niedowład połowiczy lewostronny o nagłym początku i ciśnienie tętnicze wynosiło 180/110 mmHg, po zbadaniu chorego i w razie potrzeby zabezpieczeniu podstawowych czynności życiowych, powinien niezwłocznie: A. zebrać wywiad chorobowy (od chorego lub świadków zachorowania) odnośnie do godziny i minut wystąpienia objawów, przebytych chorób oraz ustalić, czy i jakie leki chory pobiera oraz odnotować to w dokumentacji medycznej. B. podać kwas acetylosalicylowy w dawce 300 mg doustnie, gdyż najczęstszą przyczyną nagle występujących niedowładów połowiczych jest udar niedokrwienny. C. podać kwas acetylosalicylowy w dawce 300 mg doustnie oraz podać heparynę drobnocząsteczkową (np. sól sodową enoksaparyny) w dawce profilaktycznej 20-40 mg podskórnie, ale nie w dawce leczniczej (np. 80 mg), aby nie wyłączyć możliwości leczenia trombolitycznego w późniejszym okresie. D. jak najszybciej obniżyć ciśnienie tętnicze do poziomu poniżej 140/90 mmHg podając bloker wapnia (np. nifedypinę 5 mg podjęzykowo) lub lekami dożylnymi np. furosemid 20 mg i.v. E. podać heparynę drobnocząsteczkową (np. sól sodową enoksaparyny) w dawce profilaktycznej 20-40 mg podskórnie, ale nie w dawce leczniczej (np.\n80 mg), aby nie wyłączyć możliwości leczenia trombolitycznego w późniejszym okresie.\n",
       "answers": [
         {
           "id": "A",
-          "text": "zebrać wywiad chorobowy (od chorego lub świadków zachorowania)\nodnośnie do godziny i minut wystąpienia objawów, przebytych chorób oraz\nustalić, czy i jakie leki chory pobiera oraz odnotować to w dokumentacji\nmedycznej.",
+          "text": "zebrać wywiad chorobowy (od chorego lub świadków zachorowania) odnośnie do godziny i minut wystąpienia objawów, przebytych chorób oraz ustalić, czy i jakie leki chory pobiera oraz odnotować to w dokumentacji medycznej.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "podać kwas acetylosalicylowy w dawce 300 mg doustnie, gdyż\nnajczęstszą przyczyną nagle występujących niedowładów połowiczych jest\nudar niedokrwienny.",
+          "text": "podać kwas acetylosalicylowy w dawce 300 mg doustnie, gdyż najczęstszą przyczyną nagle występujących niedowładów połowiczych jest udar niedokrwienny.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "podać kwas acetylosalicylowy w dawce 300 mg doustnie oraz podać\nheparynę drobnocząsteczkową (np. sól sodową enoksaparyny) w dawce\nprofilaktycznej 20-40 mg podskórnie, ale nie w dawce leczniczej (np. 80 mg),\naby nie wyłączyć możliwości leczenia trombolitycznego w późniejszym\nokresie.",
+          "text": "podać kwas acetylosalicylowy w dawce 300 mg doustnie oraz podać heparynę drobnocząsteczkową (np. sól sodową enoksaparyny) w dawce profilaktycznej 20-40 mg podskórnie, ale nie w dawce leczniczej (np. 80 mg), aby nie wyłączyć możliwości leczenia trombolitycznego w późniejszym okresie.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "jak najszybciej obniżyć ciśnienie tętnicze do poziomu poniżej 140/90\nmmHg podając bloker wapnia (np. nifedypinę 5 mg podjęzykowo) lub lekami\ndożylnymi np. furosemid 20 mg i.v.",
+          "text": "jak najszybciej obniżyć ciśnienie tętnicze do poziomu poniżej 140/90 mmHg podając bloker wapnia (np. nifedypinę 5 mg podjęzykowo) lub lekami dożylnymi np. furosemid 20 mg i.v.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "podać heparynę drobnocząsteczkową (np. sól sodową enoksaparyny) w\ndawce profilaktycznej 20-40 mg podskórnie, ale nie w dawce leczniczej (np.\n80 mg), aby nie wyłączyć możliwości leczenia trombolitycznego w\npóźniejszym okresie.",
+          "text": "podać heparynę drobnocząsteczkową (np. sól sodową enoksaparyny) w dawce profilaktycznej 20-40 mg podskórnie, ale nie w dawce leczniczej (np. 80 mg), aby nie wyłączyć możliwości leczenia trombolitycznego w późniejszym okresie.",
           "isCorrect": false
         }
       ],
@@ -10272,11 +10272,11 @@
     },
     {
       "id": "int-1-304",
-      "question": "64-letnia otyła kobieta z łuszczycą zgłasza bóle kurczowe brzucha, wodnistą biegunkę i ubytek masy ciała w ciągu ostatnich trzech miesięcy od wystąpienia dolegliwości (ok. 6 kg). Dotychczas nie leczyła się z powodu chorób przewlekłych. W badaniu przedmiotowym - zaznaczona wzmożona perystaltyka jelit. W rutynowych badaniach laboratoryjnych bez odchyleń od normy. Kolonoskopia - makroskopowo obraz jelita grubego oraz końcowego odcinka jelita krętego bez zmian. W wycinkach pobranych z prawej połowy jelita grubego stwierdzono jedynie niedużego stopnia naciek z limfocytów i plazmocytów w blaszce właściwej błony śluzowej. Najbardziej prawdopodobnym rozpoznaniem jest:\n\n",
+      "question": "64-letnia otyła kobieta z łuszczycą zgłasza bóle kurczowe brzucha, wodnistą biegunkę i ubytek masy ciała w ciągu ostatnich trzech miesięcy od wystąpienia dolegliwości (ok. 6 kg). Dotychczas nie leczyła się z powodu chorób przewlekłych. W badaniu przedmiotowym - zaznaczona wzmożona perystaltyka jelit. W rutynowych badaniach laboratoryjnych bez odchyleń od normy. Kolonoskopia - makroskopowo obraz jelita grubego oraz końcowego odcinka jelita krętego bez zmian. W wycinkach pobranych z prawej połowy jelita grubego stwierdzono jedynie niedużego stopnia naciek z limfocytów i plazmocytów w blaszce właściwej błony śluzowej. Najbardziej prawdopodobnym rozpoznaniem jest: A. przewlekłe zapalenie trzustki.\n2 3\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "przewlekłe zapalenie trzustki.\n2 3",
+          "text": "przewlekłe zapalenie trzustki. 2 3",
           "isCorrect": false
         },
         {
@@ -10646,7 +10646,7 @@
     },
     {
       "id": "int-1-315",
-      "question": "Wystąpienie gorączki u chorej na raka piersi, która przed tygodniem otrzymała kolejny cykl uzupełniającej chemioterapii pooperacyjnej:\n\n",
+      "question": "Wystąpienie gorączki u chorej na raka piersi, która przed tygodniem otrzymała kolejny cykl uzupełniającej chemioterapii pooperacyjnej: B. jest w każdym przypadku wskazaniem do zastosowania leku z grupy czynników wzrostu kolonii granulocytów. C. jest zawsze wskazaniem do stosowania leków przeciwgrzybicznych od początku leczenia.\n\n",
       "answers": [
         {
           "id": "A",
@@ -10655,12 +10655,12 @@
         },
         {
           "id": "B",
-          "text": "jest w każdym przypadku wskazaniem do zastosowania leku z grupy\nczynników wzrostu kolonii granulocytów.",
+          "text": "jest w każdym przypadku wskazaniem do zastosowania leku z grupy czynników wzrostu kolonii granulocytów.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "jest zawsze wskazaniem do stosowania leków przeciwgrzybicznych od\npoczątku leczenia.",
+          "text": "jest zawsze wskazaniem do stosowania leków przeciwgrzybicznych od początku leczenia.",
           "isCorrect": false
         },
         {
@@ -10850,7 +10850,7 @@
     },
     {
       "id": "int-1-321",
-      "question": "Wskaż nieprawdziwą informację na temat cukrzycowej choroby nerek:\n\n",
+      "question": "Wskaż nieprawdziwą informację na temat cukrzycowej choroby nerek: B. za jej rozwój odpowiadają zmiany hemodynamiczne i metaboliczne, które prowadzą do szkliwienia kłębuszków i włóknienia tkanki śródmiąższowej. C. pojawienie się albuminurii powyżej 30 mg/dobę jest pierwszym klinicznym objawem cukrzycowej choroby nerek. D. krwinkomocz dysmorficzny i wałeczki erytrocytarne wskazują na zaawansowanie cukrzycowej choroby nerek odpowiadające stadium 4. przewlekłej choroby nerek. E. do czynników przyśpieszających postęp choroby należy aktywacja układu renina-angiotensyna-aldosteron.\n",
       "answers": [
         {
           "id": "A",
@@ -10859,22 +10859,22 @@
         },
         {
           "id": "B",
-          "text": "za jej rozwój odpowiadają zmiany hemodynamiczne i metaboliczne, które\nprowadzą do szkliwienia kłębuszków i włóknienia tkanki śródmiąższowej.",
+          "text": "za jej rozwój odpowiadają zmiany hemodynamiczne i metaboliczne, które prowadzą do szkliwienia kłębuszków i włóknienia tkanki śródmiąższowej.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "pojawienie się albuminurii powyżej 30 mg/dobę jest pierwszym klinicznym\nobjawem cukrzycowej choroby nerek.",
+          "text": "pojawienie się albuminurii powyżej 30 mg/dobę jest pierwszym klinicznym objawem cukrzycowej choroby nerek.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "krwinkomocz dysmorficzny i wałeczki erytrocytarne wskazują na\nzaawansowanie cukrzycowej choroby nerek odpowiadające stadium 4.\nprzewlekłej choroby nerek.",
+          "text": "krwinkomocz dysmorficzny i wałeczki erytrocytarne wskazują na zaawansowanie cukrzycowej choroby nerek odpowiadające stadium 4. przewlekłej choroby nerek.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "do czynników przyśpieszających postęp choroby należy aktywacja układu\nrenina-angiotensyna-aldosteron.",
+          "text": "do czynników przyśpieszających postęp choroby należy aktywacja układu renina-angiotensyna-aldosteron.",
           "isCorrect": false
         }
       ],
@@ -10986,31 +10986,31 @@
     },
     {
       "id": "int-1-325",
-      "question": "27-letnia, wyglądająca na ładnie opaloną kobieta zjawia się w lutym u lekarza skarżąc się na osłabienie, nudności, zawroty głowy i mroczki przed oczami, zwłaszcza po wstaniu z łóżka lub z krzesła w pracy. Pacjentka schudła około 4 kg. W maju wychodzi za mąż i planuje ciążę. W badaniu klinicznym ciśnienie tętnicze 105/60 mmHg, tętno około 90/minutę, stężenie TSH 7,85 μIU/ml (norma 0,27-4,2). Wskaż właściwe postępowanie kliniczne:\n\n",
+      "question": "27-letnia, wyglądająca na ładnie opaloną kobieta zjawia się w lutym u lekarza skarżąc się na osłabienie, nudności, zawroty głowy i mroczki przed oczami, zwłaszcza po wstaniu z łóżka lub z krzesła w pracy. Pacjentka schudła około 4 kg. W maju wychodzi za mąż i planuje ciążę. W badaniu klinicznym ciśnienie tętnicze 105/60 mmHg, tętno około 90/minutę, stężenie TSH 7,85 μIU/ml (norma 0,27-4,2). Wskaż właściwe postępowanie kliniczne: A. w związku z planowaną ciążą należy włączyć L-tyroksynę przynajmniej w dawce 50 μg/dobę. B. w związku z faktem, że wolne hormony tarczycy obniżają się dopiero przy stężeniach TSH>10 μIU/ml, należy powtórzyć oznaczenie TSH, fT4 oraz przeciwciał przeciwko peroksydazie tarczycowej (anty-TPO) za 3-4 miesiące. C. należy pilnie oznaczyć poranne stężenie kortyzolu, elektrolity oraz przeciwciała anty-TPO. D. należy wykonać badanie usg tarczycy i natychmiast włączyć L-tyroksynę w dawce 25-50 μg na dobę, jeśli hipoechogeniczny i niejednorodny obraz tarczycy w badaniu usg przypomina obraz obserwowany w przewlekłym zapaleniu tarczycy. E. w związku z podwyższonym stężeniem TSH i przyspieszonym tętnem należy włączyć Thyrozol oraz beta-bloker.\n",
       "answers": [
         {
           "id": "A",
-          "text": "w związku z planowaną ciążą należy włączyć L-tyroksynę przynajmniej w\ndawce 50 μg/dobę.",
+          "text": "w związku z planowaną ciążą należy włączyć L-tyroksynę przynajmniej w dawce 50 μg/dobę.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "w związku z faktem, że wolne hormony tarczycy obniżają się dopiero przy\nstężeniach TSH>10 μIU/ml, należy powtórzyć oznaczenie TSH, fT4 oraz\nprzeciwciał przeciwko peroksydazie tarczycowej (anty-TPO) za 3-4\nmiesiące.",
+          "text": "w związku z faktem, że wolne hormony tarczycy obniżają się dopiero przy stężeniach TSH>10 μIU/ml, należy powtórzyć oznaczenie TSH, fT4 oraz przeciwciał przeciwko peroksydazie tarczycowej (anty-TPO) za 3-4 miesiące.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "należy pilnie oznaczyć poranne stężenie kortyzolu, elektrolity oraz\nprzeciwciała anty-TPO.",
+          "text": "należy pilnie oznaczyć poranne stężenie kortyzolu, elektrolity oraz przeciwciała anty-TPO.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "należy wykonać badanie usg tarczycy i natychmiast włączyć L-tyroksynę\nw dawce 25-50 μg na dobę, jeśli hipoechogeniczny i niejednorodny obraz\ntarczycy w badaniu usg przypomina obraz obserwowany w przewlekłym\nzapaleniu tarczycy.",
+          "text": "należy wykonać badanie usg tarczycy i natychmiast włączyć L-tyroksynę w dawce 25-50 μg na dobę, jeśli hipoechogeniczny i niejednorodny obraz tarczycy w badaniu usg przypomina obraz obserwowany w przewlekłym zapaleniu tarczycy.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "w związku z podwyższonym stężeniem TSH i przyspieszonym tętnem\nnależy włączyć Thyrozol oraz beta-bloker.",
+          "text": "w związku z podwyższonym stężeniem TSH i przyspieszonym tętnem należy włączyć Thyrozol oraz beta-bloker.",
           "isCorrect": false
         }
       ],
@@ -11054,7 +11054,7 @@
     },
     {
       "id": "int-1-327",
-      "question": "Hemolityczne podłoże niedokrwistości podejrzewa się w przypadku stwierdzenia:\n\n",
+      "question": "Hemolityczne podłoże niedokrwistości podejrzewa się w przypadku stwierdzenia: C. uszkodzenia wątroby z podwyższonym stężeniem haptoglobiny i prawidłowym stężeniem bilirubiny.\n\n",
       "answers": [
         {
           "id": "A",
@@ -11068,7 +11068,7 @@
         },
         {
           "id": "C",
-          "text": "uszkodzenia wątroby z podwyższonym stężeniem haptoglobiny i\nprawidłowym stężeniem bilirubiny.",
+          "text": "uszkodzenia wątroby z podwyższonym stężeniem haptoglobiny i prawidłowym stężeniem bilirubiny.",
           "isCorrect": false
         },
         {
@@ -11190,7 +11190,7 @@
     },
     {
       "id": "int-1-331",
-      "question": "67-letnia kobieta z napadowym migotaniem przedsionków, nadciśnieniem tętniczym i cukrzycą typu 2 (CHA DS -VASc score 4) w ramach prewencji udaru niedokrwiennego mózgu wymaga leczenia:\n\n",
+      "question": "67-letnia kobieta z napadowym migotaniem przedsionków, nadciśnieniem tętniczym i cukrzycą typu 2 (CHA DS -VASc score 4) w ramach prewencji udaru niedokrwiennego mózgu wymaga leczenia: D. doustnym antykoagulantem niebędącym antagonistą witaminy K\n(dabigatran, rywaroksaban) lub antagonistą witaminy K (acenokumarol, warfaryna).\n\n",
       "answers": [
         {
           "id": "A",
@@ -11209,7 +11209,7 @@
         },
         {
           "id": "D",
-          "text": "doustnym antykoagulantem niebędącym antagonistą witaminy K\n(dabigatran, rywaroksaban) lub antagonistą witaminy K (acenokumarol,\nwarfaryna).",
+          "text": "doustnym antykoagulantem niebędącym antagonistą witaminy K (dabigatran, rywaroksaban) lub antagonistą witaminy K (acenokumarol, warfaryna).",
           "isCorrect": false
         },
         {
@@ -11258,7 +11258,7 @@
     },
     {
       "id": "int-1-333",
-      "question": "Która z wymienionych chorób najczęściej towarzyszy pierwotnemu stwardniającemu zapaleniu dróg żółciowych (PSC)?\n\n",
+      "question": "Która z wymienionych chorób najczęściej towarzyszy pierwotnemu stwardniającemu zapaleniu dróg żółciowych (PSC)? C. zespół Sjögrena.\n2 2\n\n",
       "answers": [
         {
           "id": "A",
@@ -11272,7 +11272,7 @@
         },
         {
           "id": "C",
-          "text": "zespół Sjögrena.\n2 2",
+          "text": "zespół Sjögrena. 2 2",
           "isCorrect": false
         },
         {
@@ -11326,31 +11326,31 @@
     },
     {
       "id": "int-1-335",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące zaburzeń laboratoryjnych w zespole Gilberta:\n\n",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące zaburzeń laboratoryjnych w zespole Gilberta: A. aktywność transaminaz jest tylko nieznacznie zwiększona a stężenie bilirubiny podwyższone, z przewagą bilirubiny sprzężonej z kwasem glukuronowym (bilirubina bezpośrednia). B. aktywność transaminaz jest prawidłowa, a stężenie bilirubiny może przekraczać 6 mg/dl. C. aktywność transaminaz jest znacznie zwiększona a stężenie bilirubiny umiarkowanie podwyższone, z przewagą bilirubiny niesprzężonej z kwasem glukuronowym (bilirubina pośrednia). D. rozpoznanie opiera się na stwierdzeniu zwiększonego stężenia bilirubiny, trombocytopenii i podwyższonej aktywności fosfatazy zasadowej\n(prawidłowa aktywność GGTP). E. aktywność transaminaz jest prawidłowa a stężenie bilirubiny podwyższone, lecz nie przekraczające 5 mg/dl.\n",
       "answers": [
         {
           "id": "A",
-          "text": "aktywność transaminaz jest tylko nieznacznie zwiększona a stężenie\nbilirubiny podwyższone, z przewagą bilirubiny sprzężonej z kwasem\nglukuronowym (bilirubina bezpośrednia).",
+          "text": "aktywność transaminaz jest tylko nieznacznie zwiększona a stężenie bilirubiny podwyższone, z przewagą bilirubiny sprzężonej z kwasem glukuronowym (bilirubina bezpośrednia).",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "aktywność transaminaz jest prawidłowa, a stężenie bilirubiny może\nprzekraczać 6 mg/dl.",
+          "text": "aktywność transaminaz jest prawidłowa, a stężenie bilirubiny może przekraczać 6 mg/dl.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "aktywność transaminaz jest znacznie zwiększona a stężenie bilirubiny\numiarkowanie podwyższone, z przewagą bilirubiny niesprzężonej z kwasem\nglukuronowym (bilirubina pośrednia).",
+          "text": "aktywność transaminaz jest znacznie zwiększona a stężenie bilirubiny umiarkowanie podwyższone, z przewagą bilirubiny niesprzężonej z kwasem glukuronowym (bilirubina pośrednia).",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "rozpoznanie opiera się na stwierdzeniu zwiększonego stężenia bilirubiny,\ntrombocytopenii i podwyższonej aktywności fosfatazy zasadowej\n(prawidłowa aktywność GGTP).",
+          "text": "rozpoznanie opiera się na stwierdzeniu zwiększonego stężenia bilirubiny, trombocytopenii i podwyższonej aktywności fosfatazy zasadowej (prawidłowa aktywność GGTP).",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "aktywność transaminaz jest prawidłowa a stężenie bilirubiny\npodwyższone, lecz nie przekraczające 5 mg/dl.",
+          "text": "aktywność transaminaz jest prawidłowa a stężenie bilirubiny podwyższone, lecz nie przekraczające 5 mg/dl.",
           "isCorrect": false
         }
       ],
@@ -11360,11 +11360,11 @@
     },
     {
       "id": "int-1-336",
-      "question": "Inhibitory konwertazy angiotensyny i blokery receptora AT1 angiotensyny II:\n\n",
+      "question": "Inhibitory konwertazy angiotensyny i blokery receptora AT1 angiotensyny II: A. stosowane są jako leki nefroprotekcyjne.\n2\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "stosowane są jako leki nefroprotekcyjne.\n2",
+          "text": "stosowane są jako leki nefroprotekcyjne. 2",
           "isCorrect": false
         },
         {
@@ -11986,7 +11986,7 @@
         },
         {
           "id": "C",
-          "text": "W\nbadaniu przedmiotowym stwierdzono zapalenie ucha środkowego oraz\nprawostronne zapalenie płuc, potwierdzone badaniem RTG. W badaniach\nlaboratoryjnych wykazano białkomocz, erytrocyturię z przewagą erytrocytów\nwyługowanych. Jakie badanie należy wykonać, aby potwierdzić\nprawdopodobne rozpoznanie?\nA. wymaz z ucha.\nB. ANA.\nC. przeciwciała przeciw Chlamydia trachomatis.",
+          "text": "W badaniu przedmiotowym stwierdzono zapalenie ucha środkowego oraz prawostronne zapalenie płuc, potwierdzone badaniem RTG. W badaniach laboratoryjnych wykazano białkomocz, erytrocyturię z przewagą erytrocytów wyługowanych. Jakie badanie należy wykonać, aby potwierdzić prawdopodobne rozpoznanie? A. wymaz z ucha. B. ANA. C. przeciwciała przeciw Chlamydia trachomatis.",
           "isCorrect": false
         },
         {
@@ -12006,31 +12006,31 @@
     },
     {
       "id": "int-1-355",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące skal i klasyfikacji stosowanych w chorobach układu sercowo-naczyniowego:\n\n",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące skal i klasyfikacji stosowanych w chorobach układu sercowo-naczyniowego: A. skala GRACE służy ocenie ryzyka zgonu lub zawału serca u chorych z NSTEMI. B. klasyfikacja wg NYHA obrazuje stopień wydolności czynnościowej u chorych z przewlekłą niewydolnością serca. C. skala CHA2DS2-VASc jest stosowana do oceny ryzyka udaru niedokrwiennego mózgu u chorych z żylną chorobą zakrzepowo-zatorową. D. klasyfikacja wg CCS dotyczy nasilenia dławicy piersiowej.\n2\n2 E. skala EHRA służy klasyfikacji nasilenia objawów związanych z migotaniem przedsionków.\n",
       "answers": [
         {
           "id": "A",
-          "text": "skala GRACE służy ocenie ryzyka zgonu lub zawału serca u chorych z\nNSTEMI.",
+          "text": "skala GRACE służy ocenie ryzyka zgonu lub zawału serca u chorych z NSTEMI.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "klasyfikacja wg NYHA obrazuje stopień wydolności czynnościowej u\nchorych z przewlekłą niewydolnością serca.",
+          "text": "klasyfikacja wg NYHA obrazuje stopień wydolności czynnościowej u chorych z przewlekłą niewydolnością serca.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "skala CHA2DS2-VASc jest stosowana do oceny ryzyka udaru\nniedokrwiennego mózgu u chorych z żylną chorobą zakrzepowo-zatorową.",
+          "text": "skala CHA2DS2-VASc jest stosowana do oceny ryzyka udaru niedokrwiennego mózgu u chorych z żylną chorobą zakrzepowo-zatorową.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "klasyfikacja wg CCS dotyczy nasilenia dławicy piersiowej.\n2\n2",
+          "text": "klasyfikacja wg CCS dotyczy nasilenia dławicy piersiowej. 2 2",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "skala EHRA służy klasyfikacji nasilenia objawów związanych z\nmigotaniem przedsionków.",
+          "text": "skala EHRA służy klasyfikacji nasilenia objawów związanych z migotaniem przedsionków.",
           "isCorrect": false
         }
       ],
@@ -12176,7 +12176,7 @@
     },
     {
       "id": "int-1-360",
-      "question": "Wskaźnik aldosteronowo-reninowy wykorzystywany jest jako test przesiewowy w diagnostyce:\n\n",
+      "question": "Wskaźnik aldosteronowo-reninowy wykorzystywany jest jako test przesiewowy w diagnostyce: E. prawdziwe są odpowiedzi A i D.\n12\n12\n",
       "answers": [
         {
           "id": "A",
@@ -12200,7 +12200,7 @@
         },
         {
           "id": "E",
-          "text": "prawdziwe są odpowiedzi A i D.\n12\n12",
+          "text": "prawdziwe są odpowiedzi A i D. 12 12",
           "isCorrect": false
         }
       ],
@@ -12482,7 +12482,7 @@
     },
     {
       "id": "int-1-369",
-      "question": "Których leków nie powinno się stosować w leczeniu nadciśnienia tętniczego u ciężarnych?\n\n",
+      "question": "Których leków nie powinno się stosować w leczeniu nadciśnienia tętniczego u ciężarnych? E. wszystkie powyższe leki mogą być stosowane w leczeniu nadciśnienia tętniczego u kobiet w ciąży.\n",
       "answers": [
         {
           "id": "A",
@@ -12506,7 +12506,7 @@
         },
         {
           "id": "E",
-          "text": "wszystkie powyższe leki mogą być stosowane w leczeniu nadciśnienia\ntętniczego u kobiet w ciąży.",
+          "text": "wszystkie powyższe leki mogą być stosowane w leczeniu nadciśnienia tętniczego u kobiet w ciąży.",
           "isCorrect": false
         }
       ],
@@ -12550,16 +12550,16 @@
     },
     {
       "id": "int-1-371",
-      "question": "W ostrym kłębuszkowym zapaleniu nerek charakterystyczne jest występowanie:\n\n",
+      "question": "W ostrym kłębuszkowym zapaleniu nerek charakterystyczne jest występowanie: A. zwiększonego stężenia przeciwciał przeciwko błonie podstawnej kłębuszków nerkowych (anty-GBM). B. podwyższonego miana przeciwciał przeciwko cytoplazmie neutrofilów\n(ANCA). D. podwyższonego miana przeciwciał przeciwko dwuniciowemu DNA\n(dsDNA).\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "zwiększonego stężenia przeciwciał przeciwko błonie podstawnej\nkłębuszków nerkowych (anty-GBM).",
+          "text": "zwiększonego stężenia przeciwciał przeciwko błonie podstawnej kłębuszków nerkowych (anty-GBM).",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "podwyższonego miana przeciwciał przeciwko cytoplazmie neutrofilów\n(ANCA).",
+          "text": "podwyższonego miana przeciwciał przeciwko cytoplazmie neutrofilów (ANCA).",
           "isCorrect": false
         },
         {
@@ -12569,7 +12569,7 @@
         },
         {
           "id": "D",
-          "text": "podwyższonego miana przeciwciał przeciwko dwuniciowemu DNA\n(dsDNA).",
+          "text": "podwyższonego miana przeciwciał przeciwko dwuniciowemu DNA (dsDNA).",
           "isCorrect": false
         },
         {
@@ -12584,11 +12584,11 @@
     },
     {
       "id": "int-1-372",
-      "question": "Wskaż zdanie fałszywe w odniesieniu do zespołu Lyncha:\n\n",
+      "question": "Wskaż zdanie fałszywe w odniesieniu do zespołu Lyncha: A. jest najczęstszą przyczyną uwarunkowanego genetycznie raka jelita grubego. D. wiąże się z rozwojem innych nowotworów złośliwych, np. raka endometrium, układu moczowego, pokarmowego. E. w rozpoznaniu pomocne są kryteria amsterdamskie II, obejmujące m.in. wywiad rodzinny.\n",
       "answers": [
         {
           "id": "A",
-          "text": "jest najczęstszą przyczyną uwarunkowanego genetycznie raka jelita\ngrubego.",
+          "text": "jest najczęstszą przyczyną uwarunkowanego genetycznie raka jelita grubego.",
           "isCorrect": false
         },
         {
@@ -12603,12 +12603,12 @@
         },
         {
           "id": "D",
-          "text": "wiąże się z rozwojem innych nowotworów złośliwych, np. raka\nendometrium, układu moczowego, pokarmowego.",
+          "text": "wiąże się z rozwojem innych nowotworów złośliwych, np. raka endometrium, układu moczowego, pokarmowego.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "w rozpoznaniu pomocne są kryteria amsterdamskie II, obejmujące m.in.\nwywiad rodzinny.",
+          "text": "w rozpoznaniu pomocne są kryteria amsterdamskie II, obejmujące m.in. wywiad rodzinny.",
           "isCorrect": false
         }
       ],
@@ -12890,31 +12890,31 @@
     },
     {
       "id": "int-1-381",
-      "question": "66-letni pacjent leczony dotąd wyłącznie z powodu nadciśnienia tętniczego, niemający dotąd rozpoznanego migotania przedsionków, zgłosił się na ostry dyżur z powodu uczucia kołatania serca obecnego od ok. trzech dni. Pacjent stabilny hemodynamicznie, w badaniu EKG stwierdzono migotanie przedsionków z odpowiedzią komór ok. 135/min. W takiej sytuacji, poza włączeniem leczenia przeciwzakrzepowego, należy:\n\n",
+      "question": "66-letni pacjent leczony dotąd wyłącznie z powodu nadciśnienia tętniczego, niemający dotąd rozpoznanego migotania przedsionków, zgłosił się na ostry dyżur z powodu uczucia kołatania serca obecnego od ok. trzech dni. Pacjent stabilny hemodynamicznie, w badaniu EKG stwierdzono migotanie przedsionków z odpowiedzią komór ok. 135/min. W takiej sytuacji, poza włączeniem leczenia przeciwzakrzepowego, należy: A. przerwać arytmię z zastosowaniem kardiowersji elektrycznej, niezależnie od czasu trwania arytmii ze względu na szybką akcję serca. B. przerwać arytmię z zastosowaniem farmakoterapii, niezależnie od czasu trwania arytmii ze względu na szybką akcję serca, a w przypadku braku skuteczności zastosować kardiowersję elektryczną. C. zwolnić akcję serca do poziomu bezpiecznego i dobrze tolerowanego przez pacjenta, bez przerywania arytmii. D. zwolnić akcję serca do poziomu bezpiecznego i dobrze tolerowanego przez pacjenta, jedynie po wykluczeniu obecności skrzeplin w jamach serca w echokardiograficznym badaniu przezprzełykowym. E. przyjąć pacjenta do oddziału kardiologii celem wykonania pilnej ablacji, ze względu na brak wcześniejszego rozpoznania migotania przedsionków i wysoką skuteczność ablacji wykonywanych w krótkim czasie od momentu wystąpienia arytmii, zanim dojdzie do jej utrwalenia.\n",
       "answers": [
         {
           "id": "A",
-          "text": "przerwać arytmię z zastosowaniem kardiowersji elektrycznej, niezależnie\nod czasu trwania arytmii ze względu na szybką akcję serca.",
+          "text": "przerwać arytmię z zastosowaniem kardiowersji elektrycznej, niezależnie od czasu trwania arytmii ze względu na szybką akcję serca.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "przerwać arytmię z zastosowaniem farmakoterapii, niezależnie od czasu\ntrwania arytmii ze względu na szybką akcję serca, a w przypadku braku\nskuteczności zastosować kardiowersję elektryczną.",
+          "text": "przerwać arytmię z zastosowaniem farmakoterapii, niezależnie od czasu trwania arytmii ze względu na szybką akcję serca, a w przypadku braku skuteczności zastosować kardiowersję elektryczną.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "zwolnić akcję serca do poziomu bezpiecznego i dobrze tolerowanego\nprzez pacjenta, bez przerywania arytmii.",
+          "text": "zwolnić akcję serca do poziomu bezpiecznego i dobrze tolerowanego przez pacjenta, bez przerywania arytmii.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "zwolnić akcję serca do poziomu bezpiecznego i dobrze tolerowanego\nprzez pacjenta, jedynie po wykluczeniu obecności skrzeplin w jamach serca\nw echokardiograficznym badaniu przezprzełykowym.",
+          "text": "zwolnić akcję serca do poziomu bezpiecznego i dobrze tolerowanego przez pacjenta, jedynie po wykluczeniu obecności skrzeplin w jamach serca w echokardiograficznym badaniu przezprzełykowym.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "przyjąć pacjenta do oddziału kardiologii celem wykonania pilnej ablacji, ze\nwzględu na brak wcześniejszego rozpoznania migotania przedsionków i\nwysoką skuteczność ablacji wykonywanych w krótkim czasie od momentu\nwystąpienia arytmii, zanim dojdzie do jej utrwalenia.",
+          "text": "przyjąć pacjenta do oddziału kardiologii celem wykonania pilnej ablacji, ze względu na brak wcześniejszego rozpoznania migotania przedsionków i wysoką skuteczność ablacji wykonywanych w krótkim czasie od momentu wystąpienia arytmii, zanim dojdzie do jej utrwalenia.",
           "isCorrect": false
         }
       ],
@@ -13196,11 +13196,11 @@
     },
     {
       "id": "int-1-390",
-      "question": "Dla przewlekłej białaczki szpikowej charakterystyczne jest:\n\n",
+      "question": "Dla przewlekłej białaczki szpikowej charakterystyczne jest: A. wysoka leukocytoza spowodowana eozynofilią, powiększenie śledziony, powiększenie węzłów chłonnych. C. podwyższona leukocytoza z obecnością blastów, form pośrednich linii neutrofilowej i neutrocytów („krew jak szpik”), powiększenie śledziony.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "wysoka leukocytoza spowodowana eozynofilią, powiększenie śledziony,\npowiększenie węzłów chłonnych.",
+          "text": "wysoka leukocytoza spowodowana eozynofilią, powiększenie śledziony, powiększenie węzłów chłonnych.",
           "isCorrect": false
         },
         {
@@ -13210,7 +13210,7 @@
         },
         {
           "id": "C",
-          "text": "podwyższona leukocytoza z obecnością blastów, form pośrednich linii\nneutrofilowej i neutrocytów („krew jak szpik”), powiększenie śledziony.",
+          "text": "podwyższona leukocytoza z obecnością blastów, form pośrednich linii neutrofilowej i neutrocytów („krew jak szpik”), powiększenie śledziony.",
           "isCorrect": false
         },
         {
@@ -13638,11 +13638,11 @@
     },
     {
       "id": "int-1-403",
-      "question": "Do lekarza w przychodni POZ zgłosiła się 55-letnia kobieta, informując, że w obrębie prawej piersi wyczuwa guzowatą zmianę wielkości ok. 3 cm. Właściwym postępowaniem lekarza w tym przypadku jest:\n\n",
+      "question": "Do lekarza w przychodni POZ zgłosiła się 55-letnia kobieta, informując, że w obrębie prawej piersi wyczuwa guzowatą zmianę wielkości ok. 3 cm. Właściwym postępowaniem lekarza w tym przypadku jest: A. badanie przedmiotowe i zlecenie skriningowej mammografii (pacjentka po\n50. roku życia). C. założenie karty DiLO (karta diagnostyki i leczenia onkologicznego) i skierowanie pacjentki do poradni onkologicznej.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "badanie przedmiotowe i zlecenie skriningowej mammografii (pacjentka po\n50. roku życia).",
+          "text": "badanie przedmiotowe i zlecenie skriningowej mammografii (pacjentka po 50. roku życia).",
           "isCorrect": false
         },
         {
@@ -13652,7 +13652,7 @@
         },
         {
           "id": "C",
-          "text": "założenie karty DiLO (karta diagnostyki i leczenia onkologicznego) i\nskierowanie pacjentki do poradni onkologicznej.",
+          "text": "założenie karty DiLO (karta diagnostyki i leczenia onkologicznego) i skierowanie pacjentki do poradni onkologicznej.",
           "isCorrect": false
         },
         {
@@ -13876,7 +13876,7 @@
     },
     {
       "id": "int-1-410",
-      "question": "Który z wymienionych czynników nie zwiększa ryzyka pozaszpitalnego zapalenia płuc?\n\n",
+      "question": "Który z wymienionych czynników nie zwiększa ryzyka pozaszpitalnego zapalenia płuc? C. leczenie glikokortykosteroidami systemowymi lub innymi lekami immunosupresyjnymi.\n\n",
       "answers": [
         {
           "id": "A",
@@ -13890,7 +13890,7 @@
         },
         {
           "id": "C",
-          "text": "leczenie glikokortykosteroidami systemowymi lub innymi lekami\nimmunosupresyjnymi.",
+          "text": "leczenie glikokortykosteroidami systemowymi lub innymi lekami immunosupresyjnymi.",
           "isCorrect": false
         },
         {
@@ -13910,7 +13910,7 @@
     },
     {
       "id": "int-1-411",
-      "question": "Na SOR przyjęto 60-letniego pacjenta od wielu lat chorującego na nadciśnienie i cukrzycę typu 2. Pacjent zgłosił się z powodu masywnych obrzęków, duszności, złego samopoczucia, osłabienia, mdłości i wymiotów. W wykonanych badaniach laboratoryjnych stwierdzono: kreatynina 8 mg/dl, mocznik 220 mg/dl, gazometria - pH 7,2, pCO 30 mmHg, pO 280 mmHg, HCO 16 mmol/l. Lekarz wykonał USG jamy brzusznej stwierdzając obie nerki o osi podłużnej 6 cm, o zatartym zróżnicowaniu korowo-rdzeniowym. Wskaż właściwe postępowanie:\n\n",
+      "question": "Na SOR przyjęto 60-letniego pacjenta od wielu lat chorującego na nadciśnienie i cukrzycę typu 2. Pacjent zgłosił się z powodu masywnych obrzęków, duszności, złego samopoczucia, osłabienia, mdłości i wymiotów. W wykonanych badaniach laboratoryjnych stwierdzono: kreatynina 8 mg/dl, mocznik 220 mg/dl, gazometria - pH 7,2, pCO 30 mmHg, pO 280 mmHg, HCO 16 mmol/l. Lekarz wykonał USG jamy brzusznej stwierdzając obie nerki o osi podłużnej 6 cm, o zatartym zróżnicowaniu korowo-rdzeniowym. Wskaż właściwe postępowanie: C. implantacja cewnika dializacyjnego oraz leczenie ostrej niewydolności nerek.\n\n",
       "answers": [
         {
           "id": "A",
@@ -13924,7 +13924,7 @@
         },
         {
           "id": "C",
-          "text": "implantacja cewnika dializacyjnego oraz leczenie ostrej niewydolności\nnerek.",
+          "text": "implantacja cewnika dializacyjnego oraz leczenie ostrej niewydolności nerek.",
           "isCorrect": false
         },
         {
@@ -13978,16 +13978,16 @@
     },
     {
       "id": "int-1-413",
-      "question": "Do charakterystycznych zmian w obrazie klinicznym nefropatii IgA nie zalicza się:\n\n",
+      "question": "Do charakterystycznych zmian w obrazie klinicznym nefropatii IgA nie zalicza się: A. krwinkomoczu z białkomoczem.\n2 2\n3 B. krwiomoczu makroskopowego towarzyszącego zakażeniu dróg oddechowych.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "krwinkomoczu z białkomoczem.\n2 2\n3",
+          "text": "krwinkomoczu z białkomoczem. 2 2 3",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "krwiomoczu makroskopowego towarzyszącego zakażeniu dróg\noddechowych.",
+          "text": "krwiomoczu makroskopowego towarzyszącego zakażeniu dróg oddechowych.",
           "isCorrect": false
         },
         {
@@ -14080,26 +14080,26 @@
     },
     {
       "id": "int-1-416",
-      "question": "Ryzyko nefropatii kontrastowej u pacjenta z czynnikami ryzyka można zmniejszyć poprzez:\n\n",
+      "question": "Ryzyko nefropatii kontrastowej u pacjenta z czynnikami ryzyka można zmniejszyć poprzez: A. włączenie diuretyku na 24 h przed podaniem środka kontrastowego oraz przez 48 h po jego użyciu w celu zwiększenia diurezy. B. odpowiednie dożylne nawodnienie przez 3–6 h przed badaniem oraz\n6–12 h po badaniu. C. przeprowadzenie zabiegu hemodializy w celu usunięcia środka kontrastowego. D. włączenie leków nefroprotekcyjnych (ACEI, ARB) na 24 h przed podaniem środka kontrastowego oraz przez 48 h po jego użyciu.\n\n",
       "answers": [
         {
           "id": "A",
-          "text": "włączenie diuretyku na 24 h przed podaniem środka kontrastowego oraz\nprzez 48 h po jego użyciu w celu zwiększenia diurezy.",
+          "text": "włączenie diuretyku na 24 h przed podaniem środka kontrastowego oraz przez 48 h po jego użyciu w celu zwiększenia diurezy.",
           "isCorrect": false
         },
         {
           "id": "B",
-          "text": "odpowiednie dożylne nawodnienie przez 3–6 h przed badaniem oraz\n6–12 h po badaniu.",
+          "text": "odpowiednie dożylne nawodnienie przez 3–6 h przed badaniem oraz 6–12 h po badaniu.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "przeprowadzenie zabiegu hemodializy w celu usunięcia środka\nkontrastowego.",
+          "text": "przeprowadzenie zabiegu hemodializy w celu usunięcia środka kontrastowego.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "włączenie leków nefroprotekcyjnych (ACEI, ARB) na 24 h przed\npodaniem środka kontrastowego oraz przez 48 h po jego użyciu.",
+          "text": "włączenie leków nefroprotekcyjnych (ACEI, ARB) na 24 h przed podaniem środka kontrastowego oraz przez 48 h po jego użyciu.",
           "isCorrect": false
         },
         {
