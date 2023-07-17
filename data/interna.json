@@ -10,7 +10,7 @@
       "answerC": "wyeliminować chorobę trzewną.",
       "answerD": "zalecić dietę z eliminacją dużych dawek witaminy C i powtórzyć badanie.",
       "answerE": "uzależnić decyzję od objawów ze strony przewodu pokarmowego.",
-      "correctQuestion": null,
+      "correctQuestion": "A",
       "explanation": null,
       "comment": null,
       "tags": null
@@ -23,7 +23,7 @@
       "answerC": "2,3,5.",
       "answerD": "4,5.",
       "answerE": "tylko 5.",
-      "correctQuestion": null,
+      "correctQuestion": "B",
       "explanation": null,
       "comment": null,
       "tags": null
@@ -36,7 +36,7 @@
       "answerC": "3,5.",
       "answerD": "1,2,3,5.",
       "answerE": "2,3,5.",
-      "correctQuestion": null,
+      "correctQuestion": "A",
       "explanation": null,
       "comment": null,
       "tags": null
@@ -49,7 +49,7 @@
       "answerC": "skierowanie pacjenta do poradni kardiologicznej w celu wykonania\nnieinwazyjnej obrazowej próby wysiłkowej.",
       "answerD": "skierowanie pacjenta do poradni kardiologicznej w celu wykonania\nelektrokardiograficznej próby wysiłkowej.",
       "answerE": "pacjent nie wymaga dalszej diagnostyki.",
-      "correctQuestion": null,
+      "correctQuestion": "C",
       "explanation": null,
       "comment": null,
       "tags": null
