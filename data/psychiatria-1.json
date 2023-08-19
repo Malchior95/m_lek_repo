@@ -381,7 +381,7 @@
     },
     {
       "id": "psy-1-12",
-      "question": "Zespół ratownictwa medycznego został wezwany do pacjentki lat 71 z powodu zasłabnięcia. W badaniu stwierdzono: tętno 85/min., HR 100/60 mmHg, w Ekg - w normie, sód: 130 mmol/l, potas: 3 mmol/l, wzrost 165 cm, waga 65 kg. Zaburzona orientacja allopsychiczna, prawidłowa autopsychiczna, halucynuje słuchowo, podatna na sugestię. Zespół ratownictwa powinien: C. przetransportować pacjentkę do szpitalnego oddziału ratunkowego.\n+ +",
+      "question": "Zespół ratownictwa medycznego został wezwany do pacjentki lat 71 z powodu zasłabnięcia. W badaniu stwierdzono: tętno 85/min., HR 100/60 mmHg, w Ekg - w normie, sód: 130 mmol/l, potas: 3 mmol/l, wzrost 165 cm, waga 65 kg. Zaburzona orientacja allopsychiczna, prawidłowa autopsychiczna, halucynuje słuchowo, podatna na sugestię. Zespół ratownictwa powinien:",
       "answers": [
         {
           "id": "A",
@@ -415,7 +415,7 @@
     },
     {
       "id": "psy-1-13",
-      "question": "Osobowość to: A. zespół względnie trwałych cech, dyspozycji, właściwości człowieka nadających względną spójność jego zachowaniu. B. przypisywanie sobie lub innym osobom wyolbrzymionych cech lub właściwości negatywnych. E. zdolność do myślenia krytycznego w stosunku do dorosłych, jak i siebie samego.",
+      "question": "Osobowość to:",
       "answers": [
         {
           "id": "A",
