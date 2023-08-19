@@ -1,0 +1,2049 @@
+{
+  "name": "psychiatria-2",
+  "tags": [
+    "psychiatria",
+    "2023"
+  ],
+  "questions": [
+    {
+      "id": "psy-2-1",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące kryteriów wybranych zaburzeń jedzenia i odżywiania się: A. pica to utrwalone spożywanie niejadalnych substancji przez okres co najmniej pół roku, zarówno u dzieci jak i u dorosłych. B. zwracanie pokarmu w zaburzeniach przeżuwania jest spowodowane stanem ogólnomedycznym, np. przerostem odźwiernika. C. zaburzenie polegające na ograniczaniu/unikaniu przyjmowania pokarmu, wynika m.in. z charakterystyki organoleptycznej pokarmu, obaw o niepożądane konsekwencje jedzenia. D. jadłowstręt psychiczny jest obarczony niskim ryzykiem śmierci w stosunku do innych zaburzeń psychicznych. E. zaburzenia z napadami objadania się i żarłoczność psychiczna to są te same rozpoznania w DSM5.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "pica to utrwalone spożywanie niejadalnych substancji przez okres co najmniej pół roku, zarówno u dzieci jak i u dorosłych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zwracanie pokarmu w zaburzeniach przeżuwania jest spowodowane stanem ogólnomedycznym, np. przerostem odźwiernika.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zaburzenie polegające na ograniczaniu/unikaniu przyjmowania pokarmu, wynika m.in. z charakterystyki organoleptycznej pokarmu, obaw o niepożądane konsekwencje jedzenia.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "jadłowstręt psychiczny jest obarczony niskim ryzykiem śmierci w stosunku do innych zaburzeń psychicznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zaburzenia z napadami objadania się i żarłoczność psychiczna to są te same rozpoznania w DSM5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-2",
+      "question": "Wskaż fałszywe stwierdzenia dotyczące lęku przed separacją w dzieciństwie:\n1) lęk separacyjny współistnieje często z zaburzeniami rozwoju i funkcjonowania społecznego;\n2) problemy ze snem są ważnym kryterium diagnostycznym lęku separacyjnego;\n3) lęk separacyjny rozpoznaje się powyżej 6. r.ż.;\n4) kryterium czasu lęku separacyjnego – minimum 4 tygodnie;\n5) lękowi separacyjnemu nie towarzyszą objawy somatyczne. Prawidłowa odpowiedź to: A. tylko 1. B. 2,4. C. tylko 5. D. 1,3,5.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tylko 1.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tylko 5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,3,5.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-3",
+      "question": "Wskaż parasomnię, w której zgodnie z ICD 10 spełnione są następujące kryteria: „Najczęściej występuje u dzieci, jako stan zaburzeń świadomości, w którym występuje połączenie cech snu i czuwania, chodzenie, zazwyczaj podczas pierwszej z trzech części snu nocnego, w stadium czwartym snu NREM; po przebudzeniu epizod pokryty jest zazwyczaj niepamięcią; leczenie polega na podawaniu m.in. imipraminy”:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zaburzenia zachowania podczas snu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "somnambulizm.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "koszmary nocne.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "porażenie przysenne.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "jaktacje.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-4",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące leczenia ADHD:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "w Polsce zarejestrowane są 2 leki w terapii ADHD.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "skuteczny lek w terapii ADHD ma działanie psychostymulujące.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "metodą pierwszego wyboru w leczenia ADHD jest farmakoterapia.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "atomoksetyna ma zastosowanie w leczeniu ADHD z towarzyszącymi tikami.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zaleca się odstawianie metylofenidatu co najmniej raz w roku.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-5",
+      "question": "W diagnozie różnicowej, u dzieci w wieku szkolnym, z podejrzeniem choroby afektywnej dwubiegunowej problemem jest pokrywanie się niektórych objawów manii i ADHD. Wskaż objawy, które występują w obu tych zaburzeniach:\n1) angażowanie się w działania związane z przyjemnością, np. zakupy;\n2) zachowania niedostosowane do okoliczności;\n3) potrzeba mówienia, rozmowność;\n4) nastawienie wielkościowe;\n5) problemy z utrzymaniem uwagi. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tylko 1.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tylko 4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3,5.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-6",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące niepełnosprawności intelektualnej w stopniu lżejszym (IQ=69-50) w odniesieniu do różnicowania ze stopniami głębszymi: A. korelacja sprawności umysłowej rodziców i dzieci w populacji IQ=69-50 jest bliska zeru. D. w 95% przypadków w populacji IQ=69-50 dotyczy zaniedbanych warstw społecznych.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "korelacja sprawności umysłowej rodziców i dzieci w populacji IQ=69-50 jest bliska zeru.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "w populacji IQ=69-50 objawy organicznego uszkodzenia OUN są rzadkie.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "w populacji IQ=69-50 etiologia jest wieloczynnikowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "w 95% przypadków w populacji IQ=69-50 dotyczy zaniedbanych warstw społecznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "największą grupę stanowią osoby niepełnosprawne w stopniu lżejszym.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-7",
+      "question": "35-letni mężczyzna, leczony psychiatrycznie od 7 roku życia. W 1. klasie przystawiał dzieciom drewniany pistolet, mówiąc zabijam. Lekceważył uwagi. Czas spędzał głównie robiąc liczne makiety broni. Cytował z pamięci długie teksty książki. Niezgrabny w poruszaniu, często podskakiwał, machał rękami, wydając dźwięki jak kaczka, także w miejscach publicznych. Nie przyjmował uwag, na studiach wykładowcom wytykał błędy. W grupie terapeutycznej wyśmiewał się ze słabości uczestników, nie reagował na ich emocje. Wskaż rozpoznanie według ICD 10 i DSM 5:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zespół Retta.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zaburzenia ze spektrum autyzmu wymagające wsparcia (zespół Aspergera).",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "autyzm wczesnodziecięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zaburzenia zachowania.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "dziecięce zaburzenia dezintegracyjne.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-8",
+      "question": "Wskaż fałszywe stwierdzenia dotyczące epidemiologii zachowań samobójczych: A. około ¾ wszystkich samobójstw na świecie ma miejsce w krajach nisko i średnio rozwiniętych. B. w perspektywie ogólnoświatowej mężczyźni średnio około dwa razy częściej giną z powodu samobójstw niż kobiety, w Polsce – około 6 razy częściej. C. około 90% osób, które podejmują samobójstwo, cierpi z powodu zaburzeń psychicznych. D. w badaniach autopsyjnych nie wykazano związku pomiędzy występowaniem zachowań samobójczych a depresją. E. próby samobójcze niezakończone zgonem częściej podejmują kobiety niż mężczyźni, szczególnie w populacji osób młodych.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "około ¾ wszystkich samobójstw na świecie ma miejsce w krajach nisko i średnio rozwiniętych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "w perspektywie ogólnoświatowej mężczyźni średnio około dwa razy częściej giną z powodu samobójstw niż kobiety, w Polsce – około 6 razy częściej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "około 90% osób, które podejmują samobójstwo, cierpi z powodu zaburzeń psychicznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "w badaniach autopsyjnych nie wykazano związku pomiędzy występowaniem zachowań samobójczych a depresją.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "próby samobójcze niezakończone zgonem częściej podejmują kobiety niż mężczyźni, szczególnie w populacji osób młodych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-9",
+      "question": "Lekarz POZ powinien mieć wiedzę nt. znaczenia w ocenie ryzyka samobójczego zachowań przygotowawczych do samobójstwa. Spośród wymienionych zachowań wskaż to, które się do nich nie zalicza:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "gromadzenie leków.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nadużywanie substancji psychoaktywnych.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "czytanie o sposobach odebrania sobie życia, wyszukiwanie w Internecie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "pisanie listu pożegnalnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "oddawanie kosztowności, regulowanie zobowiązań finansowych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-10",
+      "question": "„Ma charakter jawny, jej treści mogą zostać uświadomione, odnosi się do obiektów, ich właściwości lub zdarzeń”. Jest to opis pamięci:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "niedeklaratywnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "krótkotrwałej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "deklaratywnej.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "proceduralnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "operacyjnej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-11",
+      "question": "50-letnia kobieta, która z powodu ciężkiej depresji przez niecałe dwa lata była leczona sertraliną. Zgłasza skargi na obecne od około sześciu miesięcy poczucie osłabienia, nietolerancji zimna, obecność zaparć i przyrost masy ciała. W badaniu przedmiotowym stwierdzono suchą, szorstką skórę, bradykardię, hipotermię oraz obrzęk dłoni i stóp. Wskaż badanie laboratoryjne, które będzie najbardziej pomocne przy ustaleniu diagnozy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "badanie czynności wątroby.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "pomiar poziomu elektrolitów w surowicy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "pomiar poziomu estrogenu w surowicy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "pomiar poziomu sertraliny w surowicy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "pomiar poziomu hormonu tyreotropowego w surowicy.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-12",
+      "question": "35-letni mężczyzna z rozpoznaniem choroby afektywnej dwubiegunowej, ostatnio epizod mieszany, zgłasza się na rutynowe badanie kontrolne. W związku z tym, że stan psychiczny pacjenta był trudny do wyrównania, w ciągu ostatnich dwóch lat wymagał on terapii wieloma lekami. Pacjent podaje, że chociaż przy obecnym schemacie leczenia jego nastrój pozostaje stabilny, to w ciągu ostatnich trzech miesięcy skarży się na obecność drżenia (głównie) rąk. Który z leków jest najbardziej prawdopodobną przyczyną obecności drżenia u tego pacjenta?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "karbamazepina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "gabapentyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lamotrygina.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "węglan litu.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "topiramat.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-13",
+      "question": "19-letnia studentka zostaje przyprowadzona do kliniki przez swoją współlokatorkę, którą od 6 miesięcy niepokoi jej dziwne zachowanie. W ciągu ostatniego miesiąca pacjentka opisywała, w jaki sposób myśli innej osoby wkradały się do jej umysłu. Dodatkowo, pogorszeniu uległy jej oceny, a ona sama nie mówi tak dużo, jak wcześniej. Jej współlokatorka podaje, że podczas rozmowy pacjentka często zbacza z tematu, a innym osobom trudno zrozumieć co ma na myśli. Podczas badania pacjentka twierdzi, że reporter telewizyjny powiedział jej, że rząd ma dla niej specjalne zadanie i powinna posłuchać radia w celu uzyskania dalszych instrukcji. Który ze stanów jest najbardziej prawdopodobną przyczyną objawów u tej pacjentki?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ostre zaburzenia stresowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zaburzenia urojeniowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zaburzenia schizoafektywne.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "schizofrenia.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "zaburzenie typu schizofrenii.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-14",
+      "question": "37-letni mężczyzna przychodzi do lekarza po tym, jak doznał załamania nerwowego. Pacjent podaje, że po niedawnym ogłoszeniu bankructwa, utracie domu i firmy, popadł w głęboką depresję. W tym czasie zaczął słyszeć głosy mówiące mu, że jest bezużyteczny i powinien się zabić. Pacjent twierdzi, że objawy te ustąpiły po około tygodniu. Wcześniej nie miał podobnych epizodów. W wywiadzie nie podaje obecności zaburzeń psychicznych. Badanie fizykalne nie wskazuje na obecność nieprawidłowości, a wyniki badań laboratoryjnych mieszczą się w granicach normy. Wskaż prawidłową diagnozę:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zaburzenie osobowości typu borderline.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ostre i przemijające zaburzenie psychotyczne.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "epizod depresji ciężki, z objawami psychotycznymi.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "schizofrenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zaburzenie schizofreniczne.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-15",
+      "question": "28-letni mężczyzna przychodzi do lekarza z powodu obecności silnego niepokoju, lęku i uogólnionego bólu mięśni, które odczuwa od trzech dni. Pacjent podaje też, że od dwóch dni nie śpi. W badaniu przedmiotowym obserwowane rozszerzenie źrenic, łzawienie, wzmożona potliwość i piloerekcja. Odstawienie której z poniższych substancji stanowi najbardziej prawdopodobną przyczynę tego stanu?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kokaina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "środki wziewne.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "metamfetamina.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "modafinil.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "opioidy.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-16",
+      "question": "48-letni mężczyzna przychodzi do lekarza na coroczne badanie fizykalne. Pacjent od 20 lat wypala jedną paczkę papierosów dziennie i twierdzi, że chce rzucić palenie. Kilka razy tego próbował, jednak za każdym razem cierpiał z powodu obniżenia nastroju, trudności ze snem, lęku, niepokoju i zwiększonego apetytu. Pacjent podaje, że opisywane objawy były tak silne, że uniemożliwiały mu dobre funkcjonowanie w pracy. Wskaż opcję terapeutyczną, która jest najbardziej odpowiednia jako pomoc w zaprzestaniu palenia:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "alprazolam.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "diazepam.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "plastry nikotynowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kwas nikotynowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wareniklina.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-17",
+      "question": "55-letnia kobieta przychodzi do lekarza, ponieważ od 20 lat cierpi z powodu przymusu powtarzania różnych czynności i jest już zmęczona marnowaniem czasu. Pacjentka podaje, że wielokrotnie w ciągu dnia sprawdza czy zamknęła drzwi w swoim domu, kilka razy na godzinę myje ręce i każdego ranka przed wyjściem do pracy trzy razy sprawdza czy wyłączyła różne urządzenia elektryczne. W wywiadzie obecny blok przedsionkowo-komorowy II stopnia. Który z poniższych leków będzie stanowił najlepszą opcję terapeutyczną dla tej pacjentki?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "sertralina.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "klomipramina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "klonazepam.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "metylofenidat.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "kwetiapina.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-18",
+      "question": "20-letnia studentka zgłasza się do ośrodka zdrowia, ponieważ od trzech miesięcy, tj. odkąd padła ofiarą gwałtu na randce podczas imprezy, ma objawy depresji. Pacjentka podaje, że kiedy doszło do incydentu była pod wpływem alkoholu i niewiele pamięta. Była jednak bardzo zawstydzona, kiedy obudziła się na miejscu zdarzenia i zdała sobie sprawę z tego, co się stało. Nie szukała wówczas opieki medycznej. Pacjentka twierdzi, że nie powiedziała o tym zdarzeniu swoim przyjaciołom, nadal uczęszczała na zajęcia i pracowała. Mówi jednak, że ciągle czuje się smutna i niespokojna, stała się płaczliwa i wycofana, ma także trudności ze snem z powodu przerażających koszmarów. Wskaż najbardziej prawdopodobne rozpoznanie w przypadku tej pacjentki:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ostre zaburzenie stresowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zaburzenie adaptacyjne, nieokreślone.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "uogólnione zaburzenie lękowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "duże zaburzenie depresyjne.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "PTSD.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-19",
+      "question": "42-letni mężczyzna zostaje skierowany do lekarza celem oceny stanu psychicznego. Pacjent podaje, że od dawna obawia się krytyki i odrzucenia. Ma również poczucie nieadekwatności i odmawia podejmowania nowych zajęć z powodu strachu przed poczuciem zakłopotania. Pomimo kilku możliwości awansu, pacjent od\n14 lat zajmuje to samo stanowisko w swoim miejscu pracy. Jest kawalerem, a w swoim życiu był tylko w jednym intymnym związku, który trwał zaledwie kilka tygodni. Poza tymi, których poznał w klubie modelarskim, pacjent ma też niewielu przyjaciół. Wskaż zaburzenie osobowości, które jest najbardziej prawdopodobne:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "osobowość unikająca.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "osobowość zależna.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "osobowość paranoiczna.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "osobowość schizoidalna.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "osobowość schizotypowa.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-20",
+      "question": "23-letni mężczyzna przychodzi do lekarza, ponieważ odczuwa dolegliwości bólowe prawej ręki. Obecna przy badaniu pielęgniarka podaje, że pacjent był rozdrażniony i niechętnie odpowiadał na wiele pytań wstępnych, a także odmówił przebrania w podaną mu przed badaniem odzież szpitalną. Podczas badania pacjent jest początkowo czarujący i wygadany, ale po zapewnieniu, że informacje, które podaje, nie zostaną przekazane jego kuratorowi, przyznaje, że brał udział w walce na pięści. Z dumą podaje, że „ten drugi jest w dużo gorszym stanie”. Wskaż zaburzenie psychiczne, na które najprawdopodobniej cierpi ten pacjent?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "osobowość antyspołeczna.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "zaburzenie afektywne dwubiegunowe, ostatni epizod hipomaniakalny.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zaburzenie zachowania.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zaburzenie opozycyjno-buntownicze.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "osobowość paranoiczna.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-21",
+      "question": "46-letni mężczyzna zostaje przywieziony na oddział ratunkowy karetką pogotowia, ponieważ od czterech godzin ma halucynacje wzrokowe. Żona pacjenta podaje, że przez ostatnie dwa dni miał on biegunkę, był pobudzony i zdezorientowany. Dwa tygodnie temu z powodu częstych nieobecności został zwolniony z pracy. Nie może znaleźć nowego miejsca zatrudnienia i od kilku dni prosi znajomych o pieniądze. Pacjent od 25 lat wypija pół litra whisky na dobę. Jego temperatura ciała wynosi 38,5°C, tętno 126/min, a ciśnienie krwi 162/102 mm Hg. Wskaż najwłaściwszy sposób postępowania w przypadku tego pacjenta? A. przyjęcie do szpitala w celu monitorowania jego stanu objęcia opieką społeczną. B. wypis i skierowanie do ambulatoryjnego ośrodka leczenia uzależnień.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "przyjęcie do szpitala w celu monitorowania jego stanu objęcia opieką społeczną.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wypis i skierowanie do ambulatoryjnego ośrodka leczenia uzależnień.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "domięśniowe podanie haloperidolu i wypis.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "dożylny wlew alkoholu etylowego i wypis.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "doustne podanie diazepamu i przyjęcie do szpitala.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-22",
+      "question": "35-letnia kobieta zostaje przewieziona na oddział ratunkowy karetką po tym, jak policja została wezwana do jej domu przez sąsiada, który był świadkiem gwałtu i napadu na nią dokonanego przez dwóch włamywaczy. Pacjentka jest w pełni przytomna i zorientowana co do własnej osoby, miejsca i czasu. Sam incydent jak i jego szczegóły są jednak pokryte całkowitą niepamięcią. Wskaż najbardziej prawdopodobną przyczynę:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "depersonalizacja/derealizacja.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "amnezja dysocjacyjna.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "fuga dysocjacyjna.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "urazowe uszkodzenie mózgu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "utrata pamięci wolicjonalnej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-23",
+      "question": "26-letni mężczyzna, z historią tików w postaci mimowolnego mrugania oczami i parskania, przychodzi do lekarza, ponieważ jest zaniepokojony ich rosnącą częstotliwością w ciągu ostatnich sześciu miesięcy. Początek obecności objawów sięga wieku 12 (mruganie) i 16 lat (parskanie). Psychoterapia i ćwiczenia początkowo zmniejszyły częstotliwość ich występowania. Pacjent podaje jednak, że aktualnie epizody tików występują wiele razy w ciągu dnia, ponieważ odczuwa z tego powodu silne zakłopotanie, zmniejszeniu uległy jego wydajność w pracy, a także chęć udziału w spotkaniach towarzyskich. Który z poniższych leków jest najodpowiedniejszą formą farmakoterapii dla tego pacjenta?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "karbamazepina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "fluwoksamina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "metylofenidat.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "risperidon.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "wenlafaksyna.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-24",
+      "question": "19-letnia studentka przychodzi na badania, ponieważ w ciągu ostatniego semestru intensywnie się przeczyszczała. Pacjentka wygląda na dobrze rozwiniętą i dobrze odżywioną. Badanie fizykalne wykazuje łagodne powiększenie ślinianek przyusznych. Wskaż badanie, jakie należy wykonać u tej pacjentki:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "poziomu glukozy we krwi na czczo.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "poziomu amylazy w surowicy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "poziomu elektrolitów w surowicy.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "poziomu enzymów wątrobowych w surowicy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "poziomu TSH w surowicy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-25",
+      "question": "5-letniego chłopca przyprowadza do lekarza mama, ponieważ martwi się obecnymi od kilku miesięcy zmianami w jego zachowaniu. Matka pacjenta podaje, że sporadycznie w nocy zdarzały się epizody, podczas których chłopiec wydawał się bardzo przestraszony, siadał na łóżku płacząc i krzycząc coś niezrozumiale. Twierdzi, że podczas takich incydentów początkowo trudno go było uspokoić, a on sam zwykle cały się trząsł, mocno się pocił i szybko oddychał. W końcu, po 10-15 minutach chłopiec uspokajał się, a następnie zasypiał. Które z poniższych pytań należy zadać celem potwierdzenia diagnozy zespołu lęków nocnych u tego pacjenta? A. Czy u pacjenta podczas snu występują drżenia kończyn górnych i dolnych?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Czy u pacjenta podczas snu występują drżenia kończyn górnych i dolnych?",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Czy pacjent ma koszmary senne?",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Czy późno chodzi spać?",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Czy ogląda brutalne filmy?",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Czy pacjent moczy łóżko?",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-26",
+      "question": "32-letni mężczyzna zgłosił się do swojego lekarza pierwszego kontaktu z powodu nawracającego kaszlu. Lekarz zalecił badania krwi i RTG klatki piersiowej. Kiedy pacjent otworzył gabinet zabiegowy, jego serce zaczęło kołatać, spocił się, jego mięśnie napięły się. Kiedy siedział na krześle do pobierania krwi i założono mu stazę, jego objawy pogorszyły się. W dodatku skróceniu uległ oddech, zaczął hiperwentylować się, poczuł drętwienie i mrowienie na rękach, stopach i wokół ust. Kiedy pielęgniarka rozpakowała igłę, pacjent zemdlał. Ocknął się szybko po tym, jak została przed jego nosem złamana kapsułka z amoniakiem. Przeprosił za swoje zachowanie i powiedział: „Zawsze zachowuję się w ten sposób, kiedy widzę igłę”. Ta sytuacja jest najbliższa obrazowi klinicznemu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "agorafobii.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zaburzeń lekowych uogólnionych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "napadów paniki.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "fobii społecznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "fobii specyficznej.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-27",
+      "question": "Jakich urojeń nie ma w depresji?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "oddziaływania.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "grzeszności.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "winy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nihilistycznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "małej wartości.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-28",
+      "question": "Do Poradni Zdrowia Psychicznego zgłosiła się 26-letnia studentka kierunku lekarskiego. Zgłasza skargi na obniżony nastrój, silne poczucie lęku i niepokoju. Swój stan psychiczny wiąże ze swoją aktualną sytuacją zawodową. Ostatnio zatrudniła się w Multikinie, w charakterze obsługi klienta. Ma problemy z nawiązywaniem relacji z innymi osobami, boi się chodzić do pracy. Obawia się krytyki ze strony innych osób. Nigdy nie była w związku mimo, że bardzo by chciała, boi się odrzucenia. Przedstawiony obraz kliniczny najbardziej odpowiada zaburzeniu osobowości:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "osobowość zależna.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "osobowość schizoidalna.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "osobowość unikająca.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "osobowość paranoidalna.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "osobowość narcystyczna.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-29",
+      "question": "W gabinecie, lekarz psychiatra bada pacjenta, który zgłosił się skierowany przez lekarza rodzinnego. Pacjent zgłasza skargi na obniżony nastrój, problemy z apetytem, bezsenność, zamartwianie się. Dolegliwości te wiąże bezpośrednio z utratą pracy oraz rozstaniem z partnerką. Do wydarzeń tych doszło około miesiąc temu. Jaka wstępna diagnoza jest najbardziej odpowiednia w tym przypadku?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "epizod depresji umiarkowany.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zaburzenia afektywne dwubiegunowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zaburzenia depresyjne i lękowe mieszane.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zaburzenia adaptacyjne.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "zaburzenia schizoafektywne.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-30",
+      "question": "„Moja rodzina jest w niebezpieczeństwie. Śledzą mnie. Jeżdżą za mną. W moim mieszkaniu są zamontowane kamery, a telefon jest podsłuchiwany”. Wypowiedź ta świadczyć może o obecności:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "urojeń paranoicznych.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "omamów słuchowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "omamów psychicznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "urojeń onirycznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "urojeń nihilistycznych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-31",
+      "question": "Aby rozpoznać epizod manii objawy powinny utrzymywać się przez:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "3 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "5 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "7 dni.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "14 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "30 dni.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-32",
+      "question": "Przyjęcie do szpitala psychiatrycznego pacjenta za jego zgodą jest regulowane przez ustawę o ochronie zdrowia psychicznego w artykule:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "22 UoOZP.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "23 UoOZP.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "24 UoOZP.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "25 UoOZP.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "26 UoOZP.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-33",
+      "question": "„Osoba, której dotychczasowe zachowanie wskazuje na to, że z powodu zaburzeń psychicznych zagraża bezpośrednio swojemu życiu albo życiu lub zdrowiu innych osób, a zachodzą wątpliwości, czy jest ona chora psychicznie, może być przyjęta bez zgody wymaganej w art. 22 do szpitala w celu wyjaśnienia tych wątpliwości”. Jest to treść artykułu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "22 punkt 2 UoOZP.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "23 UoOZP.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "24 UoOZP.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "28 UoOZP.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "29 UoOZP.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-34",
+      "question": "Wobec osoby z zaburzeniami psychicznymi, która swoim zachowaniem poważnie zakłóca lub uniemożliwia funkcjonowanie zakładu psychiatrycznej opieki zdrowotnej lub jednostki organizacyjnej pomocy społecznej, można zastosować przymus bezpośredni w formie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "unieruchomienia lub izolacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "unieruchomienia lub przymusowego podania leków.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "unieruchomienia lub przymusowego leczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "przymusowego podania leków lub przytrzymania.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "zapięcia w pasy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-35",
+      "question": "O przyjęciu pacjenta do szpitala psychiatrycznego wbrew woli, w trybach określonych w UoOZP należy poinformować sąd opiekuńczy w ciągu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "12 godzin.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "24 godzin.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "48 godzin.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "72 godzin.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "do momentu wypisu pacjenta ze szpitala psychiatrycznego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-36",
+      "question": "W dokumentacji medycznej nie można dokumentować:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "spraw religijnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "informacji o karalności.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "informacji o orientacji seksualnej pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "poglądów politycznych pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "przyznania się do popełnienia przestępstwa.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-37",
+      "question": "Do preparatów niemających udowodnionej skuteczności w leczeniu choroby Alzheimera zaliczamy wszystkie z wyjątkiem:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nicergoliny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "winpocetytny.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "piracetamu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "memantyny.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "selegiliny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-38",
+      "question": "Do powikłań somatycznych jadłowstrętu psychicznego nie zalicza się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "hiperkaliemii.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "osteoporozy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "bradykardii.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "niedokrwistości.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zaburzeń miesiączkowania.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-39",
+      "question": "Podczas stosowania przymusu bezpośredniego, pielęgniarka ocenia stan pacjenta co:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "5 minut.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "10 minut.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "15 minut.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "30 minut.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "godzinę.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-40",
+      "question": "Z wnioskiem o ubezwłasnowolnienie nie może wystąpić:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "małżonek.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "brat.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "syn.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kuzyn.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "ustawowy przedstawiciel.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-41",
+      "question": "¾ wszystkich włókien przywspółczulnych zawiera nerw:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "węchowy (I).",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "trójdzielny (V).",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "twarzowy (VII).",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "przedsionkowo-ślimakowy (VIII).",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "błędny (X).",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-42",
+      "question": "Nazwę zespołu Klüvera i Bucy’ego nosi zespół objawów wynikających z obustronnego uszkodzenia płatów:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "czołowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "skroniowych.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ciemieniowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "potylicznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "móżdżku.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-43",
+      "question": "Głównym przekaźnikiem pobudzającym ludzkiego mózgu jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "acetylocholina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "glutaminian.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "kwas gamma-aminomasłowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kwas kynureninowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "serotonina.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-44",
+      "question": "Najliczniejszą grupę osób z niepełnosprawnością intelektualną stanowią osoby z niepełnosprawnością w stopniu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lekkim.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "umiarkowanym.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "znacznym.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "głębokim.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "skrajnym.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-45",
+      "question": "Najczęstszą przyczyną otępienia w wieku podeszłym jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "choroba Alzheimera.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "otępienie naczyniopochodne.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "otępienie z ciałami Lewy’ego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "otępienie czołowo-skroniowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "otępienie poalkoholowe.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-46",
+      "question": "Leki z grupy inhibitorów acetylocholinesterazy są lekami z wyboru w leczeniu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "otępienia czołowo-skroniowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "centralnej mielinolizy mostu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "otępienia z ciałami Lewy’ego.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "zespołu Fahra.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "choroby Creutzfeldta-Jakoba.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-47",
+      "question": "68-letnia pacjentka ze znacznymi zaburzeniami pamięci i funkcjonowania, w ostatnim czasie kilkakrotnie upadła, okresowo halucynuje wzrokowo. Niska dawka haloperydolu spowodowała gwałtownie narastające usztywnienie. Objawy wskazują na otępienie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "w chorobie Alzheimera.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "czołowo-skroniowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "naczyniopochodne.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "z ciałami Lewy’ego.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "w chorobie Huntingtona.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-48",
+      "question": "Leczeniem z wyboru w leczeniu alkoholowego zespołu amnestycznego jest stosowanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "haloperydolu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "benzodiazepin.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tiaminy.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "propranololu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "memantyny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-49",
+      "question": "Odsetek nawrotów ostrych objawów choroby u osób z rozpoznaniem schizofrenii, które zaprzestały leczenia, wynosi w ciągu 2 lat:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "40%.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "50%.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "60%.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "80%.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "100%.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-50",
+      "question": "Niepokój ruchowy kończyn dolnych, górnych i tułowia, który występuje zarówno w pozycji siedzącej, jak i stojącej, z częstym przymusem chodzenia\n(dreptania) pojawiający się podczas stosowania leków przeciwpsychotycznych nazywamy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "negatywizmem czynnym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ostrymi dyskinezami.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "późnymi dyskinezami.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "złośliwym zespołem neuroleptycznym.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "akatyzją.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-51",
+      "question": "Pacjent był uczestnikiem bardzo niebezpiecznego wypadku drogowego, w którym zginął kierowca pojazdu, którym się wspólnie poruszali. Po kilku tygodniach pacjent zaczął odczuwać znaczny dyskomfort psychiczny. Charakterystyczne dla tej sytuacji jest pojawienie się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "uporczywego przeżywania wypadku z silnym lękiem.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "urojeń prześladowczych i odnoszących.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "epizodu maniakalnego lub mieszanego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "majaczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prowokowania sytuacji zagrożenia podobnych do okoliczności wypadku.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-52",
+      "question": "19-letnia pacjentka w wyniku restrykcyjnej diety osiągnęła masę ciała odpowiadającą BMI=12. Pomimo znacznego wyczerpania nadal ogranicza posiłki. Wskaż prawidłowe postępowanie w tej sytuacji: D. hospitalizacja psychiatryczna, niezależnie od wyrażenia przez pacjentkę zgody.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "psychoterapia w trybie ambulatoryjnym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "farmakoterapia i psychoterapia w trybie ambulatoryjnym.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "hospitalizacja psychiatryczna, jeśli pacjentka wyrazi na nią zgodę.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hospitalizacja psychiatryczna, niezależnie od wyrażenia przez pacjentkę zgody.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "hospitalizacja w oddziale somatycznym.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-53",
+      "question": "W farmakoterapii wytrysku przedwczesnego zastosowanie mają leki z grupy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "stabilizatorów nastroju.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "inhibitorów acetylocholinesterazy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "inhibitorów butyrylocholinesterazy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "inhibitorów wychwytu zwrotnego serotoniny.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "benzodiazepin.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-54",
+      "question": "24-letnia pacjentka z rozpoznaniem choroby afektywnej dwubiegunowej stosuje antykoncepcję hormonalną. Lekiem zwiększającym ryzyko zajścia w ciążę jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lit.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "olanzapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "arypiprazol.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "karbamazepina.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "lamotrygina.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-55",
+      "question": "Bezwzględne nieliczenie się z uczuciami innych osób, utrwalona postawa lekceważenia reguł, norm, wysoki poziom agresji oraz niska tolerancja frustracji to typowe cechy osobowości:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "typu borderline.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "dyssocjalnej.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "histrionicznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "schizoidalnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zależnej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-56",
+      "question": "Nadmierna wrażliwość na krytykę, przekonanie o własnym uprzywilejowaniu oraz skupienie na swoich potrzebach to cechy charakterystyczne dla zaburzeń osobowości typu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "chwiejnej emocjonalnie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "schizoidalnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "schizotypowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zależnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "narcystycznej.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-57",
+      "question": "Nadmierna aktywność dopaminenergiczna układu mezolimbicznego odpowiada w schizofrenii za występowanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "objawów negatywnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "objawów pozytywnych.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "objawów pozapiramidowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hiperprolaktynemii.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ostrych dyskinez.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-58",
+      "question": "22-letni mężczyzna od ponad roku koncentruje się na porządkowaniu przedmiotów w swoim otoczeniu, kilkadziesiąt razy dziennie myje dłonie. Powodem zgłoszenia się do lekarza było zmęczenie tymi objawami, poczucie narastającej beznadziejności oraz prośby najbliższej rodziny. W farmakoterapii pacjenta z takimi objawami zalecane jest stosowanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "moklobemidu w wysokich dawkach.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "moklobemidu w niskich dawkach.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "fluwoksaminy w wysokich dawkach.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "fluwoksaminy w niskich dawkach.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "mirtazapiny w niskich dawkach.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-59",
+      "question": "Program 12 kroków jest standardem w terapii:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zaburzeń obsesyjno-kompulsyjnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zaburzeń osobowości.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "uzależnienia od alkoholu.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "jadłowstrętu psychicznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "parafilii.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-2-60",
+      "question": "Do stymulantów zaliczamy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "mefedron.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "ketaminę.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "psylocybinę.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kodeinę.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "haszysz.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    }
+  ]
+}
