@@ -1,9 +1,12 @@
 {
   "name": "interna-2",
-  "tags": ["interna", "2023"],
+  "tags": [
+    "interna",
+    "2023"
+  ],
   "questions": [
     {
-      "id": "int-1-1",
+      "id": "int-2-1",
       "question": "Wskaż prawdziwe stwierdzenia:\n1) ropień płuca może być wynikiem centralnej martwicy nowotworu, przeważnie raka gruczołowego;\n2) rak gruczołowy płuca rozwija się w jego obwodowych częściach;\n3) ryzyko raka drobnokomórkowego, w odróżnieniu od raka płaskonabłonkowego płuc, jest słabo związane z paleniem tytoniu;\n4) u pacjenta z nowotworem płuca jednostronne ściszenie szmerów oddechowych może być wynikiem nie tylko obecności płynu w jamie opłucnowej, ale także niedodmy z zatkania tożstronnego oskrzela lub porażenia nerwu przeponowego;\n5) w diagnostyce „nieinfekcyjnej chrypki” i zespołu Hornera wystarczająca jest odpowiednia ocena laryngologiczna i neurologiczna;\n6) rak płuca może przebiegać ze wzrostem stężenia antygenu rakowo- płodowego (CEA) w surowicy krwi. Prawidłowa odpowiedź to: A. 1,2,3,5. B. 1,3,4,5. C. 4,5,6. D. 2,4,6.",
       "answers": [
         {
@@ -37,7 +40,7 @@
       "tags": null
     },
     {
-      "id": "int-1-2",
+      "id": "int-2-2",
       "question": "Wskaż prawdziwe stwierdzenia:\n1) powiększenie węzła chłonnego nadobojczykowego lewego u pacjenta z rakiem żołądka, tzw. węzła Virchowa, nazywane jest także objawem Troisiera;\n2) dysfagia nie występuje w przebiegu raka żołądka;\n3) zakażenie Helicobacter pylori jest czynnikiem ryzyka raka gruczołowego żołądka typu jelitowego;\n4) rozpoznanie wczesnego raka żołądka nie jest możliwe, gdy stwierdza się obecność przerzutów w regionalnych węzłach chłonnych;\n5) rak wczesny żołądka może objawiać się nawracającymi krwawieniami;\n6) leczenie endoskopowe jest zawsze wystarczającą metodą leczenia wczesnego raka żołądka. Prawidłowa odpowiedź to: A. 1,2,5. B. 2,3,6. C. 3,4,5. D. 2,4,6.",
       "answers": [
         {
@@ -71,7 +74,7 @@
       "tags": null
     },
     {
-      "id": "int-1-3",
+      "id": "int-2-3",
       "question": "Wskaż prawdziwe stwierdzenia:\n1) rak trzustki jest choroba tytoniozależną;\n2) pierwszym objawem raka trzustki, u osoby po 50 r.ż. może być cukrzyca;\n3) objaw Courvoisiera polega na wystąpieniu żółtaczki po ostrym bólu w okolicy prawego podżebrza, często towarzyszy mu objaw Chełmońskiego i objaw Murphy’ego;\n4) śluzowe i surowicze nowotwory torbielowate trzustki występują częściej u mężczyzn;\n5) wysokie stężenie CA-19-9 w surowicy ma wysoką czułość i swoistość w diagnostyce raka trzustki;\n6) USG jamy brzusznej nie nadaje się do badań przesiewowych raka trzustki i monitorowania pooperacyjnego. Prawidłowa odpowiedź to: A. 1,2,6. B. 2,3,6. C. 3,4,5. D. 2,4,6.",
       "answers": [
         {
@@ -105,7 +108,7 @@
       "tags": null
     },
     {
-      "id": "int-1-4",
+      "id": "int-2-4",
       "question": "Wskaż zdania prawdziwe:\n1) nowotwór złośliwy nerki może przebiegać zarówno z niedokrwistością, jak i nadkrwistością;\n2) rak jasnokomórkowy wcześnie daje przerzuty odległe, które mogą ulec regresji po usunięciu ogniska pierwotnego;\n3) embolizacja tętnicy nerkowej nie ma znaczenia w terapii, u pacjenta z guzem nerki;\n4) klasyczna triada objawów guza nerki (krwiomocz, guz wyczuwalny przez powłoki, ból w okolicy lędźwiowej) jest częsta, ale przeważnie wskazuje na znaczne zaawansowanie procesu nowotworowego;\n5) nagłe wystąpienie żylaków sromu lub powrózka nasiennego nawet teoretycznie nie ma związku z patologią nerki lewej;\n6) nabyta torbielowatość nerek uważana jest za stan przedrakowy. Prawidłowa odpowiedź to: A. 2,4,6. B. 2,3,4. C. 1,3,5. D. 1,2,6.",
       "answers": [
         {
@@ -139,7 +142,7 @@
       "tags": null
     },
     {
-      "id": "int-1-5",
+      "id": "int-2-5",
       "question": "Wskaż prawdziwe stwierdzenia:\n1) Hipertriglicerydemia >1000mg/dl jest uważana za rzadki czynnik ryzyka ostrego zapalenia trzustki;\n2) objaw Cullena jest markerem ciężkiej postaci ostrego zapalenia trzustki;\n3) w przebiegu ostrego zapalenia trzustki aktywność amylazy we krwi może utrzymywać się miesiącami, nawet po „wygaszeniu” choroby;\n4) obecność zbiorników płynowych z martwicą >½ miąższu trzustki prognozują ciężki przebieg ostrego zapalenia trzustki wg CTSI;\n5) przewlekłe zapalenie trzustki może być spowodowane zwężeniem i kamicą przewodu Wirsunga;\n6) pacjenci z przewlekłym zapaleniem trzustki rozwijają objawy niedoboru wszystkich witamin rozpuszczalnych w tłuszczach. Prawidłowa odpowiedź to: A. 1,3,5,6. B. 1,2,4,5. C. 2,3,4,5. D. 1,2,3,6.",
       "answers": [
         {
@@ -173,7 +176,7 @@
       "tags": null
     },
     {
-      "id": "int-1-6",
+      "id": "int-2-6",
       "question": "Wskaż lek, który nie jest lekiem pierwszego rzutu w leczeniu nadciśnienia tętniczego:",
       "answers": [
         {
@@ -207,7 +210,7 @@
       "tags": null
     },
     {
-      "id": "int-1-7",
+      "id": "int-2-7",
       "question": "Wskaż diuretyk, który powinien być użyty w pierwszej kolejności w leczeniu nadciśnienia tętniczego u chorego z GFR <30 ml/min/1,73 m2:",
       "answers": [
         {
@@ -241,7 +244,7 @@
       "tags": null
     },
     {
-      "id": "int-1-8",
+      "id": "int-2-8",
       "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować ostry napad dny moczanowej:",
       "answers": [
         {
@@ -275,7 +278,7 @@
       "tags": null
     },
     {
-      "id": "int-1-9",
+      "id": "int-2-9",
       "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować suchy kaszel:",
       "answers": [
         {
@@ -309,7 +312,7 @@
       "tags": null
     },
     {
-      "id": "int-1-10",
+      "id": "int-2-10",
       "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować obrzęk okolicy kostek:",
       "answers": [
         {
@@ -343,7 +346,7 @@
       "tags": null
     },
     {
-      "id": "int-1-11",
+      "id": "int-2-11",
       "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować bradykardię:",
       "answers": [
         {
@@ -377,7 +380,7 @@
       "tags": null
     },
     {
-      "id": "int-1-12",
+      "id": "int-2-12",
       "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować hiperkalemię:",
       "answers": [
         {
@@ -411,7 +414,7 @@
       "tags": null
     },
     {
-      "id": "int-1-13",
+      "id": "int-2-13",
       "question": "Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który może spowodować hipokalemię:",
       "answers": [
         {
@@ -445,7 +448,7 @@
       "tags": null
     },
     {
-      "id": "int-1-14",
+      "id": "int-2-14",
       "question": "Wskaż kombinację leków, której nie należy stosować w leczeniu nadciśnienia tętniczego:",
       "answers": [
         {
@@ -479,7 +482,7 @@
       "tags": null
     },
     {
-      "id": "int-1-15",
+      "id": "int-2-15",
       "question": "Wskaż lek, którego stosowanie wiąże się z najwyższym ryzykiem wystąpienia zaburzeń wzwodu u mężczyzn:",
       "answers": [
         {
@@ -513,7 +516,7 @@
       "tags": null
     },
     {
-      "id": "int-1-16",
+      "id": "int-2-16",
       "question": "Do poradni zgłosił się mężczyzna z powodu bólu głowy i wzrostu ciśnienia tętniczego do wartości 210/110 mm Hg. Pacjent przyjmuje nieregularnie leki z powodu nadciśnienia tętniczego, takie jak perindopryl, indapamid i amlodypinę. Który z leków należy podać choremu w pierwszej kolejności w celu szybkiego obniżenia ciśnienia tętniczego?",
       "answers": [
         {
@@ -547,7 +550,7 @@
       "tags": null
     },
     {
-      "id": "int-1-17",
+      "id": "int-2-17",
       "question": "Wskaż lek, który należy zastosować w pierwszej kolejności w leczeniu nadciśnienia tętniczego u kobiety w ciąży:",
       "answers": [
         {
@@ -581,7 +584,7 @@
       "tags": null
     },
     {
-      "id": "int-1-18",
+      "id": "int-2-18",
       "question": "U 54-letniego chorego nie udało się obniżyć ciśnienia tętniczego do zamierzonych wartości, mimo stosowania trzech leków, takich jak perindopryl, amlodypina i indapamid. U tego chorego eGFR wynosi 64 ml/min/1,73 m2, a stężenie potasu 4,1 mmol/l. Który z leków należy rozważyć w pierwszej kolejności jako kolejny lek obniżający ciśnienie tętnicze?",
       "answers": [
         {
@@ -615,7 +618,7 @@
       "tags": null
     },
     {
-      "id": "int-1-19",
+      "id": "int-2-19",
       "question": "U nieprzytomnego pacjenta stwierdza się ciśnienie tętnicze 240/120 mm Hg. Jaki lek należy podać w pierwszej kolejności w celu obniżenia ciśnienia tętniczego?",
       "answers": [
         {
@@ -649,7 +652,7 @@
       "tags": null
     },
     {
-      "id": "int-1-20",
+      "id": "int-2-20",
       "question": "Na SOR została przewieziona 80-letnia kobieta, która nie spożywała w domu żadnych pokarmów ani napojów przez ostatnie dwie doby z powodu złego samopoczucia. Ciśnienie tętnicze wynosi 80/50 mm Hg, a tętno 96/min. Stężenie sodu w surowicy krwi wynosi 154 mmol/l, a stężenia potasu 4,8 mmol/l. Chora ma suche błony śluzowe jamy ustnej. Jaki płyn należy podać dożylnie w pierwszej kolejności?",
       "answers": [
         {
@@ -683,7 +686,7 @@
       "tags": null
     },
     {
-      "id": "int-1-21",
+      "id": "int-2-21",
       "question": "Na SOR został przywieziony 41-letni chory z powodu zasłabnięcia. Choruje on na cukrzycę typu 1 od 25 lat, która jest leczona insuliną. U chorego tego stwierdza się w badaniach krwi pH 7,2 oraz HCO3 10 mmol/l. Stężenie sodu wynosi 139 mmol/l, a potasu 4,9 mmol/l. Stężenie glukozy we krwi wynosi 380 mg/dl. Jaki lek należy podać dożylmnie w pierwszej kolejności?",
       "answers": [
         {
@@ -717,7 +720,7 @@
       "tags": null
     },
     {
-      "id": "int-1-22",
+      "id": "int-2-22",
       "question": "79-letni mężczyzna zgłosił się do lekarza z powodu złego samopoczucia. W badaniach krwi stwierdzono stężenie hemoglobiny 10 g/dl. Wartości MCV, MCH i MCHC są poniżej zakresu normy. Liczba płytek krwi i leukocytów jest prawidłowa. Wskaż, którą z chorób należy wykluczyć u tego chorego w pierwszej kolejności:",
       "answers": [
         {
@@ -751,7 +754,7 @@
       "tags": null
     },
     {
-      "id": "int-1-23",
+      "id": "int-2-23",
       "question": "W ramach badań przesiewowych w kierunku cukrzycy u bezobjawowego\n68-letniego mężczyzny wykonano na czczo badanie stężenia glukozy w osoczu krwi żylnej, które wyniosło 152 mg/dl. U chorego tego należy: A. rozpoznać cukrzycę i rozpocząć leczenie farmakologiczne metforminą, jeśli tylko nie ma przeciwwskazań do jej stosowania. B. powtórzyć badanie stężenia glukozy we krwi przy pomocy glukometru w dowolnym czasie. C. powtórzyć badanie stężenia glukozy w osoczu krwi żylnej na czczo w ciągu jednego z najbliższych dni.",
       "answers": [
         {
@@ -785,7 +788,7 @@
       "tags": null
     },
     {
-      "id": "int-1-24",
+      "id": "int-2-24",
       "question": "74-letni mężczyzna zgłosił się do lekarza z powodu krwistego zabarwienia moczu. Badanie moczu wykazało zwiększoną liczbę erytrocytów w moczu. Wskaż badanie, od którego należy rozpocząć diagnostykę różnicową krwiomoczu u tego chorego:",
       "answers": [
         {
@@ -819,7 +822,7 @@
       "tags": null
     },
     {
-      "id": "int-1-25",
+      "id": "int-2-25",
       "question": "Stężenie kreatyniny w surowicy krwi zależy przede wszystkim od czynności wydalniczej nerek oraz od:",
       "answers": [
         {
@@ -853,7 +856,7 @@
       "tags": null
     },
     {
-      "id": "int-1-26",
+      "id": "int-2-26",
       "question": "W pierwotnej nadczynności tarczycy występują następujące odchylenia w badaniach:",
       "answers": [
         {
@@ -887,7 +890,7 @@
       "tags": null
     },
     {
-      "id": "int-1-27",
+      "id": "int-2-27",
       "question": "W pierwotnej niedoczynności tarczycy występują następujące odchylenia w badaniach:",
       "answers": [
         {
@@ -921,7 +924,7 @@
       "tags": null
     },
     {
-      "id": "int-1-28",
+      "id": "int-2-28",
       "question": "W ostrym zapaleniu trzustki stwierdza się najczęściej następujące nieprawidłowości w badaniach krwi:",
       "answers": [
         {
@@ -955,7 +958,7 @@
       "tags": null
     },
     {
-      "id": "int-1-29",
+      "id": "int-2-29",
       "question": "25-letnia kobieta zgłosiła się do lekarza z powodu częstego bolesnego oddawania moczu od kilku godzin. Który z parametrów badania ogólnego moczu wykonany u tej kobiety wskazuje na zakażenie układu moczowego:",
       "answers": [
         {
@@ -989,7 +992,7 @@
       "tags": null
     },
     {
-      "id": "int-1-30",
+      "id": "int-2-30",
       "question": "U 72-letniego mężczyzny z nowo rozpoznanym rakiem płuca stwierdzono w badaniach stężenie sodu w surowicy krwi 119 mmol/l. U mężczyzny nie stwierdza się obrzęków ani cech odwodnienia. Kilkukrotny dożylny wlew 500 ml 0,9% roztworu chlorku sodu nie spowodował podwyższenia stężenia sodu w surowicy krwi. Wskaż, które postępowanie należy zastosować w celu normalizacji stężenia sodu we krwi:",
       "answers": [
         {
@@ -1023,7 +1026,7 @@
       "tags": null
     },
     {
-      "id": "int-1-31",
+      "id": "int-2-31",
       "question": "U 76-letniego mężczyzny stwierdzono stężenie TSH wynoszące 16 mIU/l i obniżone stężenie FT4. U mężczyzny rozpoczęto leczenie lewotyroksyną. Która z wymienionych dawek będzie najlepsza przy rozpoczęciu leczenia lewotyroksyną u tego pacjenta:",
       "answers": [
         {
@@ -1057,7 +1060,7 @@
       "tags": null
     },
     {
-      "id": "int-1-32",
+      "id": "int-2-32",
       "question": "W leczeniu niepowikłanego zapalenia pęcherza moczowego lekiem pierwszego wyboru nie jest:",
       "answers": [
         {
@@ -1091,7 +1094,7 @@
       "tags": null
     },
     {
-      "id": "int-1-33",
+      "id": "int-2-33",
       "question": "U 24-letniego chorego na cukrzycę typu 1, leczonego insuliną w 4 wstrzyknięciach podskórnych na dobę, doszło do nagłej utraty przytomności. Pacjent oddycha prawidłowo i jego tętno wynosi 120/minutę. W takiej sytuacji należy: E. oznaczyć stężenie glukozy i dopiero na podstawie stężenia wtedy zadecydować o podaży glukozy lub insuliny dożylnie.",
       "answers": [
         {
@@ -1125,7 +1128,7 @@
       "tags": null
     },
     {
-      "id": "int-1-34",
+      "id": "int-2-34",
       "question": "Przyczyną wystąpienia szmeru oskrzelowego nad płucami jest:",
       "answers": [
         {
@@ -1159,7 +1162,7 @@
       "tags": null
     },
     {
-      "id": "int-1-35",
+      "id": "int-2-35",
       "question": "Wskaż próg, powyżej którego rozpoznaje się zespół bezdechu sennego lub zespół śródsennego osłabienia oddychania: A. 1 okres bezdechu (trwający 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. B. 5 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. C. 15 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. D. 25 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu. E. 50 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu.",
       "answers": [
         {
@@ -1193,7 +1196,7 @@
       "tags": null
     },
     {
-      "id": "int-1-36",
+      "id": "int-2-36",
       "question": "Wskaż objawy retencji CO2 w ostrej nakładającej się na przewlekłą niewydolności oddechowej typu II:\n1) splątanie;\n2) zimny obwód ciała;\n3) trzepoczące drżenie rąk;\n4) tachykardia zatokowa;\n5) tętno skaczące. Prawidłowa odpowiedź to: A. 1,2. B. 2,4. C. 2,4,5. D. 1,3,5.",
       "answers": [
         {
@@ -1227,7 +1230,7 @@
       "tags": null
     },
     {
-      "id": "int-1-37",
+      "id": "int-2-37",
       "question": "Wskaż prawdziwe stwierdzenia dotyczące zaporowych (obturacyjnych) chorób płuc u osób w podeszłym wieku:\n1) astma nie pojawia się po raz pierwszy w wieku podeszłym, stąd objawy obturacji można przypisać przewlekłej obturacyjnej chorobie płuc;\n2) pozytywne skutki rezygnacji z palenia tytoniu obserwuje się nawet do\n80 roku życia;\n3) zaawansowany wiek jest barierą uniemożliwiającą podejmowanie intensywnej terapii i wentylacji mechanicznej w ostrym epizodzie przewlekłej obturacyjnej choroby płuc;\n4) ludzie starsi w mniejszym stopniu niż młodzi odczuwają zwężenie dróg oddechowych, zatem na podstawie ich opisu nie można wnioskować o nasileniu tego stanu;\n5) w wieku podeszłym przyspieszenie czynności serca jest mniejsze w porównaniu do ludzi młodych przy tym samym stopniu zwężenia oskrzeli. Prawidłowa odpowiedź to: A. 1,3. B. 3,4. C. 1,4,5. D. 1,5.",
       "answers": [
         {
@@ -1261,7 +1264,7 @@
       "tags": null
     },
     {
-      "id": "int-1-38",
+      "id": "int-2-38",
       "question": "Regularną terapię przeciwzapalną w astmie, najlepiej w postaci wziewnych kortkosteroidów należy podjąć u pacjenta, który:\n1) nie stosuje agonistów receptorów β2-adrenergicznych;\n2) doświadcza dolegliwości pojawiających się nie częściej niż jeden raz w tygodniu;\n3) budzi się z powodu astmy co najmniej jeden raz w tygodniu;\n4) podaje, że dolegliwości występują trzy razy w tygodniu lub częściej;\n5) doświadczył zaostrzenia choroby w ciągu ostatnich 2 lat. Prawidłowa odpowiedź to: A. 3,4,5. B. 1,2,3. C. 1,5. D. tylko 4.",
       "answers": [
         {
@@ -1295,7 +1298,7 @@
       "tags": null
     },
     {
-      "id": "int-1-39",
+      "id": "int-2-39",
       "question": "W leczeniu antybiotykami niepowikłanego pozaszpitalnego zapalenia płuc należy zastosować: A. amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę klarytromycynę 500 mg co 12 godzin doustnie lub erytromycynę\n500 mg co 6 godzin doustnie. B. amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę cefuroksym 1,5 g co 8 godzin dożylnie. C. cefuroksym 500 mg co 12 godzin, a jeśli pacjent jest uczulony na penicilinę erytromycynę 500 mg co 6 godzin doustnie. D. erytromycynę 500 mg co 6 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę cefuroksym 500 mg co 12 godzin. E. amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę cefuroksym 500 mg co 12 godzin.",
       "answers": [
         {
@@ -1329,7 +1332,7 @@
       "tags": null
     },
     {
-      "id": "int-1-40",
+      "id": "int-2-40",
       "question": "Wskaż prawdziwe stwierdzenie dotyczące leczenia astmy w ciąży i okresie karmienia piersią: A. należy odstawić leki z grupy doustnych antagonistów receptorów leukotrienowych, nawet jeśli powodowały one znaczącą poprawę kontroli astmy przed ciążą. B. prostaglandyna F2α może spowodować skurcz oskrzeli i powinna być stosowana z ekstremalną ostrożnością.",
       "answers": [
         {
@@ -1363,7 +1366,7 @@
       "tags": null
     },
     {
-      "id": "int-1-41",
+      "id": "int-2-41",
       "question": "Wskaż fałszywe stwierdzenie: A. plamica Henocha i Schönleina dotyczy dzieci i nigdy nie występuje u dorosłych. B. obraz mikroskopowy bioptatu nerek jest nie do odróżnienia od obrazu ostrej nefropatii IgA. C. ból brzucha jest spowodowany zapaleniem naczyń zajmujących naczynia krwionośne przewodu pokarmowego. E. występuje krwiomocz makro- lub mikroskopowy, z białkomoczem lub bez niego.",
       "answers": [
         {
@@ -1397,7 +1400,7 @@
       "tags": null
     },
     {
-      "id": "int-1-42",
+      "id": "int-2-42",
       "question": "Wskaż prawdziwe stwierdzenie: A. ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem niedrożności żyły głównej górnej spowodowanej przez guz szczytu płuca. B. ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zajęcia przez proces nowotworowy splotu ramiennego przez guz szczytu płuca. C. ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zajęcia przez proces nowotworowy pnia współczulnego w miejscu splotu gwiaździstego lub ponad nim. D. ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem zepołu nieadekwatnego wydzielania hormonu antydiuretycznego przez rak oskrzela. E. ustanie wydzielania potu (hipohydrosis) połowy twarzy jest wynikiem miastenii w przebiegu raka oskrzela.",
       "answers": [
         {
@@ -1431,7 +1434,7 @@
       "tags": null
     },
     {
-      "id": "int-1-43",
+      "id": "int-2-43",
       "question": "Wskaż objaw kliniczny zespołu rakowiaka:",
       "answers": [
         {
@@ -1465,7 +1468,7 @@
       "tags": null
     },
     {
-      "id": "int-1-44",
+      "id": "int-2-44",
       "question": "Niebieskie twardówki są objawem:",
       "answers": [
         {
@@ -1499,7 +1502,7 @@
       "tags": null
     },
     {
-      "id": "int-1-45",
+      "id": "int-2-45",
       "question": "U pacjenta wystąpiły objawy hipoglikemii. Stwierdzono niski poziom glukozy we krwi w pomiarze wykonanym w czasie trwania objawów, objawy ustąpiły po skorygowaniu hipoglikemii. Stężenie insuliny i peptydu C we krwi było podwyższone. Wskaż przyczyne:\n1) niedoczynność przysadki;\n2) guz insulinowy;\n3) pierwotna niedoczynność przysadki;\n4) pochodne sulfonylomocznika;\n5) egzogenna insulina. Prawidłowa odpowiedź to: A. 1,3,5. B. 1,3. C. 2,4. D. tylko 3.",
       "answers": [
         {
@@ -1533,7 +1536,7 @@
       "tags": null
     },
     {
-      "id": "int-1-46",
+      "id": "int-2-46",
       "question": "U pacjenta z guzem chromochłonnym czynnym hormonalnie niezbędne jest leczenie farmakologiczne celem przygotowania pacjenta do zabiegu operacyjnego. Polega ono na: A. podawaniu leku β-adrenolitycznego przez 6 tygodni i dołączeniu leku\nα-adrenolitycznego w przypadku małego efektu hipotensyjnego. B. podawaniu wyłącznie leku α-adrenolitycznego przez 6 tygodni; lek\nβ-adrenolityczny jest zawsze przeciwwskazany. C. podawaniu leku α-adrenolitycznego, a w przypadku znacznej tachykardii dodaniu leku β-adrenolitycznego. D. podawaniu leku α-adrenolitycznego, a w przypadku małego efektu hipotensyjnego dołączeniu diuretyku pętlowego. E. podawaniu leku α-adrenolitycznego, a w przypadku małego efektu hipotensyjnego dołączeniu diuretyku tiazydowego.",
       "answers": [
         {
@@ -1567,7 +1570,7 @@
       "tags": null
     },
     {
-      "id": "int-1-47",
+      "id": "int-2-47",
       "question": "Wskaż prawdziwe stwierdzenie dotyczące biegunki żółciowej: A. nie odpowiada na leczenie z wykorzystaniem żywic jonowymiennych, takich jak cholestyramina. B. nigdy nie towarzyszy jej kamica żółciowa, ponieważ nadmiar żółci jest wydalany do jelita cienkiego. D. nigdy nie występuje w cukrzycy ze względu na zaburzenia motoryki przewodu pokarmowego w tej chorobie. E. pacjenci zgłaszają się do lekarza z nagłą wodnistą biegunką lub łagodną tłuszczową.",
       "answers": [
         {
@@ -1601,7 +1604,7 @@
       "tags": null
     },
     {
-      "id": "int-1-48",
+      "id": "int-2-48",
       "question": "Wskaż prawdziwe stwierdzenie dotyczące raka brodawki Vatera: D. rozpoznanie nie opiera się na endoskopowym badaniu dwunastnicy z biopsją guza, lecz na endoskopowej ultrasonografii. E. leczenie chirurgiczne obejmuje wyłącznie zabiegi paliatywne – zepolenie omijające lub umieszczenie stentu.",
       "answers": [
         {
@@ -1635,7 +1638,7 @@
       "tags": null
     },
     {
-      "id": "int-1-49",
+      "id": "int-2-49",
       "question": "Wskaż prawdziwe stwierdzenia dotyczące raka rdzeniastego tarczycy:\n1) powstaje z komórek okołopęcherzykowych C tarczycy;\n2) leczenie jodem radioaktywnym i supresja TSH za pomocą lewotyroksyny nie mają zastosowania w leczeniu tegu typu nowotworu;\n3) odległe przerzuty w momencie rozpoznania występują często;\n4) może wydzielać kalcytoninę, serotoninę, ACTH;\n5) w następstwie hyperkalcytonemii mogą występować przewlekłe zaparcia. Prawidłowa odpowiedź to: A. 3,5. B. 1,3. C. 1,2,4. D. tylko 4.",
       "answers": [
         {
@@ -1669,7 +1672,7 @@
       "tags": null
     },
     {
-      "id": "int-1-50",
+      "id": "int-2-50",
       "question": "Skrining w kierunku raka wątrobowokomórkowego (HCC): A. polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 12 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, alkoholem; B. polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, alkoholem; C. polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, z wyłączeniem alkoholu; D. polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 12 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, z wyłączeniem alkoholu; E. polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną wyłącznie zapaleniem wątroby typu B i C.",
       "answers": [
         {
@@ -1703,7 +1706,7 @@
       "tags": null
     },
     {
-      "id": "int-1-51",
+      "id": "int-2-51",
       "question": "Nowotwory podścieliskowe przewodu pokarmowego (GIST): A. są zwykle bezobjawowe, choć większe mogą odpowiadać za dyspepsję, owrzodzenia i krwawienia z przewodu pokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych nie wykazują ekspresji protoonkogenu c-kit. B. nawet o średnicy <2 cm manifestują się zwykle krwawieniem z przewodu pokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych nie wykazują ekspresji protoonkogenu c-kit. C. są zwykle bezobjawowe, choć większe mogą odpowiadać za dyspepsję, owrzodzenia i krwawienia z przewodu pokarmowego, wykazują ekspresję protoonkogenu c-kit. D. nawet o średnicy <2 cm manifestują się zwykle krwawieniem z przewodu pokarmowego, w przeciwieństwie do innych nowotworów mezenchmalnych wykazują ekspresję protoonkogenu c-kit. E. mają charakter łagodny, nigdy nie złośliwieją, jednak ze względu na dużą skłonność do powodowania owrzodzeń zawsze wymagają leczenia inhibitorem kinazy tyrozynowej.",
       "answers": [
         {
@@ -1737,7 +1740,7 @@
       "tags": null
     },
     {
-      "id": "int-1-52",
+      "id": "int-2-52",
       "question": "Poamiodaronowa nadczynność tarczycy typu II cechuje się: A. indukowaną jodem nadmierną syntezą hormonów tarczycy u pacjentów ze współistniejącą chorobą tarczycy, taką jak utajona choroba Gravesa\n(przykład efektu Jod-Basedow); B. zapaleniem tarczycy, będącym skutkiem bezpośredniego efektu cytotoksycznego amiodaronu;",
       "answers": [
         {
@@ -1771,7 +1774,7 @@
       "tags": null
     },
     {
-      "id": "int-1-53",
+      "id": "int-2-53",
       "question": "„Złotym” standardem prewencji i skriningu raka jelita grubego jest:",
       "answers": [
         {
@@ -1805,7 +1808,7 @@
       "tags": null
     },
     {
-      "id": "int-1-54",
+      "id": "int-2-54",
       "question": "Autoimmunologiczne zapalenie trzustki charakteryzuje się: A. bólem brzucha, utratą masy ciała, jednakże żółtaczka mechaniczna nigdy nie występuje, trzustka jest powiększona w badaniach obrazowych, dobrze odpowiada na leczenie glikokortykosteroidami. B. bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest zmniejszona w badaniach obrazowych, dobrze odpowiada na leczenie glikokortykosteroidami. C. bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest powiększona w badaniach obrazowych, dobrze odpowiada tylko na leczenie azatiopryną. D. bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest powiększona w badaniach obrazowych, nie odpowiada na leczenie glikokortykosteroidami. E. bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest powiększona w badaniach obrazowych, dobrze odpowiada na leczenie glikokortykosteroidami.",
       "answers": [
         {
@@ -1839,7 +1842,7 @@
       "tags": null
     },
     {
-      "id": "int-1-55",
+      "id": "int-2-55",
       "question": "Kardiomiopatia takotsubo charakteryzuje się: A. rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie czynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie i elektrokardiograficznie przypomina ostry zespół wieńcowy z uniesieniem odcinka ST, bez istotnych zmian w koronarografii. B. rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie czynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie przypomina ostry zespół wieńcowy, zmian elektrokardiograficznych nie stwierdza się, bez istotnych zmian w koronarografii. C. rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie czynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie i elektrokardiograficznie przypomina ostry zespół wieńcowy z uniesieniem odcinka ST, w koronarografii niedrożna tętnica okalająca. D. włóknieniem wsierdzia i zarastaniem jam komór w przebiegu eozynofilowej ziarniniakowatości z zapaleniem naczyń (określanej dawniej jako zespół Churg i Strauss), występuje niedomykalność mitralna i trójdzielna oraz objawy zatorowości płucnej i obwodowej. E. łagodnym przerostem mięśnia lewej komory spowodowanym mutacją genów kodujących troponiny, cechuje się występowaniem hipotensji indukowanej wysiłkiem i wysokim ryzykiem nagłego zgonu.",
       "answers": [
         {
@@ -1873,7 +1876,7 @@
       "tags": null
     },
     {
-      "id": "int-1-56",
+      "id": "int-2-56",
       "question": "Wskaż prawdziwe stwierdzenie dotyczące czaszkogardlaka\n(craniopharyngioma): A. jest guzem łagodnym, zlokalizowanym w obrębie siodła tureckiego, odpowiadającym za hiperprolaktynemię. B. jest guzem łagodnym zlokalizowanym w obrębie siodła tureckiego lub w przestrzeni nadsiodłowej, który może powodować objawy niedoczynności przysadki lecz nigdy nie powoduje uszkodzenia podwzgórza. C. jest rodzajem guza złośliwego przestrzeni nadsiodłowej, czynnego hormonalnie, wydzielającego wazopresynę. D. jest guzem łagodnym zlokalizowanym w obrębie siodła tureckiego lub w przestrzeni nadsiodłowej, który może powodować wystąpienie objawów uszkodzenia podwzgórza i moczówkę prostą. E. jest guzem złośliwym zlokalizowanym w obrębie siodła tureckiego, naciekającym okolicę skrzyżowania wzrokowego, nieczynnym hormonalnie.",
       "answers": [
         {
@@ -1907,7 +1910,7 @@
       "tags": null
     },
     {
-      "id": "int-1-57",
+      "id": "int-2-57",
       "question": "Szmer tarcia opłucnej: D. jest wyrazem zapalenia opłucnej, stąd nie występuje w zatorowości płucnej; E. nigdy nie towarzyszy mu szmer tarcia osierdziowego, z którym wymaga różnicowania.",
       "answers": [
         {
@@ -1941,7 +1944,7 @@
       "tags": null
     },
     {
-      "id": "int-1-58",
+      "id": "int-2-58",
       "question": "Choroby śródmiąższowe płuc, np. idiopatyczne włóknienie, sarkoidoza płuc, powodują w spirometrii następujące zmiany w zakresie natężonej pojemności życiowej (FVC) i natężonej objętości wydechowej pierwszosekundowej (FEV1): A. obniżenie wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia restrykcyjne. B. obniżenie wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia obturacyjne. C. obniżenie FVC bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia obturacyjne. D. obniżenie FVC bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia restrykcyjne. E. obniżenie FEV1 bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia obturacyjne.",
       "answers": [
         {
@@ -1975,7 +1978,7 @@
       "tags": null
     },
     {
-      "id": "int-1-59",
+      "id": "int-2-59",
       "question": "Cechą kliniczną neuropatii autonomicznej w przebiegu cukrzycy jest:",
       "answers": [
         {
@@ -2009,7 +2012,7 @@
       "tags": null
     },
     {
-      "id": "int-1-60",
+      "id": "int-2-60",
       "question": "Wskaż prawdziwe stwierdzenie dotyczące metforminy: B. Jest stosowana jako terapia pierwszego rzutu w cukrzycy typu 2, bez względu na masę ciała. C. Należy ją odstawić, jeśli wskaźnik filtracji kłębuszkowej wynosi\n30-45 ml/min/1,73 m2.",
       "answers": [
         {
@@ -2043,7 +2046,7 @@
       "tags": null
     },
     {
-      "id": "int-1-61",
+      "id": "int-2-61",
       "question": "Do objawów hiperkalcemii zalicza się:",
       "answers": [
         {
@@ -2077,7 +2080,7 @@
       "tags": null
     },
     {
-      "id": "int-1-62",
+      "id": "int-2-62",
       "question": "Test reaktywności naczyń płucnych, wykorzystywany w diagnostyce nadciśnienia płucnego można wykonać z zastosowaniem wymienionych poniżej leków, z wyjątkiem:",
       "answers": [
         {
@@ -2111,7 +2114,7 @@
       "tags": null
     },
     {
-      "id": "int-1-63",
+      "id": "int-2-63",
       "question": "Który z wymienionych leków wchodzi w skład każdego protokołu leczenia szpiczaka plazmocytowego, u pacjenta przygotowywanego do autologicznego przeszczepienia komórek macierzystych:",
       "answers": [
         {
@@ -2145,7 +2148,7 @@
       "tags": null
     },
     {
-      "id": "int-1-64",
+      "id": "int-2-64",
       "question": "Najwyższe ryzyko powikłań kardiologicznych (w tym rozwoju kardiomiopatii rozstrzeniowej) dotyczy pacjentów z chorobami nowotworowymi otrzymujących w chemioterapii:",
       "answers": [
         {
@@ -2179,7 +2182,7 @@
       "tags": null
     },
     {
-      "id": "int-1-65",
+      "id": "int-2-65",
       "question": "Przeciwciałem monoklonalnym, które znalazło zastosowanie zarówno w leczeniu szeregu chorób nowotworowych (chłoniaki nie-Hodgkina, przewlekła białaczka limfatyczna, ostra białaczka limfoblastyczna), jak i autoimmunologicznych\n(reumatoidalne zapalenie stawów, zapalenia naczyń z przeciwciałami przeciwko cytoplazmie neutrofilów) jest:",
       "answers": [
         {
@@ -2213,7 +2216,7 @@
       "tags": null
     },
     {
-      "id": "int-1-66",
+      "id": "int-2-66",
       "question": "Poniżej wymieniono wybrane cechy raków żołądka wg klasyfikacji Laurena. Wybierz te, które najlepiej charakteryzują raka gruczołowego typu jelitowego: A. lokalizacja w części przedodźwiernikowej, związek z zakażeniem Helicobacter pylori, przerzuty drogą krwionośną do wątroby. B. lokalizacja w kącie żołądka, związek z mutacjami genu kodującego e-kadherynę, naciekanie błony otrzewnej przez ciągłość. C. lokalizacja w trzonie żołądka, związek z mutacjami genu kodującego e-kadherynę, guz egzofityczny, dobrze odgraniczony. D. lokalizacja w trzonie żołądka, związek przyczynowy z alkoholem i papierosami, naciekanie przez ciągłość. E. lokalizacja w części przedodźwiernikowej, pogrubienie ściany żołądka z owrzodzeniem śluzówki, brak możliwości leczenia operacyjnego nawet we wczesnych postaciach.",
       "answers": [
         {
@@ -2247,7 +2250,7 @@
       "tags": null
     },
     {
-      "id": "int-1-67",
+      "id": "int-2-67",
       "question": "Który z wymienionych poniżej leków stosowanych przewlekle zmniejsza ryzyko rozwoju raka jelita grubego (choć nie jest rekomendowany jako profilaktyka tego nowotworu):",
       "answers": [
         {
@@ -2281,7 +2284,7 @@
       "tags": null
     },
     {
-      "id": "int-1-68",
+      "id": "int-2-68",
       "question": "W trakcie zabiegu Kauscha-Whipple’a, stosowanego w operacyjnym leczeniu raka głowy trzustki rutynowo usuwa się wszystkie wymienione struktury z wyjątkiem:",
       "answers": [
         {
@@ -2315,7 +2318,7 @@
       "tags": null
     },
     {
-      "id": "int-1-69",
+      "id": "int-2-69",
       "question": "Biomarkerem o dużej przydatności w rozpoznawaniu i monitorowaniu gruczolaków przysadki wywodzących się z komórek somatotropowych jest:",
       "answers": [
         {
@@ -2349,7 +2352,7 @@
       "tags": null
     },
     {
-      "id": "int-1-70",
+      "id": "int-2-70",
       "question": "Wskaż nieprawidłowość, która nie jest charakterystyczna dla jawnego zespołu rozpadu nowotworu:",
       "answers": [
         {
@@ -2383,7 +2386,7 @@
       "tags": null
     },
     {
-      "id": "int-1-71",
+      "id": "int-2-71",
       "question": "Mitotan jest lekiem znajdującym zastosowanie w leczeni zaawansowanego raka:",
       "answers": [
         {
@@ -2417,7 +2420,7 @@
       "tags": null
     },
     {
-      "id": "int-1-72",
+      "id": "int-2-72",
       "question": "Wskaż fałszywe stwierdzenie dotyczące leczenia zróżnicowanych raków tarczycy jodem promieniotwórczym: B. skuteczność leczenia zwiększa się podaniem egzogennego rekombinowanego TSH. C. jod promieniotwórczy znajduje zastosowanie w paliatywnym leczeniu przerzutów do kości. D. na trzy miesiące przed terapią jodem promieniotwórczym nie należy wykonywać badań obrazowych z kontrastem jodowym. E. jod promieniotwórczy jest skuteczny w leczeniu przerzutów do płuc pod warunkiem pozostawienia zdrowych fragmentów tarczycy po resekcji guza pierwotnego.",
       "answers": [
         {
@@ -2451,7 +2454,7 @@
       "tags": null
     },
     {
-      "id": "int-1-73",
+      "id": "int-2-73",
       "question": "Najbardziej czułą i uniwersalną metodą diagnostyczną identyfikującą hormonalnie czynne nowotwory neuroendokrynne jest: D. scyntygrafia receptorowa z zastosowaniem analogu somatostatyny znakowanego promieniotwórczym galem lub technetem. E. scyntygrafia z zastosowaniem metajodobenzyloguanidyny znakowanej promieniotwórczym jodem.",
       "answers": [
         {
@@ -2485,7 +2488,7 @@
       "tags": null
     },
     {
-      "id": "int-1-74",
+      "id": "int-2-74",
       "question": "Nieswoistym (uniwersalnym) biomarkerem, którego oznaczanie pozwala z dużą czułością i specyficznością na ustalenie obecności nowotworów neuroendokrynnych rożnego pochodzenia jest:",
       "answers": [
         {
@@ -2519,7 +2522,7 @@
       "tags": null
     },
     {
-      "id": "int-1-75",
+      "id": "int-2-75",
       "question": "Lekiem biologicznym stosowanym w leczeniu chorób autoimmunologicznych\n(w tym reumatoidalnego zapalenia stawów), który hamuje tzw. drugi sygnał w aktywacji limfocytów T (interakcję pomiędzy limfocytem T i komórką prezentującą antygen) jest:",
       "answers": [
         {
@@ -2553,7 +2556,7 @@
       "tags": null
     },
     {
-      "id": "int-1-76",
+      "id": "int-2-76",
       "question": "Poniżej wymieniono wybrane wskaźniki diagnostyczne lub objawy pozwalające na rozpoznanie oraz ocenę aktywności reumatoidalnego zapalenia stawów. Wskaż te, które nie wchodzą w skład podstawowej skali służącej ocenie aktywności tej choroby (Disease Activity Index; DAS):\n1) subiektywna ocena nasilenia objawów przez pacjenta (w skali 0-100);\n2) liczba leukocytów w badaniu morfologii krwi;\n3) miano czynnika reumatoidalnego w klasie IgM;\n4) wartość OB;\n5) stężenie CRP;\n6) stężenie fibrynogenu;\n7) miano przeciwciał przeciwko cytrulinowanym peptydom;\n8) liczba obrzękniętych stawów;\n9) odsetek limfocytów w badaniu morfologii krwi. Prawidłowa odpowiedź to: A. 1,2,3. B. 2,4,9. C. 4,6,8. D. 2,3,7.",
       "answers": [
         {
@@ -2587,7 +2590,7 @@
       "tags": null
     },
     {
-      "id": "int-1-77",
+      "id": "int-2-77",
       "question": "Poniżej wymieniono domeny kliniczne pozwalające na rozpoznanie tocznia rumieniowatego układowego wg ACR/EULAR. Do rozpoznania choroby niezbędne jest stwierdzenie >10 punktów, a poszczególne domeny mają „wartość” od 2 do 10 punktów. Wskaż kryteria kliniczne punktowane najwyżej: A. zapalenie błony maziowej lub bolesność uciskowa w co najmniej dwóch stawach ze sztywnością poranną przez co najmniej 30 minut.",
       "answers": [
         {
@@ -2621,7 +2624,7 @@
       "tags": null
     },
     {
-      "id": "int-1-78",
+      "id": "int-2-78",
       "question": "Jedynym lekiem biologicznym (przeciwciałem) zarejestrowanym w leczeniu tocznia rumieniowatego układowego jest:",
       "answers": [
         {
@@ -2655,7 +2658,7 @@
       "tags": null
     },
     {
-      "id": "int-1-79",
+      "id": "int-2-79",
       "question": "Poniżej wymieniono leki stosowane w terapii przewlekłej obturacyjnej choroby płuc. Wskaż te, które charakteryzują się krótkim czasem działania:\n1) ipratropium;\n2) tiopropium;\n3) bromek glikopironium;\n4) formoterol;\n5) fenoterol;\n6) salbutamol. Prawidłowa odpowiedź to: A. 1,5,6. B. 1,3,4. C. 2,3,4. D. 2,3,5.",
       "answers": [
         {
@@ -2689,7 +2692,7 @@
       "tags": null
     },
     {
-      "id": "int-1-80",
+      "id": "int-2-80",
       "question": "Pacjenci z pierwotnym stwardniejącym zapaleniem dróg żółciowych w około\n70% chorują jednocześnie na:",
       "answers": [
         {
@@ -2723,7 +2726,7 @@
       "tags": null
     },
     {
-      "id": "int-1-81",
+      "id": "int-2-81",
       "question": "Wskaż antybiotyk, który nie wchodzi w skład żadnego ze współczesnych schematów eradykacji Helicobacter pylori:",
       "answers": [
         {
@@ -2757,7 +2760,7 @@
       "tags": null
     },
     {
-      "id": "int-1-82",
+      "id": "int-2-82",
       "question": "W której spośród wymienionych poniżej nabytych wad serca najczęściej należy spodziewać się omdleń?",
       "answers": [
         {
@@ -2791,7 +2794,7 @@
       "tags": null
     },
     {
-      "id": "int-1-83",
+      "id": "int-2-83",
       "question": "Szmer Austina-Flinta jest szmerem: E. skurczowym, którego przyczyną jest przeciek lewo-prawy w ubytku przegrody międzykomorowej.",
       "answers": [
         {
@@ -2825,7 +2828,7 @@
       "tags": null
     },
     {
-      "id": "int-1-84",
+      "id": "int-2-84",
       "question": "U każdego pacjenta przywiezionego do Szpitalnego Oddziału Ratunkowego z powodu omdlenia należy:",
       "answers": [
         {
@@ -2859,7 +2862,7 @@
       "tags": null
     },
     {
-      "id": "int-1-85",
+      "id": "int-2-85",
       "question": "Omdleniu wazo-wagalnemu towarzyszy:",
       "answers": [
         {
@@ -2893,7 +2896,7 @@
       "tags": null
     },
     {
-      "id": "int-1-86",
+      "id": "int-2-86",
       "question": "Które leki nie są lekami pierwszego rzutu w leczeniu niewydolności serca z obniżoną frakcją wyrzutową wg współczesnych wytycznych europejskich?\n1) długodziałające nitraty;\n2) dihydropirydynowe blokery kanału wapniowego;\n3) dapagliflozyna;\n4) semaglutyd;\n5) digoksyna;\n6) ramipryl;\n7) torasemid;\n8) eplerenon. Prawidłowa odpowiedź to: A. 1,2,3,4. B. 1,2,4,5. C. 1,2,5,6. D. 2,3,6,7.",
       "answers": [
         {
@@ -2927,7 +2930,7 @@
       "tags": null
     },
     {
-      "id": "int-1-87",
+      "id": "int-2-87",
       "question": "U stabilnego pacjenta, po zawale lewej komory serca obejmującym jeden z mięśni brodawkowatych pojawił się nowy szmer nad sercem. Najbardziej prawdopodobny jest szmer: B. telesystoliczny w drugiej przestrzeni międzyżebrowej prawej przy krawędzi mostka. C. mezosystoliczny w drugiej przestrzeni międzyżebrowej lewej przy krawędzi mostka. D. protodiastoliczny w drugiej przestrzeni międzyżebrowej prawej przy krawędzi mostka.",
       "answers": [
         {
@@ -2961,7 +2964,7 @@
       "tags": null
     },
     {
-      "id": "int-1-88",
+      "id": "int-2-88",
       "question": "Który lek nie należy do leków stosowanych z wyboru w ciągu pierwszych\n24 godzin od rozpoznania zawału serca STEMI:",
       "answers": [
         {
@@ -2995,7 +2998,7 @@
       "tags": null
     },
     {
-      "id": "int-1-89",
+      "id": "int-2-89",
       "question": "Wskaż fałszywe stwierdzenie dotyczące nadciśnienia tętniczego u osób starszych (powyżej 70 roku życia): A. obniżanie ciśnienia tętniczego nie redukuje ryzyka powikłań sercowo-naczyniowych i śmiertelności w tej grupie chorych. B. izolowane nadciśnienie tętnicze skurczowe jest w tej grupie najczęstszym typem nadciśnienia. D. rozpoczynanie terapii od niższych dawek niż u osób młodszych minimalizuje ryzyko działań niepożądanych.",
       "answers": [
         {
@@ -3029,7 +3032,7 @@
       "tags": null
     },
     {
-      "id": "int-1-90",
+      "id": "int-2-90",
       "question": "Poniżej wymieniono zestawienia leków hipotensyjnych, stosowane w leczeniu nadciśnienia tętniczego. Które z połączeń (choć dopuszczalne) nie należy do połączeń preferowanych w terapii pierwszego rzutu (o ile nie wystąpią dodatkowe wskazania)? B. dihydropirydynowy bloker kanału wapniowego i lek tiazydowy lub tiazydopodobny. C. dihydropirydynowy bloker kanału wapniowego i inhibitor konwertazy angiotensyny.",
       "answers": [
         {

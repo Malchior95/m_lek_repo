@@ -1,0 +1,5347 @@
+{
+  "name": "psychiatria-1",
+  "tags": [
+    "psychiatria",
+    "2023"
+  ],
+  "questions": [
+    {
+      "id": "psy-1-1",
+      "question": "Bulimia najrzadziej współwystępuje z:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "depresją.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "osobowością anankastyczną.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "osobowością chwiejną emocjonalnie typu borderline.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "uzależnieniami.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zaburzeniami lękowymi.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-2",
+      "question": "Epizod depresji w przebiegu choroby afektywnej dwubiegunowej częściej niż w przebiegu zaburzeń depresyjnych nawracających charakteryzuje się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nadmierną sennością.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "młodym wiekiem wystąpienia pierwszego epizodu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "obecnością objawów psychotycznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "opornością na leczenie za pomocą leków przeciwdepresyjnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkimi wymienionymi.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-3",
+      "question": "Psychoterapia może w różnym stopniu współuczestniczyć w leczeniu farmakologicznym następujących schorzeń:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zaburzeń lękowych, depresji, zaburzeń osobowości, psychoz.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "depresji, psychoz.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zaburzeń lękowych, psychoz.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zaburzeń osobowości, psychoz.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zaburzeń lękowych, depresji, zaburzeń osobowości.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-4",
+      "question": "Sedacja, wzrost masy ciała, hipotonia to najistotniejsze objawy uboczne:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "olanzapiny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "rysperydonu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "kwetiapiny.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "amisulprydu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "arypiprazolu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-5",
+      "question": "Który z wymienionych leków nie jest stosowany w leczeniu przedwczesnego wytrysku?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "klomipramina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "sertralina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "fluoksetyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "dapoksetyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie powyższe są stosowane.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-6",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące zespołów otępiennych: A. memantyna jest zarejestrowana do leczenia otępienia w chorobie Alzheimera o lekkim i umiarkowanym nasileniu. B. ze względu na nadwrażliwość na inhibitory cholinesterazy w otępieniu z ciałami Lewy’ego zaleca się stosowanie memantyny. C. w otępieniu czołowo-skroniowym, w przeciwieństwie do choroby Alzheimera, typowe jest występowanie objawów neurologicznych. D. w otępieniu z ciałami Lewy’ego maksymalny odstęp czasowy między wystąpieniem parkinsonizmu i objawów otępienia wynosi 6 miesięcy. E. haloperidol jest lekiem I rzutu w leczeniu otępienia z ciałami Lewy’ego z obecnymi halucynacjami wzrokowymi.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "memantyna jest zarejestrowana do leczenia otępienia w chorobie Alzheimera o lekkim i umiarkowanym nasileniu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ze względu na nadwrażliwość na inhibitory cholinesterazy w otępieniu z ciałami Lewy’ego zaleca się stosowanie memantyny.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "w otępieniu czołowo-skroniowym, w przeciwieństwie do choroby Alzheimera, typowe jest występowanie objawów neurologicznych.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "w otępieniu z ciałami Lewy’ego maksymalny odstęp czasowy między wystąpieniem parkinsonizmu i objawów otępienia wynosi 6 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "haloperidol jest lekiem I rzutu w leczeniu otępienia z ciałami Lewy’ego z obecnymi halucynacjami wzrokowymi.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-7",
+      "question": "Najkrótszy spodziewany okres przeżycia od rozpoznania dotyczy pacjentów cierpiących na:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "otępienie w chorobie Alzheimera.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "otępienie naczyniowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "otępienie z ciałami Lewy’ego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "otępienie czołowo-skroniowe.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "otępienie w chorobie Parkinsona.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-8",
+      "question": "Kryterium czasowe rozpoznania insomnii to utrzymywanie się objawów powyżej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "jednego tygodnia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "dwóch tygodni.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "jednego miesiąca.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "sześciu miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "jednego roku.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-9",
+      "question": "Mężczyzna lat 23 relacjonuje, że od kilkunastu tygodni „słyszy w głowie głos, który komentuje to, co mężczyzna robi i każe mu popełnić samobójstwo.” Objaw ten jest najbardziej charakterystyczny dla zespołu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "depresyjnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "paranoidalnego.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "paranoicznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "uzależnienia od alkoholu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "katatonicznego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-10",
+      "question": "Do głównych objawów depresji atypowej należą:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nadmierna senność, utrata apetytu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "reaktywność nastroju, wzmożone łaknienie.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "dobowe wahania nastroju, spadek masy ciała.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wzmożone łaknienie, niepokój psychoruchowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "gorsze samopoczucie wieczorem, skrócenie snu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-11",
+      "question": "Zespół ratownictwa medycznego został wezwany do pacjentki lat 16 z powodu zasłabnięcia. W badaniu stwierdzono: tętno 45/min., RR 90/50 mmHg, w Ekg - komorowe zaburzenia rytmu, Na 135 mmol/l, K 3 mmol/l; wzrost 165 cm, waga 35 kg. Zespół ratownictwa powinien:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "przetransportować pacjentkę do oddziału psychiatrycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "przetransportować pacjentkę do oddziału pediatrycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "przetransportować pacjentkę do szpitalnego oddziału ratunkowego.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "pozostawić pacjentkę w domu i zalecić wizytę u lekarza POZ.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "pozostawić pacjentkę w domu i zalecić wizytę u lekarza w PZP.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-12",
+      "question": "Zespół ratownictwa medycznego został wezwany do pacjentki lat 71 z powodu zasłabnięcia. W badaniu stwierdzono: tętno 85/min., HR 100/60 mmHg, w Ekg - w normie, sód: 130 mmol/l, potas: 3 mmol/l, wzrost 165 cm, waga 65 kg. Zaburzona orientacja allopsychiczna, prawidłowa autopsychiczna, halucynuje słuchowo, podatna na sugestię. Zespół ratownictwa powinien: C. przetransportować pacjentkę do szpitalnego oddziału ratunkowego.\n+ +",
+      "answers": [
+        {
+          "id": "A",
+          "text": "przetransportować pacjentkę do oddziału psychiatrycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "przetransportować pacjentkę do oddziału internistycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "przetransportować pacjentkę do szpitalnego oddziału ratunkowego. + +",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "pozostawić pacjentkę w domu i zalecić wizytę u lekarza POZ.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "pozostawić pacjentkę w domu i zalecić wizytę u lekarza w PZP.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-13",
+      "question": "Osobowość to: A. zespół względnie trwałych cech, dyspozycji, właściwości człowieka nadających względną spójność jego zachowaniu. B. przypisywanie sobie lub innym osobom wyolbrzymionych cech lub właściwości negatywnych. E. zdolność do myślenia krytycznego w stosunku do dorosłych, jak i siebie samego.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zespół względnie trwałych cech, dyspozycji, właściwości człowieka nadających względną spójność jego zachowaniu.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "przypisywanie sobie lub innym osobom wyolbrzymionych cech lub właściwości negatywnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zespół genów decydujących o zachowaniu i właściwościach człowieka.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zdolność do myślenia abstrakcyjnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zdolność do myślenia krytycznego w stosunku do dorosłych, jak i siebie samego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-14",
+      "question": "Jedynym zaburzeniem preferencji seksualnych (parafilią), które występuje równie często u kobiet, jak i u mężczyzn jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "fetyszyzm.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "masochizm.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "sadyzm.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ekshibicjonizm.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "oglądactwo.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-15",
+      "question": "U kobiet stosujących doustną antykoncepcję hormonalną należy wziąć pod uwagę jej interakcje z lekami normotymicznymi. Jako leki bezpieczne, nieobniżające osoczowego stężenia hormonalnych preparatów antykoncepcyjnych, zarekomendować można:\n1) lit;\n2) walproinian;\n3) karbamazepinę;\n4) leki przeciwpsychotyczne II generacji;\n5) lamotryginę. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,4,5.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "1,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-16",
+      "question": "U pacjentki lat 25, chorującej na schizofrenię, po zastosowanej farmakoterapii doszło do akatyzji. Pacjentka najprawdopodobniej przyjmuje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "olanzapinę.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kwetiapinę.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "klozapol.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "amisulpryd.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "arypiprazol.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-17",
+      "question": "Bóle mięśni, dysforia, pobudzenie psychoruchowe, łzawienie, zwiększona potliwość, „gęsia skórka”, to niektóre z objawów abstynencyjnych występujące po odstawieniu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kanabinoli.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "benzodiazepin.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "kokainy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "alkoholu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "heroiny.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-18",
+      "question": "Hebefilia jest podtypem:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "fetyszyzmu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ekshibicjonizmu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "pedofilii.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "sadomasochizmu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "transwestytyzmu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-19",
+      "question": "Lekiem wykazującym istotne działanie zapobiegające występowaniu tendencji samobójczych jest/są:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "olanzapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kwetiapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "walproiniany.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "lamotrygina.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "sole litu.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-20",
+      "question": "W skład tzw. triady depresyjnej Becka wchodzą następujące przekonania pacjenta:\n1) nic mi się w życiu nie udało;\n2) świat jest zagrażający;\n3) jestem zbyt wrażliwy;\n4) mam ciągle kłopoty z pamięcią;\n5) nic dobrego mnie już nie spotka. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,5.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "3,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-21",
+      "question": "Jednym z objawów, które często towarzyszą depresji i znacząco pogarszają jej przebieg jest uporczywy ból. Zastosowanie których z poniższych leków przeciwdepresyjnych należy rozważyć w opisanej sytuacji klinicznej?\n1) duloksetyny;\n2) trazodonu;\n3) agomelatyny;\n4) wenlafaksyny;\n5) milnacipranu. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tylko 2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tylko 4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,4,5.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-22",
+      "question": "Nyktofobia to lęk przed:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ciemnością.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "myszami, szczurami.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wężami.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "brudem.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zmianami.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-23",
+      "question": "Opiniowanie sądowo-psychiatryczne w sprawach karnych związane jest z:\n1) orzekaniem o zasadności przyjęcia do szpitala;\n2) orzekaniem o niepoczytalności;\n3) orzekaniem o stopniu ograniczenia poczytalności;\n4) orzekaniem o świadomości wyrażenia woli;\n5) orzekaniem o swobodzie wyrażenia woli;\n6) orzekaniem o stanie psychicznym tempore criminis. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "4,5,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,6.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-24",
+      "question": "Wskaż najbardziej charakterystyczne dla zespołu paranoidalnego zaburzenia treści myślenia:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "odsłonięcia myśli.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "trucia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zazdrości.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hipochondryczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ksobne.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-25",
+      "question": "Wskaż co nie jest formą środka zabezpieczającego, orzekanego przez sąd, dla osoby chorej psychicznie, która dopuściła się czynu zabronionego:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "elektroniczna kontrola miejsca pobytu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "leczenie ambulatoryjne we wskazanej placówce.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "stała opieka rodziny nad chorym.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "pobyt w zakładzie psychiatrycznym.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "terapia uzależnionego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-26",
+      "question": "Faza snu, w trakcie której obserwuje się zniesienie napięcia mięśni poprzecznie prążkowanych oraz występują marzenia senne to faza/stadium:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "czuwania.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "REM.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "NREM, stadium N1.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "NREM, stadium N2.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "NREM, stadium N3.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-27",
+      "question": "49-letnia kobieta przyszła do apteki i prosi o wydanie bez recepty opakowania leku, który pomoże jej usnąć w nocy i ukoić nadwyrężone\n„trudną sytuacją rodzinną” nerwy. Obiecuje doniesienie recepty w ciągu kilku dni, gdy tylko jej lekarz wróci z wakacji oraz zaprzecza by nadużywała leków nasennych lub uspokajających. Na odmowę kobieta reaguje wzburzeniem, płaczem i coraz intensywniejszym domaganiem się leku, prosząc o wydanie\n„chociaż kilku tabletek Relanium”. Najprawdopodobniej kobieta ta cierpi na:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zaburzenia lękowe uogólnione.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nieorganiczne zaburzenie snu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zespół uzależnienia od środków o działaniu nasennym i uspokajającym.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "epizod depresji umiarkowany.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "chorobę afektywną dwubiegunową.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-28",
+      "question": "Mimowolne ruchy w zakresie kończyn, mięśni mimicznych, nie występujące w czasie snu, nasilające się pod wpływem emocji, będące objawem ubocznym działania leków przeciwpsychotycznych to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "akatyzja.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "dyskinezy.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "dystonie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "parestezje.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "bradykineza.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-29",
+      "question": "Do objawów somatycznych anoreksji należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "brak miesiączki.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "meszek na ciele.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "osteoporoza.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "bradykardia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "każdy z wymienionych.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-30",
+      "question": "Agitacja to: D. nadmierna aktywność ruchowa połączona z uczuciem wewnętrznego napięcia.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "typ wolno płynącego, uogólnionego lęku.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "świadome wyolbrzymianie obecnych objawów.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "świadome relacjonowanie objawów, które w rzeczywistości nie występują.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nadmierna aktywność ruchowa połączona z uczuciem wewnętrznego napięcia.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "nagły zryw w przebiegu osłupienia katatonicznego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-31",
+      "question": "Do zaburzeń preferencji seksualnych nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "pedofilia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "sadomasochizm.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "transwestytyzm fetyszystyczny.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "transwestytyzm o typie podwójnej roli.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "ekshibicjonizm.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-32",
+      "question": "Głównym objawem w halucynozie alkoholowej są:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "urojenia zazdrości.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "halucynacje wzrokowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "omamy słuchowe.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "pseudohalucynacje słuchowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "urojenia prześladowcze.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-33",
+      "question": "W psychiatrii termin „mania” oznacza: A. synonim podejrzliwości, nieufności, „teorii spiskowych” („mania prześladowcza”). D. zespół objawów psychopatologicznych, charakteryzujących się m.in. wzmożonym napędem i nastrojem, występujący m.in. w przebiegu zaburzeń afektywnych.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "synonim podejrzliwości, nieufności, „teorii spiskowych” („mania prześladowcza”).",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "myśli wielkościowe („mania wielkościowa”).",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "synonim choroby psychicznej, obłędu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zespół objawów psychopatologicznych, charakteryzujących się m.in. wzmożonym napędem i nastrojem, występujący m.in. w przebiegu zaburzeń afektywnych.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "synonim kompulsywnych zachowań (np. „mania mycia rąk”).",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-34",
+      "question": "Obszar mózgu odpowiedzialny za konsolidację pamięci to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kora przedczołowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "hipokamp.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "międzymózgowie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ciało migdałowate.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zwoje podstawy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-35",
+      "question": "Kryterium czasowe rozpoznania dystymii u dzieci wynosi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "2 lata.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1 rok.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "6 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1 miesiąc.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2 tygodnie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-36",
+      "question": "Cechy ojca są dominującym czynnikiem ryzyka wystąpienia osobowości:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "histrionicznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "paranoicznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "chwiejnej emocjonalnie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "dyssocjalnej.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "schizoidalnej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-37",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące pseudomnezji:\n1) są to inaczej wspomnienia rzekome;\n2) obejmują konfabulacje;\n3) obejmują omamy pamięciowe;\n4) są to inaczej złudzenia pamięciowe utożsamiające;\n5) są to inaczej allomnezje;\n6) obejmują kryptomnezje. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "1,2,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,3,6.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-38",
+      "question": "Do najczęstszych objawów ubocznych leków z grupy SSRI należą:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zaburzenia poznawcze.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "objawy stenokardialne.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zawroty głowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nudności, biegunki, bezsenność.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "myśli samobójcze.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-39",
+      "question": "Do jakościowych zaburzeń aktywności ruchowej nie należą:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "katalepsja.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "katapleksja.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "echopraksja.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "automatyzm nakazowy.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "posturyzmy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-40",
+      "question": "U pacjentki lat 25, chorującej na schizofrenię, po zastosowanej farmakoterapii doszło do zatrzymania miesiączki. Pacjentka najprawdopodobniej przyjmuje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "olanzapinę.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kwetiapinę.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zyprazydon.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "rysperydon.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "arypiprazol.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-41",
+      "question": "Potrzeba noszenia ubrań płci przeciwnej, głównie po to, aby osiągnąć podniecenie seksualne i mieć wygląd osoby płci przeciwnej, nosi nazwę:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "fetyszyzmu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "skoptofilii.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "transwestytyzmu fetyszystycznego.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "frotteryzmu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "transseksualizmu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-42",
+      "question": "Wskaż fałszywe stwierdzenie: B. wysycenie emocjonalne u pacjenta wypowiadającego konfabulacje jest atymiczne, paratymiczne lub katatymiczne. D. wysycenie emocjonalne u pacjenta wypowiadającego omamy pamięci jest syntymiczne.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "pacjent wypowiadający konfabulacje jest podatny na sugestie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wysycenie emocjonalne u pacjenta wypowiadającego konfabulacje jest atymiczne, paratymiczne lub katatymiczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "treść konfabulacji jest niezmienna.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "wysycenie emocjonalne u pacjenta wypowiadającego omamy pamięci jest syntymiczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "konfabulacje i omamy pamięci należą do pseudomnezji.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-43",
+      "question": "Parasomnie nie obejmują:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "somnambulizmu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "koszmarów sennych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nocnego bruksizmu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "narkolepsji.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "lęków nocnych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-44",
+      "question": "Zgodnie z art. 23 ustawy o ochronie zdrowia psychicznego, do szpitala psychiatrycznego można przyjąć bez zgody osobę:\n1) która jest chora psychicznie i nie stosuje systematycznie leków;\n2) która jest chora psychicznie i zagraża bezpośrednio swojemu życiu;\n3) która jest chora psychicznie i stwarza zagrożenie dla zdrowia lub życia innych osób;\n4) która stanowi zagrożenie dla porządku prawnego;\n5) u której podejrzewa się chorobę psychiczną celem obserwacji. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,3.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,2,3,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-45",
+      "question": "Leczenie nasilonych objawów alkoholowego zespołu abstynencyjnego polega na:\n1) nawadnianiu pacjenta;\n2) uzupełnianiu niedoborów elektrolitowych i witaminowych;\n3) stosowaniu leków z grupy benzodiazepin;\n4) stosowaniu leków z grupy SSRI. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tylko 1.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-46",
+      "question": "Dysfunkcjonalne zachowanie, euforia, wrażenie większej energii, nadmierna czujność, wyższościowe przekonania, kłótliwość, agresywność, powtarzane, stereotypowe zachowania, iluzje słuchowe, wzrokowe, nastawienie urojeniowe. Ponadto występowanie przynajmniej jednego z następujących objawów: zaburzenia rytmu serca, podwyższone ciśnienie tętnicze, potliwość, dreszcze, nudności, wymioty, rozszerzone źrenice, osłabienie siły mięśniowej. Powyższy opis odpowiada:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "schizofrenii w fazie zaostrzenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zaburzeniom afektywnym dwubiegunowym, epizod maniakalny.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zaburzeniom afektywnym dwubiegunowym, epizod mieszany.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "przedawkowaniu psychostymulantów (amfetaminy).",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "zespołowi abstynencyjnemu poalkoholowemu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-47",
+      "question": "Do leczenia epizodu depresyjnego w przebiegu zaburzeń afektywnych dwubiegunowych powinno się zastosować w pierwszej kolejności:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "fluoksetynę.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "haloperidol.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "doksepinę.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kwas walproinowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lamotryginę.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-48",
+      "question": "Objawy negatywne w schizofrenii obejmują:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "urojenia nihilistyczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "omamy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zubożenie wypowiedzi.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "pseudohalucynacje.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "formalne zaburzenia myślenia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-49",
+      "question": "Przyjmowanie niezwykłych, dziwacznych, często niewygodnych pozycji ciała, np. w wygięciu, skłonie to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "manieryzmy ruchowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "echopraksja.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "katapleksja.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "stereotypie ruchowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "posturyzmy.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-50",
+      "question": "Pacjent odczuwa lęk podczas wystąpień publicznych - obawia się przede wszystkim oceny ze strony innych ludzi. Najbardziej prawdopodobnym rozpoznaniem jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "fobia społeczna.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "lęk paniczny.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lęk uogólniony.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "agorafobia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lęk paniczny z agorafobią.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-51",
+      "question": "67-letnia kobieta mieszka samotnie w niewielkim mieszkaniu w bloku. Od około 2 lat wchodzi w konflikty ze swoimi sąsiadami. Pacjentka wygraża sąsiadom, stuka w rury oraz w sufit. Uważa, że sąsiedzi wpuszczają do jej mieszkania trujący gaz. Często wzywa policję z prośbą o interwencję. Skarży się na sąsiadów, na nieudolność policji, wygraża pracownikom administracji osiedla. Kobieta nigdy wcześniej nie leczyła się psychiatrycznie. Wskaż najbardziej prawdopodobne rozpoznanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "schizofrenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zaburzenia schizotypowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "uporczywe zaburzenia urojeniowe.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ostre i przemijające zaburzenia psychotyczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zaburzenia schizoafektywne.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-52",
+      "question": "Mantyzm to: A. całkowite zatrzymanie wątku myślowego, który dotychczas przebiegał w sposób spowolniony. C. poczucie uciążliwego nadmiaru spontanicznie pojawiających się kolejnych wątków i tematów myślenia, zwykle zakłócających je i wyrażających się w ograniczeniu płynności, jasności, zawartości wypowiedzi. E. powtarzanie słów, zgłosek, nietworzących sensownej całości, a połączonych jedynie podobieństwem brzmienia.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "całkowite zatrzymanie wątku myślowego, który dotychczas przebiegał w sposób spowolniony.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "brak reakcji słownej, mimo poleceń i zachęt skierowanych do chorego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "poczucie uciążliwego nadmiaru spontanicznie pojawiających się kolejnych wątków i tematów myślenia, zwykle zakłócających je i wyrażających się w ograniczeniu płynności, jasności, zawartości wypowiedzi.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "uporczywe powtarzanie tej samej czynności.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "powtarzanie słów, zgłosek, nietworzących sensownej całości, a połączonych jedynie podobieństwem brzmienia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-53",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące ADHD:\n1) typowo rozpoznaje się do 3. r.ż.;\n2) częściej występuje u chłopców;\n3) charakteryzuje się deficytem uwagi, nadruchliwością, impulsywnością;\n4) charakteryzuje się zaburzeniami komunikacji, interakcji społecznych, zachowania i zabawy;\n5) czynniki genetyczne odgrywają znaczącą rolę;\n6) niepełnosprawność intelektualna dotyczy 65-88% procent osób dotkniętych ADHD;\n7) towarzyszą zaburzenia rozwoju mowy. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,4,7.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,4,5,7.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,5.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-54",
+      "question": "Najczęstszym objawem niepożądanym związanym ze stosowaniem klozapiny jest/są:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zespół metaboliczny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zespół parkinsonowski.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zaburzenia rytmu serca.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "leukopenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "hiperprolaktynemia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-55",
+      "question": "Katalepsja jest przykładem:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ilościowych zaburzeń aktywności ruchowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "jakościowych zaburzeń aktywności ruchowej.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "ilościowych zaburzeń pamięci.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "jakościowych zaburzeń pamięci.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "jakościowych zaburzeń świadomości.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-56",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące problematyki samobójstw: B. kobiety częściej niż mężczyźni podejmują próby samobójcze stosując leki. D. zaburzenia depresyjne i zaburzenia osobowości są najczęstszą diagnozą psychiatryczną u młodzieży po próbie samobójczej. E. niski poziom wykształcenia jest jednym z czynników społeczno- demograficznych zachowań samobójczych.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "mężczyźni rzadziej niż kobiety dokonują skutecznych samobójstw.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "kobiety częściej niż mężczyźni podejmują próby samobójcze stosując leki.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "alkohol znacznie podnosi ryzyko samobójstwa.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zaburzenia depresyjne i zaburzenia osobowości są najczęstszą diagnozą psychiatryczną u młodzieży po próbie samobójczej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "niski poziom wykształcenia jest jednym z czynników społeczno- demograficznych zachowań samobójczych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-57",
+      "question": "Postępowaniem objawowym z wyboru w przypadku wystąpienia zespołu lęku napadowego jest podanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "diazepamu dożylnie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "haloperidolu domięśniowo.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "alprazolamu krótko działającego doustnie.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "wenlafaksyny doustnie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "paroksetyny doustnie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-58",
+      "question": "Pacjent, lat 58, trafił do szpitala psychiatrycznego po interwencji policji. Żona pacjenta wezwała policję, ponieważ mąż był agresywny wobec niej oraz ich sąsiada. Pacjent jest bardzo zazdrosny o swoją żonę. Śledzi ją, nie pozwala jej spotykać się ze znajomymi, kontroluje. Groził sąsiadowi, a nawet swojemu bratu, twierdząc, że są kochankami żony. Pacjent nadużywa alkoholu od 25 lat. Najbardziej prawdopodobną diagnozą jest zespół:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Fregoliego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Capgrasa.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Cotarda.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Otella.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "Gansera.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-59",
+      "question": "Do podstawowych leków stosowanych w leczeniu choroby afektywnej dwubiegunowej należą:\n1) lamotrygina;\n2) karbamazepina;\n3) topiramat;\n4) sulpiryd;\n5) lit. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,5.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-60",
+      "question": "Które z wymienionych połączeń leków jest najbardziej niebezpieczne?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "escitalopram z kwetiapiną.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "lamotrygina z sertraliną.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "bupropion z citalopramem.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "moklobemid z klomipraminą.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "agomelatyna z wenlafaksyną.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-61",
+      "question": "Które z zaburzeń okresu okołoporodowego najczęściej nie wymaga podejmowania leczenia?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "depresja poporodowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "depresja w okresie ciąży.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "„baby blues”.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "OCD.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "uogólnione zaburzenia lękowe.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-62",
+      "question": "Do leków stosowanych doraźnie w napadzie paniki należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "fluoksetyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wenlafaksyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "alprazolam.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "aripiprazol.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "klorazepat.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-63",
+      "question": "Spośród zaburzeń psychicznych u młodzieży największa śmiertelność występuje w przypadku:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "szkodliwego używania alkoholu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zaburzeń lękowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zaburzeń osobowości.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "jadłowstrętu psychicznego.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "schizofrenii.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-64",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące złośliwego zespołu neuroleptycznego:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wiąże się z nasileniem przekaźnictwa dopaminergicznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "występuje z częstością 0,02-3% osób leczonych neuroleptykami.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "częściej występuje u kobiet.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "przejawia się hipotermią.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "jest następstwem niewydolności nerek.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-65",
+      "question": "Sytuację, w której dotychczas sprawnie przebiegający wątek wypowiedzi ulega nagłemu zatrzymaniu, nazywa się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zahamowaniem myślenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "otamowaniem myślenia.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "rozkojarzeniem.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "sałatą słowną.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "inkoherencją myślenia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-66",
+      "question": "Do grupy dyssomnii nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "narkolepsja.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zespół niespokojnych nóg.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "hipersomnia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "somnambulizm.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "pierwotna bezsenność.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-67",
+      "question": "Jakościowe zaburzenia pamięci, polegające na odtwarzaniu z zasobów pamięci informacji, które postrzegane są jako teraźniejsze, nowe to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "złudzenia pamięciowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kryptomnezje.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "dysmnezje.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "omamy pamięciowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "pseudomnezje.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-68",
+      "question": "Obserwacja stanu psychicznego pacjenta przyjętego do szpitala psychiatrycznego na podstawie art. 24 ustawy o ochronie zdrowia psychicznego może trwać: E. do momentu ustąpienia przesłanek ustawowych, gdyż art. 24 ustawy nie ogranicza zakresu czasowego obserwacji.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "maksymalnie 10 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "minimalnie 10 dni.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "maksymalnie 14 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "minimalnie 14 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "do momentu ustąpienia przesłanek ustawowych, gdyż art. 24 ustawy nie ogranicza zakresu czasowego obserwacji.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-69",
+      "question": "Do objawów majaczenia drżennego nie należy/nie należą:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "objaw białej kartki.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "omamy cenestetyczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "urojenia dziania się.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "bradykardia.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "podwyższone ciśnienie tętnicze.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-70",
+      "question": "Dla otępienia z ciałkami Lewy’ego charakterystyczne są:\n1) omdlenia;\n2) nadwrażliwość na neuroleptyki;\n3) objawy zespołu parkinsonowskiego ;\n4) urojenia trucia;\n5) halucynacje wzrokowe. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3,5.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-71",
+      "question": "Objaw charakterystyczny dla majaczenia alkoholowego, w którym u chorego wywołuje się omamy wzrokowe poprzez delikatny ucisk gałek ocznych, nazywany jest objawem:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Bella.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Reichardta.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Aschaffenburga.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Liepmanna.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "Cullena.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-72",
+      "question": "Katalepsja jest objawem należącym do grupy zaburzeń:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nastroju.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kontroli impulsów.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "aktywności ruchowej.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "świadomości.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "woli i aktywności złożonej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-73",
+      "question": "Do selektywnych inhibitorów wychwytu zwrotnego serotoniny nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "sertralina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "fluoksetyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "fluwoksamina.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wortioksetyna.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "paroksetyna.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-74",
+      "question": "U 27-letniego mężczyzny postawiono rozpoznanie schizofrenii paranoidalnej. Badania laboratoryjne wykazały następujące odchylenia od normy: glikemia na czczo 110 mg/dl, cholesterol całkowity 245 mg/dl, trójglicerydy 223 mg/dl. Obwód w pasie 110 cm, BMI - 29 kg/m . Biorąc pod uwagę powyższe dane, który z wymienionych leków przeciwpsychotycznych byłby najlepszym wyborem dla chorego?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "arypiprazol.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "klozapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "kwetiapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "olanzapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "rysperydon.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-75",
+      "question": "Strukturą pierwotną umysłu, która utożsamiana jest z popędowością, generującą silne potrzeby i emocje, która dąży do natychmiastowego zaspokojenia dającego poczucie gratyfikacji jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "id.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "superego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "świadomość.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "przedświadomość.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-76",
+      "question": "Do objawów zespołu serotoninowego nie należy: B. zmniejszone napięcie mięśniowe.\n2",
+      "answers": [
+        {
+          "id": "A",
+          "text": "hipertermia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zmniejszone napięcie mięśniowe. 2",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "splątanie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "występowanie nudności i wymiotów.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nadmierne pocenie się.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-77",
+      "question": "Do allomnezji należą:\n1) iluzje pamięci;\n2) kryptomnezje;\n3) omamy pamięci;\n4) złudy utożsamiające;\n5) ekmnezje. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,4.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "3,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-78",
+      "question": "Wskaż kryteria diagnostyczne jadłowstrętu psychicznego: A. spadek wagi lub, u dzieci, brak przybytku wagi prowadzący do masy ciała o co najmniej 5% poniżej prawidłowej lub oczekiwanej stosownie do wieku i wzrostu, wraz z towarzyszącymi objawami depresyjnymi. B. spadek wagi lub, u dzieci, brak przybytku wagi prowadzący do masy ciała o co najmniej 10% poniżej prawidłowej lub oczekiwanej stosownie do wieku i wzrostu, wraz z towarzyszącymi objawami depresyjnymi. C. spadek wagi lub, u dzieci, brak przybytku wagi prowadzący do masy ciała o co najmniej 10% poniżej prawidłowej lub oczekiwanej stosownie do wieku i wzrostu. Nie muszą być obecne zaburzenia nastroju. D. spadek wagi lub, u dzieci, brak przybytku wagi prowadzący do masy ciała o co najmniej 15% poniżej prawidłowej lub oczekiwanej stosownie do wieku i wzrostu, wraz z towarzyszącymi objawami depresyjnymi. E. spadek wagi lub, u dzieci, brak przybytku wagi prowadzący do masy ciała o co najmniej 15% poniżej prawidłowej lub oczekiwanej stosownie do wieku i wzrostu. Nie muszą być obecne zaburzenia nastroju.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "spadek wagi lub, u dzieci, brak przybytku wagi prowadzący do masy ciała o co najmniej 5% poniżej prawidłowej lub oczekiwanej stosownie do wieku i wzrostu, wraz z towarzyszącymi objawami depresyjnymi.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "spadek wagi lub, u dzieci, brak przybytku wagi prowadzący do masy ciała o co najmniej 10% poniżej prawidłowej lub oczekiwanej stosownie do wieku i wzrostu, wraz z towarzyszącymi objawami depresyjnymi.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "spadek wagi lub, u dzieci, brak przybytku wagi prowadzący do masy ciała o co najmniej 10% poniżej prawidłowej lub oczekiwanej stosownie do wieku i wzrostu. Nie muszą być obecne zaburzenia nastroju.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "spadek wagi lub, u dzieci, brak przybytku wagi prowadzący do masy ciała o co najmniej 15% poniżej prawidłowej lub oczekiwanej stosownie do wieku i wzrostu, wraz z towarzyszącymi objawami depresyjnymi.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "spadek wagi lub, u dzieci, brak przybytku wagi prowadzący do masy ciała o co najmniej 15% poniżej prawidłowej lub oczekiwanej stosownie do wieku i wzrostu. Nie muszą być obecne zaburzenia nastroju.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-79",
+      "question": "Kryterium czasowe rozpoznania zaburzeń lękowych uogólnionych wynosi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "2 tygodnie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1 miesiąc.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3 miesiące.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "6 miesięcy.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "1 rok.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-80",
+      "question": "Do objawów charakterystycznych dla zespołu majaczenia nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zaburzenie cyklu sen-czuwanie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "podwyższona aktywność psychoruchowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "anhedonia.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "upośledzenie pamięci świeżej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nieprawidłowa orientacja allopsychiczna.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-81",
+      "question": "Zastosowanie przymusu bezpośredniego reguluje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kodeks cywilny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kodeks karny.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ustawa o ochronie zdrowia psychicznego.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "konwencja o ochronie praw człowieka.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "rozporządzenie Ministra Zdrowia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-82",
+      "question": "Który stan chorobowy może być przyczyną majaczenia u pacjenta w podeszłym wieku?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zapalenie płuc.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zapalenie układu moczowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "niewydolność nerek.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "żaden z wymienionych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-83",
+      "question": "Hipowitaminoza B jest często obserwowana w przebiegu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zespołu Korsakowa.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "otępienia czołowo-skroniowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zespołu majaczeniowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zespołu depresyjnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ostrych przemijających zaburzeń psychotycznych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-84",
+      "question": "W czasie leczenia preparatami litu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "monitorowania wymaga funkcja tarczycy i nerek.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "monitorowania wymaga funkcja przytarczyc.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "należy regularnie wykonywać EKG.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "monitorowania wymaga poziom trójglicerydów.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "należy regularnie oznaczać morfologię z rozmazem.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-85",
+      "question": "Duże ryzyko rozwoju zespołu metabolicznego, wymagające monitorowania pacjenta w tym kierunku, związane jest ze stosowaniem w terapii: B. paroksetyny.\n1",
+      "answers": [
+        {
+          "id": "A",
+          "text": "sertraliny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "paroksetyny. 1",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "risperidonu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "olanzapiny.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "mianseryny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-86",
+      "question": "Do czynników wpływających na rozwój anorexia nervosa nie należą:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "czynniki genetyczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "czynniki osobowościowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "swoiste relacje rodzinne.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "choroby somatyczne.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "czynniki kulturowe.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-87",
+      "question": "U 30-letniego chorego z rozpoznaniem choroby afektywnej dwubiegunowej zalecono jeden z leków zapobiegających nawrotom choroby. Po kilku dniach zażywania leku wystąpiły poliuria oraz drżenie kończyn górnych. Objawy te sugerują, że najprawdopodobniej zastosowano:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "karbamazepinę.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kwas walproinowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lamotryginę.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "okskarbamazepinę.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "sole litu.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-88",
+      "question": "35-letnia kobieta od kilku lat leczy się u lekarza rodzinnego z powodu licznych dolegliwości ze strony przewodu pokarmowego (wzdęcia, nudności, czasami ból), częstego oddawania moczu, okresowego uczucia duszności, które nie jest związane z wysiłkiem. Dolegliwości te występują w różnych konstelacjach i nasileniu, prawie przez cały czas i nie mają związku z wydarzeniami życiowymi. Nie podejrzewa u siebie żadnej konkretnej choroby, ale funkcjonuje coraz gorzej. Pacjentka była konsultowana przez gastroenterologa i kardiologa, którzy po wykonaniu niezbędnych badań nie stwierdzili choroby. Stosowała różne leki p-bólowe, rozkurczowe oraz środki dostępne w aptekach bez recepty, ale nie zaobserwowała poprawy. Opisane dolegliwości odpowiadają kryteriom diagnostycznym:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zaburzeń hipochondrycznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zaburzeń somatyzacyjnych.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "bólu psychogennego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "neurastenii.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "mieszanych zaburzeń konwersyjnych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-89",
+      "question": "Przykładem zespołu paranoicznego jest zespół:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Capgrasa.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Otella.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "Cotarda.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Korsakowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Gansera.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-90",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące omamów hipnagogicznych:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "często dotyczą sytuacji z minionego dnia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "mogą przejść w marzenia senne.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "pojawiają się podczas zasypiania.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "są stanem fizjologicznym.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "są wyłącznie wyobrażeniami wzrokowymi.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-91",
+      "question": "Do preparatów o udowodnionej skuteczności w terapii otępienia w przebiegu choroby Alzheimera należą:\n1) rywastygmina;\n2) alfosceran choliny;\n3) piracetam;\n4) donepezyl;\n5) memantyna. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,4,5.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "3,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-92",
+      "question": "Do zaburzeń treści myślenia występujących w przebiegu zespołu maniakalnego zalicza się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "gonitwę myśli.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "natłok myśli.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "urojenia nihilistyczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "urojenia wielkościowe.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A,B,D.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-93",
+      "question": "Mutyzm należy do zaburzeń:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "treści myślenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "spostrzegania.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "pamięci.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "toku myślenia.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "emocji.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-94",
+      "question": "Podstawą terapii u osób z zaburzeniami osobowości jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "psychoterapia.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "regularne stosowanie leków z grupy SSRI.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "regularne stosowanie leków z grupy SNRI.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hospitalizacja w oddziale zamkniętym.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żadna z powyższych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-95",
+      "question": "Sugestywność, płytka chwiejna uczuciowość, teatralność i przesadny wyraz emocjonalny, skoncentrowanie na atrakcyjności fizycznej to cechy charakterystyczne dla osobowości:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "dyssocjalnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "paranoicznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "borderline.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "histrionicznej.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "anankastycznej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-96",
+      "question": "Które z wymienionych objawów, poza obniżonym nastrojem, należą do podstawowych objawów zespołu depresyjnego?\n1) zaburzenia koncentracji uwagi;\n2) zmniejszenie energii lub zwiększona męczliwość;\n3) anhedonia lub utrata zainteresowań;\n4) zaburzenia snu i łaknienia;\n5) lęk;\n6) nieuzasadnione poczucie winy;\n7) myśli rezygnacyjne lub samobójcze. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "5,7.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "4,6.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-97",
+      "question": "Organiczny, niespecyficzny zespół mózgowy, zazwyczaj o ostrym początku, przebiegający z zaburzeniami przytomności, głównie wahaniami świadomości, a także zaburzeniami innych czynności psychologicznych jak uwaga, spostrzeganie, myślenie, pamięć, funkcje psychomotoryczne, rytmy dobowe. Powyższy opis odpowiada objawom zespołu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "otępiennego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "depresyjnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "majaczeniowego.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "paranoidalnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "maniakalnego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-98",
+      "question": "Podczas badania psychiatrycznego 25-letniego mężczyzny skierowanego po nadużyciu leków i alkoholu, ustalono, że jego dotychczasowe zachowanie charakteryzuje się występowaniem: niestabilności emocjonalnej, uczucia wewnętrznej pustki, skłonności do zachowań autodestrukcyjnych oraz niestabilnymi związkami emocjonalnymi. Takie cechy najbardziej odpowiadają kryteriom diagnostycznym zaburzeń osobowości:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "borderline (z pogranicza).",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "dyssocjalnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "histrionicznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "narcystycznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "typu osobowości zależnej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-99",
+      "question": "Do zaburzeń treści myślenia należą:\n1) urojenia niezgodne z nastrojem;\n2) urojenia zgodne z nastrojem;\n3) idee nadwartościowe;\n4) myślenie magiczne;\n5) mutyzm. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,3.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "3,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-100",
+      "question": "Lekiem stosowanym w terapii choroby Alzheimera jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "sertralina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "sulpiryd.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "donepezil.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "piracetam.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lorazepam.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-101",
+      "question": "Do lekarza rodzinnego zgłosiła się 33-letnia chora, która leczy się u psychiatry z powodu choroby afektywnej dwubiegunowej. Od 2 miesięcy zażywa olanzapinę 10 mg na dobę. Nie chorowała na inne choroby przewlekłe. Powodem wizyty jest przyrost wagi o 5 kg (waga: 82 kg, wzrost:\n175 cm, BMI: 26,8 kg/m ). Jaki minimalny zestaw badań laboratoryjnych jest zalecany w celu monitorowania leczenia olanzapiną?\n1) TSH, fT3, fT4;\n2) kreatynina;\n3) glikemia;\n4) bilirubina;\n5) elektrolity;\n6) kinaza fosfokreatynowa;\n7) lipidogram. Prawidłowa odpowiedź to: B. 2,5.\n2",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,5. 2",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "3,7.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "4,6.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-102",
+      "question": "Epizod depresyjny można rozpoznać, jeśli objawy utrzymują się co najmniej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1 tydzień.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2 tygodnie.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "1 miesiąc.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2 miesiące.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "6 miesięcy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-103",
+      "question": "Do kryteriów epizodu maniakalnego nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "myślenie katastroficzne.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "gonitwa myśli.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zmniejszona potrzeba snu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "postawa wielkościowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "rozpraszalność uwagi.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-104",
+      "question": "Do objawów charakterystycznych schizofrenii nie należy/ą:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "echo myśli.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "urojenia oddziaływania.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "halucynoidy.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "pseudohalucynacje.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "rozkojarzenie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-105",
+      "question": "Zmiany patologiczne w korze skroniowej i ciemieniowej oraz w układzie limbicznym, zmienne nasilenie zaburzeń funkcji poznawczych, zaburzenia spostrzegania, parkinsonizm, upadki, omdlenia, zespół depresyjny, nadwrażliwość na neuroleptyki. Powyższy opis odpowiada otępieniu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "czołowo-skroniowemu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "z ciałami Lewy’ego.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "w chorobie Parkinsona.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "naczyniopochodnemu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "w chorobie Alzheimera.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-106",
+      "question": "Którego leku nie stosuje się w epizodzie maniakalnym?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "karbamazepiny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "arypiprazolu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lamotryginy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "olanzapiny.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wenlafaksyny.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-107",
+      "question": "Lekiem normotymicznym nie jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lit.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "olanzapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "karbamazepina.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "lamotrygina.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "haloperidol.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-108",
+      "question": "Który z wymienionych leków należy do inhibitorów cholinesterazy?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kwetiapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "memantyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "doksepina.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "rywastygmina.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "karbamazepina.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-109",
+      "question": "Wskazaniem do terapii elektrowstrząsami jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "epizod depresji ciężki lekooporny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "schizofrenia u kobiet ciężarnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "osobowość dyssocjalna.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawdziwe są odpowiedzi A,B.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A,B,C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-110",
+      "question": "Lekiem stosowanym do szybkiego, krótkoterminowego, doraźnego opanowywania zaburzeń lękowych jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wenlafaksyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "sertralina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "alprazolam.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "kwetiapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lamotrygina.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-111",
+      "question": "Specyficzna fobia, w której dochodzi do mobilizacji układu przywspółczulnego, to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ergofobia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "erytrofobia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "homichlofobia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "koitofobia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "hemofobia.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-112",
+      "question": "Do objawów pozytywnych schizofrenii należy/ą:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "abulia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wycofanie społeczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zubożenie wypowiedzi.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "apatia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zachowania katatoniczne.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-113",
+      "question": "Pacjentka lat 56, zgłosiła się do psychiatry z powodu apatii, anhedonii, myśli rezygnacyjnych, obniżonego apetytu, utrzymujących się od około 2 miesięcy. Pacjentka dotychczas nieleczona psychiatrycznie, jest pod opieką internisty z powodu nadciśnienia tętniczego. Psychiatra postawił wstępne rozpoznanie epizodu depresyjnego umiarkowanego. Który lek powinien zalecić pacjentce? A. alprazolam - małe dawki 3 razy dziennie regularnie, ewentualnie w przypadku podwyższonych wartości ciśnienia tętniczego dodatkowa dawka.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "alprazolam - małe dawki 3 razy dziennie regularnie, ewentualnie w przypadku podwyższonych wartości ciśnienia tętniczego dodatkowa dawka.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "olanzapina - małe dawki, w początkowej fazie leczenia poprawi apetyt.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "escitalopram - lek z grupy SSRI, stosowany w leczeniu depresji.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "wenlafaksyna - lek z grupy SNRI, stosowany w leczeniu depresji.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "leczenie skojarzone A i D.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-114",
+      "question": "MMSE (Mini Mental State Examination) i TRZ (test rysowania zegara) to rekomendowane testy przesiewowe w kierunku:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "niepełnosprawności umysłowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zaburzeń rozwoju umiejętności szkolnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zaburzeń osobowości.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "autyzmu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "otępienia.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-115",
+      "question": "Życzeniowe przekształcanie przeżyć, zachowań, oczekiwań na przyszłość pod wpływem nastawień emocjonalnych, które zwykle nie są odzwierciedleniem rzeczywistości to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "syntymia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "katatymia.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "hipotymia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "atymia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "hipertymia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-116",
+      "question": "Kryterium czasowe rozpoznania cyklotymii u osób dorosłych wynosi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "2 lata.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "1 rok.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "6 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1 miesiąc.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2 tygodnie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-117",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące złośliwego zespołu neuroleptycznego: B. charakteryzuje się wzrostem stężenia fosfokinazy kreatynowej powyżej\n1000 j./litr, przy jednoczesnym zmniejszeniu aktywności transaminaz. C. powikłaniem zespołu mogą być zaburzenia rytmu serca, łącznie z nagłym zatrzymaniem krążenia. D. do obrazu klinicznego zespołu należą wzmożenie napięcia mięśniowego i zaburzenia świadomości.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "występuje dwa razy częściej u mężczyzn niż u kobiet.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "charakteryzuje się wzrostem stężenia fosfokinazy kreatynowej powyżej 1000 j./litr, przy jednoczesnym zmniejszeniu aktywności transaminaz.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "powikłaniem zespołu mogą być zaburzenia rytmu serca, łącznie z nagłym zatrzymaniem krążenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "do obrazu klinicznego zespołu należą wzmożenie napięcia mięśniowego i zaburzenia świadomości.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "w badaniach laboratoryjnych można stwierdzić mioglobinurię.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-118",
+      "question": "Osoba, której dotychczasowe zachowanie wskazuje na to, że z powodu zaburzeń psychicznych zagraża bezpośrednio swojemu życiu albo życiu lub zdrowiu innych osób, a zachodzą wątpliwości, czy jest ona chora psychicznie, może być przyjęta do szpitala psychiatrycznego bez zgody, w celu wyjaśnienia tych wątpliwości. W takiej sytuacji obserwacja stanu psychicznego pacjenta może trwać:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "maksymalnie 10 dni.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "minimalnie 10 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "maksymalnie 14 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "minimalnie 14 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "dowolny czas, o ile jest to uzasadnione wątpliwościami diagnostycznymi.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-119",
+      "question": "Nagła utrata napięcia mięśniowego, doprowadzająca do upadku, bez utraty przytomności to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "katatonia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "katapleksja.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "katalepsja.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "katatymia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "konwersja.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-120",
+      "question": "Lekiem, którego nie stosuje się w leczeniu objawów psychotycznych w przebiegu schizofrenii jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "arypiprazol.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "haloperidol.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "olanzapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "rysperydon.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "trazodon.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-121",
+      "question": "Przykładem zaburzeń treści myślenia syntymicznych z zespołem depresyjnym są urojenia:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nihilistyczne.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "prześladowcze.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zazdrości.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "oddziaływania.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "posłannicze.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-122",
+      "question": "Wskaż dostępne leki, zarejestrowane w Polsce w leczeniu ADHD u dzieci: E. żadne z powyższych - jedyną skuteczną metodą leczenia jest psychoterapia.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "atomoksetyna, paroksetyna, olanzapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "bupropion, metylfenidat, karbamazepina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "atomoksetyna, s-ketamina, rysperydon.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "atomoksetyna, metylfenidat.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "żadne z powyższych - jedyną skuteczną metodą leczenia jest psychoterapia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-123",
+      "question": "Rodzaj zaburzeń spostrzegania, wobec których chorzy zachowują krytycyzm to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "halucynacje.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "pseudohalucynacje.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "parahalucynacje.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "omamy rzekome.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "omamy cenestetyczne.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-124",
+      "question": "Przykładem leku o działaniu serotoninergicznym i noradrenergicznym\n(SNRI) jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "fluoksetyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "reboksetyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "kwetiapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "trazodon.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wenlafaksyna.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-125",
+      "question": "Tendencja do izolowania się, wycofanie emocjonalne, zdystansowanie, brak potrzeby wchodzenia w bliskie relacje z innymi ludźmi, brak lub znikoma liczba działań służących przyjemności, to cechy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "osobowości schizoidalnej.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "osobowości paranoicznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zaburzeń schizotypowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "osobowości unikającej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "osobowości dyssocjalnej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-126",
+      "question": "Do leków normotymicznych, stosowanych w leczeniu choroby afektywnej dwubiegunowej, nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kwas walproinowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "karbamazepina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "kwetiapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "olanzapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "rywastygmina.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-127",
+      "question": "Do leków stosowanych w leczeniu otępienia w chorobie Alzheimera należą:\n1) mianseryna;\n2) mirtazapina;\n3) memantyna;\n4) rywastygmina;\n5) duloksetyna. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3,4.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-128",
+      "question": "Wzorzec zachowań zdominowany oderwaniem od relacji międzyludzkich i ograniczonym wyrażaniem emocji w kontaktach interpersonalnych. Powyższy opis odnosi się do zaburzeń osobowości:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "paranoicznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "schizoidalnej.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "dyssocjalnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "borderline.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "anankastycznej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-129",
+      "question": "Wskaż minimalne kryterium czasowe utrzymywania się objawów konieczne dla rozpoznania wymienionego zaburzenia psychicznego:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "4 tygodnie dla epizodu depresji.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "7 dni dla zespołu maniakalnego.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "2 miesiące dla zaburzeń lękowych uogólnionych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawdziwe są odpowiedzi A,B.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A,B,C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-130",
+      "question": "Do testów przesiewowych przydatnych w diagnostyce zaburzeń poznawczych należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "skala Becka.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "skala MADRS.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "MMPI.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "MMSE.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "skala HAMA-A.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-131",
+      "question": "Objawy negatywne schizofrenii obejmują:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "urojenia nihilistyczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "omamy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "sztywność emocjonalną.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "prawdziwe są odpowiedzi A, C.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "formalne zaburzenia myślenia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-132",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące iluzji:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "są synonimem omamów rzekomych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "należą do zaburzeń spostrzegania.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "sąd realizujący i klasyfikujący jest prawidłowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawdziwe są odpowiedzi B,C.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A,B,C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-133",
+      "question": "Do objawów osiowych schizofrenii opisanych przez Bleuler’a nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ambiwalencja.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "urojenia odsłonięcia.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "autyzm.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "sztywność emocjonalna.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "rozkojarzenie myślenia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-134",
+      "question": "Pacjent zgłaszający się do lekarza z rozpoznaniem choroby afektywnej dwubiegunowej typu II może znajdować się w każdym z wymienionych stanów, z wyjątkiem:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "hipomanii.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "głębokiej depresji.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "subdepresji.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "manii psychotycznej.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "eutymii.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-135",
+      "question": "Usystematyzowany, wewnętrznie spójny i logiczny system urojeniowy to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zespół paranoidalny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zespół paranoiczny.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "zespół Gansera.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zespół Ekboma.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żaden z powyższych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-137",
+      "question": "Aby rozpoznać chorobę afektywną dwubiegunową (CHAD) typu II potrzebne jest wystąpienie co najmniej dwóch epizodów zaburzeń nastroju, w tym co najmniej jednego epizodu hipomanii, która trwa co najmniej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "4 dni.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "7 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "14 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "28 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2 miesiące.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-138",
+      "question": "W przypadku leczenia chorych na schizofrenię klozapiną niezbędne jest monitorowanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "stężenia kreatyniny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "stężenia hormonów tarczycy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "elektrolitów (Na i K).",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "gamma-glutamylotranspeptydazy (GGTP).",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "morfologii i rozmazu.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-139",
+      "question": "Według FDA, z największym ryzykiem teratogennym w trakcie ciąży wiąże się stosowanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "sertraliny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "paroksetyny.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "mianseryny.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "trazodonu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "escitalopramu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-140",
+      "question": "Lekiem, który można podawać w iniekcjach długo działających w schizofrenii jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "chlorprotiksen.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tiapryd.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "haloperidol.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "klozapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "amisulpryd.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-141",
+      "question": "Stan zafałszowania pamięci polegający na zachowaniu w pamięci zdarzeń z przeszłości i przeżywaniu ich jako aktualnych zdarzeń nazywany jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "iluzją pamięci.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kryptomnezją.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "konfabulacją.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ekmnezją.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "wspomnieniem ejdetycznym.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-142",
+      "question": "Największe ryzyko pojawienia się zespołu metabolicznego u pacjentów ze schizofrenią występuje u osób przyjmujących:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "olanzapinę.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "arypiprazol.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zyprazydon.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "lurazydon.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "karyprazynę.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-143",
+      "question": "28-letni pacjent zgłasza się do lekarza psychiatry i podaje, że od okresu liceum w jego zachowaniu dominują: nadmierne wątpliwości i ostrożność, perfekcjonizm przeszkadzający w wypełnianiu zadań, nadmierna pedanteria i uległość wobec konwencji społecznych, sztywność i upór. Pacjent najprawdopodobniej ma dominujące cechy osobowości:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lękliwej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zależnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "histrionicznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "anankastycznej.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "chwiejnej emocjonalnie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-144",
+      "question": "Najczęściej stosowanym lekiem w leczeniu bulimii psychicznej z towarzyszącymi objawami depresji jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "olanzapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "mirtazapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "fluoksetyna.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "klozapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "diazepam.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-145",
+      "question": "Do powikłań somatycznych jadłowstrętu psychicznego nie zalicza się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "osteoporozy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "hiperkaliemii.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "bradykardii.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "niedokrwistości.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zaburzeń miesiączkowania.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-146",
+      "question": "U pacjenta z depresją i padaczką nie należy stosować:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tianeptyny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "bupropionu.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "moklobemidu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "mirtazapiny.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "trazodonu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-147",
+      "question": "Ryzyko zachorowania na schizofrenię u monozygotycznego bliźniaka pacjenta ze schizofrenią wynosi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "20%.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "30%.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "50%.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "70%.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "80%.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-148",
+      "question": "Najczęstszy przebieg schizofrenii to: E. kilka epizodów psychotycznych w ciągu życia, pojawiających się w sytuacjach stresowych.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "pojedynczy epizod psychotyczny z pełnym powrotem do zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "przebieg chroniczny z szybką deterioracją funkcjonalną.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "przebieg prosty, ze stopniowym narastaniem objawów.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "przebieg falujący, z okresami zaostrzeń choroby i remisji.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "kilka epizodów psychotycznych w ciągu życia, pojawiających się w sytuacjach stresowych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-149",
+      "question": "Do objawów pozytywnych schizofrenii należą:\n1) halucynacje;\n2) obniżony nastrój;\n3) anhedonia;\n4) ambiwalencja;\n5) urojenia. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,5.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "3,4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-150",
+      "question": "Wskaż prawdziwe kryterium czasowe występowania epizodu depresyjnego wg klasyfikacji ICD-10:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "2 tygodnie.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "1 miesiąc.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3 miesiące.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "6 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żadne z wymienionych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-151",
+      "question": "Wśród zaburzeń psychicznych największe ryzyko śmiertelności wiąże się z:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "epizodem depresyjnym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "schizofrenią.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "chorobą afektywną dwubiegunową.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "anoreksją.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "otępieniem w chorobie Alzheimera.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-152",
+      "question": "Lekiem, którego stosowanie wiąże się z najniższym ryzykiem metabolicznym jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kwetiapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "olanzapina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "haloperidol.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "sulpiryd.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "arypiprazol.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-153",
+      "question": "Do grupy leków inhibitorów wychwytu zwrotnego serotoniny SSRI nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "paroksetyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wortioksetyna.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "sertralina.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "fluwoksamina.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "escitalopram.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-154",
+      "question": "Doznania zmysłowe określane jako lokalizowane w nieadekwatnej przestrzeni dla określonego zmysłu, w której nie mogą być obecne, określane są jako:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "halucynacje.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "pareidolie.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "pseudohalucynacje.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "iluzje.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "parahalucynacje.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-155",
+      "question": "Objaw polegający na tym, że pacjent czyta z niezapisanej kartki, to co sugeruje mu badający, określa się jako:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "objaw Reichardta.",
+          "isCorrect": true
+        },
+        {
+          "id": "B",
+          "text": "objaw Aschaffenburga.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "objaw nawlekania nitki.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "objaw Liepmanna.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "omam hipnagogiczny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-156",
+      "question": "Ślad pamięciowy bez poczucia jego wtórności określany jest jako:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ekmnezja.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "iluzja pamięci.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "kryptomnezja.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "złudzenie utożsamiające.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "konfabulacja.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-157",
+      "question": "Struktura urojenia, w którym wypowiadane treści są niekonsekwentne, intensywnie wysycone emocjonalnie, chory ma również poczucie aktywnego udziału odpowiada urojeniom:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "prostym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "paranoicznym.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "parooidalnym.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "onirycznym.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "inkoherentnym.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "psy-1-158",
+      "question": "Gdy osoba dorosła funkcjonuje na poziomie dojrzałości społecznej dziecka w wieku 10 lat, to najprawdopodobniej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ma niepełnosprawność w stopniu głębokim.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ma niepełnosprawność w stopniu znacznym.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ma niepełnosprawność w stopniu umiarkowanym.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "ma niepełnosprawność w stopniu lekkim.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "jest na pograniczu normy intelektualnej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    }
+  ]
+}
