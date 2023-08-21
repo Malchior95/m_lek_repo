@@ -9388,6 +9388,40 @@
       "explanation": null,
       "comment": null,
       "tags": null
+    },
+    {
+      "id": "chi-1-277",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące leczenia chirurgicznego zaawansowanego raka żołądka:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "odstawowym sposobem leczenia raka żołądka jest całkowite lub prawie całkowite wycięcie żołądka połączone z limfadenektomią D2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "do rekonstrukcji przewodu pokarmowego, po gastrektomii, najczęściejstosuje się metodę wstawki jelitowej zastępującej żołądek.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zawsze należy wykonać omentektomię i splenektomię.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "usunięcie węzłów chłonnych nie jest konieczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zawsze należy usunąć śledzionę.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
     }
   ]
 }

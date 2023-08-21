@@ -1160,6 +1160,40 @@
       "explanation": null,
       "comment": null,
       "tags": null
+    },
+    {
+      "id": "chi-2-35",
+      "question": "U 65-letniego chorego doszło do zatoru tętnicy krezkowej dolnej. W trakcie operacji stwierdzono rozległą martwicę przewodu pokarmowego. W związku z wykonaną operacją wycięcia prawie całkowicie jelita cienkiego i prawej połowy okrężnicy chory będzie musiał być na:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "całkowitym żywieniu dojelitowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "całkowitym żywieniu parenteralnym.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "żywieniu dojelitowym i parenteralnym.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "żywieniu przez PEG.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żywieniu doustnym wzbogaconym o witaminy i pierwiastki śladowe.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
     }
   ]
 }
