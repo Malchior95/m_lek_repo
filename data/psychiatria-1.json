@@ -993,7 +993,7 @@
     },
     {
       "id": "psy-1-30",
-      "question": "Agitacja to: D. nadmierna aktywność ruchowa połączona z uczuciem wewnętrznego napięcia.",
+      "question": "Agitacja to:",
       "answers": [
         {
           "id": "A",
@@ -1095,7 +1095,7 @@
     },
     {
       "id": "psy-1-33",
-      "question": "W psychiatrii termin „mania” oznacza: A. synonim podejrzliwości, nieufności, „teorii spiskowych” („mania prześladowcza”). D. zespół objawów psychopatologicznych, charakteryzujących się m.in. wzmożonym napędem i nastrojem, występujący m.in. w przebiegu zaburzeń afektywnych.",
+      "question": "W psychiatrii termin „mania” oznacza:",
       "answers": [
         {
           "id": "A",
@@ -1401,7 +1401,7 @@
     },
     {
       "id": "psy-1-42",
-      "question": "Wskaż fałszywe stwierdzenie: B. wysycenie emocjonalne u pacjenta wypowiadającego konfabulacje jest atymiczne, paratymiczne lub katatymiczne. D. wysycenie emocjonalne u pacjenta wypowiadającego omamy pamięci jest syntymiczne.",
+      "question": "Wskaż fałszywe stwierdzenie:",
       "answers": [
         {
           "id": "A",
@@ -1741,7 +1741,7 @@
     },
     {
       "id": "psy-1-52",
-      "question": "Mantyzm to: A. całkowite zatrzymanie wątku myślowego, który dotychczas przebiegał w sposób spowolniony. C. poczucie uciążliwego nadmiaru spontanicznie pojawiających się kolejnych wątków i tematów myślenia, zwykle zakłócających je i wyrażających się w ograniczeniu płynności, jasności, zawartości wypowiedzi. E. powtarzanie słów, zgłosek, nietworzących sensownej całości, a połączonych jedynie podobieństwem brzmienia.",
+      "question": "Mantyzm to: ",
       "answers": [
         {
           "id": "A",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "psy-1-56",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące problematyki samobójstw: B. kobiety częściej niż mężczyźni podejmują próby samobójcze stosując leki. D. zaburzenia depresyjne i zaburzenia osobowości są najczęstszą diagnozą psychiatryczną u młodzieży po próbie samobójczej. E. niski poziom wykształcenia jest jednym z czynników społeczno- demograficznych zachowań samobójczych.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące problematyki samobójstw:",
       "answers": [
         {
           "id": "A",
@@ -2285,17 +2285,17 @@
     },
     {
       "id": "psy-1-68",
-      "question": "Obserwacja stanu psychicznego pacjenta przyjętego do szpitala psychiatrycznego na podstawie art. 24 ustawy o ochronie zdrowia psychicznego może trwać: E. do momentu ustąpienia przesłanek ustawowych, gdyż art. 24 ustawy nie ogranicza zakresu czasowego obserwacji.",
+      "question": "Obserwacja stanu psychicznego pacjenta przyjętego do szpitala psychiatrycznego na podstawie art. 24 ustawy o ochronie zdrowia psychicznego może trwać:",
       "answers": [
         {
           "id": "A",
           "text": "maksymalnie 10 dni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
           "text": "minimalnie 10 dni.",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
           "id": "C",
@@ -2557,7 +2557,7 @@
     },
     {
       "id": "psy-1-76",
-      "question": "Do objawów zespołu serotoninowego nie należy: B. zmniejszone napięcie mięśniowe.\n2",
+      "question": "Do objawów zespołu serotoninowego nie należy:",
       "answers": [
         {
           "id": "A",
@@ -2625,7 +2625,7 @@
     },
     {
       "id": "psy-1-78",
-      "question": "Wskaż kryteria diagnostyczne jadłowstrętu psychicznego: A. spadek wagi lub, u dzieci, brak przybytku wagi prowadzący do masy ciała o co najmniej 5% poniżej prawidłowej lub oczekiwanej stosownie do wieku i wzrostu, wraz z towarzyszącymi objawami depresyjnymi. B. spadek wagi lub, u dzieci, brak przybytku wagi prowadzący do masy ciała o co najmniej 10% poniżej prawidłowej lub oczekiwanej stosownie do wieku i wzrostu, wraz z towarzyszącymi objawami depresyjnymi. C. spadek wagi lub, u dzieci, brak przybytku wagi prowadzący do masy ciała o co najmniej 10% poniżej prawidłowej lub oczekiwanej stosownie do wieku i wzrostu. Nie muszą być obecne zaburzenia nastroju. D. spadek wagi lub, u dzieci, brak przybytku wagi prowadzący do masy ciała o co najmniej 15% poniżej prawidłowej lub oczekiwanej stosownie do wieku i wzrostu, wraz z towarzyszącymi objawami depresyjnymi. E. spadek wagi lub, u dzieci, brak przybytku wagi prowadzący do masy ciała o co najmniej 15% poniżej prawidłowej lub oczekiwanej stosownie do wieku i wzrostu. Nie muszą być obecne zaburzenia nastroju.",
+      "question": "Wskaż kryteria diagnostyczne jadłowstrętu psychicznego:",
       "answers": [
         {
           "id": "A",
@@ -2863,7 +2863,7 @@
     },
     {
       "id": "psy-1-85",
-      "question": "Duże ryzyko rozwoju zespołu metabolicznego, wymagające monitorowania pacjenta w tym kierunku, związane jest ze stosowaniem w terapii: B. paroksetyny.\n1",
+      "question": "Duże ryzyko rozwoju zespołu metabolicznego, wymagające monitorowania pacjenta w tym kierunku, związane jest ze stosowaniem w terapii:",
       "answers": [
         {
           "id": "A",
@@ -3407,7 +3407,7 @@
     },
     {
       "id": "psy-1-101",
-      "question": "Do lekarza rodzinnego zgłosiła się 33-letnia chora, która leczy się u psychiatry z powodu choroby afektywnej dwubiegunowej. Od 2 miesięcy zażywa olanzapinę 10 mg na dobę. Nie chorowała na inne choroby przewlekłe. Powodem wizyty jest przyrost wagi o 5 kg (waga: 82 kg, wzrost:\n175 cm, BMI: 26,8 kg/m ). Jaki minimalny zestaw badań laboratoryjnych jest zalecany w celu monitorowania leczenia olanzapiną?\n1) TSH, fT3, fT4;\n2) kreatynina;\n3) glikemia;\n4) bilirubina;\n5) elektrolity;\n6) kinaza fosfokreatynowa;\n7) lipidogram. Prawidłowa odpowiedź to: B. 2,5.\n2",
+      "question": "Do lekarza rodzinnego zgłosiła się 33-letnia chora, która leczy się u psychiatry z powodu choroby afektywnej dwubiegunowej. Od 2 miesięcy zażywa olanzapinę 10 mg na dobę. Nie chorowała na inne choroby przewlekłe. Powodem wizyty jest przyrost wagi o 5 kg (waga: 82 kg, wzrost:\n175 cm, BMI: 26,8 kg/m ). Jaki minimalny zestaw badań laboratoryjnych jest zalecany w celu monitorowania leczenia olanzapiną?\n1) TSH, fT3, fT4;\n2) kreatynina;\n3) glikemia;\n4) bilirubina;\n5) elektrolity;\n6) kinaza fosfokreatynowa;\n7) lipidogram. Prawidłowa odpowiedź to:",
       "answers": [
         {
           "id": "A",
@@ -3416,7 +3416,7 @@
         },
         {
           "id": "B",
-          "text": "2,5. 2",
+          "text": "2,5.",
           "isCorrect": false
         },
         {
@@ -3815,7 +3815,7 @@
     },
     {
       "id": "psy-1-113",
-      "question": "Pacjentka lat 56, zgłosiła się do psychiatry z powodu apatii, anhedonii, myśli rezygnacyjnych, obniżonego apetytu, utrzymujących się od około 2 miesięcy. Pacjentka dotychczas nieleczona psychiatrycznie, jest pod opieką internisty z powodu nadciśnienia tętniczego. Psychiatra postawił wstępne rozpoznanie epizodu depresyjnego umiarkowanego. Który lek powinien zalecić pacjentce? A. alprazolam - małe dawki 3 razy dziennie regularnie, ewentualnie w przypadku podwyższonych wartości ciśnienia tętniczego dodatkowa dawka.",
+      "question": "Pacjentka lat 56, zgłosiła się do psychiatry z powodu apatii, anhedonii, myśli rezygnacyjnych, obniżonego apetytu, utrzymujących się od około 2 miesięcy. Pacjentka dotychczas nieleczona psychiatrycznie, jest pod opieką internisty z powodu nadciśnienia tętniczego. Psychiatra postawił wstępne rozpoznanie epizodu depresyjnego umiarkowanego. Który lek powinien zalecić pacjentce?",
       "answers": [
         {
           "id": "A",
@@ -3951,7 +3951,7 @@
     },
     {
       "id": "psy-1-117",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące złośliwego zespołu neuroleptycznego: B. charakteryzuje się wzrostem stężenia fosfokinazy kreatynowej powyżej\n1000 j./litr, przy jednoczesnym zmniejszeniu aktywności transaminaz. C. powikłaniem zespołu mogą być zaburzenia rytmu serca, łącznie z nagłym zatrzymaniem krążenia. D. do obrazu klinicznego zespołu należą wzmożenie napięcia mięśniowego i zaburzenia świadomości.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące złośliwego zespołu neuroleptycznego:",
       "answers": [
         {
           "id": "A",
@@ -4121,7 +4121,7 @@
     },
     {
       "id": "psy-1-122",
-      "question": "Wskaż dostępne leki, zarejestrowane w Polsce w leczeniu ADHD u dzieci: E. żadne z powyższych - jedyną skuteczną metodą leczenia jest psychoterapia.",
+      "question": "Wskaż dostępne leki, zarejestrowane w Polsce w leczeniu ADHD u dzieci:",
       "answers": [
         {
           "id": "A",
@@ -4971,7 +4971,7 @@
     },
     {
       "id": "psy-1-148",
-      "question": "Najczęstszy przebieg schizofrenii to: E. kilka epizodów psychotycznych w ciągu życia, pojawiających się w sytuacjach stresowych.",
+      "question": "Najczęstszy przebieg schizofrenii to:",
       "answers": [
         {
           "id": "A",
