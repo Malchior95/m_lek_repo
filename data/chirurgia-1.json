@@ -32,7 +32,7 @@
         {
           "id": "E",
           "text": "wszystkich wymienionych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -66,7 +66,7 @@
         {
           "id": "E",
           "text": "implantacja stentu powlekanego samorozprężalnego z ewentualnym drenażem prawej jamy opłucnej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -85,7 +85,7 @@
         {
           "id": "B",
           "text": "zapalenie uchyłków z wytworzeniem ropnia odległego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -134,7 +134,7 @@
         {
           "id": "E",
           "text": "drugiego i trzeciego piętra węzłów pachowych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -163,7 +163,7 @@
         {
           "id": "D",
           "text": "ziarniniakowego zapalenia otrzewnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -197,7 +197,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A,C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -216,7 +216,7 @@
         {
           "id": "A",
           "text": "brak poprawy po leczeniu zachowawczym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -255,7 +255,7 @@
         {
           "id": "B",
           "text": "1,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -289,7 +289,7 @@
         {
           "id": "B",
           "text": "zrosty otrzewnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -338,7 +338,7 @@
         {
           "id": "E",
           "text": "braku odpływu moczu.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -367,7 +367,7 @@
         {
           "id": "D",
           "text": "jelita grubego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -391,7 +391,7 @@
         {
           "id": "B",
           "text": "ostre zapalenie trzustki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -425,7 +425,7 @@
         {
           "id": "B",
           "text": "jedynym leczeniem chirurgicznym jest proktokolektomia z końcową ileostomią.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -469,7 +469,7 @@
         {
           "id": "D",
           "text": "krwiak zaotrzewnowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -498,7 +498,7 @@
         {
           "id": "C",
           "text": "przy przyjęciu postać ciężką OZT, w trzeciej dobie postać ciężką OZT.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -527,7 +527,7 @@
         {
           "id": "B",
           "text": "przewodu wątrobowego wspólnego w odległości > 2 cm od ostrogi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -576,7 +576,7 @@
         {
           "id": "E",
           "text": "powikłanie pooperacyjne.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -610,7 +610,7 @@
         {
           "id": "E",
           "text": "lędźwiowej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -644,7 +644,7 @@
         {
           "id": "E",
           "text": "ropień okołoodbytowy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -668,7 +668,7 @@
         {
           "id": "C",
           "text": "perforacja przewodu pokarmowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -702,7 +702,7 @@
         {
           "id": "C",
           "text": "obustronny jednoczesny rak piersi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -736,7 +736,7 @@
         {
           "id": "C",
           "text": "zrosty wewnątrzotrzewnowe.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -770,7 +770,7 @@
         {
           "id": "C",
           "text": "uchyłek Meckela to wrodzony i prawdziwy uchyłek jelita krętego znajdujący się na krezkowym brzegu jelita, może mieć długość nawet 15 cm.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -804,7 +804,7 @@
         {
           "id": "C",
           "text": "utrudnione połykanie, zachłystywanie się, niedrożność czynnościową.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -848,7 +848,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -862,7 +862,7 @@
         {
           "id": "A",
           "text": "1,2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -916,7 +916,7 @@
         {
           "id": "E",
           "text": "ograniczania podaży płynów.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -930,7 +930,7 @@
         {
           "id": "A",
           "text": "1,2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -969,7 +969,7 @@
         {
           "id": "B",
           "text": "1,2,3,5,6,7.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1008,7 +1008,7 @@
         {
           "id": "C",
           "text": "perforacja przewodu pokarmowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1052,7 +1052,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi C,D.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1066,7 +1066,7 @@
         {
           "id": "A",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1115,7 +1115,7 @@
         {
           "id": "D",
           "text": "proktokolektomia odtwórcza z ileostomią pętlową.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1134,7 +1134,7 @@
         {
           "id": "A",
           "text": "żołądku.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1188,7 +1188,7 @@
         {
           "id": "E",
           "text": "ryzyko piorunującej sepsy po wycięciu śledziony jest największe w przypadku wykonywania zabiegu ze wskazań hematologicznych u osób starszych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1202,7 +1202,7 @@
         {
           "id": "A",
           "text": "powierzchnia oparzeń wynosi 27%, objętości płynów nie można określić ze względu na brak informacji o masie ciała pacjenta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1246,7 +1246,7 @@
         {
           "id": "C",
           "text": "rozpoznanie ostrego zapalenia trzustki na tle kamicy przewodu żółciowego wspólnego, przygotowanie pacjenta do ECPW.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1275,7 +1275,7 @@
         {
           "id": "B",
           "text": "operacji endoskopowych - beznapięciowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1314,7 +1314,7 @@
         {
           "id": "C",
           "text": "perforacja przewodu pokarmowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1348,7 +1348,7 @@
         {
           "id": "C",
           "text": "choroba wrzodowa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1377,7 +1377,7 @@
         {
           "id": "B",
           "text": "pooperacyjna hipokalcemia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1411,7 +1411,7 @@
         {
           "id": "B",
           "text": "błony podśluzowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1455,7 +1455,7 @@
         {
           "id": "D",
           "text": "aorcie brzusznej i jej gałęziach.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1479,7 +1479,7 @@
         {
           "id": "B",
           "text": "2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1508,7 +1508,7 @@
         {
           "id": "A",
           "text": "tętnicy okrężniczej środkowej z tętnicą okrężniczą lewą.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1557,7 +1557,7 @@
         {
           "id": "D",
           "text": "żołądkiem i dwunastnicą.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1596,7 +1596,7 @@
         {
           "id": "E",
           "text": "insulinoma.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1610,7 +1610,7 @@
         {
           "id": "A",
           "text": "uspokojenie pacjentki i zalecenie obserwacji.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1659,7 +1659,7 @@
         {
           "id": "D",
           "text": "zaleca się usuwanie uchyłku Meckela przy rozlanym zapaleniu otrzewnej wywołanym inną przyczyną.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1698,7 +1698,7 @@
         {
           "id": "E",
           "text": "stosunkowo słabe, falowe bóle, głównie w śródbrzuszu i okolicy lędźwiowej, obserwuje się w niedrożności spowodowanej ostrym niedokrwieniem jelita.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1722,7 +1722,7 @@
         {
           "id": "C",
           "text": "hipowentylacji.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1766,7 +1766,7 @@
         {
           "id": "E",
           "text": "miejscu odejścia tętnicy głębokiej uda.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1795,7 +1795,7 @@
         {
           "id": "D",
           "text": "żylaki odbytu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1819,7 +1819,7 @@
         {
           "id": "B",
           "text": "leczenie farmakologiczne.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1853,7 +1853,7 @@
         {
           "id": "B",
           "text": "wzmożonych ruchów perystaltycznych, tzw. „burza nad brzuchem”.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1892,7 +1892,7 @@
         {
           "id": "C",
           "text": "rana skażona.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1926,7 +1926,7 @@
         {
           "id": "C",
           "text": "charakteryzuje się bólem w nadbrzuszu, żółtaczką, nawracającymi gorączkami i dreszczami.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1960,7 +1960,7 @@
         {
           "id": "C",
           "text": "odsetek zabiegów resekcyjnych w przypadku raka brodawki Vatera jest istotnie niższy niż w raku głowy trzustki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1994,7 +1994,7 @@
         {
           "id": "C",
           "text": "3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2033,7 +2033,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi B,C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2067,7 +2067,7 @@
         {
           "id": "D",
           "text": "czas od wystąpienia objawów perforacji do momentu zabiegu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2096,7 +2096,7 @@
         {
           "id": "C",
           "text": "pęcherzykowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2135,7 +2135,7 @@
         {
           "id": "D",
           "text": "obrzęk.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2174,7 +2174,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A i B.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2198,7 +2198,7 @@
         {
           "id": "C",
           "text": "pacjenta z ciężką chorobą systemową wyrównanego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2222,7 +2222,7 @@
         {
           "id": "A",
           "text": "leczenia ambulatoryjnego z zastosowaniem diety bogatobłonnikowej, ryfaksyminy i leków rozkurczowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2271,7 +2271,7 @@
         {
           "id": "D",
           "text": "wykonać właściwie nawodnienie i wyrównać metabolicznie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2290,7 +2290,7 @@
         {
           "id": "A",
           "text": "zgłębnik nosowo-żołądkowy, gastrostomia, jejunostomia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2339,7 +2339,7 @@
         {
           "id": "D",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2363,7 +2363,7 @@
         {
           "id": "B",
           "text": "najczęściej spotyka się przepukliny pachwinowe skośne, rzadziej pachwinowe proste, najrzadziej udowe; przepukliny pachwinowe występują częściej u mężczyzn.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2402,7 +2402,7 @@
         {
           "id": "C",
           "text": "3,5,6.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2446,7 +2446,7 @@
         {
           "id": "E",
           "text": "zator tętnic krezkowych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2465,7 +2465,7 @@
         {
           "id": "B",
           "text": "najczęściej guz rozwija się w trzonie trzustki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2494,7 +2494,7 @@
         {
           "id": "A",
           "text": "spadku ciśnienia śródczaszkowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2528,7 +2528,7 @@
         {
           "id": "A",
           "text": "zrosty.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2582,7 +2582,7 @@
         {
           "id": "E",
           "text": "każde z wyżej wymienionych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2616,7 +2616,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2640,7 +2640,7 @@
         {
           "id": "C",
           "text": "równomierny rozkład barwnika w przebarwieniu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2669,7 +2669,7 @@
         {
           "id": "B",
           "text": "nowotwór neuroendokrynny trzustki - glukagonoma.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2698,7 +2698,7 @@
         {
           "id": "A",
           "text": "pnia mózgu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2752,7 +2752,7 @@
         {
           "id": "E",
           "text": "szczelinie odbytu.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2766,7 +2766,7 @@
         {
           "id": "A",
           "text": "powierzchnia oparzeń wynosi 19%, objętość płynów do przetoczenia w ciągu pierwszych 24 h wynosi 7600 ml.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2800,7 +2800,7 @@
         {
           "id": "A",
           "text": "ponad 95% przypadków raka trzustki stanowi rak przewodowy, najczęściej zlokalizowany w obrębie trzonu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2854,7 +2854,7 @@
         {
           "id": "E",
           "text": "zakażenie Helicobacter pylori pięciokrotnie zwiększa ryzyko zachorowania.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2873,7 +2873,7 @@
         {
           "id": "B",
           "text": "adrenalektomia prawostronna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2912,7 +2912,7 @@
         {
           "id": "C",
           "text": "1,2,4,5,7.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2936,7 +2936,7 @@
         {
           "id": "A",
           "text": "niedawno przebyte krwawienie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2990,7 +2990,7 @@
         {
           "id": "E",
           "text": "sąsiednich narządów.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3004,7 +3004,7 @@
         {
           "id": "A",
           "text": "badanie per rectum, następnie skierowanie pacjenta na kolonoskopię w celu wykluczenia patologii w wyższych odcinkach jelita grubego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3048,7 +3048,7 @@
         {
           "id": "C",
           "text": "oznacza otwartą plastykę kanału pachwinowego z użyciem siatki z tworzywa sztucznego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3082,7 +3082,7 @@
         {
           "id": "C",
           "text": "leczenie zachowawcze do czasu ustąpienia objawów i normalizacji parametrów laboratoryjnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3111,7 +3111,7 @@
         {
           "id": "B",
           "text": "niedoczynność przytarczyc.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3140,7 +3140,7 @@
         {
           "id": "A",
           "text": "rozcięgno mięśnia skośnego zewnętrznego brzucha.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3179,7 +3179,7 @@
         {
           "id": "B",
           "text": "analgosedacji.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3213,7 +3213,7 @@
         {
           "id": "B",
           "text": "ropień.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3247,7 +3247,7 @@
         {
           "id": "B",
           "text": "jelita grubego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3281,7 +3281,7 @@
         {
           "id": "B",
           "text": "operacja Lichtensteina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3330,7 +3330,7 @@
         {
           "id": "E",
           "text": "torbiel włosowa.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3349,7 +3349,7 @@
         {
           "id": "B",
           "text": "morfologia, układ krzepnięcia, usg jamy brzusznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3388,7 +3388,7 @@
         {
           "id": "C",
           "text": "40.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3432,7 +3432,7 @@
         {
           "id": "E",
           "text": "2,6,7.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3456,7 +3456,7 @@
         {
           "id": "C",
           "text": "w przebiegu OZT zwiększenie aktywności lipazy we krwi utrzymuje się dłużej niż zwiększenie aktywności amylazy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3495,7 +3495,7 @@
         {
           "id": "D",
           "text": "zapalenia wyrostka robaczkowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3514,7 +3514,7 @@
         {
           "id": "A",
           "text": "polipowatego guza bez owrzodzenia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3548,7 +3548,7 @@
         {
           "id": "A",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3592,7 +3592,7 @@
         {
           "id": "C",
           "text": "autonomicznego, zwiększonego uwalniania PTH występującego po przeszczepieniu nerki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3636,7 +3636,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3660,7 +3660,7 @@
         {
           "id": "C",
           "text": "1,2,3,4,7,8,9,10.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3699,7 +3699,7 @@
         {
           "id": "D",
           "text": "2,3,6.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3723,7 +3723,7 @@
         {
           "id": "B",
           "text": "objaw Pontena.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3767,7 +3767,7 @@
         {
           "id": "D",
           "text": "białka.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3801,7 +3801,7 @@
         {
           "id": "D",
           "text": "przyjęcie pacjentki do oddziału chirurgii ogólnej i kwalifikacja do operacyjnego rozwiązania niedrożności.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3820,7 +3820,7 @@
         {
           "id": "A",
           "text": "1,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3859,7 +3859,7 @@
         {
           "id": "B",
           "text": "około 9 litrów płynów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3898,7 +3898,7 @@
         {
           "id": "C",
           "text": "ostre zapalenie dróg żółciowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3937,7 +3937,7 @@
         {
           "id": "D",
           "text": "miejsce w 1/3 odległości między kolcem biodrowym przednim górnym a pępkiem, leżące zwykle nad podstawą wyrostka robaczkowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3966,7 +3966,7 @@
         {
           "id": "C",
           "text": "zgłębnik Sengstakena-Blakemore’a.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3995,7 +3995,7 @@
         {
           "id": "B",
           "text": "1,3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4024,7 +4024,7 @@
         {
           "id": "A",
           "text": "lewostronnej kamicy nerkowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4073,7 +4073,7 @@
         {
           "id": "D",
           "text": "doraźnym zatrzymaniu krwotoku z żylaków przełyku.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4112,7 +4112,7 @@
         {
           "id": "E",
           "text": "udoskonalenie metod leczenia zachowawczego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4141,7 +4141,7 @@
         {
           "id": "D",
           "text": "tętnicy udowej na tętnicę powierzchowną i głęboką uda.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4170,7 +4170,7 @@
         {
           "id": "C",
           "text": "drenaż lewej jamy opłucnowej - laparotomia - TK całego ciała po stabilizacji stanu ogólnego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4214,7 +4214,7 @@
         {
           "id": "E",
           "text": "kwadrant górny zewnętrzny.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4233,7 +4233,7 @@
         {
           "id": "B",
           "text": "hemikolektomia prawostronna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4282,7 +4282,7 @@
         {
           "id": "E",
           "text": "pępkowej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4301,7 +4301,7 @@
         {
           "id": "B",
           "text": "przełykowo-jelitowe i jelitowo-jelitowe.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4350,7 +4350,7 @@
         {
           "id": "E",
           "text": "rękawowa resekcja żołądka.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4364,7 +4364,7 @@
         {
           "id": "A",
           "text": "wykonanie zespoleń omijających żołądkowo-jelitowego, jelitowo- jelitowego oraz przewodowo- lub pęcherzykowo-jelitowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4418,7 +4418,7 @@
         {
           "id": "E",
           "text": "uogólnioną zakrzepicą żył powierzchownych i głębokich.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4447,7 +4447,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A i C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4481,7 +4481,7 @@
         {
           "id": "D",
           "text": "nowotwór złośliwy obejmujący błonę śluzową i podśluzową, ale nienaciekający błony mięśniowej żołądka.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4500,7 +4500,7 @@
         {
           "id": "A",
           "text": "pękniętą ciążę pozamaciczną.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4534,7 +4534,7 @@
         {
           "id": "A",
           "text": "krwawieniu z żylaków przełyku.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4573,7 +4573,7 @@
         {
           "id": "B",
           "text": "badaniem z wyboru jest tomografia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4607,7 +4607,7 @@
         {
           "id": "B",
           "text": "obustronne porażenie fałdów głosowych z wąską szparą głośni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4656,7 +4656,7 @@
         {
           "id": "E",
           "text": "esicy i odbytnicy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4670,7 +4670,7 @@
         {
           "id": "A",
           "text": "ze wszystkich warstw ściany jelita.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4709,7 +4709,7 @@
         {
           "id": "B",
           "text": "powstaje w miejscu rany i obejmuje także przyległą, prawidłową skórę, wzrost zmiany utrzymuje się powyżej 6 miesięcy od urazu, najczęściej dotyczy ran górnej połowy klatki piersiowej i ramion.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4758,7 +4758,7 @@
         {
           "id": "E",
           "text": "ból trzewny.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4772,7 +4772,7 @@
         {
           "id": "A",
           "text": "około 7 litrów płynów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4816,7 +4816,7 @@
         {
           "id": "C",
           "text": "krwawienie z przetoki aortalno-dwunastniczej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4855,7 +4855,7 @@
         {
           "id": "D",
           "text": "trzonu kości łokciowej z przemieszczeniem i zwichnięciem głowy kości promieniowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4879,7 +4879,7 @@
         {
           "id": "B",
           "text": "wyłonienie kolostomii.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4928,7 +4928,7 @@
         {
           "id": "E",
           "text": "torbiel rzekoma.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4942,7 +4942,7 @@
         {
           "id": "A",
           "text": "dodatni objaw Jaworskiego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4986,7 +4986,7 @@
         {
           "id": "C",
           "text": "wysięk opłucnowy w ostrym zapaleniu trzustki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5025,7 +5025,7 @@
         {
           "id": "D",
           "text": "tymczasowego tamowania krwotoku z żylaków przełyku.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5059,7 +5059,7 @@
         {
           "id": "D",
           "text": "raku kory nadnercza.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5078,7 +5078,7 @@
         {
           "id": "A",
           "text": "przepuklina wślizgowa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5117,7 +5117,7 @@
         {
           "id": "B",
           "text": "ostre zapalenie uchyłków.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5166,7 +5166,7 @@
         {
           "id": "E",
           "text": "3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5185,7 +5185,7 @@
         {
           "id": "B",
           "text": "przepukliny okołostomijnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5234,7 +5234,7 @@
         {
           "id": "E",
           "text": "niedoczynność przytarczyc.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5258,7 +5258,7 @@
         {
           "id": "C",
           "text": "trzustki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5297,7 +5297,7 @@
         {
           "id": "D",
           "text": "chirurgii dróg żółciowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5336,7 +5336,7 @@
         {
           "id": "E",
           "text": "rozsiany rak wątrobowokomórkowy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5370,7 +5370,7 @@
         {
           "id": "E",
           "text": "leczenie szpitalne z zabiegiem operacyjnym w trybie pilnym z jednoczesnym podawaniem leków przeciwbólowych, inhibitorów pompy protonowej i antybiotyków.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5394,7 +5394,7 @@
         {
           "id": "C",
           "text": "endometriozę przewodu pokarmowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5418,7 +5418,7 @@
         {
           "id": "A",
           "text": "znacznego wzrostu ciśnienia tętniczego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5452,7 +5452,7 @@
         {
           "id": "A",
           "text": "dokładnego wywiadu lekarskiego, TK jamy brzusznej z kontrastem, badania endoskopowego górnego i dolnego odcinka przewodu pokarmowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5491,7 +5491,7 @@
         {
           "id": "B",
           "text": "RTG klatki piersiowej i przeglądowe jamy brzusznej w pozycji stojącej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5540,7 +5540,7 @@
         {
           "id": "E",
           "text": "czasowym zaciśnięciu więzadła wątrobowo-dwunastniczego w celu ograniczenia napływu krwi do wątroby.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5559,7 +5559,7 @@
         {
           "id": "B",
           "text": "resekcja esicy sposobem Hartmanna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5608,7 +5608,7 @@
         {
           "id": "E",
           "text": "zakażeniu nie towarzyszą objawy ogólne.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5632,7 +5632,7 @@
         {
           "id": "C",
           "text": "żylaki odbytu mogą wypadać podczas defekacji, ale samoistnie cofają się do kanału odbytu - jest to przykład trzeciego stopnia zaawansowania choroby hemoroidalnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5666,7 +5666,7 @@
         {
           "id": "C",
           "text": "zgorzelinowe zapalenie skóry.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5690,7 +5690,7 @@
         {
           "id": "A",
           "text": "więzadła wątrobowo-dwunastniczego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5739,7 +5739,7 @@
         {
           "id": "D",
           "text": "przepuklina zawierająca fragment obwodu jelita.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5768,7 +5768,7 @@
         {
           "id": "C",
           "text": "III stopnia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5797,7 +5797,7 @@
         {
           "id": "B",
           "text": "3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5836,7 +5836,7 @@
         {
           "id": "C",
           "text": "sigmoideostomia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5880,7 +5880,7 @@
         {
           "id": "E",
           "text": "GCS 8, pacjent wymaga intubacji.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5904,7 +5904,7 @@
         {
           "id": "C",
           "text": "zespoleniu żołądka z dwunastnicą.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5943,7 +5943,7 @@
         {
           "id": "D",
           "text": "4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5977,7 +5977,7 @@
         {
           "id": "D",
           "text": "są pochodzenia nabłonkowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6006,7 +6006,7 @@
         {
           "id": "C",
           "text": "37% powierzchni ciała.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6050,7 +6050,7 @@
         {
           "id": "E",
           "text": "pęknięcie aorty wstępującej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6074,7 +6074,7 @@
         {
           "id": "C",
           "text": "rak anaplastyczny nie nacieka otaczających tkanek, rzadko przerzutuje do płuc.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6118,7 +6118,7 @@
         {
           "id": "E",
           "text": "rak jelita grubego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6142,7 +6142,7 @@
         {
           "id": "C",
           "text": "u chorych zawsze dochodzi do zmniejszenia masy ciała.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6166,7 +6166,7 @@
         {
           "id": "A",
           "text": "rak jelita grubego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6200,7 +6200,7 @@
         {
           "id": "A",
           "text": "1,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6244,7 +6244,7 @@
         {
           "id": "C",
           "text": "ciemne zabarwienie moczu, odbarwienie stolca, podwyższone stężenie ALP.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6283,7 +6283,7 @@
         {
           "id": "D",
           "text": "nasady dalszej kości promieniowej w miejscu typowym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6322,7 +6322,7 @@
         {
           "id": "E",
           "text": "kości ramiennej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6336,7 +6336,7 @@
         {
           "id": "A",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6390,7 +6390,7 @@
         {
           "id": "E",
           "text": "fundoplikacja.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6414,7 +6414,7 @@
         {
           "id": "C",
           "text": "zakrzepicy żył goleni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6443,7 +6443,7 @@
         {
           "id": "B",
           "text": "1,2,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6472,7 +6472,7 @@
         {
           "id": "A",
           "text": "początek choroby po 50. roku życia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6521,7 +6521,7 @@
         {
           "id": "D",
           "text": "rozcięgna mięśnia skośnego zewnętrznego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6555,7 +6555,7 @@
         {
           "id": "D",
           "text": "1,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6589,7 +6589,7 @@
         {
           "id": "D",
           "text": "tętnicy biodrowej wspólnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6623,7 +6623,7 @@
         {
           "id": "D",
           "text": "zmianę ograniczoną do błony śluzowej i warstwy podśluzowej niezależnie od obecności przerzutów w węzłach chłonnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6662,7 +6662,7 @@
         {
           "id": "E",
           "text": "zmniejszenie stężenia bilirubiny we krwi.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6691,7 +6691,7 @@
         {
           "id": "D",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6720,7 +6720,7 @@
         {
           "id": "C",
           "text": "III.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6754,7 +6754,7 @@
         {
           "id": "C",
           "text": "hipochloremii, hipokaliemii, zasadowicy metabolicznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6783,7 +6783,7 @@
         {
           "id": "B",
           "text": "inhibitory cyklooksygenaz.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6827,7 +6827,7 @@
         {
           "id": "D",
           "text": "krwotok z pękniętej śluzówki w rejonie wpustu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6861,7 +6861,7 @@
         {
           "id": "D",
           "text": "operacja sposobem Hartmanna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6890,7 +6890,7 @@
         {
           "id": "C",
           "text": "pierwotne stwardniające zapalenie dróg żółciowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6919,7 +6919,7 @@
         {
           "id": "B",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6958,7 +6958,7 @@
         {
           "id": "C",
           "text": "ból w prawym górnym kwadrancie brzucha, żółtaczkę i gorączkę z dreszczami.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6997,7 +6997,7 @@
         {
           "id": "D",
           "text": "rozdęty, niebolesny pęcherzyk z towarzyszącą żółtaczką.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7036,7 +7036,7 @@
         {
           "id": "E",
           "text": "odbytnicy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7055,7 +7055,7 @@
         {
           "id": "B",
           "text": "1,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7104,7 +7104,7 @@
         {
           "id": "E",
           "text": "zasadowica.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7128,7 +7128,7 @@
         {
           "id": "C",
           "text": "Littrego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7162,7 +7162,7 @@
         {
           "id": "C",
           "text": "dziedziczny rak jelita grubego (HNPCC).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7191,7 +7191,7 @@
         {
           "id": "B",
           "text": "osocze świeżo mrożone.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7220,7 +7220,7 @@
         {
           "id": "A",
           "text": "przewodzie pokarmowym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7254,7 +7254,7 @@
         {
           "id": "A",
           "text": "nadtwardówkowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7293,7 +7293,7 @@
         {
           "id": "B",
           "text": "ma czasową, końcową kolostomię.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7322,7 +7322,7 @@
         {
           "id": "A",
           "text": "u większości chorych przebiega bezobjawowo, a wykrywany jest przypadkiem w trakcie badań obrazowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7356,7 +7356,7 @@
         {
           "id": "A",
           "text": "krytyczne niedokrwienie kończyny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7400,7 +7400,7 @@
         {
           "id": "C",
           "text": "unieruchomienia kończyny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7424,7 +7424,7 @@
         {
           "id": "A",
           "text": "żołądka.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7473,7 +7473,7 @@
         {
           "id": "D",
           "text": "późne rozpoczęcie miesiączkowania i wczesne wejście w okres menopauzy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7497,7 +7497,7 @@
         {
           "id": "B",
           "text": "brodawkowaty.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7531,7 +7531,7 @@
         {
           "id": "B",
           "text": "choroby Buergera.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7565,7 +7565,7 @@
         {
           "id": "B",
           "text": "II.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7609,7 +7609,7 @@
         {
           "id": "D",
           "text": "końcowego odcinka aorty brzusznej bądź obu tętnic biodrowych wspólnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7638,7 +7638,7 @@
         {
           "id": "C",
           "text": "pęcherzykowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7672,7 +7672,7 @@
         {
           "id": "C",
           "text": "choroba Buergera.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7701,7 +7701,7 @@
         {
           "id": "B",
           "text": "aktywne krwawienie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7740,7 +7740,7 @@
         {
           "id": "C",
           "text": "gruczolak kosmkowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7784,7 +7784,7 @@
         {
           "id": "E",
           "text": "objaw Cullena.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7798,7 +7798,7 @@
         {
           "id": "A",
           "text": "1,2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7837,7 +7837,7 @@
         {
           "id": "B",
           "text": "ostra rzekomoobturacyjna niedrożność jelita grubego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7881,7 +7881,7 @@
         {
           "id": "D",
           "text": "przerzut raka jelita grubego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7900,7 +7900,7 @@
         {
           "id": "A",
           "text": "jest to choroba zakaźna wywoływana przez gronkowce.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7939,7 +7939,7 @@
         {
           "id": "B",
           "text": "raka żołądka.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7978,7 +7978,7 @@
         {
           "id": "C",
           "text": "niedrożność okrężnicy bez jej obturacji.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8007,7 +8007,7 @@
         {
           "id": "B",
           "text": "pacjent jest zwykle wychudzony.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8056,7 +8056,7 @@
         {
           "id": "E",
           "text": "niedoczynność przytarczyc.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8070,7 +8070,7 @@
         {
           "id": "A",
           "text": "raka rozlegle naciekającego ścianę żołądka, dającego wczesne przerzuty do węzłów chłonnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8119,7 +8119,7 @@
         {
           "id": "D",
           "text": "rak przewodów wątrobowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8158,7 +8158,7 @@
         {
           "id": "E",
           "text": "raka głowy trzustki.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8192,7 +8192,7 @@
         {
           "id": "E",
           "text": "tylko 5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8211,7 +8211,7 @@
         {
           "id": "B",
           "text": "założenie cewnika moczowego na 2-3 dni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8255,7 +8255,7 @@
         {
           "id": "D",
           "text": "tylko 3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8289,7 +8289,7 @@
         {
           "id": "D",
           "text": "11 punktów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8328,7 +8328,7 @@
         {
           "id": "E",
           "text": "wszystkie wyżej wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8347,7 +8347,7 @@
         {
           "id": "B",
           "text": "ostre niedokrwienie jelit.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8385,8 +8385,8 @@
         },
         {
           "id": "C",
-          "text": "Pacjent dodatkowo zgłasza ciemniejsze zabarwienie moczu. W badaniu fizykalnym dodatni objaw Chełmońskiego, zażółcenie twardówek oczu, per rectum odbarwiony stolec w bańce odbytnicy. W badaniach laboratoryjnych: Hgb 12,5 g/dl, Hct 3 36%, CRP 120 mg/l, bilirubina 80 μmol/l (4,68 mg/dl). W usg przewód żółciowy wspólny szerokości 11 mm, pęcherzyk cienkościenny z licznymi złogami. Wskaż prawidłowe rozpoznanie i postępowanie:",
-          "isCorrect": false
+          "text": "zapalenie dróg żółciowych - endoskopowa cholangiopankreatografia wsteczna i antybiotykoterapia.",
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8420,7 +8420,7 @@
         {
           "id": "C",
           "text": "charakteryzuje je silny ból, który można uśmierzyć odciążając kończynę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8449,7 +8449,7 @@
         {
           "id": "B",
           "text": "przetoka esiczo-pęcherzowa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8483,7 +8483,7 @@
         {
           "id": "B",
           "text": "1, 3, 5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8512,7 +8512,7 @@
         {
           "id": "A",
           "text": "choroba Gravesa-Basedowa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8551,7 +8551,7 @@
         {
           "id": "B",
           "text": "pankreatoduodenektomię oraz cholecystektomię.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8600,7 +8600,7 @@
         {
           "id": "E",
           "text": "wszystkich wymienionych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8634,7 +8634,7 @@
         {
           "id": "E",
           "text": "polipy hiperplastyczne.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8653,7 +8653,7 @@
         {
           "id": "B",
           "text": "ubytek masy ciała (stosunek obecnej masy ciała do tej sprzed choroby) < 10%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8702,7 +8702,7 @@
         {
           "id": "E",
           "text": "1, 3, 4.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8731,7 +8731,7 @@
         {
           "id": "D",
           "text": "1, 3, 4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8755,7 +8755,7 @@
         {
           "id": "B",
           "text": "1, 3, 5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8784,7 +8784,7 @@
         {
           "id": "A",
           "text": "zanokcica.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8833,7 +8833,7 @@
         {
           "id": "D",
           "text": "TK jamy brzusznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8862,7 +8862,7 @@
         {
           "id": "C",
           "text": "PET-TK.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8886,7 +8886,7 @@
         {
           "id": "A",
           "text": "wycięcie nadnercza z guzem.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8940,7 +8940,7 @@
         {
           "id": "E",
           "text": "ostre zapalenie trzustki.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8964,7 +8964,7 @@
         {
           "id": "C",
           "text": "rezonans magnetyczny miednicy mniejszej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8998,7 +8998,7 @@
         {
           "id": "C",
           "text": "2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9022,7 +9022,7 @@
         {
           "id": "A",
           "text": "wycięcie guza z szerokim marginesem zdrowych tkanek.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -9076,7 +9076,7 @@
         {
           "id": "E",
           "text": "desmoid.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -9100,7 +9100,7 @@
         {
           "id": "C",
           "text": "przepuklina pachwinowa prosta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9124,7 +9124,7 @@
         {
           "id": "A",
           "text": "jest synonimem raka głowy trzustki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -9168,7 +9168,7 @@
         {
           "id": "C",
           "text": "wątroba.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9197,7 +9197,7 @@
         {
           "id": "B",
           "text": "częściej występuje u mężczyzn.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9231,7 +9231,7 @@
         {
           "id": "B",
           "text": "1,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9275,7 +9275,7 @@
         {
           "id": "D",
           "text": "rak płaskonabłonkowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -9309,7 +9309,7 @@
         {
           "id": "D",
           "text": "nowotwór bardziej zaawansowany miejscowo z liczniejszymi przerzutami do regionalnych węzłów chłonnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -9348,7 +9348,7 @@
         {
           "id": "E",
           "text": "palenie tytoniu, płeć męska, zakażenie Helicobacter pylori, przewlekłe zanikowe zapalenie błony śluzowej, wrzód trawienny żołądka, kikut żołądka po resekcji, polipy żołądka.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -9382,7 +9382,7 @@
         {
           "id": "E",
           "text": "we wczesnym raku żołądka przerzuty do węzłów chłonnych są rzadkie, jednak mogą być obecne, kiedy naciek sięga błony podśluzowej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
