@@ -41,7 +41,7 @@
     },
     {
       "id": "chi-1-2",
-      "question": "Pacjent przetransportowany na szpitalną Izbę Przyjęć w złym stanie ogólnym. Zgłasza dolegliwości bólowe za mostkiem, wysoko gorączkuje. W badaniu przedmiotowym wyczuwalne trzeszczenie skóry na szyi. W wywiadzie zaawansowany rak przełyku. W badaniu CT klatki piersiowej wykazano obecność powietrza w śródpiersiu, wyciek kontrastu w piersiowym odcinku przełyku oraz wysięk płynu w prawej jamie opłucnej. Jakie postępowanie chirurgiczne należy wykonać w tym przypadku? C. wyłączenie przełyku poprzez wyłonienie na szyi ezofagostomii, drenaż śródpiersia, zamknięcie wpustu żołądka, dalsze żywienie przez gastrostomię odżywczą. D. resekcja przełyku z zespoleniem żołądkowo-przełykowym w klatce piersiowej. E. implantacja stentu powlekanego samorozprężalnego z ewentualnym drenażem prawej jamy opłucnej.",
+      "question": "Pacjent przetransportowany na szpitalną Izbę Przyjęć w złym stanie ogólnym. Zgłasza dolegliwości bólowe za mostkiem, wysoko gorączkuje. W badaniu przedmiotowym wyczuwalne trzeszczenie skóry na szyi. W wywiadzie zaawansowany rak przełyku. W badaniu CT klatki piersiowej wykazano obecność powietrza w śródpiersiu, wyciek kontrastu w piersiowym odcinku przełyku oraz wysięk płynu w prawej jamie opłucnej. Jakie postępowanie chirurgiczne należy wykonać w tym przypadku?",
       "answers": [
         {
           "id": "A",
@@ -415,7 +415,7 @@
     },
     {
       "id": "chi-1-13",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące rodzinnej polipowatości gruczolakowatej (FAP): B. jedynym leczeniem chirurgicznym jest proktokolektomia z końcową ileostomią. C. u niektórych pacjentów wykonuje się kolektomię z zespoleniem ileorektalnym. D. występuje zwiększona zachorowalność na raka brodawkowatego tarczycy.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące rodzinnej polipowatości gruczolakowatej (FAP):",
       "answers": [
         {
           "id": "A",
@@ -619,7 +619,7 @@
     },
     {
       "id": "chi-1-19",
-      "question": "Wskazaniem nagłym do zabiegu operacyjnego w chorobie Crohna jest: B. pojawienie się nowotworów (gruczolakorak jelita grubego, chłoniak jelita cienkiego).",
+      "question": "Wskazaniem nagłym do zabiegu operacyjnego w chorobie Crohna jest:",
       "answers": [
         {
           "id": "A",
@@ -1605,7 +1605,7 @@
     },
     {
       "id": "chi-1-48",
-      "question": "52-letnia otyła kobieta zgłosiła się do ginekologa z powodu okresowego krwawienia z dróg rodnych. W czasie wykonywania przezbrzusznego USG przypadkowo stwierdzono 2,5 cm złóg w pęcherzyku żółciowym. Z wywiadu wynika, że kobieta nie wiedziała, że choruje na kamicę pęcherzyka żółciowego i nie miała dotychczas żadnych objawów, które mogłyby sugerować tą chorobę. Właściwym postępowaniem będzie: D. usunięcie złogu w czasie endoskopowej cholangiopankreatografii wstecznej (ECPW). E. skierowanie chorej na tomografię komputerową w celu poszerzenia diagnostyki.",
+      "question": "52-letnia otyła kobieta zgłosiła się do ginekologa z powodu okresowego krwawienia z dróg rodnych. W czasie wykonywania przezbrzusznego USG przypadkowo stwierdzono 2,5 cm złóg w pęcherzyku żółciowym. Z wywiadu wynika, że kobieta nie wiedziała, że choruje na kamicę pęcherzyka żółciowego i nie miała dotychczas żadnych objawów, które mogłyby sugerować tą chorobę. Właściwym postępowaniem będzie:",
       "answers": [
         {
           "id": "A",
@@ -1639,7 +1639,7 @@
     },
     {
       "id": "chi-1-49",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące uchyłku Meckela: B. w uchyłku Meckela może występować błona śluzowa żołądka lub tkanka trzustkowa. C. najczęstszym powikłaniem uchyłku Meckela jest niedrożność mechaniczna (skręt lub wgłobienie). D. zaleca się usuwanie uchyłku Meckela przy rozlanym zapaleniu otrzewnej wywołanym inną przyczyną.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące uchyłku Meckela:",
       "answers": [
         {
           "id": "A",
@@ -1911,7 +1911,7 @@
     },
     {
       "id": "chi-1-57",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące triady Charcota: C. charakteryzuje się bólem w nadbrzuszu, żółtaczką, nawracającymi gorączkami i dreszczami. D. charakteryzuje się bólem w lewym podbrzuszu, biegunką, nawracającymi gorączkami i dreszczami.",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące triady Charcota:",
       "answers": [
         {
           "id": "A",
@@ -2168,7 +2168,7 @@
         },
         {
           "id": "D",
-          "text": "prawdziwe są odpowiedzi A,B,C. 2",
+          "text": "prawdziwe są odpowiedzi A,B,C.",
           "isCorrect": false
         },
         {
@@ -2183,7 +2183,7 @@
     },
     {
       "id": "chi-1-65",
-      "question": "Trzeci stopień (ASA 3) w klasyfikacji ryzyka znieczulenia Amerykańskiego Towarzystwa Anestezjologicznego oznacza: E. że pacjent prawdopodobnie nie przeżyje 24 godzin niezależnie od operacji.",
+      "question": "Trzeci stopień (ASA 3) w klasyfikacji ryzyka znieczulenia Amerykańskiego Towarzystwa Anestezjologicznego oznacza:",
       "answers": [
         {
           "id": "A",
@@ -2829,7 +2829,7 @@
     },
     {
       "id": "chi-1-84",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące raka żołądka: E. zakażenie Helicobacter pylori pięciokrotnie zwiększa ryzyko zachorowania.",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące raka żołądka:",
       "answers": [
         {
           "id": "A",
@@ -3033,7 +3033,7 @@
     },
     {
       "id": "chi-1-90",
-      "question": "Leczenie operacyjne przepukliny pachwinowej metodą Lichtensteina: B. oznacza plastykę kanału pachwinowego polegającą na założeniu szwów na pierścień wewnętrzny przepukliny pachwinowej. C. oznacza otwartą plastykę kanału pachwinowego z użyciem siatki z tworzywa sztucznego.",
+      "question": "Leczenie operacyjne przepukliny pachwinowej metodą Lichtensteina:",
       "answers": [
         {
           "id": "A",
@@ -3067,7 +3067,7 @@
     },
     {
       "id": "chi-1-91",
-      "question": "35-letni pacjent został przyjęty do oddziału chirurgicznego z rozpoznaniem ostrego zapalenia trzustki w przebiegu choroby alkoholowej. Chory zgłasza wymioty i bóle w nadbrzuszu. W badaniach obrazowych wykluczono kamicę przewodów żółciowych, potwierdzono postać obrzękową zapalenia trzustki i wykluczono obecność patologicznych zbiorników w okolicy trzustki. U chorego nie występują objawy zapalenia dróg żółciowych, a wykładniki stanu zapalnego utrzymują się na niskim poziomie. Jakie powinno być dalsze postępowanie? C. leczenie zachowawcze do czasu ustąpienia objawów i normalizacji parametrów laboratoryjnych.",
+      "question": "35-letni pacjent został przyjęty do oddziału chirurgicznego z rozpoznaniem ostrego zapalenia trzustki w przebiegu choroby alkoholowej. Chory zgłasza wymioty i bóle w nadbrzuszu. W badaniach obrazowych wykluczono kamicę przewodów żółciowych, potwierdzono postać obrzękową zapalenia trzustki i wykluczono obecność patologicznych zbiorników w okolicy trzustki. U chorego nie występują objawy zapalenia dróg żółciowych, a wykładniki stanu zapalnego utrzymują się na niskim poziomie. Jakie powinno być dalsze postępowanie?",
       "answers": [
         {
           "id": "A",
@@ -3135,7 +3135,7 @@
     },
     {
       "id": "chi-1-93",
-      "question": "Przednią ścianę kanału pachwinowego stanowi: D. mięsień skośny wewnętrzny brzucha wraz z mięśniem poprzecznym brzucha.",
+      "question": "Przednią ścianę kanału pachwinowego stanowi:",
       "answers": [
         {
           "id": "A",
@@ -3577,7 +3577,7 @@
     },
     {
       "id": "chi-1-106",
-      "question": "Trzeciorzędowa nadczynność przytarczyc jest wynikiem: C. autonomicznego, zwiększonego uwalniania PTH występującego po przeszczepieniu nerki.",
+      "question": "Trzeciorzędowa nadczynność przytarczyc jest wynikiem:",
       "answers": [
         {
           "id": "A",
@@ -3713,7 +3713,7 @@
     },
     {
       "id": "chi-1-110",
-      "question": "Do charakterystycznych objawów zakrzepicy żył głębokich nie należy: E. ból w głębi łydki i w dole podkolanowym przy biernym grzbietowym zgięciu stopy.",
+      "question": "Do charakterystycznych objawów zakrzepicy żył głębokich nie należy:",
       "answers": [
         {
           "id": "A",
@@ -3781,7 +3781,7 @@
     },
     {
       "id": "chi-1-112",
-      "question": "68-letnia pacjentka zgłosiła się w godzinach wieczornych do Szpitalnego Oddziału Ratunkowego z powodu kolkowego bólu brzucha, wymiotów kałowych, naprzemiennych biegunek i zaparć od 7 dni, obecności świeżej krwi w stolcu. Podaje, że schudła 12 kg w ciągu ostatnich 3 miesięcy, nie stosuje żadnej diety. W badaniu fizykalnym brzuch wzdęty, bez obrony mięśniowej, szmery perystaltyczne słyszalne, dźwięczne. W badaniu per rectum - bańka odbytnicy pusta. Jakie powinno być dalsze postępowanie? D. przyjęcie pacjentki do oddziału chirurgii ogólnej i kwalifikacja do operacyjnego rozwiązania niedrożności. E. po badaniu fizykalnym wypisanie pacjentki do domu z zaleceniem kontroli w dniu następnym w poradni chirurgicznej.",
+      "question": "68-letnia pacjentka zgłosiła się w godzinach wieczornych do Szpitalnego Oddziału Ratunkowego z powodu kolkowego bólu brzucha, wymiotów kałowych, naprzemiennych biegunek i zaparć od 7 dni, obecności świeżej krwi w stolcu. Podaje, że schudła 12 kg w ciągu ostatnich 3 miesięcy, nie stosuje żadnej diety. W badaniu fizykalnym brzuch wzdęty, bez obrony mięśniowej, szmery perystaltyczne słyszalne, dźwięczne. W badaniu per rectum - bańka odbytnicy pusta. Jakie powinno być dalsze postępowanie?",
       "answers": [
         {
           "id": "A",
@@ -3849,7 +3849,7 @@
     },
     {
       "id": "chi-1-114",
-      "question": "40-letni mężczyzna o masie ciała 80 kg został przywieziony do SOR z oparzeniami III stopnia lewej kończyny górnej, lewej kończyny dolnej i krocza. Jaką objętość płynów należy przetoczyć choremu w ciągu 24 godzin? E. opisany stopień i rozległość oparzeń nie wymagają stosowania intensywnej płynoterapii.",
+      "question": "40-letni mężczyzna o masie ciała 80 kg został przywieziony do SOR z oparzeniami III stopnia lewej kończyny górnej, lewej kończyny dolnej i krocza. Jaką objętość płynów należy przetoczyć choremu w ciągu 24 godzin?",
       "answers": [
         {
           "id": "A",
@@ -4053,7 +4053,7 @@
     },
     {
       "id": "chi-1-120",
-      "question": "Sonda Sengstakena-Blakemore’a jest stosowana w: E. ocenie dróg żółciowych w trakcie endoskopowej wstecznej cholangiopankreatografii.",
+      "question": "Sonda Sengstakena-Blakemore’a jest stosowana w:",
       "answers": [
         {
           "id": "A",
@@ -4121,7 +4121,7 @@
     },
     {
       "id": "chi-1-122",
-      "question": "Najczęstszym miejscem występowania zatorów w obrębie tętnic jest podział: E. tętnicy podkolanowej na tętnicę piszczelową przednią i pień piszczelowo- strzałkowy.",
+      "question": "Najczęstszym miejscem występowania zatorów w obrębie tętnic jest podział:",
       "answers": [
         {
           "id": "A",
@@ -4155,7 +4155,7 @@
     },
     {
       "id": "chi-1-123",
-      "question": "35-letni motocyklista został przyjęty do SOR po wypadku komunikacyjnym. Pacjent jest nieprzytomny. W badaniu stwierdzono: brzuch deskowaty, HR 140/min, BP 60/40 mmHg, GCS 3, osłuchowo brak szmeru oddechowego nad lewą jamą opłucnową. W FAST płyn w jamie otrzewnej. W gazometrii szacowane stężenie Hb około 6,5 g/dl. Jaka powinna być kolejność postępowania? C. drenaż lewej jamy opłucnowej - laparotomia - TK całego ciała po stabilizacji stanu ogólnego. D. przyjęcie do OIT - masywne przetoczenia krwi - laparotomia po stabilizacji stanu ogólnego. E. laparotomia - drenaż lewej jamy opłucnowej - TK całego ciała po stabilizacji stanu ogólnego.",
+      "question": "35-letni motocyklista został przyjęty do SOR po wypadku komunikacyjnym. Pacjent jest nieprzytomny. W badaniu stwierdzono: brzuch deskowaty, HR 140/min, BP 60/40 mmHg, GCS 3, osłuchowo brak szmeru oddechowego nad lewą jamą opłucnową. W FAST płyn w jamie otrzewnej. W gazometrii szacowane stężenie Hb około 6,5 g/dl. Jaka powinna być kolejność postępowania?",
       "answers": [
         {
           "id": "A",
@@ -4563,7 +4563,7 @@
     },
     {
       "id": "chi-1-135",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące ostrego zapalenia pęcherzyka żółciowego: C. w diagnostyce różnicowej należy uwzględnić m.in. prawostronne zapalenie płuc i opłucnej. D. do powikłań należy ropniak pęcherzyka żółciowego i gazowe zapalenie pęcherzyka żółciowego. E. ostre bezkamicze zapalenie pęcherzyka żółciowego może być wywołane przez takie drobnoustroje jak: Cytomegalovirus, Pneumocystitis jiroveci czy Isospora belli.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące ostrego zapalenia pęcherzyka żółciowego:",
       "answers": [
         {
           "id": "A",
@@ -4767,7 +4767,7 @@
     },
     {
       "id": "chi-1-141",
-      "question": "30-letnia kobieta o masie ciała 60 kg została przywieziona do SOR z oparzeniami III stopnia lewej kończyny górnej, lewej kończyny dolnej i krocza. Jaką objętość płynów należy przetoczyć chorej w ciągu 24 godzin? E. opisany stopień i rozległość oparzeń nie wymagają stosowania intensywnej płynoterapii.",
+      "question": "30-letnia kobieta o masie ciała 60 kg została przywieziona do SOR z oparzeniami III stopnia lewej kończyny górnej, lewej kończyny dolnej i krocza. Jaką objętość płynów należy przetoczyć chorej w ciągu 24 godzin?",
       "answers": [
         {
           "id": "A",
@@ -4835,7 +4835,7 @@
     },
     {
       "id": "chi-1-143",
-      "question": "Złamanie Monteggii to złamanie: D. trzonu kości łokciowej z przemieszczeniem i zwichnięciem głowy kości promieniowej.",
+      "question": "Złamanie Monteggii to złamanie:",
       "answers": [
         {
           "id": "A",
@@ -5107,7 +5107,7 @@
     },
     {
       "id": "chi-1-151",
-      "question": "Do Szpitalnego Oddziału Ratunkowego zgłosiła się kobieta, która skarży się na występujący od godzin wieczornych dnia poprzedniego ból w lewym podbrzuszu, temperaturę ciała 39°C. W lewym dolnym kwadrancie brzucha wyczuwa się słabo ruchomy względem podłoża guz. W pierwszej kolejności u pacjentki należy podejrzewać: C. chorobę Leśniowskiego-Crohna.",
+      "question": "Do Szpitalnego Oddziału Ratunkowego zgłosiła się kobieta, która skarży się na występujący od godzin wieczornych dnia poprzedniego ból w lewym podbrzuszu, temperaturę ciała 39°C. W lewym dolnym kwadrancie brzucha wyczuwa się słabo ruchomy względem podłoża guz. W pierwszej kolejności u pacjentki należy podejrzewać:",
       "answers": [
         {
           "id": "A",
@@ -5515,7 +5515,7 @@
     },
     {
       "id": "chi-1-163",
-      "question": "W czasie operacji guza przerzutowego wątroby chirurg wykonał, jak objaśnił studentom, manewr Pringle’a. Polega on na: C. rozkruszaniu palcami miąższu wątroby w celu uwidocznienia naczyń krwionośnych i żółciowych, co ułatwia ich podwiązanie. D. przecięciu wszystkich więzadeł mocujących wątrobę, aby zapewnić swobodne dojście do tylnych segmentów. E. czasowym zaciśnięciu więzadła wątrobowo-dwunastniczego w celu ograniczenia napływu krwi do wątroby.",
+      "question": "W czasie operacji guza przerzutowego wątroby chirurg wykonał, jak objaśnił studentom, manewr Pringle’a. Polega on na:",
       "answers": [
         {
           "id": "A",
@@ -6603,7 +6603,7 @@
     },
     {
       "id": "chi-1-195",
-      "question": "Mianem wczesnego raka żołądka określa się: B. zmianę ograniczoną tylko do błony śluzowej bez przerzutów w węzłach chłonnych. C. zmianę ograniczoną tylko do błony śluzowej niezależnie od obecności przerzutów w węzłach chłonnych. D. zmianę ograniczoną do błony śluzowej i warstwy podśluzowej niezależnie od obecności przerzutów w węzłach chłonnych. E. zmianę ograniczoną tylko do błony śluzowej i warstwy podśluzowej bez obecności przerzutów w węzłach chłonnych.",
+      "question": "Mianem wczesnego raka żołądka określa się:",
       "answers": [
         {
           "id": "A",
@@ -6943,7 +6943,7 @@
     },
     {
       "id": "chi-1-205",
-      "question": "Klasyczne objawy ostrego zapalenia dróg żółciowych wchodzące w skład triady Charcota obejmują: C. ból w prawym górnym kwadrancie brzucha, żółtaczkę i gorączkę z dreszczami.",
+      "question": "Klasyczne objawy ostrego zapalenia dróg żółciowych wchodzące w skład triady Charcota obejmują:",
       "answers": [
         {
           "id": "A",
@@ -7453,7 +7453,7 @@
     },
     {
       "id": "chi-1-220",
-      "question": "Czynnikiem ryzyka raka piersi nie jest: D. późne rozpoczęcie miesiączkowania i wczesne wejście w okres menopauzy. E. stosowanie hormonoterapii zastępczej, w tym doustnych środków antykoncepcyjnych.",
+      "question": "Czynnikiem ryzyka raka piersi nie jest:",
       "answers": [
         {
           "id": "A",
@@ -7589,7 +7589,7 @@
     },
     {
       "id": "chi-1-224",
-      "question": "Cechą charakterystyczną zespołu Leriche’a jest niedrożność: D. końcowego odcinka aorty brzusznej bądź obu tętnic biodrowych wspólnych.",
+      "question": "Cechą charakterystyczną zespołu Leriche’a jest niedrożność:",
       "answers": [
         {
           "id": "A",
@@ -7827,7 +7827,7 @@
     },
     {
       "id": "chi-1-231",
-      "question": "Zespół Ogilviego to: E. pęknięcia błony śluzowej brzusznej części przełyku spowodowane wymiotami.",
+      "question": "Zespół Ogilviego to:",
       "answers": [
         {
           "id": "A",
@@ -7895,7 +7895,7 @@
     },
     {
       "id": "chi-1-233",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące róży (erysipelas): E. zmiany są zwykle umiejscowione na kończynach dolnych lub na twarzy, czasem dochodzi do martwicy i zgorzeli skóry.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące róży (erysipelas):",
       "answers": [
         {
           "id": "A",
@@ -8337,7 +8337,7 @@
     },
     {
       "id": "chi-1-246",
-      "question": "Mężczyzna lat 83, leczący się z powodu zaburzeń rytmu serca i nadciśnienia tętniczego został przywieziony do SOR z powodu bardzo silnych dolegliwości bólowych brzucha. Ból pojawił się nagle, około godziny temu, najpierw był umiejscowiony w nadbrzuszu i miał charakter napadowy, jednak w chwili badania obejmuje całą jamę brzuszną i ma charakter ciągły. Brzuch jest wzdęty, dodatnie objawy otrzewnowe są obecne we wszystkich kwadrantach brzucha. Pacjent ma nudności, wymiotuje treścią pokarmową. Perystaltyka nie jest słyszalna. W badaniu fizykalnym duża przepuklina pachwinowa prawostronna oraz per rectum stolec brązowy w bańce odbytnicy. HR: 96/min, CTK 103/57 mmHg, RR: 18/min, WBC: 33 tys/mm , Hgb 11,2 g/dl, Hct 31%, amylaza 140 U/l. D-dimery 15000 μg/l, TnI <0,001 ng/ml. EKG bez odchyleń od normy. Co jest przyczyną dolegliwości pacjenta? D. niedrożność przewodu pokarmowego spowodowana guzem jelita grubego.",
+      "question": "Mężczyzna lat 83, leczący się z powodu zaburzeń rytmu serca i nadciśnienia tętniczego został przywieziony do SOR z powodu bardzo silnych dolegliwości bólowych brzucha. Ból pojawił się nagle, około godziny temu, najpierw był umiejscowiony w nadbrzuszu i miał charakter napadowy, jednak w chwili badania obejmuje całą jamę brzuszną i ma charakter ciągły. Brzuch jest wzdęty, dodatnie objawy otrzewnowe są obecne we wszystkich kwadrantach brzucha. Pacjent ma nudności, wymiotuje treścią pokarmową. Perystaltyka nie jest słyszalna. W badaniu fizykalnym duża przepuklina pachwinowa prawostronna oraz per rectum stolec brązowy w bańce odbytnicy. HR: 96/min, CTK 103/57 mmHg, RR: 18/min, WBC: 33 tys/mm , Hgb 11,2 g/dl, Hct 31%, amylaza 140 U/l. D-dimery 15000 μg/l, TnI <0,001 ng/ml. EKG bez odchyleń od normy. Co jest przyczyną dolegliwości pacjenta?",
       "answers": [
         {
           "id": "A",
@@ -9119,7 +9119,7 @@
     },
     {
       "id": "chi-1-269",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące raka brodawki Vatera: B. stopień zaawansowania określa się między innymi na podstawie tomografii komputerowej. D. we wczesnym stadium może być leczony chirurgicznie (operacja sposobem Whipple\\’a).",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące raka brodawki Vatera:).",
       "answers": [
         {
           "id": "A",
@@ -9289,7 +9289,7 @@
     },
     {
       "id": "chi-1-274",
-      "question": "W klasyfikacji TNM dotyczącej nowotworów opis T3N2M0 oznacza: C. nowotwór zaawansowany miejscowo z przerzutami do okolicznych węzłów chłonnych. D. nowotwór bardziej zaawansowany miejscowo z liczniejszymi przerzutami do regionalnych węzłów chłonnych. E. nowotwór rozsiany (uogólniona choroba nowotworowa), naciekający sąsiednie struktury, z przerzutami odległymi.",
+      "question": "W klasyfikacji TNM dotyczącej nowotworów opis T3N2M0 oznacza:",
       "answers": [
         {
           "id": "A",
@@ -9357,7 +9357,7 @@
     },
     {
       "id": "chi-1-276",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące rozsiewu raka żołądka: B. limfadenektomia w operacjach z intencją wyleczenia nie odgrywa zasadniczej roli, ponieważ przerzuty do węzłów chłonnych występują rzadko. E. we wczesnym raku żołądka przerzuty do węzłów chłonnych są rzadkie, jednak mogą być obecne, kiedy naciek sięga błony podśluzowej.",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące rozsiewu raka żołądka:",
       "answers": [
         {
           "id": "A",
