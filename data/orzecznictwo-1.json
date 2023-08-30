@@ -1,0 +1,2457 @@
+{
+  "name": "orzecznictwo-1",
+  "tags": [
+    "orzecznictwo",
+    "2023"
+  ],
+  "questions": [
+    {
+      "id": "orz-1-1",
+      "question": "Okres, w którym wystąpienie udokumentowanych objawów chorobowych upoważnia do rozpoznania choroby zawodowej pomimo wcześniejszego zakończenia pracy w narażeniu zawodowym wynosi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "10 dni w przypadku zatruć ostrych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "6 miesięcy w przypadku ostrej choroby popromiennej o charakterze zmian zapalnych lub zapalno-martwiczych skóry i tkanki podskórnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1 rok w przypadku astmy oskrzelowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "5 lat w przypadku przewlekłych chorób narządu głosu spowodowanych nadmiernym wysiłkiem głosowym, trwającym co najmniej 15 lat.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "10 lat w przypadku choroby dekompresyjnej, spowodowanej pracą w warunkach podwyższonego ciśnienia atmosferycznego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-2",
+      "question": "Za wypadek w drodze do pracy lub z pracy uważa się nagłe zdarzenie wywołane przyczyną zewnętrzną, które nastąpiło w drodze do lub z miejsca wykonywania zatrudnienia, przy czym:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "musi to być najkrótsza droga do pracy, nawet jeśli ze względów komunikacyjnych nie jest najdogodniejsza.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nie dotyczy to pracy wykonywanej poza normalnymi godzinami pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nie jest to droga do miejsca lub z miejsca pobierania nauki.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "za drogę do lub z pracy uważa się również miejsce zwykłego spożywania posiłków.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "droga nie może zostać przerwana ze względów życiowych, np. poprzez odprowadzenie dziecka do przedszkola.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-3",
+      "question": "Wyróżnia się trzy stopnie niepełnosprawności - znaczny, umiarkowany i lekki. Jednym z kryterium kwalifikującym do lekkiego stopnia niepełnosprawności jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "konieczność udzielania pomocy, w tym również w pełnieniu funkcji społecznych, czyli zależność osoby z niepełnosprawnością od otoczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "czasowa pomoc w pełnieniu funkcji społecznych - konieczność udzielenia niezbędnej pomocy (tj. pielęgnacyjnej, polegającej na udzielaniu wsparcia w codziennych czynnościach i wspieraniu w procesie leczenia i rehabilitacji) w okresach wynikających ze stanu zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "niezdolność do pracy lub zdolność do pracy jedynie w warunkach pracy chronionej lub wymagających czasowej lub częściowej pomocy innych osób.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "niezdolność do pracy, czyli całkowita niezdolność do wykonywania pracy zarobkowej z powodu fizycznego, psychicznego lub umysłowego naruszenia sprawności organizmu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "obniżenie zdolności do wykonywania pracy przez naruszoną sprawność organizmu powodującą ograniczenia w wykonywaniu pracy zarobkowej, istotnie obniżające wydajność pracy na danym stanowisku w porównaniu do wydajności, jaką wykazują osoby o podobnych kwalifikacjach zawodowych z pełną sprawnością psychiczną i fizyczną.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-4",
+      "question": "Na równi z czasową niezdolnością do pracy z powodu choroby traktowana jest niemożność wykonywania pracy:\n1) z powodu pobytu w stacjonarnym zakładzie lecznictwa odwykowego w celu leczenia uzależnienia alkoholowego, uzależnienia od środków odurzających lub substancji psychotropowych;\n2) z powodu ustalonego terminu na oddanie krwi wśród honorowych dawców krwi;\n3) z powodu pobytu w ośrodku rehabilitacji zawodowej;\n4) w wyniku decyzji wydanej przez właściwy organ lub uprawniony podmiot na podstawie przepisów o zapobieganiu oraz zwalczaniu chorób zakaźnych i zakażeń u ludzi. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tylko 1.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tylko 4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-5",
+      "question": "Nadzór nad zgodnością działań ZUS z obowiązującymi przepisami sprawuje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Minister Zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Minister właściwy do spraw zabezpieczenia społecznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Prezes Rady Ministrów.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Rada Nadzorcza ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Prezes ZUS.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-6",
+      "question": "Obowiązkowo ubezpieczeniu wypadkowemu podlegają:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "pracownicy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "bezrobotni pobierający zasiłek dla bezrobotnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "bezrobotni pobierający świadczenie integracyjne.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "posłowie do Parlamentu Europejskiego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "członkowie Rady Europy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-7",
+      "question": "Zgodnie z Ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych orzeczenie lekarza orzecznika i komisji lekarskiej Zakładu Ubezpieczeń Społecznych o częściowej lub całkowitej niezdolności do pracy stanowi dla organu rentowego podstawę do przyznania:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zasiłku chorobowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "świadczenia rehabilitacyjnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "jednorazowego odszkodowania z tytułu wypadku przy pracy lub choroby zawodowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "renty z tytułu niezdolności do pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "dodatku pielęgnacyjnego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-8",
+      "question": "Jeżeli nastąpiła śmierć ubezpieczonego, związek pomiędzy śmiercią a wypadkiem przy pracy ustala:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lekarz orzecznik ZUS lub komisja lekarska ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "lekarz orzecznik NFZ lub komisja lekarska NFZ.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarz POZ.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "lekarz specjalista medycyny pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "komisja lekarska działająca przy izbach lekarskich.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-9",
+      "question": "Osoby poniżej 16. r.ż. zaliczane będą do osób niepełnosprawnych, jeżeli mają naruszoną sprawność fizyczną z powodu wady wrodzonej lub uszkodzenia organizmu o przewidywanym okresie trwania powyżej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "3 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "6 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "9 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "12 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "15 miesięcy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-10",
+      "question": "Prawidłowość orzekania o czasowej niezdolności do pracy z powodu choroby oraz wystawiania zaświadczeń lekarskich kontrolują lekarze orzecznicy Zakładu Ubezpieczeń Społecznych, którzy nie mogą w tym celu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "przeprowadzić badania lekarskiego ubezpieczonego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "skierować ubezpieczonego na badanie specjalistyczne przez lekarza konsultanta Zakładu Ubezpieczeń Społecznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "skierować ubezpieczonego na obserwację szpitalną.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zażądać od lekarza wystawiającego zaświadczenie lekarskie udostępnienia dokumentacji medycznej dotyczącej ubezpieczonego stanowiącej podstawę wydania zaświadczenia lekarskiego lub wyjaśnień i informacji w sprawie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zlecić wykonania badań pomocniczych w wyznaczonym terminie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-11",
+      "question": "Wypadek, w wyniku którego u pracownika nastąpiło ciężkie uszkodzenie ciała, takie jak utrata zdolności rozrodczej lub choroba psychiczna to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lekki wypadek przy pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "umiarkowany wypadek przy pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ciężki wypadek przy pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "izolowany wypadek przy pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zbiorowy wypadek przy pracy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-12",
+      "question": "Zasiłek chorobowy nie przysługuje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ubezpieczonemu, który stał się niezdolny do pracy z powodu choroby w czasie trwania ubezpieczenia chorobowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ubezpieczonemu z powodu przebywania w stacjonarnym zakładzie lecznictwa odwykowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ubezpieczonemu przebywającemu w szpitalu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nieubezpieczonemu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ubezpieczonemu, który był niezdolny do pracy wskutek poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-13",
+      "question": "Zgodnie z przepisami ustawy, za wypadek przy pracy uważa się nagłe zdarzenie wywołane przyczyną zewnętrzną, powodujące uraz lub śmierć, które nastąpiło podczas:\n1) wykonywania czynności na rzecz pracodawcy, bez jego polecenia;\n2) podróży służbowej;\n3) szkolenia w zakresie powszechnej samoobrony;\n4) wykonywania zadań zleconych przez działające u pracodawcy organizacje zawodowe. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-14",
+      "question": "Powiatowy zespół orzekania o niepełnosprawności orzeka o stopniu niepełnosprawności:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "z urzędu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "na wniosek szkoły lub innej placówki oświatowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "na wniosek poradni psychologiczno-pedagogicznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "na wniosek prokuratora.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "na wniosek osoby zainteresowanej, jej przedstawiciela ustawowego lub za ich zgodą na wniosek ośrodka pomocy społecznej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-15",
+      "question": "W celu kontroli orzekania o czasowej niezdolności do pracy lekarz orzecznik ZUS nie może:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "przeprowadzić badania osoby ubezpieczonej w wyznaczonym miejscu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "przeprowadzić badania osoby ubezpieczonej w miejscu jej pobytu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "skierować osoby ubezpieczonej do dowolnego lekarza na badanie specjalistyczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zażądać od lekarza, który wystawił zaświadczenie lekarskie, udostępnienia dokumentacji medycznej osoby ubezpieczonej, stanowiącej podstawę wydania zaświadczenia lekarskiego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zlecić wykonania badań pomocniczych w wyznaczonym terminie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-16",
+      "question": "Pracodawca zatrudniający pracowników w warunkach narażenia na działanie substancji i czynników rakotwórczych lub pyłów zwłókniających jest zobowiązany zapewnić im dodatkowe badania okresowe:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "bezwzględnie raz na 12 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "po rozwiązaniu stosunku pracy, jeśli osoba zainteresowana zgłosi wniosek o objęcie takimi badaniami; koszty ponosi osoba zainteresowana.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "bezwzględnie po rozwiązaniu stosunku pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "po zaprzestaniu pracy w kontakcie z tymi substancjami, czynnikami lub pyłami; koszty ponosi pracodawca.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "pracodawca nie jest zobowiązany do dodatkowych badań okresowych u pracowników narażonych na wymienione substancje.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-17",
+      "question": "Zgodnie z Ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych za niezdolną do samodzielnej egzystencji uważa się osobę, która z powodu naruszenia sprawności organizmu wymaga:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "pomocy w codziennych czynnościach.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "pielęgnacji w okresie ostrym choroby.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "pomocy w załatwianiu spraw urzędowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "stałej lub długotrwałej opieki i pomocy innej osoby w zaspokajaniu podstawowych potrzeb życiowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ustalenia przez sąd opiekuna prawnego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-18",
+      "question": "Zakład Ubezpieczeń Społecznych udostępnia druki zaświadczeń lekarskich o czasowej niezdolności do pracy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lekarzom mającym upoważnienie ZUS do wystawiania zaświadczeń lekarskich.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "lekarzom specjalistom.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarzom orzecznikom ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kierownikom Przychodni.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "dyrektorom Szpitali.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-19",
+      "question": "Od orzeczenia lekarza orzecznika ZUS o niezdolności do pracy przysługuje osobie zainteresowanej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "sprzeciw do komisji lekarskiej ZUS w terminie 7 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "sprzeciw do komisji lekarskiej ZUS w terminie 14 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "sprzeciw do komisji lekarskiej ZUS w terminie 21 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "odwołanie do komisji bioetycznej okręgowej izby lekarskiej w terminie 7 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "odwołanie do komisji bioetycznej okręgowej izby lekarskiej w terminie 14 dni.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-20",
+      "question": "Renta szkoleniowa z Funduszu Ubezpieczeń Społecznych przysługuje osobie ubezpieczonej mającej odpowiedni okres ubezpieczenia, wobec której orzeczono:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "częściową niezdolność do pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "celowość przekwalifikowania zawodowego ze względu na całkowitą niezdolność do pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "czasową niezdolność do pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "celowość przekwalifikowania zawodowego ze względu na niezdolność do pracy w dotychczasowym zawodzie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "całkowitą niezdolność do służby i zdolność do pracy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-21",
+      "question": "Które z niżej wymienionych świadczeń nie przysługuje osobom ubezpieczonym z ubezpieczenia społecznego w razie choroby i macierzyństwa?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zasiłek chorobowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "świadczenie rehabilitacyjne.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zasiłek wyrównawczy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zasiłek opiekuńczy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zasiłek pielęgnacyjny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-22",
+      "question": "Chorobą zawodową jest choroba wymieniona w wykazie chorób zawodowych, jeżeli została spowodowana działaniem czynników szkodliwych dla zdrowia występujących w środowisku pracy lub sposobem wykonywania pracy, zwanych „narażeniem zawodowym”. W rozporządzeniu Rady Ministrów dotyczącym chorób zawodowych nie figuruje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "pylica płuc.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "astma oskrzelowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "alergiczny nieżyt nosa.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zawał mięśnia sercowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zespół wibracyjny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-23",
+      "question": "Renta socjalna przysługuje osobie pełnoletniej, której z powodu naruszenia sprawności organizmu powstałego w okresach określonych Ustawą o rencie socjalnej orzeczono:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "częściową niezdolność do pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "lekki stopień niepełnosprawności.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "znaczny stopień niepełnosprawności.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "całkowitą niezdolność do pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "całkowitą niezdolność do służby.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-24",
+      "question": "Świadczenie rehabilitacyjne przysługuje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "łącznie z zasiłkiem chorobowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "jedynie wówczas, gdy ubezpieczony nie był uprawniony do zasiłku chorobowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "na okres nie dłuższy niż 6 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "na okres nie dłuższy niż 9 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ubezpieczonemu, który po wyczerpaniu zasiłku chorobowego jest nadal niezdolny do pracy, a dalsze leczenie lub rehabilitacja lecznicza rokują odzyskanie zdolności do pracy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-25",
+      "question": "Która z niżej wymienionych chorób nie figuruje w wykazie chorób zawodowych zawartym w Rozporządzeniu Rady Ministrów z dnia 30.VI.2009 r. w sprawie chorób zawodowych?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "pylica płuc.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "astma oskrzelowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "alergiczny nieżyt nosa.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zawał mięśnia sercowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zespół wibracyjny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-26",
+      "question": "Osobą częściowo niezdolną do pracy jest osoba, która:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "utraciła zdolność do wykonywania jakiejkolwiek pracy zarobkowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nigdy nie była zdolna do wykonywania jakiejkolwiek pracy zarobkowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wymaga pomocy osób trzecich przy wykonywaniu prostych czynności życiowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "w znacznym stopniu utraciła zdolność do wykonywania pracy zgodnej z poziomem posiadanych kwalifikacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie posiada żadnych kwalifikacji zawodowych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-27",
+      "question": "W Rozporządzeniu Rady Ministrów z dnia 30.VI.2009, w sprawie wykazu chorób zawodowych, które zostały spowodowane działaniem czynników szkodliwych dla zdrowia występujących w środowisku pracy lub sposobem wykonywania pracy nie figuruje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zespół wibracyjny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "alergiczny nieżyt nosa.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "pylica płuc.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "astma oskrzelowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zawał mięśnia sercowego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-28",
+      "question": "Zgodnie z Ustawą o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych ubezpieczonemu, który doznał stałego lub długotrwałego uszczerbku na zdrowiu wskutek wypadku przy pracy lub choroby zawodowej przysługuje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "renta z tytułu niezdolności do pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zasiłek chorobowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "renta szkoleniowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "jednorazowe odszkodowanie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zasiłek pielęgnacyjny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-29",
+      "question": "W wykazie chorób zawodowych stanowiącym załącznik do Rozporządzenia Rady Ministrów z dnia 30 czerwca 2009 r. w sprawie chorób zawodowych\n(Dz. U. z 2009r. Nr 105, poz. 869 z późn. zm.) nie figuruje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zespół wibracyjny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zawał mięśnia sercowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "alergiczny nieżyt nosa.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "astma oskrzelowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "pylica płuc.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-30",
+      "question": "Zasiłek chorobowy przysługuje ubezpieczonemu, który stał się niezdolny do pracy z powodu choroby w czasie trwania ubezpieczenia chorobowego. Na równi z niezdolnością do pracy z powodu choroby nie traktuje się niemożności wykonywania pracy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "w wyniku decyzji wydanej przez właściwy organ albo uprawniony podmiot na podstawie przepisów o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych ludzi.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "z powodu przebywania w stacjonarnym zakładzie lecznictwa odwykowego w celu leczenia uzależnienia alkoholowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "z powodu przebywania w szpitalu albo innym zakładzie leczniczym podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w celu leczenia uzależnienia od środków odurzających lub substancji psychotropowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wskutek poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "z powodu leczenia sanatoryjnego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-31",
+      "question": "Okoliczności stanowiące podstawę do uzyskania przez ubezpieczonego świadczenia rehabilitacyjnego (niezdolność do pracy po wyczerpaniu zasiłku chorobowego oraz rokowanie, że dalsze leczenie lub rehabilitacja lecznicza rokują odzyskanie zdolności do pracy) stwierdza:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lekarz orzecznik ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "komisja lekarska ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarz podstawowej opieki zdrowotnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "lekarz specjalista medycyny pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lekarz wystawiający ubezpieczonemu zwolnienie lekarskie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-32",
+      "question": "Zgodnie z Ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych z wnioskiem o przyznanie renty z tytułu niezdolności do pracy występuje do ZUS:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lekarz medycyny pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "lekarz specjalista.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarz rodzinny.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "pracodawca.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "osoba ubezpieczona.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-33",
+      "question": "Zaświadczenie lekarskie o czasowej niezdolności do pracy z powodu choroby lub pobytu w szpitalu w formie dokumentu elektronicznego na elektroniczną skrzynkę podawczą ZUS może wystawić:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wyłącznie lekarz orzecznik ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wyłącznie lekarz specjalista.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wyłącznie lekarz specjalista, po uzyskaniu upoważnienia do wystawiania zaświadczeń lekarskich o czasowej niezdolności do pracy przez ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "każdy lekarz po uzyskaniu upoważnienia do wystawiania zaświadczeń lekarskich o czasowej niezdolności do pracy przez ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "każdy lekarz, który przeszedł odpowiednie szkolenie w zakresie wystawiania zwolnień lekarskich w formie dokumentu elektronicznego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-34",
+      "question": "W rozumieniu Ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych osoba ubezpieczona, która w znacznym stopniu utraciła zdolność do pracy zgodnej z poziomem posiadanych kwalifikacji jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "częściowo niezdolna do pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "całkowicie niezdolna do pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "niepełnosprawna w stopniu znacznym.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "długotrwale niezdolna do pracy w gospodarstwie rolnym.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "inwalidą I grupy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-35",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące komisji lekarskiej ZUS:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "orzeka w składzie trzyosobowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "dokonuje rozstrzygnięcia w formie orzeczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "jej członek może być jednocześnie lekarzem orzecznikiem ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "pracuje w oddziale ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie rozpatruje sprzeciwów wniesionych po terminie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-36",
+      "question": "Zgodnie z Ustawą o emeryturach i rentach z FUS osoba ubezpieczona, która nie zgadza się z orzeczeniem lekarza orzecznika ZUS, ma prawo w ciągu 14 dni od daty otrzymania tego orzeczenia wniesienia:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "odwołania do Sądu Pracy i Ubezpieczeń Społecznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "odwołania do Dyrektora Oddziału ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "odwołania do Prezesa ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "sprzeciwu do komisji lekarskiej ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "odwołania do Ministerstwa Rodziny, Pracy i Polityki Społecznej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-37",
+      "question": "Jakie świadczenia przysługują z tytułu wypadku przy pracy lub choroby zawodowej?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zasiłek chorobowy oraz świadczenie rehabilitacyjne w wysokości 80% wymiaru podstawy oraz odszkodowanie jednorazowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zasiłek chorobowy i świadczenie rehabilitacyjne w wysokości 100% wymiaru podstawy oraz odszkodowanie jednorazowe, ale tylko w przypadku, gdy osoba doznała stałego lub długotrwałego uszczerbku na zdrowiu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zasiłek chorobowy i świadczenie rehabilitacyjne w wysokości 100% wymiaru podstawy, wypłacane również w przypadku, gdy poszkodowany zachowuje prawo do wynagrodzenia, uposażenia lub stypendium.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zasiłek chorobowy i świadczenie rehabilitacyjne w wysokości 60% wymiaru podstawy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zasiłek chorobowy i świadczenie rehabilitacyjne w wysokości 80% wymiaru podstawy oraz odszkodowanie jednorazowe, wypłacane wyłącznie rodzinie poszkodowanego, który zmarł na skutek wypadku przy pracy lub choroby zawodowej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-38",
+      "question": "Zgodnie z Ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych renta z tytułu niezdolności do pracy przysługuje osobie ubezpieczonej, która spełnia następujące warunki:\n1) jest niezdolna do pracy;\n2) ma wymagany okres składkowy i nieskładkowy;\n3) nie ma wystarczających środków do zabezpieczenia swojej egzystencji;\n4) niezdolność do pracy powstała w okresie ubezpieczenia albo nie później niż w ciągu 18 miesięcy od ustania zatrudnienia. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tylko 1.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,3,4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-39",
+      "question": "Zaświadczenie lekarskie o czasowej niezdolności do pracy wystawia się z dwiema kopiami. Lekarz wystawiający zaświadczenie przekazuje jego pierwszą kopię:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "terenowej jednostce organizacyjnej ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "centrali ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "osobie ubezpieczonej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "NFZ.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "pracodawcy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-40",
+      "question": "Jeżeli osoba ubezpieczona zagubiła zaświadczenie lekarskie o czasowej niezdolności do pracy lekarz, który wydał to zaświadczenie, na jej wniosek:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wypełnia nowy druk zaświadczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "sporządza fotokopię tego zaświadczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "sporządza wypis z kopii tego zaświadczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wydaje ubezpieczonemu kopię tego zaświadczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "sporządza kserokopię tego zaświadczenia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-41",
+      "question": "Zgodnie z Ustawą o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, zaświadczenie lekarskie o czasowej niezdolności do pracy na okres wcześniejszy niż 3 dni poprzedzające dzień badania osoby ubezpieczonej może być wystawione przez:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lekarza rzeczoznawcę KRUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "lekarza orzecznika ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarza psychiatrę.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "dyrektora szpitala.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "kierownika przychodni.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-42",
+      "question": "Zgodnie z Ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych osobie ubezpieczonej posiadającej wymagany okres ubezpieczenia, której lekarz orzecznik wydał orzeczenie o celowości przekwalifikowania zawodowego przysługuje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "renta wypadkowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "renta szkoleniowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zasiłek pielęgnacyjny.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zasiłek chorobowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "renta z tytułu niezdolności do pracy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-43",
+      "question": "Zgodnie z Ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych warunek posiadania wymaganego okresu składkowego i nieskładkowego dla przyznania renty z tytułu niezdolności do pracy dla osoby, która nie ukończyła 20. roku życia uważa się za spełniony, jeżeli osoba ubezpieczona posiada okres składkowy i nieskładkowy wynoszący łącznie co najmniej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "5 lat.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "4 lata.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3 lata.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2 lata.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1 rok.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-44",
+      "question": "Lekarze orzecznicy ZUS i Komisje lekarskie ZUS wydają orzeczenia ustalające uprawnienia do świadczeń z Funduszu Ubezpieczeń Społecznych, ale nie wydają orzeczeń o:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "związku niezdolności do pracy z wypadkiem przy pracy lub chorobą zawodową.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "stopniu niepełnosprawności.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "stałym lub długotrwałym uszczerbku na zdrowiu spowodowanym wypadkiem przy pracy lub chorobą zawodową.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "potrzebie rehabilitacji leczniczej w ramach prewencji rentowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "niezdolności do pracy do celów rentowych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-45",
+      "question": "Jeżeli niezdolność do pracy powstała przed ukończeniem 20 lat warunek posiadania wymaganego okresu składkowego i nieskładkowego do przyznania renty z tytułu niezdolności do pracy uważa się za spełniony, gdy osoba posiada okres składkowy i nieskładkowy wynoszący łącznie co najmniej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "jeden rok.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "dwa lata.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "trzy lata.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "cztery lata.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "pięć lat.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-46",
+      "question": "W zaświadczeniu lekarskim o czasowej niezdolności do pracy z powodu choroby lub pobytu w szpitalu albo innym zakładzie leczniczym podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne informacje o okolicznościach mających wpływ na prawo do zasiłku chorobowego lub jego wysokość podaje się z zastosowaniem kodów literowych. Kod B oznacza niezdolność do pracy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "przypadającą w okresie ciąży.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "powstałą po przerwie nieprzekraczającej 60 dni - spowodowaną tą samą chorobą, która była przyczyną niezdolności do pracy przed przerwą.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "spowodowaną nadużyciem alkoholu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "spowodowaną gruźlicą.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "spowodowaną udarem mózgu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-47",
+      "question": "Dla przyznania renty z tytułu niezdolności do pracy osobie, która nie ukończyła 20. roku życia warunek posiadania wymaganego okresu składkowego i nieskładkowego uważa się za spełniony, jeżeli osoba ubezpieczona posiada okres składkowy i nieskładkowy wynoszący co najmniej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "5 lat.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "4 lata.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3 lata.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2 lata.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1 rok.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-48",
+      "question": "Zgodnie z Ustawą o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa zasiłek chorobowy z tytułu czasowej niezdolności do pracy przysługuje przez okres nie dłuższy niż 270 dni, jeżeli przyczyną tej niezdolności jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "mononukleoza.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "udar mózgu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zawał mięśnia sercowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "gruźlica.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "AIDS.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-49",
+      "question": "Zgodnie z Ustawą o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa zaświadczenie lekarskie o czasowej niezdolności do pracy może być wystawione na okres nie dłuższy niż 3 dni poprzedzające dzień, w którym przeprowadzono badanie, jeżeli jego wyniki wykazują, że osoba ubezpieczona w tym okresie była niewątpliwie niezdolna do pracy. Kto może wystawić zaświadczenie lekarskie na okres wcześniejszy niż 3 dni poprzedzające dzień badania osoby ubezpieczonej?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kierownik przychodni.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "dyrektor szpitala.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarz psychiatra.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "lekarz orzecznik ZUS.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lekarz leczący po uzyskaniu zgody Prezesa ZUS.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-50",
+      "question": "Podstawowy okres zasiłkowy w ubezpieczeniu społecznym rolników wynosi\n180 dni. Jeżeli po wyczerpaniu tego okresu osoba ubezpieczona jest nadal niezdolna do pracy, ale w wyniku dalszego leczenia lub rehabilitacji rokuje odzyskanie zdolności do pracy, to okres zasiłkowy przedłuża się do przewidywanego okresu jej odzyskania, jednak nie dłużej niż o:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "90 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "120 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "180 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "250 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "360 dni.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-51",
+      "question": "Jednorazowe odszkodowanie przysługuje osobie ubezpieczonej w ZUS, która wskutek wypadku przy pracy lub choroby zawodowej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "jest niepełnosprawna w stopniu znacznym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "jest czasowo niezdolna do pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "doznała stałego lub długotrwałego uszczerbku na zdrowiu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "jest niepełnosprawna w stopniu umiarkowanym.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "jest całkowicie niezdolna do pracy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-52",
+      "question": "Zgodnie z Ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych niezdolność do pracy dla celów rentowych orzeka się na okres nie dłuższy niż:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1 rok.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2 lata.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3 lata.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "4 lata.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "5 lat.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-53",
+      "question": "W przypadku stwierdzenia nieprawidłowości w wystawianiu zaświadczeń lekarskich o czasowej niezdolności do pracy w szczególności, gdy zaświadczenie lekarskie zostało wystawione bez przeprowadzenia bezpośredniego badania ubezpieczonego, bez udokumentowania rozpoznania stanowiącego podstawę orzeczonej czasowej niezdolności do pracy, Zakład Ubezpieczeń Społecznych może, w formie decyzji, cofnąć upoważnienie do ich wystawiania na okres nieprzekraczający:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "3 miesięcy od dnia, w którym decyzja stała się ostateczna.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "5 miesięcy od dnia, w którym decyzja stała się ostateczna.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "6 miesięcy od dnia, w którym decyzja stała się ostateczna.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "9 miesięcy od dnia, w którym decyzja stała się ostateczna.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "12 miesięcy od dnia, w którym decyzja stała się ostateczna.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-54",
+      "question": "Zgodnie z Ustawą o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa w zaświadczeniu lekarskim o czasowej niezdolności do pracy z powodu choroby lub pobytu w stacjonarnym zakładzie opieki zdrowotnej informacje o okolicznościach mających wpływ na prawo do zasiłku chorobowego lub jego wysokość podaje się z zastosowaniem kodów Iiterowych.\n- niezdolność do pracy przypadającą w okresie ciąży oznacza się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kodem A.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kodem B.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "kodem C.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kodem D.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "kodem E.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-55",
+      "question": "Zgodnie z ustawą o emeryturach i rentach z FUS renta z tytułu niezdolności do pracy przysługuje osobie ubezpieczonej, która legitymuje się wymaganym okresem składkowym i nieskładkowym oraz orzeczeniem lekarskim o:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "znacznym stopniu niepełnosprawności.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "niezdolności do pracy, która powstała w okresie ubezpieczenia albo nie później niż w ciągu 36 miesięcy od ustania zatrudnienia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "niezdolności do pracy, która powstała w okresie ubezpieczenia albo nie później niż w ciągu 24 miesięcy od ustania zatrudnienia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "umiarkowanym stopniu niepełnosprawności.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "niezdolności do pracy, która powstała w okresie ubezpieczenia albo nie później niż w ciągu 18 miesięcy od ustania zatrudnienia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-56",
+      "question": "Zasiłek chorobowy przysługuje przez okres czasowej niezdolności do pracy z powodu gruźlicy, nie dłużej jednak niż przez:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "128 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "182 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "228 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "240 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "270 dni.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-57",
+      "question": "Zgodnie z Ustawą o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, w zaświadczeniu lekarskim o czasowej niezdolności do pracy numer statystyczny choroby ustalony według X Rewizji Międzynarodowej Statystycznej Kwalifikacji Chorób i Problemów Zdrowotnych wpisuje się na:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "drugiej kopii zaświadczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "oryginale i drugiej kopii zaświadczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "oryginale i pierwszej kopii zaświadczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "pierwszej kopii zaświadczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "oryginale zaświadczenia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-58",
+      "question": "Jaki kod literowy podaje się w zaświadczeniu lekarskim o czasowej niezdolności do pracy lub pobycie w stacjonarnym zakładzie opieki zdrowotnej w przypadku czasowej niezdolności do pracy spowodowanej nadużyciem alkoholu?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kod A.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kod B.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "kod C.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kod D.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "kod E.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-59",
+      "question": "Które z niżej wymienionych orzeczeń nie jest wydawane przez lekarzy orzeczników ZUS na potrzeby ustalenia uprawnień do świadczeń z Funduszu Ubezpieczeń Społecznych?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "orzeczenie o niezdolności do pracy do celów rentowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "orzeczenie o potrzebie rehabilitacji leczniczej w ramach prewencji rentowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "orzeczenie o stałym lub długotrwałym uszczerbku na zdrowiu spowodowanym wypadkiem przy pracy lub chorobą zawodową.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "orzeczenie o stopniu niepełnosprawności.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "orzeczenie o związku niezdolności do pracy z wypadkiem przy pracy lub chorobą zawodową.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-60",
+      "question": "Zgodnie z Ustawą o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa świadczenie rehabilitacyjne przysługuje osobie ubezpieczonej, która spełnia między innymi następujące warunki:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wyczerpała zasiłek chorobowy (182 lub 270 dni).",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "jest nadal niezdolna do pracy ze względu na konieczność dalszego leczenia i rehabilitacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nie rokuje odzyskania zdolności do dotychczasowej pracy w okresie 12 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawdziwe są odpowiedzi A+B.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A+B+C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-61",
+      "question": "Która z niżej wymienionych instytucji wydaje decyzję o stwierdzeniu choroby zawodowej lub decyzję o braku podstaw do jej stwierdzenia?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Zakład Ubezpieczeń Społecznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Ministerstwo Zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Państwowa Inspekcja Sanitarna.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Ministerstwo Pracy i Polityki Społecznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-62",
+      "question": "Zgodnie z Ustawą o rencie socjalnej, prawo do renty socjalnej nie przysługuje osobie z orzeczeniem całkowitej niezdolności do pracy spowodowanej naruszeniem sprawności organizmu, która powstała:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "przed ukończeniem 18. roku życia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "w czasie zatrudnienia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "w trakcie aspirantury naukowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "w trakcie studiów doktoranckich.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "w czasie nauki w szkole lub szkole wyższej przed ukończeniem 25. roku życia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-63",
+      "question": "Przy orzekaniu o niezdolności do pracy dla lekarzy orzekających w ZUS nie mają mocy wiążącej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "decyzje organu PIS stwierdzające chorobę zawodową.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ustalenia starosty o braku możliwości przekwalifikowania zawodowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "prawomocne ustalenia dotyczące uznania zdarzeń jako wypadku przy pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "orzeczenia lekarzy medycyny pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "orzeczenia Wojskowych Komisji Lekarskich dotyczących ustalenia istnienia związku pomiędzy stwierdzonymi zranieniami i kontuzjami, a działaniami wojennymi.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-64",
+      "question": "Decyzję stwierdzającą chorobę zawodową po przeprowadzeniu postępowania wyjaśniającego wydaje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lekarz medycyny pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Instytut Medycyny Pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Centralny Instytut Ochrony Pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "organ Państwowej Inspekcji Sanitarnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Zakład Ubezpieczeń Społecznych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-65",
+      "question": "Świadczenia pieniężne z ubezpieczenia społecznego w razie choroby i macierzyństwa, zwanego „ubezpieczeniem chorobowym”, nie obejmują:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zasiłku chorobowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "świadczenia rehabilitacyjnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zasiłku wyrównawczego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zasiłku macierzyńskiego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "renty z tytułu niezdolności do pracy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-66",
+      "question": "Zasiłek chorobowy przysługuje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wszystkim obywatelom RP, niezależnie od posiadanego przez nich ubezpieczenia społecznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wyłącznie obywatelom RP posiadającym ubezpieczenie społeczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wszystkim niezdolnym do pracy obywatelom RP.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wszystkim osobom przebywającym na terenie RP, które są niezdolne do pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ubezpieczonemu, który stał się niezdolny do pracy z powodu choroby w czasie trwania ubezpieczenia chorobowego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-67",
+      "question": "W zaświadczeniu lekarskim o czasowej niezdolności do pracy kod literowy A oznacza:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "niezdolność do pracy powstałą po przerwie nieprzekraczającej 60 dni - spowodowaną tą samą chorobą, która była przyczyną niezdolności do pracy przed przerwą.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "niezdolność do pracy przypadającą w okresie ciąży lub karmienia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "niezdolność do pracy spowodowaną nadużyciem alkoholu lub środków odurzających.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "niezdolność do pracy spowodowaną gruźlicą.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żadne z wymienionych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-68",
+      "question": "Ubezpieczonemu będącemu pracownikiem, którego wynagrodzenie uległo obniżeniu wskutek stałego lub długotrwałego uszczerbku na zdrowiu przysługuje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "świadczenie rehabilitacyjne.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "dodatek pielęgnacyjny.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "renta szkoleniowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zasiłek wyrównawczy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "jednorazowe odszkodowanie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-69",
+      "question": "Od orzeczenia wydanego przez powiatowy zespół do spraw orzekania o niepełnosprawności przysługuje odwołanie do:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "komisji lekarskiej Zakładu Ubezpieczeń Społecznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "komisji lekarskiej Narodowego Funduszu Zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "komisji lekarskiej okręgowej izby lekarskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wojewódzkiego zespołu do spraw orzekania o niepełnosprawności.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Krajowego zespołu do spraw orzekania o niepełnosprawności.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-70",
+      "question": "Miesięczny zasiłek chorobowy za okres pobytu w szpitalu wynosi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "65% podstawy wymiaru zasiłku.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "70% podstawy wymiaru zasiłku.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "80% podstawy wymiaru zasiłku.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "90% podstawy wymiaru zasiłku.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "100% podstawy wymiaru zasiłku.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-71",
+      "question": "Zgodnie z ustawą o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych orzeczenie lekarza orzecznika ZUS o niezdolności do samodzielnej egzystencji jest traktowane na równi z orzeczeniem o:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "częściowej niezdolności do pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "całkowitej niezdolności do pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekkim stopniu niepełnosprawności.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "średnim stopniu niepełnosprawności.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "znacznym stopniu niepełnosprawności.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "orz-1-72",
+      "question": "Niezdolność do pracy, zgodnie z ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, orzeka się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "na okres nie dłuższy niż 10 lat, chyba że zgodnie z wiedzą medyczną nie ma rokowań odzyskania zdolności do pracy przed upływem tego okresu – wówczas na okres 15 lat.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "na okres nie dłuższy niż 8 lat, chyba że zgodnie z wiedzą medyczną nie ma rokowań odzyskania zdolności do pracy przed upływem tego okresu – wówczas na okres 10 lat.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "na okres nie dłuższy niż 5 lat, chyba że zgodnie z wiedzą medyczną nie ma rokowań odzyskania zdolności do pracy przed upływem tego okresu – wówczas na okres dłuższy niż 5 lat.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "każdorazowo na okres 10 lat.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "każdorazowo na okres 15 lat.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    }
+  ]
+}

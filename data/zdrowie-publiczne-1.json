@@ -1,0 +1,2729 @@
+{
+  "name": "zdrowie-publiczne-1",
+  "tags": [
+    "zdrowie-publiczne",
+    "2023"
+  ],
+  "questions": [
+    {
+      "id": "zdr-1-1",
+      "question": "Światowa Organizacja Zdrowia jest międzynarodową organizacją o szerokich uprawnieniach ukierunkowanych na problemy zdrowotne o zasięgu globalnym obejmujące m.in.:\n1) walkę z malarią;\n2) walkę z gruźlicą;\n3) prawidłową eradykację ospy prawdziwej;\n4) badania jakości preparatów biologicznych i farmakologicznych;\n5) walkę z chorobą biegunkową. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-2",
+      "question": "W danej populacji krajowej masa ciała kobiet w wieku 19-25 lat wykazuje rozkład normalny i wynosi średnio 55 kg. Odchylenie standardowe wynosi\n5,5 kg. Kobiet, które w tej populacji ważą mniej niż 49,5 kg jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "5%.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "10%.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "15%.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "16%.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "32%.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-3",
+      "question": "Znacząca poprawa stanu zdrowia i dobrostanu ludności. Zmniejszenie nierówności w dostępie do zdrowia. Wzmocnienie pozycji zdrowia publicznego. Zapewnienie systemów ochrony zdrowia zorientowanych na pacjenta, które są powszechne, równe, trwałe i wysokiej jakości. To strategiczne ramy polityki regionalnej UE na rzecz zdrowia publicznego, opracowane przez:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Stowarzyszenie Szkół Zdrowia Publicznego Regionu Europejskiego ASPHER w postaci Europejskiej Agencji Akredytacji Zdrowia Publicznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Światową Organizację Zdrowia, w dokumencie Karta Ottawska Promocji Zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Europejski Komitet Regionalny WHO jako dokument pt. „Zdrowie 2020. Europejska polityka wspierająca działania rządów i społeczeństw na rzecz zdrowia i dobrostanu człowieka”.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Europejskie Stowarzyszenie Zdrowia Publicznego EUPHA (European Public Health Association).",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Radę Europejską w 1992 roku w dokumencie pt. „Traktat z Maastricht o Unii Europejskiej”.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-4",
+      "question": "U pacjenta narodowości polskiej urodzonego w 1973 r. z wysoką gorączką, suchym kaszlem, katarem, zapaleniem spojówek i światłowstrętem lekarz stwierdził obecność plamek Koplika (Fiłatowa) na błonie śluzowej policzków oraz pojedynczych ciemnoczerwonych plamek i grudek na linii włosów za uszami. Zgodnie z ustawą z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi obowiązkiem tego lekarza jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zgłoszenie podejrzenia choroby zakaźnej nie później niż w ciągu 48 godzin do państwowego powiatowego inspektora sanitarnego właściwego dla miejsca powzięcia podejrzenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zgłoszenie podejrzenia choroby zakaźnej nie później niż w ciągu 24 godzin do państwowego powiatowego inspektora sanitarnego właściwego dla miejsca powzięcia podejrzenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zalecenie konsultacji u lekarza dentysty, specjalisty periodontologii.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zapytanie pacjenta czy w ostatnim czasie odbywał podróże zagraniczne lub miał kontakt z chorym na odrę.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zapytanie pacjenta czy w dzieciństwie chorował na odrę.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-5",
+      "question": "Rekomendacja nr 179/2014 z dnia 28 lipca 2014 r. prezesa Agencji Oceny Technologii Medycznych w sprawie zakwalifikowania świadczenia opieki zdrowotnej „leczenie restenozy naczyń wieńcowych za pomocą balonu uwalniającego lek”, jako świadczenia gwarantowanego, w zakresie leczenia szpitalnego jest przykładem zastosowania:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "oceny technologii medycznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "analizy bezpieczeństwa technologii.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "analizy efektywności klinicznej technologii.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "analizy ekonomicznej (efektywności kosztowej technologii).",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "analizy rozwiązań alternatywnych dla technologii.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-7",
+      "question": "W analizie użyteczności kosztów (porównanie dwóch interwencji, które mają różne efekty zdrowotne) najczęściej używaną miarą do porównania efektu zdrowotnego jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "śmiertelność.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "QALY.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "VOLY.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "DALY.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "HYE.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-8",
+      "question": "Według szacunków World Health Organization zakażenia związane z opieką zdrowotną odnotowuje się przeciętnie u:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "około 10 na 100 pacjentów hospitalizowanych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "około 15 na 100 pacjentów hospitalizowanych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "około 20 na 100 pacjentów hospitalizowanych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "około 25 na 100 pacjentów hospitalizowanych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "około 30 na 100 pacjentów hospitalizowanych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-9",
+      "question": "Matryca Williama Haddona powinna być wykorzystywana do analizy czynników, które umożliwiają zapobieganie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "chorobom układu krążenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "urazom w wyniku upadków dzieci na placu zabaw.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "chorobom narządu ruchu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zanieczyszczeniu wody przeznaczonej do spożycia przez ludzi.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zanieczyszczeniu powietrza wewnątrz pomieszczeń.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-10",
+      "question": "Pierwszą wyraźną podstawą prawną do działań Unii Europejskiej w zakresie zdrowia publicznego stanowi traktat:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "z Lizbony.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "z Amsterdamu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "z Nicei.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "z Maastricht.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "z Rzymu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-11",
+      "question": "Według przeglądu Cochrane ze stycznia 2019 r. przeglądy zdrowia u osób poniżej 65. roku życia prowadzone w POZ (wywiad, badanie przedmiotowe, badania przesiewowe w kierunku kilku chorób jednocześnie, interwencje behawioralne) mają niewielki lub żaden wpływ na spadek umieralności z powodu nowotworów oraz chorób sercowo-naczyniowych. Przegląd ten jest przykładem:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "analizy rozwiązań alternatywnych dla technologii.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "analizy efektywności kosztowej technologii.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "analizy bezpieczeństwa technologii.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "oceny technologii medycznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "analizy potrzeb zdrowotnych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-12",
+      "question": "Dyrektor naczelny szpitala zdecydował, aby przeprowadzić badanie na temat doświadczeń pacjenta, czyli odczuć pacjentów oraz ich rodzin lub opiekunów, które wynikają z opieki medycznej w tym szpitalu. Badania ilościowe odpowiednie do pomiaru doświadczeń pacjenta to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ankiety.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zogniskowane wywiady grupowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "indywidualne wywiady pogłębione.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "studium przypadku.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "obserwacja.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-13",
+      "question": "W Polsce główną przyczyną zgonów osób w wieku podeszłym (65+) są choroby:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zakaźne.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nowotwory.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "układu krążenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "układu nerwowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "narządu słuchu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-14",
+      "question": "Model przekonań zdrowotnych wyjaśnia:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "dystres.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zapadalność.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ryzyko zdrowotne.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawdopodobieństwo podporządkowania się zaleceniom.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "remisję.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-15",
+      "question": "Epidemiologia jako nauka zajmuje się oceną:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "występowania zjawisk zdrowotnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "uwarunkowań zjawisk zdrowotnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "skuteczności interwencji.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawdziwe są odpowiedzi A,B.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A,B,C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-16",
+      "question": "W badaniu eksperymentalnym z 2013 r. udowodniono, że maseczki chirurgiczne są ok. 3-razy bardziej skuteczne pod względem filtracji powietrza wydychanego przez użytkownika (dla Bacillus atrophaeus oraz bakteriofaga MS2) niż maski domowej roboty z podkoszulka, apaszki czy poszewki. Pomimo tego maski domowej roboty wydają się lepsze niż brak jakiejkolwiek ochrony przed chorobami przenoszonymi drogą kropelkową i mogą być stosowane w celu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "uodpornienia osób wrażliwych na zakażenie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "unieszkodliwienia źródła zakażenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "przecięcia dróg transmisji zakażenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ogólnego nadzoru epidemiologicznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "identyfikacji łańcucha epidemiologicznego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-17",
+      "question": "Które z niżej podanych czynników ryzyka sprzyjają urazom i wypadkom\n(zwłaszcza komunikacyjnym)?\n1) używki;\n2) nadużywanie alkoholu;\n3) niebezpieczne prowadzenie samochodu;\n4) niezapinanie pasów bezpieczeństwa;\n5) mała aktywność fizyczna. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-18",
+      "question": "Ochrona zdrowia pracujących uregulowana została ustawą z 1997 roku o służbie medycyny pracy. Zgodnie z tą ustawą zadania w powyższym zakresie wykonują:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "publiczne zakłady opieki zdrowotnej tworzone i utrzymywane w celu sprawowania profilaktycznej opieki zdrowotnej nad pracującymi.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zakłady opieki zdrowotnej tworzone i utrzymywane przez pracodawców i inne podmioty, jeżeli profilaktyczna opieka zdrowotna nad pracującymi jest ich zadaniem statutowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarze praktykujący indywidualnie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wojewódzkie i międzywojewódzkie ośrodki medycyny pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-19",
+      "question": "Potencjalny związek danego narażenia z chorobą, wyrażony ilościowo za pomocą ilorazu szans, jest możliwy do ustalenia w analizie danych pochodzących z:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "epidemiologicznego badania przekrojowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "badania kliniczno-kontrolnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "epidemiologicznego badania ekologicznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "epidemiologicznego badania korelacyjnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "epidemiologicznego badania opisowego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-20",
+      "question": "Akredytacja szpitali jest to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "obowiązkowy system jakości, uregulowany ustawowo.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "dobrowolny system jakości, wdrażany jako totalne zarządzanie jakością.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "dobrowolny system jakości prowadzony w oparciu o dostępne i opublikowane standardy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "dobrowolny system sieci szpitali promujących zdrowie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "obowiązkowy zintegrowany system jakości.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-21",
+      "question": "W celu zmniejszenia zachorowalności i przedwczesnej umieralności z powodu chorób sercowo-naczyniowych konieczne są:\n1) poprawa sposobu odżywiania;\n2) ograniczenie występowania cukrzycy;\n3) zwiększenie aktywności fizycznej;\n4) ograniczenie palenia tytoniu i spożycia alkoholu;\n5) zwalczanie nadciśnienia tętniczego oraz migotania przedsionków serca. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-22",
+      "question": "W epidemiologii środowiskowej, w ocenie znaczenia narażenia dla występowania analizowanego zjawiska zdrowotnego, wykorzystuje się m.in. biomarker ekspozycji, który jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wskaźnikiem podatności organizmu na wpływ narażenia na szkodliwy czynnik środowiskowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wskaźnikiem wczesnych (subklinicznych) skutków zdrowotnych narażenia na szkodliwy czynnik środowiskowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wskaźnikiem narażenia na szkodliwy czynnik środowiskowy pochodzącym z dozymetrycznych badań indywidualnej ekspozycji.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wskaźnikiem narażenia na szkodliwy czynnik środowiskowy obliczonym jako średnie stężenie danego ksenobiotyku z pomiarów prowadzonych w różnych mediach środowiskowych, w bezpośrednim otoczeniu osoby narażonej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wskaźnikiem narażenia na szkodliwy czynnik środowiskowy pochodzącym z badań stężeń ksenobiotyku lub jego metabolitu w materiale biologicznym pobranym od osoby narażonej na ten czynnik.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-23",
+      "question": "Lekarz rodzinny ma pacjenta, mężczyznę w wieku 54 lat z otyłością II stopnia, cukrzycą typu 2 i nadciśnieniem tętniczym oraz z historią chorób serca w wywiadzie rodzinnym ze strony ojca. Lekarz zdecydował, aby do terapii odchudzającej tego pacjenta zastosować model transteoretyczny. Rozpoczynając terapię lekarz powinien sprawdzić:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "świadomość pacjenta na temat związku otyłości ze zdrowiem.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "postrzeganie przez pacjenta jego podatności na choroby serca.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "postrzeganie przez pacjenta ciężkości chorób serca.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "postrzeganie przez pacjenta norm i wpływów społecznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "samoskuteczność pacjenta w odchudzaniu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-24",
+      "question": "W latach 2016-2018 afrykański pomór świń (African Swine Fever, ASF) wystąpił w Azji i Afryce (wyłącznie u świń domowych) oraz w Europie (u dzików i świń domowych). W 2018 r. ogniska ASF wśród świń domowych wystąpiły w 6 krajach UE (Rumunii, Polsce, na Litwie, Łotwie, we Włoszech, w Bułgarii). Występowanie zachorowań na ASF ma charakter:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "epidemii.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "endemii.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "epizoocji.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "enzoocji.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ogniska epidemicznego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-25",
+      "question": "Zakażenia szpitalne stanowią przykład współczesnych postaci epidemicznego szerzenia się chorób zakaźnych. Wskaż fałszywe stwierdzenie dotyczące tych zakażeń:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "szczególne ryzyko związane z pobytem w szpitalu wynika z częstych kontaktów z mutantami patogenów opornymi wobec antybiotyków i chemioterapeutyków.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zakażenia szpitalne wymuszają wykonywanie dodatkowych badań i stosowanie środków leczniczych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "w wyniku zakażeń szpitalnych zwiększa się liczba zgonów w każdym przedziale wiekowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "z epidemiologicznego punktu widzenia zakażenia szpitalne mogą mieć charakter pandemii.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "dodatkowe źródło zakażenia stanowi personel szpitala oraz osoby odwiedzające chorych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-26",
+      "question": "Ogólny rzeczywisty (surowy) współczynnik zgonów w Polsce w 2014 r. wynosił 970/100 000. W małym, rozwijającym się kraju wynosił w tym czasie\n810/100 000. Jakie zdanie najlepiej wyjaśnia tę sytuację?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "w Polsce umiera więcej osób, ponieważ populacja jest większa / liczniejsza.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "w kraju rozwijającym się umieralność niemowląt jest wysoka, a zgony niemowląt nie są wliczane do tego współczynnika.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "w małym kraju system opieki zdrowotnej jest lepszy niż w Polsce.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "w kraju rozwijającym się współczynnik zgonów jest mniejszy z powodu emigracji.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "w krajach rozwiniętych rzeczywisty współczynnik zgonów jest zazwyczaj większy z powodu większego w tych krajach udziału osób starych w populacji.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-27",
+      "question": "Według badań NCD Risk Factor Collaboration opublikowanych w 2016 r.\n(eLife 2016;5:e13410) spośród mężczyzn urodzonych w 1996 r. najwyżsi na świecie są Holendrzy, którzy średnio osiągają wzrost 182,5 cm, przy czym\n95% przedział ufności wynosi 180,6-184,5 cm. Prawdopodobieństwo, że średnia wzrostu Holendrów znajduje się poza wyznaczonym przedziałem wynosi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "0%.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,5%.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "5%.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "95%.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "100%.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-28",
+      "question": "Programy polityki zdrowotnej są opracowywane i realizowane przez:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Narodowy Fundusz Zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "szpitale.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarzy podstawowej opieki zdrowotnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "jednostki samorządu terytorialnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "jednostki samorządu terytorialnego i ministrów.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-29",
+      "question": "Do czynników ryzyka zakażeń szpitalnych zalicza się m.in.:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wiek chorego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "długość pobytu w szpitalu (hospitalizacji).",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nieprawidłową antybiotykoterapię.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawdziwe są odpowiedzi A,B,C.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi B,C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-30",
+      "question": "Metodą profilaktyki chorób serca i naczyń, która należy do strategii wysokiego ryzyka jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zmniejszenie zawartości soli kuchennej NaCl w żywności przetworzonej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "pomiar ciśnienia tętniczego w czasie wizyty pacjenta u lekarza rodzinnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "prowadzenie edukacji na temat diety dobrej dla serca.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zakładanie parków miejskich.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wyznaczanie tras pieszych, biegowych i rowerowych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-31",
+      "question": "Ustalenie źródeł zakażenia, dróg przenoszenia zakażenia oraz osób podatnych na zakażenie to działania podejmowane w przypadku:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "dezynfekcji.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "sterylizacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "dezynsekcji.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "deratyzacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ogniska epidemicznego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-32",
+      "question": "Rozporządzenie Ministra Zdrowia z 26 marca 2015 r. w sprawie zakresu treści map potrzeb zdrowotnych określiło części składowe Regionalnych i Ogólnopolskich Map Potrzeb Zdrowotnych, są nimi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "prognozy potrzeb zdrowotnych mieszkańców Europejskiego Regionu WHO; analiza stanu i wykorzystania zasobów; prognozy potrzeb zdrowotnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "analiza stanu i wykorzystania zasobów opieki zdrowotnej; analiza czynników ryzyka zdrowotnego; analiza głównych przyczyn zgonów ludności.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "analiza demograficzna i epidemiologiczna; analiza stanu i wykorzystania zasobów; prognozy potrzeb zdrowotnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "monitorowanie chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych; prowadzenie rejestru nowych przypadków zachorowań na choroby zakaźne; analiza stanu zdrowia dzieci i młodzieży z poszczególnych województw.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "analiza stanu zdrowia osób starszych; analiza potrzeb zdrowotnych dzieci i młodzieży; analiza stanu i wykorzystania zasobów.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-33",
+      "question": "Najczęstszą przyczyną zgonów mężczyzn są:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "choroby układu krążenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nowotwory złośliwe.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "przyczyny zewnętrzne.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zatrucia tlenkiem węgla.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żadne z wymienionych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-34",
+      "question": "Zakażenia nozokomialne to zakażenia do których dochodzi w:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "stajni.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ogrodzie.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zoo.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "szpitalu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "samolocie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-35",
+      "question": "Badanie kohortowe to badanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "obserwacyjne.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "eksperymentalne.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "interwencyjne.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "przesiewowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "kliniczne.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-36",
+      "question": "Porównano, w jednym roku kalendarzowym, umieralność z powodu chorób nowotworowych w mieście A z tego typu umieralnością w mieście B uzyskując następujące wskaźniki: A - 420/100 000, B - 458/100 000. Wskaż właściwą interpretację uzyskanych danych:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "obie populacje (A i B) różnią się istotnie w pod względem analizowanej umieralności, albowiem różnica przekracza 5%.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zachorowalność na choroby nowotworowe jest większa w mieście B niż w mieście A.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "śmiertelność w przebiegu chorób nowotworowych jest większa w mieście B niż w mieście A pod warunkiem, że obserwowana różnica jest statystycznie znamienna.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wiarygodna ocena różnicy w zakresie umieralności z powodu chorób nowotworowych pomiędzy populacjami miast A i B nie jest możliwa bez przeprowadzenia procedury standaryzacji pod względem wieku.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "czas obserwacji (jeden rok kalendarzowy) jest za krótki dla przeprowadzenia analizy porównawczej w zakresie umieralności z powodu chorób nowotworowych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-37",
+      "question": "W Polsce, informację o podejrzeniu lub rozpoznaniu zachorowania na chorobę zakaźną objętą obowiązkiem rejestracji ('zgłoszenie') należy przesyłać do:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Narodowego Funduszu Zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Ministerstwa Zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Państwowej Inspekcji Sanitarnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Głównego Urzędu Statystycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Wydziału Zdrowia we właściwym Urzędzie Wojewódzkim.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-38",
+      "question": "Do podstawowych instytucji uczestniczących w systemie informacyjnym w zdrowiu publicznym należą wszystkie wymienione poniżej, z wyjątkiem:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Centrum Systemów Informacyjnych w Ochronie Zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Głównego Inspektoratu Sanitarnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Narodowego Funduszu Zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Narodowego Instytutu Zdrowia Publicznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Zakładu Ubezpieczeń Społecznych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-39",
+      "question": "W wielu krajach kluczową metodą walki z pandemią COVID-19 w latach\n2019-2020 było tzw. spłaszczenie krzywej epidemii, które służy do:\n1) zmniejszenia ogólnej liczby zachorowań;\n2) rozciągnięcia w czasie liczby zachorowań;\n3) spowolnienia tempa szerzenia się zakażenia SARS-CoV-2;\n4) przeciwdziałania paraliżowi lecznictwa pod naporem nowych zachorowań;\n5) zyskania czasu do opracowania procedur leczniczych i szczepionki. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tylko 1.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-40",
+      "question": "Rejestr zgonów z powodu choroby zawodowej prowadzony jest przez:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Urząd Stanu Cywilnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Główny Urząd Statystyczny.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Narodowy Fundusz Zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Wojewódzkie Centra Zdrowia Publicznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Zakład Ubezpieczeń Społecznych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-41",
+      "question": "Wskaźnik QALY oznacza:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wskaźnik rozwoju ludzkości.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wskaźnik lat zdrowego życia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wskaźnik długości życia skorygowany jakością.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wskaźnik metrażu pomieszczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "liczbę agresywnych lat życia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-42",
+      "question": "W lutym 2019 r. Naczelny Sąd Administracyjny oddalił skargę kasacyjną A.D. (inicjały osoby składającej skargę) od wyroku Wojewódzkiego Sądu Administracyjnego w Warszawie, który w 2016 r. utrzymał w mocy postanowienie Ministra Zdrowia utrzymujące w mocy postanowienie wojewody o nałożeniu na A.D. grzywny w kwocie 420 zł z powodu uchylania się od poddania małoletniej córki A.D. szczepieniom ochronnym. Wyrok ten jest przykładem następującej funkcji prawa w dziedzinie zdrowia publicznego:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zakazu działań i zachowań szkodliwych dla zdrowia jednostek i wspólnoty.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "regulacji uprawnień jednostek i grup do opieki zdrowotnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "regulacji zasobów opieki zdrowotnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "regulacji finansowania opieki zdrowotnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "regulacji wymagań w zakresie jakości opieki zdrowotnej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-43",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące pozytywnych cech badań przesiewowych, które uzasadniają ich wykonywanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "metody stosowane w badaniach przesiewowych są na ogół pozbawione ryzyka dla badanej osoby.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "istnieje możliwość weryfikacji diagnostycznej rozpoznań postawionych podczas tych badań.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "metody badań przesiewowych nie muszą być akceptowane przez badanych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "testy diagnostyczne stosowane w tych badaniach są na ogół łatwe i szybkie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "koszty tych badań i ewentualnego dalszego leczenia są ekonomicznie uzasadnione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-44",
+      "question": "Wskaźnik HLY oznacza:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wskaźnik rozwoju ludzkości.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wskaźnik lat zdrowego życia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wskaźnik długości życia skorygowany jakością.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wskaźnik metrażu pomieszczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "listę działaczy humanitarnych roku.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-45",
+      "question": "Do zadań nadzoru epidemiologicznego w ocenie zakażeń szpitalnych związanych z opieką zdrowotną należą wszystkie niżej wymienione, z wyjątkiem:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "opisu epidemiologicznego zakażeń i patogenów.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "monitorowania flory mikrobiologicznej, antybiotykowrażliwości, trendów w lekooporności patogenów wywołujących zakażenia szpitalne.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "oceny rangi problemu tj. zapadalności, umieralności, oporności na leki, itd.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "szczepienia pracowników służby zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "analizy porównawczej sytuacji zakażeń szpitalnych w różnych jednostkach służby zdrowia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-46",
+      "question": "W USA popularne jest stwierdzenie, że: „kod pocztowy jest lepszym predyktorem zdrowia niż kod genetyczny”. Stwierdzenie to obrazuje zjawisko:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "globalizacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "postępu technicznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nierówności w zdrowiu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "transformacji demograficznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "transformacji epidemiologicznej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-47",
+      "question": "W Polsce aktualnie najczęstsza przyczyna zgonów osób dorosłych z powodu chorób układu krążenia to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nadciśnienie tętnicze.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "choroba niedokrwienna serca.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "udar mózgu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "pęknięcie tętniaka aorty.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wady wrodzone serca.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-48",
+      "question": "W 2017 r. w miejscowości, która liczy 50 000 mieszkańców stwierdzono następujące liczby urazów wg przyczyn oraz zgonów: Wzór, który opisuje obliczanie współczynnika umieralności na skutek urazów w wyniku przemocy w przeliczeniu na 100 000 to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "5/50 000 x 100 000 = 10.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "25/50 000 x 100 000 = 50.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "5/25 x 100 000 = 20 000.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "5/40 x 100 000 = 12 500.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "5/150 x 100 000 = 3 333.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-49",
+      "question": "Do kryteriów rozpoznawania zespołu uzależnienia od alkoholu wg WHO nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "głód alkoholu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "utrata kontroli nad piciem.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wzrost tolerancji na alkohol.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "narastające zaniedbywanie przyjemności i zainteresowań.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wcześniejsze zachowanie antyspołeczne.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-50",
+      "question": "Zdanie: „nauka i sztuka zapobiegania chorobom, przedłużania życia oraz promowania zdrowia poprzez zorganizowane wysiłki społeczeństwa” jest definicją:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "walki z analfabetyzmem zdrowotnym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wychowania zdrowotnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "edukacji zdrowotnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "promocji zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zdrowia publicznego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-51",
+      "question": "Według danych NHS Scotland w ciągu ostatniej dekady uczestnictwo w skriningu cytologicznym zmniejszyło się z 80 do 70% wśród kobiet w wieku\n25-34 lata i z niskim wykształceniem. Wskaż zdrowotne skutki tej sytuacji:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wzrost publicznych nakładów na świadczenia zdrowotne.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zwiększanie się nierówności w zdrowiu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "obwinianie kobiet za brak odpowiedzialności za zdrowie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nasilenie kampanii informacyjnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "większe zaangażowanie środowiska ginekologów.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-52",
+      "question": "Leczenie kiły u kobiety w ciąży jest działaniem z obszaru:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "profilaktyki I fazy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "profilaktyki II fazy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "profilaktyki III fazy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "profilaktyki I oraz II fazy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "profilaktyki I oraz III fazy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-53",
+      "question": "Zgodnie z aktualnymi przepisami skierowanie od lekarza ubezpieczenia zdrowotnego (rodzinnego) jest wymagane w przypadku konieczności uzyskania świadczeń:\n1) kardiologa;\n2) okulisty;\n3) stomatologa;\n4) dermatologa;\n5) onkologa;\n6) psychiatry;\n7) ginekologa. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "4,5,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "3,5,6,7.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-54",
+      "question": "Jakiej liczby używa się w mianowniku przy obliczaniu współczynnika śmiertelności na daną chorobę?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "liczby wszystkich odnotowanych przypadków zachorowań na daną chorobę.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "liczby nowych przypadków zachorowań w danym czasie.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "liczby zgonów na daną chorobę.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "przeciętnej liczby osób w danej populacji w określonym przedziale czasu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "liczby osób w populacji chorych na daną chorobę.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-55",
+      "question": "W sierpniu 2017 r. na Madagaskarze odnotowano największe w tej dekadzie ognisko dżumy. Zgodnie ze stanem na 12.10.2017 r. stwierdzono ogółem\n560 przypadków zachorowań, w tym: 394 przypadki dżumy płucnej, 143 dymieniczej, 1 posocznicowej oraz 22 przypadki, w których nie określono postaci klinicznej. Odnotowano 57 zgonów. Populacja Madagaskaru liczy\n24,9 mln osób. Wzór, który opisuje obliczanie współczynnika śmiertelności wyrażonego w procentach to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "57/560 x 100% = 10,2%.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "143/560 x 100% = 25,5%.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "394/560 x 100% = 70,4%.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "57/24 900 000 x 100% = 0,0002%.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "560/24 900 000 x 100% = 0,002%.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-56",
+      "question": "Dane o liczbie chorych na chorobę X uzyskane w czasie badań prowadzonych podczas festynów zdrowia mają znikomą wartość z punktu widzenia epidemiologii i rozpowszechnienia tej choroby ponieważ:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie zbiera się informacji o chorobach współwystępujących.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "autoselekcja badających się powoduje, że próba nie jest reprezentatywna.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "powszechne są wyniki fałszywie ujemne.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nie ma systemu dalszej diagnostyki.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "większość chorób występuje rzadko w populacji.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-57",
+      "question": "Badacze z Cleveland Clinic (OH, USA) odkryli, że mikrobiom obecny w tkance gruczołu piersiowego może mieć związek z zachorowaniem na raka sutka (Oncotarget 2017; 8:88122-88138). Mają nadzieję na znalezienie biomarkera, który pomoże w szybkiej i łatwiej diagnostyce raka sutka. Przypuśćmy, że znaleźli już taki wskaźnik i opracowali test diagnostyczny do wykrywania jego obecności. Za pomocą tego testu przebadali 100 kobiet chorych na raka sutka i 100 kobiet zdrowych, które zostały zdiagnozowane innymi metodami. Otrzymali następujące wyniki: Wskaż błędną interpretację tych wyników:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "czułość testu wynosi 93%.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "swoistość testu wynosi 11%.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "odsetek wyników fałszywie dodatnich wynosi 11%.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "odsetek wyników fałszywie ujemnych wynosi 7%.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zaprezentowane wyniki nie pozwalają na określenie dodatniej i ujemnej wartości predykcyjnej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-58",
+      "question": "Deklaracja Helsińska z 1964 r. dotyczy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "podstawowej opieki zdrowotnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ochrony praw uczestników badań klinicznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "szpitali promujących zdrowie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "poprawy jakości w opiece zdrowotnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "milenijnych celów rozwoju.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-59",
+      "question": "W danym roku kalendarzowym w mieście liczącym ogółem 500 000 mieszkańców potwierdzono 100 przypadków zachorowań na chorobę X, a połowa chorych zmarła. Wszystkie przypadki zachorowań i zgonów wystąpiły wśród mieszkańców jednej dzielnicy miasta. Do obliczenia współczynnika zapadalności na X w dzielnicy miasta, w której wystąpiły ogniska X w tym roku trzeba jeszcze znać:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "strukturę wieku populacji miasta.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "współczynnik śmiertelności w tej dzielnicy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "liczbę ludności w tej dzielnicy w środku roku kalendarzowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "czas trwania okresu prodromalnego X.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "do obliczenia zapadalności nie są potrzebne dodatkowe dane.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-60",
+      "question": "Przedwczesna umieralność to zgony:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "okołoporodowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "do 3. r.ż.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "do 18. r.ż.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "przed osiągnięciem 60. lub 65. r.ż.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie do uniknięcia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-61",
+      "question": "Wskaż badania przesiewowe, które zostaną wykonane według wytycznych Narodowego Programu Zwalczania Chorób Nowotworowych 2016-2024:\n1) kolonoskopia u osób w wieku 50-65 lat, w interwale raz na 15 lat;\n2) kolonoskopia u osób w wieku 50-69 lat, w interwale raz na 5 lat;\n3) kolonoskopia u osób w wieku 55-64 lat, w interwale raz na 10 lat;\n4) cytologia u kobiet w wieku 25-59 lat, w interwale raz na 3 lata;\n5) mammografia u kobiet w wieku 50-69 lat, w interwale raz na 3 lata. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "3,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-62",
+      "question": "Działania ukierunkowane na wczesne wykrywanie chorób i ich przyczyn to profilaktyka drugiej fazy. Które z niżej wymienionych zalicza się do tej grupy?\n1) czynne poradnictwo;\n2) dyspanseryzacja;\n3) szczepienia ochronne;\n4) bilanse zdrowia;\n5) badania przesiewowe;\n6) nadzór epidemiczny nad produkcją żywności. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "4,5,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,5,6.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-63",
+      "question": "W populacji liczącej 1 000 000 mieszkańców 1000 osób choruje na raka trzustki i w jednym roku kalendarzowym odnotowano 200 zgonów z powodu tej choroby. Syntetyczną miarą opisującą przedstawioną sytuację epidemiologiczną jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "współczynnik zapadalności wynoszący 100 / 100 000.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "współczynnik chorobowości wynoszący 80 / 100 000.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "współczynnik śmiertelności wynoszący 20 / 100 000.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "współczynnik śmiertelności wynoszący 200 / 1000.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "współczynnik umieralności wynoszący 200 / 1000..",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-64",
+      "question": "Udokumentowanymi czynnikami ryzyka wystąpienia tzw. szpitalnego zapalenia płuc są wszystkie poniżej wymienione okoliczności, z wyjątkiem:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "przebycia przez osobę hospitalizowaną wcześniejszej, wielokrotnej antybiotykoterapii lekami o szerokim zakresie terapeutycznym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "występowania u osoby hospitalizowanej przewlekłej obturacyjnej choroby płuc.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "występowania u osoby hospitalizowanej zaburzeń połykania.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "rozpoznania u osoby hospitalizowanej wielonarządowego urazu stanowiącego przyczynę hospitalizacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "przebycia przez osobę hospitalizowaną wirusowego zapalenia górnych dróg oddechowych w okresie 4 tygodni poprzedzających hospitalizację.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-65",
+      "question": "Przy obliczaniu współczynnika zapadalności na daną chorobę w liczniku używa się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "liczby osób chorujących na tę chorobę.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "liczby znanych przypadków zachorowań na tę chorobę.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "liczby nowych przypadków zachorowań na tę chorobę w danym okresie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "liczby przypadków asymptomatycznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "liczby zgonów na tę chorobę w danym okresie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-66",
+      "question": "W populacyjnym badaniu przesiewowym w kierunku raka sutka wykorzystano metodę mammografii, której czułość wynosiła 90%, a swoistość wynosiła 95%. W wyniku wykorzystania tego testu przesiewowego można szacować, że w zbadanej populacji:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "u 5% kobiet objętych badaniem uzyskano fałszywie dodatni wynik.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "u 10% kobiet objętych badaniem uzyskano prawdziwie dodatni wynik.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "u 10% kobiet objętych badaniem uzyskano prawdziwie ujemny wynik.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "u 95% kobiet objętych badaniem uzyskano prawdziwie dodatni wynik.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "u 90% kobiet objętych badaniem uzyskano prawdziwie ujemny wynik.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-67",
+      "question": "Zdanie: „10% przypadków w sepsie meningokokowej z zapaleniem opon mózgowo-rdzeniowych kończy się zgonem” opisuje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "umieralność.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "umieralność standaryzowaną.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "śmiertelność.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zapadalność.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "chorobowość.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-68",
+      "question": "Przyjmijmy, że opracowano nowy test skrinigowy do wykrywania raka jajnika. Rozkład częstości występowania wyników tego testu przedstawiono poniżej. Jeśli za wartość referencyjną przyjmiemy wynik testu w granicach\n0-30 μg/dL, to które zdanie jest prawdziwe?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "test jest w 100% swoisty.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "test jest w 100% czuły.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "niektóre zdrowe kobiety uzyskają wynik fałszywie dodatni.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wszystkie kobiety chore na raka będą miały wynik dodatni.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie kobiety chore na raka będą miały wynik ujemny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-69",
+      "question": "Do czynników wpływających na zdrowie wg koncepcji Lalonde’a nie należy/nie należą:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "czynniki środowiskowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "czynniki genetyczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "styl życia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "opieka medyczna.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "czynniki finansowe.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-70",
+      "question": "W postępowaniu poekspozycyjnym przeciw tężcowi u osoby z małym ryzykiem zakażenia, szczepionej 4 lata temu - zalecane jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "podanie szczepionki tężcowo-błoniczej lub tężcowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "podanie antytoksyny (LIT - swoistej immunoglobuliny 250/500 j.m.).",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "szczepienie przeciw tężcowi wg. schematu 0;1;6 mc.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawdziwe są odpowiedzi A i C.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żadne szczepienie nie jest zalecane.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-71",
+      "question": "Współczynnik chorobowości osiąga wyższe wartości, gdy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "choroba ma krótki okres trwania.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "choroba ma długi okres trwania.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "choroba ma ciężki przebieg i powoduje więcej zgonów.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "liczba nowych przypadków choroby jest mała.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "chorzy emigrują.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-72",
+      "question": "W druku zaświadczenia lekarskiego o czasowej niezdolności do pracy lub pobytu w stacjonarnym zakładzie opieki zdrowotnej (druk ZUS ZLA) kod literowy A oznacza niezdolność do pracy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "spowodowaną chorobą, której objawy chorobowe ujawniają się po okresie dłuższym niż 14 dni od początku choroby.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "powstałą po przerwie nieprzekraczającej 60 dni, spowodowaną tą samą chorobą, która była przyczyną niezdolności do pracy przed przerwą.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "przypadającą w okresie ciąży.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "spowodowaną nadużyciem alkoholu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "spowodowaną gruźlicą.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-73",
+      "question": "Jakim rodzajem profilaktyki są masowe badania przesiewowe zgodnie z podziałem według Bogdana Kleczkowskiego?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zapobieganiem nieswoistym profilaktyki I fazy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zapobieganiem swoistym profilaktyki I fazy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "profilaktyką II fazy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "profilaktyką III fazy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "metafilaktyką.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-74",
+      "question": "We wzorze na obliczanie swoistości testu w liczniku ułamka wpisuje się liczbę:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wyników prawdziwie ujemnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wyników fałszywie ujemnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wyników prawdziwie dodatnich.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wyników fałszywie dodatnich.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkich wyników dodatnich.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-75",
+      "question": "Mediana w zbiorze danych to wartość, która:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "dzieli zbiór na pół (połowa jest poniżej tej wartości, a połowa powyżej).",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "występuje najczęściej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "jest statystycznie najbliższa wszystkim wartościom w rozkładzie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "jest miarą rozproszenia wyników.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "dzieli zbiór na pięć podgrup.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-76",
+      "question": "Informacja, że „w Polsce w 45. tygodniu 2020 r. zmarły 2262 osoby zakażone SARS-CoV2” jest charakterystyczna dla epidemiologii:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "sądowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "klinicznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "eksperymentalnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "opisowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "analitycznej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-77",
+      "question": "Na rysunku przedstawiono dwa rozkłady tej samej cechy wśród dorosłych mieszkańców miast A oraz B. Różnicę między tymi rozkładami można wyrazić liczbowo za pomocą:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "mediany.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "średniej arytmetycznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "modalnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "odchylenia standardowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "liczby dorosłych mieszkańców miast A oraz B.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-78",
+      "question": "W badaniu określano czynniki ryzyka zakażenia SARS-Cov-2 dla lekarzy. Spośród lekarzy eksponowanych na kontakt z pacjentami z COVID-19 wybrano 50 z potwierdzonym zakażeniem SARS-CoV-2 w okresie 6 poprzednich miesięcy oraz 50 niezakażonych. W obu grupach przeprowadzono wywiad na temat stosowanych środków ochrony osobistej i praktyk higienicznych w poprzednich miesiącach. Jest to opis badania:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "eksperymentalnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "przekrojowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "kliniczno-kontrolnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kohortowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ekologicznego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-79",
+      "question": "Coraz więcej dowodów naukowych uzasadnia tezę, że kod pocztowy lepiej prognozuje zdrowie niż kod genetyczny. Teza ta obrazuje zjawisko:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nierówności w zdrowiu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "paradoksu profilaktyki.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "odwróconej (odwrotnej) opieki zdrowotnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zasady Pareto.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nadrozpoznawalności chorób.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-80",
+      "question": "Wariolizacja (wariolacja) była w przeszłości stosowana w związku z szerzeniem się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "dżumy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "cholery.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tyfusu plamistego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ospy prawdziwej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żółtej gorączki.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "zdr-1-81",
+      "question": "Zgodnie z ustawą o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi w Polsce obowiązkowemu leczeniu podlegają osoby:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zakażone HIV i wirusem SARS CoV-2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "chore na AIDS i COVID-19.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "chore na gruźlicę płuc, kiłę i rzeżączkę.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "chore na kiłę i COVID-19.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "chore na gruźlicę i rzeżączkę.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    }
+  ]
+}

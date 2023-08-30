@@ -1,0 +1,3749 @@
+{
+  "name": "bioetyka-1",
+  "tags": [
+    "bioetyka",
+    "2023"
+  ],
+  "questions": [
+    {
+      "id": "bio-1-1",
+      "question": "Czy lekarz jest obowiązany powiadomić organy ścigania o stwierdzonej w trakcie badania lekarskiego próbie zabicia człowieka?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lekarz nigdy nie posiada takiego obowiązku.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "denuncjacja pacjenta ma charakter fakultatywny, a nie obligatoryjny.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarz w podobnej sytuacji ma obowiązek powiadomić izbę lekarską.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawo nie odnosi się do podobnych kwestii.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lekarz ma obowiązek podjąć takie działania, gdyż dotyczą one czynu zabronionego, o którym wypowiada się art. 240 § 1. Kodeksu karnego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-2",
+      "question": "Pacjent niezadowolony ze stosowanego leczenia domaga się przeprowadzenia w jego obecności konsylium z udziałem innych lekarzy, księdza i znachora-homeopaty, który od lat „leczy” jego rodzinę. Zgodnie z Kodeksem Etyki Lekarskiej lekarz powinien:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "przychylić się do żądania chorego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zorganizować konsylium bez udziału księdza.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zorganizować konsylium bez udziału znachora-homeopaty.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zorganizować konsylium bez udziału księdza i homeopaty.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "odmówić zorganizowania takiego konsylium.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-3",
+      "question": "Lekarzowi zaproponowano zawarcie umowy o pracę w szpitalu. Pracodawca poinformował lekarza, że będzie on zatrudniony w tzw. równoważnym czasie pracy. Rozkład ten polega na tym, że:\n1) norma dobowa czasu pracy może być podwyższona do 12 godzin;\n2) norma dobowa czasu pracy może być podwyższona do 18 godzin;\n3) norma tygodniowa zostaje wydłużona do 48 godzin;\n4) zasadniczo okres rozliczeniowy zostaje skrócony do 1 miesiąca;\n5) zasadniczo okres rozliczeniowy zostaje wydłużony do 6 miesięcy. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-4",
+      "question": "Kobieta w ciąży urodziła wcześniej dziecko dotknięte hipochondroplazją, chorobą genetyczną objawiającą się karłowatością połączoną z deformacją stawów i kości. Obawiając się tej choroby u kolejnego dziecka, uzyskała skierowanie od ginekologa do poradni konsultacyjnej dla kobiet z ciążą wysokiego ryzyka. W rozmowie z lekarzem poprosiła o skierowanie na badania prenatalne. Lekarz odmówił. Czy miał ku temu prawo?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tak, bo przypuszczał, że potwierdzenie tej choroby genetycznej płodu skłoni kobietę do przerwania ciąży.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tak, ponieważ uznał, że w ramach swobody w wykonywaniu czynności zawodowych miał prawo odmówić.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nie, ponieważ odmówienie skierowania naruszyło prawo pacjentki do informacji i do świadczeń zdrowotnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nie, ponieważ badania prenatalne są obowiązkowe dla kobiet w ciąży.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tak, ponieważ życzenia pacjentki nie są wystarczającym powodem do skierowania na badania prenatalne.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-5",
+      "question": "Czy lekarz może nie podjąć się lub odstąpić od leczenia chorego?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tak, ale w wyjątkowych przypadkach i musi w tej sytuacji powiadomić chorego o możliwości skorzystania z pomocy w innym miejscu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nie, lekarz zawsze ma obowiązek udzielić choremu pomocy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tak, za zgodą ordynatora.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tak, za zgodą dyrektora szpitala.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "przepisy nie regulują tej kwestii.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-6",
+      "question": "Zgodnie z ustawą z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, obywatel Kanady przebywając w Polsce jest zwolniony z obowiązku poddania się szczepieniom ochronnym (z wyjątkiem szczepień poekspozycyjnych), jeśli długość jego pobytu nie przekracza:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1 miesiąca.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "4 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "6 miesięcy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-7",
+      "question": "Lekarz może wystawić kartę zgonu:\n1) na podstawie osobiście wykonanych badań i ustaleń;\n2) na podstawie dokumentacji badania pośmiertnego, przeprowadzonego przez innego lekarza;\n3) na podstawie dokumentacji medycznej pacjenta, powstałej przed jego śmiercią;\n4) wyłącznie po wykonaniu sekcji zwłok;\n5) na podstawie informacji uzyskanych od osób bliskich zmarłego. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tylko 4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tylko 5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-8",
+      "question": "Jakie działania powinien podjąć lekarz w momencie, w którym bada pacjenta, lub też udziela mu innych świadczeń zdrowotnych bez jego zgody\n(pacjent nie może jej wyrazić z powodu złego stanu zdrowia lub też wieku)?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "powinien powiadomić ordynatora szpitala.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "powinien powiadomić dyrektora szpitala.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarz nie ma szczególnych zobowiązań w opisanej sytuacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "winien uzyskać zgodę sądu opiekuńczego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "winien odnotować swoje czynności w dokumentacji medycznej pacjenta, oraz powinien w miarę możliwości skonsultować je z innym lekarzem.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-9",
+      "question": "Który z państwowych organów jest obowiązany do ogłaszania Programu Szczepień Ochronnych przewidzianego na dany rok?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "polskie prawo nie przewiduje podobnego dokumentu/programu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "dokument ten ogłasza Główny Inspektor Sanitarny w dzienniku urzędowym Ministra Zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "działanie takie podejmuje Główny Inspektor Farmaceutyczny.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Rzecznik Praw Pacjenta obowiązany jest raz w roku ogłosić podobny program.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ogłoszenie Programu leży w gestii Ministra Zdrowia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-10",
+      "question": "Zgodnie z Ustawą z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty recepty mogą zostać przekazane pacjentowi oraz:\n1) przedstawicielowi ustawowemu pacjenta;\n2) osobie upoważnionej (wskazanej z imienia i nazwiska) przez pacjenta;\n3) osobie trzeciej bez szczegółowego określenia tożsamości tej osoby na upoważnienie pacjenta;\n4) w przypadku recepty elektronicznej w postaci wydruku osobie upoważnionej (wskazanej z imienia i nazwiska) przez pacjenta;\n5) w przypadku recepty elektronicznej w postaci wydruku osobie trzeciej bez szczegółowego określenia tożsamości tej osoby na upoważnienie pacjenta. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-11",
+      "question": "Lekarz stwierdzający zgon jest zobowiązany do niezwłocznego zawiadomienia Policji lub prokuratora, jeśli:\n1) nie jest w stanie ustalić przyczyny zgonu;\n2) zmarły nie posiada osoby najbliższej w rozumieniu art. 3 ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta;\n3) ma uzasadnione podejrzenie, że przyczyną zgonu było przestępstwo;\n4) ma uzasadnione podejrzenie, że przyczyną zgonu było samobójstwo;\n5) nie może ustalić tożsamości zwłok. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-12",
+      "question": "Lekarz zamierza przeprowadzić doświadczenie na zwierzętach. Przed jego rozpoczęciem powinien uzyskać zgodę:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "komisji bioetycznej działającej przy uczelni medycznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Departamentu Nauki i Szkolnictwa Wyższego Ministerstwa Zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Głównego Lekarza Weterynarii.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "właściwego miejscowo powiatowego lekarza weterynarii.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "właściwej miejscowo lokalnej komisji etycznej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-13",
+      "question": "Czy lekarz może podejmować interwencje w stosunku do ludzkiego genomu?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "podobne interwencje uznawane są przez współczesną etykę za nieetyczne i są zakazane.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "polskie przepisy dotyczące zasad wykonywania zawodu przez lekarza nie odnoszą się do podobnych tematów.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "podobna interwencja może mieć charakter wyłącznie profilaktyczny.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "działania te mogą mieć wyłącznie cel terapeutyczny.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lekarz ma prawo podjąć tego typu interwencję w celach profilaktyczno- terapeutycznych za zgodą pacjenta oraz stosownej komisji etycznej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-14",
+      "question": "Czy polskie przepisy dotyczące zasad etycznych wykonywania zawodu przez lekarza wypowiadają się na temat genetycznych metod dopingowych stosowanych w sporcie?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie, nie ma podobnych unormowań w Kodeksie Etyki Lekarskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zakaz stosowania takich metod wprowadzony został w treści kolejnych stanowisk wydanych przez Naczelną Izbę Lekarską.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zakaz stosowania takich metod wynika z treści orzeczeń Naczelnego Sądu Lekarskiego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zakaz stosowania takich metod w sposób bezpośredni sformułowany został w treści Kodeksu Etyki Lekarskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "stanowiska w tej sprawie zajmują oddzielnie poszczególne okręgowe izby lekarskie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-15",
+      "question": "Czy lekarz leczący pacjenta, u którego zaplanował metodę diagnostyczną o podwyższonym ryzyku powinien uzyskać zgodę pacjenta na takie badanie?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tak, w formie ustnej przed badaniem.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tak, w formie pisemnej po badaniu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tak, w formie pisemnej przed badaniem.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tak, w formie ustnej po badaniu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie, taka zgoda nie jest wymagana w procesie diagnostycznym.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-16",
+      "question": "Do gabinetu lekarskiego zgłasza się 13-letnia dziewczynka ze swoją babcią. Podczas badania lekarz nabiera podejrzenia, że dziewczynka jest wykorzystywana seksualnie. Rozmowa z dziewczynką potwierdza te przypuszczenia, dziewczynka przyznaje, że miała kontakty seksualne z ojczymem. Dziewczynka prosi lekarza o nieinformowanie nikogo o tym fakcie. W tej sytuacji lekarz:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ma obowiązek poinformować organy ścigania o popełnionym przestępstwie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ma obowiązek poinformować przełożonego i zasięgnąć rady, co dalej robić.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ma obowiązek wezwać matkę dziewczynki, aby ustalić przebieg wydarzeń.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ma obowiązek wezwać pogotowie opiekuńcze.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "powinien zachować tajemnicę lekarską, ale wezwać matkę dziewczynki.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-17",
+      "question": "Zgodnie z zasadami etyki lekarskiej, wykonując czynności medyczne, lekarz:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ma pełną swobodę wyboru w zakresie metod postępowania, które uzna za najskuteczniejsze.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ma obowiązek wykonać tylko te z nich, które są zgodne z jego światopoglądem.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ma obowiązek wykonywać tylko te czynności wobec pacjenta, które mieszczą się w zakresie świadczeń gwarantowanych ze środków publicznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ma swobodę wyboru w zakresie metod postępowania, które uzna za najskuteczniejsze w zakresie ograniczonym wyłącznie aktualną wiedzą medyczną albo wyłącznie preferencjami pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ma swobodę wyboru w zakresie metod postępowania, które uzna za najskuteczniejsze w zakresie ograniczonym aktualną wiedzą medyczną i rzeczywistymi potrzebami pacjenta.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-18",
+      "question": "Do lekarza, wykonującego swój zawód na podstawie stosunku pracy, zwrócił się jego pracodawca, by podpisał umowę zawierającą klauzulę o tzw. zakazie konkurencji. Jakie powinno być postępowanie lekarza?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie powinien podpisywać takiej klauzuli bez uprzedniej zgody organizacji związkowej, która go reprezentuje.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nie powinien podpisywać takiej klauzuli, gdyż będzie ona i tak nieważna, ponieważ ogranicza swobodę wykonywania zawodu lekarza.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "może podpisać taką klauzulę, ale tylko wówczas, gdy będzie ona obowiązywać po ustaniu stosunku pracy u tego pracodawcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "musi podpisać taką klauzulę, gdyż w przypadku odmowy pracodawca może rozwiązać z nim umowę o pracę w trybie dyscyplinarnym.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "może podpisać taką klauzulę i będzie ona wówczas skuteczna, ale nie jest do tego zobowiązany.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-19",
+      "question": "Do izby przyjęć prywatnego szpitala został przytransportowany bezdomny pacjent z wyraźnymi objawami zapalenia otrzewnej. Szpital jest w stanie udzielić mu pomocy, ale nie posiada kontraktu zawartego z NFZ na finansowanie tego typu świadczeń zdrowotnych. Jakie powinno być postępowanie lekarza?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "należy odmówić udzielenia pomocy uzasadniając w dokumentacji medycznej takie zaniechanie brakiem finansowania takich procedur medycznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "lekarz powinien odmówić udzielenia świadczenia zdrowotnego, ale ma obowiązek wskazać pacjentowi realne możliwości jego uzyskania w innym podmiocie leczniczym.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarz może udzielić pomocy, ale po uprzednim zapewnieniu przez NFZ, że sfinansuje daną procedurę medyczną.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "jeśli pacjent potrzebuje natychmiastowego udzielenia takiego świadczenia ze względu na zagrożenie życia lub zdrowia należy udzielić mu takiej pomocy bez względu na brak kontraktu zawartego z NFZ.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lekarz może udzielić niezbędnego świadczenia zdrowotnego, jeśli uzyska pisemne, uprzednie zapewnienie od wójta, burmistrza lub prezydenta miasta, że gmina zrefunduje koszty takiego leczenia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-20",
+      "question": "Do gabinetu lekarza przychodzi wieloletnia partnerka zmarłego pacjenta i żąda ujawnienia tajemnicy dotyczącej choroby, na którą chorował pacjent. Pacjent za życia wyrażał wolę, aby jego partnerce nie ujawniać informacji objętych tajemnicą lekarską. Zgodnie z Ustawą z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, lekarz:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie może ujawnić tajemnicy lekarskiej po śmierci pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "może ujawnić tajemnicę lekarską i udzielić informacji partnerce zmarłego pacjenta jedynie, gdy jest ona pacjentką lekarza.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "może ujawnić tajemnicę lekarską i udzielić informacji partnerce zmarłego pacjenta o ile nie sprzeciwi się temu żona zmarłego pacjenta lub inna osoba bliska.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "może dochować tajemnicy lekarskiej i nie udzielić informacji partnerce zmarłego pacjenta jedynie, gdy wola zmarłego pacjenta została wyrażona w formie pisemnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "może ujawnić tajemnicę lekarską i udzielić informacji partnerce zmarłego pacjenta jedynie, gdy jest to choroba zakaźna stanowiąca zagrożenie dla życia i zdrowia kobiety.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-21",
+      "question": "Czy Kodeks Etyki Lekarskiej odnosi się do problemu eutanazji?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie, temat ten nie został poruszony w omawianym dokumencie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nie, zagadnienie to ukazane zostało natomiast w ustawie o zawodach lekarza i lekarza dentysty.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nie, przepisy te umieszczone były tylko w dokumentach historycznych, w tym zwłaszcza w Przysiędze Hipokratesa.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tak, kodeks w sposób wyraźny wskazuje, że lekarz nie może stosować eutanazji i pomagać choremu w dokonaniu samobójstwa.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tak, chociaż Kodeks nie używa terminu eutanazja.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-22",
+      "question": "Do gabinetu lekarza ginekologa zgłasza się pacjentka w towarzystwie swojego męża. Chce on asystować przy przeprowadzeniu badań. Jak powinien postąpić lekarz?\n1) powinien pozwolić na asystowanie przy badaniu, gdyż mąż jako osoba bliska ma prawo brać udział przy udzielaniu świadczeń zdrowotnych;\n2) w przypadku braku wyraźnej zgody pacjentki na taką asystę powinien wyprosić jej męża z gabinetu;\n3) może odmówić obecności męża przy udzielaniu świadczeń zdrowotnych jego żonie, gdy uzna, że wymaga tego bezpieczeństwo zdrowotne pacjentki;\n4) powinien zezwolić mężowi na asystowanie przy badaniu, gdyż milczenie pacjentki należy uznać za wyrażenie zgody na taką asystę;\n5) bez względu na okoliczności i stanowisko pacjentki powinien wyprosić jej męża, gdyż badanie może naruszyć prawo pacjentki do intymności. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tylko 1.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tylko 5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tylko 4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-23",
+      "question": "Zgodnie z Kodeksem etyki lekarskiej najwyższym nakazem etycznym lekarza jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "dobro chorego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "autonomia pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "dbanie o godność zawodu lekarskiego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "przestrzeganie praw człowieka.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "przestrzeganie zasad obowiązujących w danym podmiocie leczniczym.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-24",
+      "question": "Do lekarza POZ zgłaszają się rodzice z dzieckiem, u którego powinno być wykonane obowiązkowe szczepienie ochronne. Rodzice sprzeciwiają się jednak takiemu zabiegowi. Jakie powinno być postępowanie lekarza?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lekarz powinien uszanować wolę rodziców, gdyż posiadając tzw. władzę rodzicielską mogą swobodnie decydować o stosowaniu takiego zabiegu u ich dziecka.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "lekarz musi wykonać szczepienie nawet wbrew woli rodziców, a w razie potrzeby może zastosować przymus bezpośredni.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarz odstępuje od wykonania szczepienia i powiadamia o tym fakcie Rzecznika Praw Pacjenta Małoletniego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "lekarz nie wykonuje szczepienia, ale zamieszcza stosowną adnotację w kwartalnym sprawozdaniu przekazywanym państwowemu powiatowemu inspektorowi sanitarnemu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lekarz może wykonać szczepienie mimo sprzeciwu rodziców, ale powinien skonsultować się w tej sprawie z innym lekarzem, w miarę możliwości tej samej specjalności.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-25",
+      "question": "Polak, obywatel Wielkiej Brytanii, zdał maturę w Polsce i 3 października\n2012 rozpoczął studia lekarskie w Polsce. Obejmowały one 5500 godzin zajęć dydaktycznych i zdał LEK w języku angielskim. Okręgowa Izba Lekarska musi odmówić mu wydania prawa wykonywania zawodu lekarza, w sytuacji, gdy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Wielka Brytania opuszcza Unię Europejską.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nie zdawał LEK w języku polskim.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "rozpoczął studia po 1 października 2012.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ma uzasadnione zastrzeżenia do jego postawy etycznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "we wszystkich wymienionych przypadkach.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-26",
+      "question": "Kodeks Etyki Lekarskiej zakazuje lekarzom:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "przeprowadzania eksperymentów medycznych wyłącznie w celu poszerzenia wiedzy medycznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "stosowania diagnostyki przedurodzeniowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "przeprowadzania zapłodnienia pozaustrojowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zaprzestania reanimacji pacjenta w stanie terminalnym, którego stan nie daje szans na wyzdrowienie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "udzielania choremu pomocy w popełnieniu samobójstwa.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-27",
+      "question": "Lekarz może udzielić świadczenia zdrowotnego polegającego na biopsji nerki dorosłemu pacjentowi ubezwłasnowolnionemu całkowicie po uzyskaniu zgody:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "małżonka pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "pacjenta, który dysponuje dostatecznym rozeznaniem i zgody jego opiekuna faktycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "pacjenta, nawet mimo braku zgody jego przedstawiciela ustawowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "opiekuna faktycznego pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "przedstawiciela ustawowego pacjenta.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-28",
+      "question": "Do szpitalnego oddziału ratunkowego zostaje przywieziony pacjent wymagający hospitalizacji. Zgodnie z rozporządzeniem w sprawie warunków, sposobu i trybu zaopatrywania pacjentów szpitala w znaki identyfikacyjne oraz sposobu postępowania w razie stwierdzenia ich braku, pacjent taki powinien być zaopatrzony w znak identyfikacyjny umieszczony:\n1) na karcie gorączkowej znajdującej się na widocznym miejscu na łóżku pacjenta;\n2) na tablicy znajdującej się przed pokojem, w którym będzie przebywał pacjent;\n3) na opasce założonej na nadgarstku lub kostce pacjenta;\n4) na indywidualnej dokumentacji medycznej tego pacjenta;\n5) na identyfikatorze zawieszanym na szyi pacjenta. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-29",
+      "question": "Czy lekarz ma obowiązek zwracania uwagi społeczeństwa, władz i każdego pacjenta na znaczenie ochrony zdrowia?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tak, wynika on z Kodeksu Etyki Lekarskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tak, wynika on z ustawy o zawodach lekarza i lekarza dentysty.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tak, wynika on z ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tak, wynika on z ustawy o świadczeniach opieki zdrowotnej finansowanej ze środków publicznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie, nie ma takiego obowiązku.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-30",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące zasady „podwójnego skutku”:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "w bioetyce zasadę „podwójnego skutku” stosuje się do oceny czynów moralnie dwoistych - o dobrych i złych efektach.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zgodnie z zasadą „podwójnego skutku” dopuszczalne jest stosowanie w medycynie pewnych procedur pod warunkiem, że natura procedury jest dobra, procedura jest realizowana w celu osiągnięcia dobrego skutku oraz zachowana jest proporcjonalność dobra i zła w realizowanych skutkach.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wg tej zasady dopuszczalne jest stosowanie sedacji paliatywnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wg tej zasady dopuszczalne jest stosowanie eutanazji.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są stwierdzenia A, B i C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-31",
+      "question": "Zgodnie z zasadami etyki lekarskiej, w razie wątpliwości diagnostycznych i leczniczych, lekarz powinien:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zweryfikować swoją wiedzę u innych osób, do których ma zaufanie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zapewnić choremu konsultację innego lekarza, mając świadomość, że za całość postępowania odpowiada lekarz prowadzący leczenie.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zapewnić choremu kolejne badania diagnostyczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "odesłać chorego do jakiegokolwiek innego lekarza wg preferencji pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "poinformować pacjenta, że ze względu na trudności diagnostyczne nie podejmuje się leczenia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-32",
+      "question": "Do obowiązków lekarza w zakresie poszanowania praw pacjenta należy, między innymi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zadbanie o dostarczenie pacjentowi egzemplarza Karty Praw Pacjenta oraz innych dokumentów określających w danej placówce prawa pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zadbanie o poinformowanie członków rodziny pacjenta o planowanych wobec niego i wykonanych już czynnościach medycznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "informowanie pacjenta o jego prawach.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zadbanie o dostęp pacjenta do Rzecznika Praw Pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zadbanie o to, aby on sam jak również inny personel medyczny przestrzegał w postępowaniu z pacjentem zasady poszanowania intymności i godności osobistej pacjenta.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-33",
+      "question": "Kodeks Etyki Lekarskiej nie zakazuje lekarzom przeprowadzania:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zapłodnienia pozaustrojowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "eutanazji.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "klonowania terapeutycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "klonowania reprodukcyjnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "eksperymentów badawczych na ludzkich zarodkach.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-34",
+      "question": "Czy prawdziwe jest zdanie: „Lekarzowi nie wolno współdziałać z osobami zajmującymi się leczeniem, a nie posiadającymi do tego uprawnień”?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zdanie to jest prawdziwe w tym sensie, iż odnosi się do powszechnie przyjętego wśród lekarzy zwyczaju.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tak i stanowi ono fragment art. 57 ust. 1 Kodeksu Etyki Lekarskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "polskie przepisy deontologiczne nie odnoszą się do podobnej problematyki.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tak i wynika ono z orzecznictwa sądów lekarskich.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie, jest to zdanie nieprawdziwe.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-35",
+      "question": "Czy pacjent ma prawo zgłosić sprzeciw w stosunku do opinii lekarza dotyczącej jego osoby?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "polskie prawo nie wypowiada się na ten temat.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "pacjent ma prawo skierować sprawę do Izby Lekarskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tak, jest to jedno z praw pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nie ma takiego prawa.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "obecnie trwają prace legislacyjne na ten temat.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-36",
+      "question": "Przekazywanie pacjentowi przez lekarza informacji o jego stanie zdrowia:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "jest obowiązkiem lekarza niezależnie od tego, czy pacjent prosił o przekazanie informacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "jest obowiązkiem lekarza tylko wówczas, gdy lekarz chce uzyskać od pacjenta zgodę na udzielenie świadczenia zdrowotnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "jest obowiązkiem lekarza tylko w odniesieniu do osób dorosłych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "jest obowiązkiem lekarza tylko wówczas, gdy pacjent prosi o przekazanie informacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie dotyczy dzieci, którym lekarz z zasady nie udziela żadnej informacji.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-37",
+      "question": "Czy przepisy deontologiczne dopuszczają wszczęcie przez lekarza postępowania diagnostycznego i terapeutycznego bez zgody pacjenta?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie ma takiej możliwości na podstawie KEL.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "działania takie regulują przepisy ustaw szczegółowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "działania takie reguluje wyłącznie ustawa o zawodach lekarza i lekarza dentysty.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "przepisy KEL dopuszczają taką możliwość tylko wyjątkowo, w szczególnych przypadkach zagrożenia życia lub zdrowia pacjenta lub innych osób.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lekarz zawsze ma obowiązek uzyskać zgodę pacjenta lub jego przedstawiciela ustawowego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-38",
+      "question": "Zgodnie z ustawą o zawodach lekarza i lekarza dentysty, prawo wykonywania zawodu lekarza i prawo wykonywania zawodu lekarza dentysty przyznaje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Naczelna Izba Lekarska.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Naczelna Rada Lekarska.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Rektor uczelni medycznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "właściwa Okręgowa Rada Lekarska.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "właściwa Okręgowa Izba Lekarska.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-39",
+      "question": "Czy lekarz może udzielić porady lekarskiej na odległość?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie, przepisy stanowią, iż lekarz zawsze pacjenta musi zbadać osobiście.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "w polskich przepisach nie odniesiono się do tego problemu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tak, Kodeks Etyki Lekarskiej wskazuje, iż działanie to może być podjęte w wyjątkowych sytuacjach.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tak, mowa jest o możliwym działaniu za pomocą komunikacji telefonicznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie, działanie to jest zakazane i uznane za nieetyczne.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-40",
+      "question": "Do jakich źródeł postępowania odsyła lekarzy Kodeks Etyki Lekarskiej w sprawach w nim nieuregulowanych?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "do tradycji zawodowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "do tradycji zawodowej i aktów przedstawionych przez związki wyznaniowe, z którymi identyfikuje się lekarz.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "do ustawodawstwa medycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "do Konstytucji Rzeczypospolitej Polskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "do zasad wyrażonych w uchwałach władz samorządu lekarskiego, w orzecznictwie sądów lekarskich oraz dobrych obyczajów przyjętych przez środowisko lekarskie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-41",
+      "question": "Czy zgodnie z polskim Kodeksem Etyki Lekarskiej lekarzowi wolno dyskryminować ludzi ze względu na dziedzictwo genetyczne?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tak, wolno.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tylko z mocy prawa.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tylko w szczególnych przypadkach.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nie wolno.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "w Kodeksie nie ma zapisu dotyczącego dziedzictwa genetycznego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-42",
+      "question": "Do mężczyzny, który spadł ze schodów, zostaje wezwany Zespół Ratownictwa Medycznego. Lekarz, który przybył na miejsce, dowiedział się, że pacjent ten silnie uderzył się w plecy i pozostaje w pozycji leżącej na miejscu zdarzenia. Odmawia jednak stanowczo przewiezienia do szpitala. Jak w świetle przepisów prawa medycznego powinien wówczas zachować się lekarz?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "mając na uwadze, że pacjent mógł ponieść poważny uszczerbek na zdrowiu, może pominąć stanowisko pacjenta i wbrew jego woli przetransportować go do szpitala.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "powinien upewnić się w obecności co najmniej dwóch świadków, czy pacjent podtrzymuje swoje stanowisko, a w razie takiej odpowiedzi, pozostawić pacjenta na miejscu zdarzenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "udzielić informacji na temat potencjalnych skutków poniesionych obrażeń oraz proponowanej diagnostyki i następnie postąpić zgodnie z wolą pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zawiadomić lekarza psychiatrę, wyznaczonego przez marszałka województwa, który może zdecydować o przymusowej hospitalizacji takiego pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "odnotować sprzeciw pacjenta w dokumentacji medycznej i pozostawić go na miejscu zdarzenia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-43",
+      "question": "Zgodnie z Kodeksem Etyki Lekarskiej decyzja o zaprzestaniu reanimacji należy do:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "konsylium lekarskiego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ordynatora oddziału lub zastępującego go lekarza.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "szpitalnej komisji etycznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kierownika danej placówki medycznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lekarza i jest związana z oceną szans leczniczych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-44",
+      "question": "Jaki zapis w sprawie klonowania ludzi znajduje się w polskim Kodeksie Etyki Lekarskiej?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ogranicza dopuszczalność klonowania ludzi.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "dopuszcza klonowanie ludzi.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nie dopuszcza klonowania ludzi.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nie zawiera zapisu w tej sprawie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "opisuje klonowanie ludzi nie zajmując stanowiska w tej sprawie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-45",
+      "question": "Lekarz podczas udzielania świadczeń zdrowotnych pacjentowi ustalił, że cierpi on na chorobę zakaźną, która może być przenoszona w drodze kontaktów seksualnych. Jakie powinno być wówczas postępowanie lekarza?\n1) lekarz niezwłocznie powinien zawiadomić właściwego wojewodę, który może wydać decyzję o izolacji takiej osoby;\n2) lekarz musi przymusowo zatrzymać chorego i wezwać natychmiast służby sanitarne;\n3) lekarz jest obowiązany powiadomić pacjenta o środkach służących zapobieganiu przeniesienia zakażenia na inne osoby;\n4) lekarz ma obowiązek poinformować zakażonego o konieczności zgłoszenia się do lekarza jego partnera seksualnego;\n5) lekarz musi niezwłocznie powiadomić wszystkie osoby z bliskiego otoczenia takiego chorego i ostrzec je przed zagrożeniem. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-46",
+      "question": "Czy lekarz może wykonać zabieg operacyjny albo zastosować metodę leczenia stwarzającą podwyższone ryzyko bez zgody opiekuna prawnego małoletniego pacjenta (np. rodzica), bądź zgody sądu opiekuńczego?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "działanie takie możliwe jest wyłącznie za zgodą sądu opiekuńczego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "działanie takie jest możliwe, ale wyłącznie po uzyskaniu przez lekarza zgody przełożonego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "podobne postępowanie jest prawnie zakazane.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "lekarz może podjąć takie czynności, w chwili, gdy zwłoka spowodowana postępowaniem w sprawie uzyskania zgody groziłaby pacjentowi niebezpieczeństwem utraty życia, ciężkiego uszkodzenia ciała lub ciężkiego rozstroju zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "działanie takie jest możliwe, ale zgoda opiekuna prawnego jest w podobnych momentach zawsze niezbędna.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-47",
+      "question": "Opiekun faktyczny dorosłego i nieprzytomnego pacjenta może wyrazić zgodę na:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wyłącznie zbadanie pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zbadanie pacjenta i podjęcie leczenia, które nie stwarza ryzyka dla pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "podjęcie leczenia, również wówczas, gdy powoduje ono podwyższone ryzyko dla pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zbadanie pacjenta i wykonanie zabiegu operacyjnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zbadanie pacjenta i przetoczenie krwi.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-48",
+      "question": "Wielu lekarzy na swoich pieczątkach używa tytułu „lekarza medycyny” („lek. med.”). W świetle aktualnego stanu prawnego:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tytułem takim może posługiwać się wyłącznie lekarz, który zakończył staż podyplomowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tytułem takim nie można się w ogóle posługiwać, gdyż on nie istnieje w sensie prawnym.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tytułem takim mogą się posługiwać tylko lekarze, którzy ukończyli studia przed 1996 rokiem.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tytułem takim mogą się posługiwać tylko lekarze, którzy ukończyli studia przed 1989 rokiem.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A i C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-49",
+      "question": "Stwierdzono śmierć mózgową 25-letniego pacjenta, który nie chciał zostać dawcą narządów, co odnotowano w Centralnym Rejestrze Sprzeciwów. Zgodnie z Kodeksem Etyki Lekarskiej leczący go lekarz powinien:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kontynuować leczenie do czasu zatrzymania serca.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "podtrzymywać funkcjonowanie narządów, jak długo jest to możliwe.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "podtrzymywać funkcjonowanie tylko komórek i tkanek, ale nie narządów.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "uzależnić dalsze postępowanie od decyzji rodziny.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wyłączyć respirator i wystawić kartę zgonu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-50",
+      "question": "Czy Kodeks Etyki Lekarskiej odnosi się do problemu ustalania kolejności świadczeń udzielanych pacjentom?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Kodeks Etyki Lekarskiej wskazuje wyłącznie, iż lekarz powinien pamiętać o podobnym problemie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Kodeks Etyki Lekarskiej wskazuje wyłącznie, że działania te leżą w gestii władz szpitala/poradni.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "na temat ten wypowiada się wyłącznie ustawa o prawach pacjenta i Rzeczniku Praw Pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "na temat ten wypowiada się wyłącznie ustawa o działalności leczniczej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Kodeks Etyki Lekarskiej wprost wskazuje, że lekarz ustalający kolejność pacjentów powinien opierać się na kryteriach medycznych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-51",
+      "question": "Czy lekarz ma prawo przeprowadzić eksperyment medyczny na kobietach w ciąży?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "podobne działanie wymaga odrębnej zgody sądu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "lekarz może podjąć podobne działania wyłącznie za zgodą pacjentki oraz samorządu lekarskiego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "problem ten nie jest uregulowany ustawowo.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawo nie zezwala na podejmowanie działań eksperymentalnych na kobietach w ciąży.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "kobieta w ciąży może być uczestnikiem takich działań; ustawa określa w tym zakresie szczególne obowiązki lekarza.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-52",
+      "question": "Kto może wydać kartę zgonu pacjenta?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "każdy lekarz.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "każdy lekarz posiadający co najmniej 5-letni staż pracy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarz zatrudniony w określonej jednostce realizującej zadania z zakresu medycyny sądowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "przedstawiciel szpitala za zgodą prokuratora.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "każdy pracownik wykonujący zawód medyczny, uprzednio upoważniony przez dyrektora szpitala.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-53",
+      "question": "Czy dziecko, które ukończyło lat 16 ma prawo żądać uzyskania pełnej informacji na temat swojego leczenia?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tak, ale jedynie w momencie, gdy nie ma jego rodziców, opiekunów prawnych lub faktycznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tak, ale tylko wówczas, gdy uzyska wcześniej zgodę sądu opiekuńczego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tak, gdy dotyczy to spraw z zakresu przestępstw przeciwko seksualności człowieka.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tak, od 16. r. ż. posiada takie prawo.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie, nie posiada takiego prawa.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-54",
+      "question": "Lekarz, wypowiadając się krytycznie na temat postępowania innego lekarza, powinien:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zachować szczególną ostrożność w formułowaniu opinii o działalności zawodowej tego lekarza, w szczególności nie powinien publicznie dyskredytować go w jakikolwiek sposób.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "jasno i wyraźnie sformułować zarzuty wobec tego lekarza, przedstawiając swoją opinię w środkach masowego przekazu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "przekazać uwagi o dostrzeżonych błędach w postępowaniu innego lekarza przede wszystkim odpowiednim organom izby lekarskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zapewnić pacjentowi konsultację innego lekarza.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "o swoich zastrzeżeniach wobec tego lekarza poinformować przede wszystkim pacjenta, którego sprawa dotyczy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-55",
+      "question": "Zespół Ratownictwa Medycznego, w skład którego wchodzi lekarz, został wezwany do 32-letniego mężczyzny, który pozostawał pod wpływem tzw. dopalaczy. Środek ten spowodował duży poziom agresji u pacjenta. Pod jakimi warunkami możliwe jest zastosowanie wobec takiego mężczyzny przymusu bezpośredniego?\n1) można stosować przymus tylko wówczas, gdy lekarz zdiagnozuje, że osoba taka cierpi na chorobę psychiczną;\n2) lekarz może użyć przymusu, jeśli uzyska uprzednią zgodę lekarza specjalisty w dziedzinie psychiatrii, wyznaczonego przez marszałka województwa;\n3) swoim zachowaniem pacjent stwarza zagrożenie dla swego życia lub zdrowia;\n4) możliwe jest jedynie zastosowanie przymusu polegającego na przytrzymaniu lub unieruchomieniu, lekarz nie może zaś podać przymusowo leków;\n5) przed zastosowaniem przymusu bezpośredniego lekarz powinien uprzedzić o tym zamiarze pacjenta. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "3,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-56",
+      "question": "Przeprowadzenie eksperymentu medycznego wymaga:\n1) zgody osoby badanej mającej w nim uczestniczyć;\n2) zgody dyrektora oddziału okręgowego NFZ;\n3) uprzedniego poinformowania osoby badanej o celach, sposobach i warunkach przeprowadzenia eksperymentu, spodziewanych korzyściach leczniczych lub poznawczych, ryzyku oraz o możliwości odstąpienia od udziału w eksperymencie w każdym jego stadium;\n4) wyrażenia pozytywnej opinii o projekcie przez niezależną komisję bioetyczną;\n5) wyrażenia opinii na temat eksperymentu przez okręgową izbę lekarską. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-57",
+      "question": "Lekarz w związku z udzielaniem świadczeń zdrowotnych może odmówić pacjentowi prawa do obecności osoby pozostającej z pacjentem we wspólnym pożyciu, gdy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "pacjent wymaga fachowej opieki pielęgnacyjnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "pacjent przebywa w szpitalu klinicznym a badanie pacjenta ma charakter pokazowy i biorą w nim udział studenci.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "działa ze względów organizacyjnych - na wieloosobowej sali pacjentów nie ma parawanów.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "istnieje prawdopodobieństwo wystąpienia zagrożenia epidemicznego lub ze względu na bezpieczeństwo zdrowotne pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie można zagwarantować osobie bliskiej bezpieczeństwa zdrowotnego w związku z udzielanym pacjentowi świadczeniem zdrowotnym.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-58",
+      "question": "Deklaracja helsińska opracowana przez Światowe Stowarzyszenie Medyczne, będąca fundamentem zasad bioetyki i prawa medycznego postanawia:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "badania na istotach ludzkich są powszechnie dozwolone i nieograniczone.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "badania na człowieku mogą być prowadzone z naruszeniem jego dóbr, jeżeli przemawia za tym ważny interes nauki.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "w badaniach na człowieku interes nauki lub społeczeństwa nie powinien nigdy być przedkładany nad uwarunkowania związane z dobrem badanego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "badania medyczne z udziałem ludzi mogą być realizowane nawet wówczas, gdy są eksperymentowaniem nieterapeutycznym, bez ograniczeń.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "deklaracja helsińska nie precyzuje żadnych zasad badań medycznych z udziałem ludzi.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-59",
+      "question": "Czy osoba, której płeć psychiczna nie jest zgodna z metrykalną, może oddać nerkę osobie niespokrewnionej?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tak, ale tylko biorcy o płci zgodnej z płcią psychiczną dawcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tak, ale tylko biorcy o płci zgodnej z płcią metrykalną dawcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tak, biorcy dowolnej płci, jeżeli tylko wyrazi takie życzenie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tak, ale tylko za zgodą sądu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie, taka osoba nie może być dawcą nerki.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-60",
+      "question": "Pobranie tkanek, narządów i komórek w celach transplantacyjnych ze zwłok może nastąpić:\n1) po stwierdzeniu trwałego nieodwracalnego ustania czynności mózgu\n(śmierci mózgu);\n2) po stwierdzeniu zgonu wskutek nieodwracalnego zatrzymania krążenia;\n3) po stwierdzeniu zgonu wskutek nieodwracalnego zatrzymania oddychania;\n4) po stwierdzeniu zgonu wskutek nieodwracalnego ustania funkcji pnia mózgu;\n5) jeśli osoby bliskie dawcy, w rozumieniu ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta, nie sprzeciwiają się eksplantacji. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-61",
+      "question": "Czy lekarz w trakcie działania jakie podejmuje może konsultować się np. z bioenergoterapeutą lub specjalistą medycyny naturalnej?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "jest to działanie dozwolone wyłącznie w stanach terminalnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "interwencja ta jest akceptowana, jako działanie w tzw. stanie wyższej konieczności.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tak, ale wyłącznie za zgodą pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "samorząd zawodowy wydaje specjalną zgodę na podobne konsultacje.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "podobne postępowanie byłoby naruszeniem zasad etyki lekarskiej, zakazujących współpracy z osobami leczącymi pacjentów niesprawdzonymi metodami leczniczymi.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-62",
+      "question": "Przymus bezpośredni można stosować m.in.:\n1) wobec osoby z zaburzeniami psychicznymi, która odmawia poddania się poleceniom porządkowym wydanym przez lekarza lub pielęgniarkę;\n2) w celu zapobieżenia samowolnemu opuszczaniu szpitala psychiatrycznego przez osobę przyjętą do szpitala psychiatrycznego bez jej zgody;\n3) gdy osoba z zaburzeniami psychicznymi dopuszcza się zamachu przeciwko życiu lub zdrowiu własnemu lub innej osoby;\n4) gdy osoba z zaburzeniami psychicznymi odmawia składania wyjaśnień Rzecznikowi Praw Pacjenta Szpitala Psychiatrycznego;\n5) gdy osoba z zaburzeniami psychicznymi poważnie zakłóca lub uniemożliwia funkcjonowanie zakładu psychiatrycznej opieki zdrowotnej. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-63",
+      "question": "Wytyczne Towarzystw Naukowych zalecają zróżnicowanie sposobu leczenia nadciśnienia tętniczego w zależności od rasy pacjenta. Należy w związku z tym uznać, że Kodeks Etyki Lekarskiej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie jest sprzeczny z tymi zaleceniami.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wymaga pilnej nowelizacji, bo nie nadąża za postępem wiedzy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wymaga zmian w okresie masowego napływu ludzi różnych ras i religii.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nie obowiązuje w odniesieniu do leczenia nadciśnienia tętniczego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie pozwala na stosowanie takich zaleceń.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-64",
+      "question": "Zgodnie z ustawą o prawach pacjenta i Rzeczniku Praw Pacjenta, lekarz udzielający pacjentowi świadczeń zdrowotnych może sprzeciwić się obecności osoby bliskiej pacjenta przy udzielaniu tych świadczeń:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "w każdym przypadku i bez konieczności podawania uzasadnienia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tylko w przypadku, gdy wykonanie świadczenia zdrowotnego wymaga od pacjenta rozebrania się.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tylko w przypadku, gdy obecność osoby bliskiej mogłaby stanowić zagrożenie dla zdrowia pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tylko w przypadku, gdy pacjent cierpi na nieuleczalną chorobę zakaźną.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tylko gdy istnieje prawdopodobieństwo wystąpienia zagrożenia epidemicznego lub gdy przemawia za tym wzgląd na bezpieczeństwo zdrowotne pacjenta.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-65",
+      "question": "Zgodnie z Zasadami Etycznego Postępowania w Eksperymencie Medycznym z udziałem ludzi (tzw. Deklaracją Helsińską), cel badania medycznego, jakim jest zdobycie nowej wiedzy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie może mieć pierwszeństwa nad prawami i interesami uczestników badania naukowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "może w wyjątkowych sytuacjach klinicznych mieć pierwszeństwo nad wyłącznymi interesami uczestników badań.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "może w imię interesów uczestników badań ograniczyć jedynie ich prawa.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "może mieć pierwszeństwo nad prawami uczestników badań jeśli wyrażą oni na to zgodę świadomą.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "może mieć pierwszeństwo nad interesami uczestników badań jedynie wtedy, gdy wyrazi na to zgodę komisja bioetyczna zezwalająca na przeprowadzenie eksperymentu medycznego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-66",
+      "question": "Czy w Kodeksie Etyki Lekarskiej (KEL) znajduje się unormowanie regulujące powinności lekarza w sprawie szczepień ochronnych?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "w KEL nie ma żadnego stwierdzenia, które można byłoby odnieść do szczepień ochronnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tak, lekarz ma obowiązek prowadzenia szczepień ochronnych dla dobra społeczeństwa, nawet wbrew woli pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "jest unormowanie pośrednie, z którego wynika, że powołaniem lekarza jest również zapobieganie chorobom.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tak, lekarz działając zgodnie ze swoim powołaniem zapobiegania chorobom może zaszczepić dziecko wbrew woli rodziców.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi B i D.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-67",
+      "question": "Zgodnie z przepisami ustawy o zawodach lekarza i lekarza dentysty, po śmierci pacjenta tajemnica lekarska:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "może być ujawniona każdej osobie, gdyż śmierć chorego powoduje zwolnienie lekarza z obowiązku jej przestrzegania.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "jest bezwzględnie chroniona i żaden podmiot nie może lekarza z niej zwolnić.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "może być ujawniona za zgodą właściwej miejscowo okręgowej rady lekarskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "może być ujawniona, jeśli po śmierci pacjenta zgodzi się na to jego osoba bliska w rozumieniu ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "może być ujawniona, jeśli lekarz uzna, że nie szkodzi to dobru pacjenta i potwierdzi to przekonanie po konsultacji z innym lekarzem.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-68",
+      "question": "Czy lekarz może uczestniczyć w czynnościach mających na celu wywoływanie dziedzicznych zmian genetycznych u człowieka?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "obszar ten jest nieuregulowany.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nie, jest to zakaz wynikający z Kodeksu karnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nie, choć jest to tzw. zakaz niedoskonały - wynika on bowiem z nieobowiązującej w Polsce Europejskiej Konwencji Bioetycznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "lekarzowi zabrania się wykonywać podobnych działań - zakaz taki jest wyrażony wprost w ustawie o zawodach lekarza i lekarza dentysty.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lekarzowi zabrania się wykonywać podobnych działań - zakaz taki jest wyrażony wprost w Kodeksie Etyki Lekarskiej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-69",
+      "question": "W pełni zdolny do wyrażenia uświadomionej zgody uczestnik niekomercyjnego badania klinicznego prowadzonego przez uczelnię medyczną:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "musi zostać zapoznany z celami, ryzykiem i niedogodnościami związanymi z tym badaniem klinicznym oraz warunkami, w jakich ma ono zostać przeprowadzone i może wycofać się z badania klinicznego w każdej chwili.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "musi zostać zapoznany z celami badania klinicznego oraz warunkami, w jakich ma ono zostać przeprowadzone i może wycofać się z badania klinicznego w każdej chwili.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "musi zostać zapoznany z ryzykiem związanym z badaniem klinicznym i nie może wycofać się z badania, jeżeli wyraził pisemną zgodę na wzięcie w nim udziału.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "musi zostać zapoznany z ryzykiem związanym z badaniem klinicznym i może wycofać się z badania pod warunkiem, że ureguluje koszty poniesione przez uczelnię i badacza.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "musi zostać zapoznany z celami badania klinicznego i może wycofać się z badania pod warunkiem, że ureguluje koszty poniesione przez uczelnię i badacza.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-70",
+      "question": "Oceń prawdziwość zdania: „W przypadku chorego nieprzytomnego lekarz może udzielić dla dobra chorego, niezbędnych informacji osobie, co do której jest przekonany, że działa ona w interesie chorego”:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zdanie to jest prawdziwe, stanowi część zapisów Kodeksu Etyki Lekarskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zdanie to nie jest prawdziwe.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zdanie to jest prawdziwe, stanowi część Ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zdanie to jest prawdziwe, stanowi część Ustawy o zawodach lekarza i lekarza dentysty.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "jest to zdanie nieprawdziwe, lekarz może udzielić informacji w takiej sytuacji tylko opiekunowi prawnemu pacjenta.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-71",
+      "question": "U 67-letniej pacjentki rozpoznano nowotwór złośliwy kości szczęki. Pacjentce zaproponowano rozległy zabieg operacyjny, polegający na usunięciu połowy kości szczęki razem z zębami i podniebieniem twardym, co spowodowałoby upośledzenie mowy, utrudnienie przyjmowania pokarmów i zmianę wyglądu zewnętrznego (blizna i asymetria twarzy). Pacjentka kategorycznie sprzeciwiła się operacji, argumentując, że nie chce być oszpecona. Mimo tego sprzeciwu lekarz, nie proponując alternatywnego leczenia, nadal namawiał pacjentkę na wyrażenie zgody, także w obecności jej dzieci akceptujących operację. Pacjentka zdecydowała się tylko na leczenie paliatywne. Po kolejnych namowach lekarza i jej dzieci pacjentka uległa i zgodziła się na proponowane przez lekarza leczenie. Czy postawa lekarza, polegająca na namawianiu pacjentki, niezaproponowaniu alternatywnego leczenia i angażowaniu jej dzieci w proces podejmowania przez pacjentkę decyzji co do interwencji medycznej, miała uzasadnienie etyczne?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tak, lekarz działał w imię dobra pacjentki.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nie, lekarz poprzez namawianie pacjentki i posłużenie się presją rodziny zignorował autonomiczną decyzję pacjentki - wymusił na niej zgodę na operację.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tak, proponowany zabieg operacyjny był zgodny z aktualnym stanem wiedzy medycznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tak, lekarz uwzględnił życzenia najbliższych, którzy działali w imię dobra pacjentki.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie, lekarz miał prawo wymusić zmianę decyzji pacjentki, uznając, że dobro chorej tego wymaga, lecz nie miał prawa angażować rodziny w podejmowanie decyzji przez pacjentkę.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-72",
+      "question": "Prawo pacjenta do informacji obejmuje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "udzielenie pacjentowi informacji tylko o jego stanie zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "udzielenie pacjentowi przystępnej informacji o jego stanie zdrowia, rozpoznaniu, proponowanych oraz możliwych metodach diagnostycznych, leczniczych, dających się przewidzieć następstwach ich zastosowania albo zaniechania, wynikach leczenia oraz rokowaniu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "udzielenie pacjentowi przystępnej informacji o jego stanie zdrowia, rozpoznaniu, proponowanych oraz możliwych metodach diagnostycznych, leczniczych, o wszystkich następstwach ich zastosowania albo zaniechania, wynikach leczenia oraz rokowaniu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "udzielenie informacji osobie bliskiej pacjenta nawet wbrew żądaniu pacjenta jej nieudzielania.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "udzielenie pacjentowi tylko ogólnej informacji o zabiegu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-73",
+      "question": "Do szpitala zgłasza się kobieta, dla której jedyną szansą przeżycia jest obecnie przeszczepienie szpiku, a poszukiwania dawcy zakończyły się niepowodzeniem. Wyniki badań antygenów zgodności tkankowej wskazują, iż małoletni syn kobiety mógłby być odpowiednim dawcą. Pobranie szpiku od małoletniego w celu przeczepienia go matce małoletniego:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie jest możliwe.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "jest możliwe jedynie od małoletnich powyżej 16. roku życia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "jest możliwe jedynie w sytuacji bezpośredniego niebezpieczeństwa utraty życia matki oraz gdy nie znaleziono innego dawcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "jest możliwe po uzyskaniu zgody małoletniego w formie pisemnej oraz zgody Komisji Etycznej Krajowej Rady Transplantacyjnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "jest możliwe po uzyskaniu zgody małoletniego w formie pisemnej, zgody Komisji Etycznej Krajowej Rady Transplantacyjnej oraz zgody sądu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-74",
+      "question": "Zadaniem okręgowej izby lekarskiej nie jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "udzielanie informacji zainteresowanym lekarzom dotyczących ogólnych zasad wykonywania zawodu, zasad etyki lekarskiej, a także o przepisach dotyczących ochrony zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "prowadzenie rejestru indywidualnych praktyk lekarskich w Rejestrze Podmiotów Wykonujących Działalność Leczniczą.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "prowadzenie instytucji samopomocowych i innych form pomocy materialnej dla lekarzy i członków ich rodzin.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prowadzenie rejestru grupowych praktyk lekarskich w Rejestrze Podmiotów Wykonujących Działalność Leczniczą.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prowadzenie rejestru czynności przetwarzania danych osobowych w związku z wykonywaną przez członków samorządu działalnością leczniczą.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-75",
+      "question": "Do szpitala zostaje przywieziony mężczyzna, który wymaga przeprowadzenia zabiegu dializy. Ze względu na swój stan nie może udzielić skutecznej zgody. W takim przypadku lekarz może wykonać zabieg:\n1) po uzyskaniu zgody swego przełożonego;\n2) po uzyskaniu zgody żony lub innej osoby bliskiej pacjenta;\n3) po wydaniu orzeczenia o ubezwłasnowolnieniu chorego przez sąd opiekuńczy, właściwy ze względu na ostatnie jego miejsce zamieszkania;\n4) po uzyskaniu zezwolenia sądowego;\n5) w sytuacji, gdy zwłoka mogłaby spowodować niebezpieczeństwo utraty życia albo ciężkiego uszkodzenia ciała lub ciężkiego uszczerbku na zdrowiu, bez niczyjej zgody, powinien jednak w miarę możliwości skonsultować się z innym lekarzem najlepiej tej samej specjalności. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-76",
+      "question": "Jeżeli lekarz nie udzieli pacjentowi, który kwalifikuje się do dalszego leczenia, informacji o proponowanych oraz możliwych metodach diagnostycznych i leczniczych:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lekarz nie ponosi odpowiedzialności prawnej - nie ma obowiązku udzielania informacji o proponowanych oraz możliwych metodach diagnostycznych i leczniczych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "lekarz naraża się na poniesienie odpowiedzialności cywilnej - pacjent może żądać zadośćuczynienia pieniężnego, a ponadto lekarz podlega odpowiedzialności zawodowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarz naraża się na poniesienie odpowiedzialności karnej - nieprzekazanie informacji jest przestępstwem ściganym z oskarżenia prywatnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "lekarz nie ponosi odpowiedzialności cywilnej, a jedynie może odpowiadać przed sądem lekarskim.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lekarz naraża się na poniesienie odpowiedzialności cywilnej - pacjent może żądać odszkodowania, którego wysokość ustala komisja działająca przy właściwym wojewodzie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-77",
+      "question": "Czy wobec osoby, u której podejrzewa się wystąpienie choroby szczególnie zakaźnej, zagrażającej zdrowiu lub życiu można zastosować środki przymusu bezpośredniego celem zmuszenia jej do poddania się czynnościom leczniczym?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie, polskie przepisy nie regulują tej kwestii.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tak, jest taka możliwość, ale wyłącznie za zgodą sądu opiekuńczego lub (zastępczo) prokuratora.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tak, na takie działanie zezwalają przepisy ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nie, przymus bezpośredni może być zastosowany wyłącznie w placówkach psychiatrycznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tak, istnieje taka możliwość, ale wyłącznie za zgodą Głównego Inspektora Sanitarnego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-78",
+      "question": "Tak zwana „klauzula sumienia” reguluje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "prawo pacjenta do odmowy zgody na proponowane świadczenie zdrowotne, które jest niezgodne z jego sumieniem.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "prawo lekarza do odmowy wykonania świadczenia zdrowotnego, które jest niezgodne z jego sumieniem.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "prawo pacjenta do odmowy przyjęcia informacji na temat swojego stanu zdrowia i proponowanych metod leczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawo lekarza do tego, aby w wyjątkowych przypadkach i ze względu na dobro pacjenta powstrzymać się od udzielenia pacjentowi pełnej informacji o stanie jego zdrowia i niepomyślnym rokowaniu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawo lekarza do tego, aby w wyjątkowych przypadkach i ze względu na dobro pacjenta udzielić kompetentnemu pacjentowi świadczenia zdrowotnego wbrew sprzeciwowi tego pacjenta.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-79",
+      "question": "Jakimi kryteriami wg Kodeksu Etyki Lekarskiej powinien kierować się lekarz ustalający kolejność pacjentów w przypadkach wymagających szczególnych form terapii, które nie mogą być zastosowane równocześnie u wszystkich potrzebujących?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kryteriami medycznymi.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kryteriami społecznymi.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "kryteriami ekonomicznymi.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawdziwe są odpowiedzi A i B.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A i C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-80",
+      "question": "Przywołana w Kodeksie Etyki Lekarskiej stara łacińska maksyma „Salus aegroti suprema lex esto” oznacza, że obowiązkiem moralnym lekarza jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "działać dla dobra chorego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "traktować pacjenta w sposób życzliwy i kulturalny.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "działać zgodnie z własnym sumieniem.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "stać na straży godności zawodu lekarza.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "bezwzględnie przestrzegać prawa.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-81",
+      "question": "Pewnego pacjenta na dwa dni przed jego śmiercią odwiedził wysoki przedstawiciel obcego państwa i wręczył mu odznaczenie. Lekarz był świadkiem tego wydarzenia, ponieważ badał w tym czasie innego chorego. Zgodnie z Kodeksem Etyki Lekarskiej powinien:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "poinformować o tym władze w trosce o własne bezpieczeństwo.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "poinformować o tym władze w trosce o bezpieczeństwo Państwa.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "przekazać niezwłocznie informację Rzecznikowi Prasowemu Szpitala.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "może przekazać taką informację dopiero po śmierci chorego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zachować tę informację w tajemnicy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-82",
+      "question": "Lekarz stwierdza, że rokowanie jest niepomyślne dla pacjenta i przekazanie mu takich złych wieści może godzić w jego dobro. Jak, w myśl przepisów prawa, może się wówczas zachować?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "musi przekazać pełną informację, gdyż bez względu na stan pacjenta podstawowym jego prawem jest uzyskanie takiej informacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "może całkowicie odstąpić od informowania chorego i pełną informację przekazać osobie, co do której wie, że działa ona w interesie tego pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "może ograniczyć informację o stanie zdrowia i rokowaniu, przekazywaną pacjentowi.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "może wprowadzić w błąd pacjenta i powiedzieć mu, że rokowania są dobre.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "może ograniczyć się jedynie do przekazania pacjentowi swych zaleceń i przemilczeć pozostałe kwestie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-83",
+      "question": "Czy na terenie innego szpitala niż psychiatryczny można stosować przymus bezpośredni wobec pacjenta?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "taką możliwość ma tylko odpowiednio przeszkolona pielęgniarka.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "taka możliwość istnieje na podstawie przepisów ustawy o ochronie zdrowia psychicznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "działania te są możliwe na podstawie zgody dyrektora szpitala.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "możliwość taka istnieje na podstawie ustawy o prawach pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie ma takiej możliwości.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-84",
+      "question": "Podstawą do wypisania pacjenta ze szpitala nie jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "odmowa poddania się przez pacjenta jednej z metod leczenia, którą zaproponował mu lekarz.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "żądanie wypisania dziecka, skierowane do lekarza przez rodziców małoletniego pacjenta, któremu nie przeciwstawił się w swoim orzeczeniu powiadomiony właściwy sąd opiekuńczy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wystąpienie okoliczności wskazujących, że stan zdrowia pacjenta nie wymaga dalszego udzielania świadczeń zdrowotnych w tym zakładzie leczniczym.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "żądanie dorosłego pacjenta wypisania ze szpitala.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "rażące naruszanie porządku lub przebiegu procesu udzielania świadczeń zdrowotnych przez pacjenta, gdy jednocześnie nie zachodzi obawa, że odmowa lub zaprzestanie udzielania świadczeń zdrowotnych może spowodować bezpośrednie niebezpieczeństwo dla jego życia lub zdrowia albo życia lub zdrowia innych osób.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-85",
+      "question": "Lekarz ma wykonać transfer jądra komórki jajowej do cytoplazmy komórki jajowej innej kobiety, tak aby w wyniku zapłodnienia in vitro urodziło się dziecko wolne od wad związanych z dziedziczeniem mitochondrialnym. Zgodnie z Kodeksem Etyki Lekarskiej jest to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "czyn godny pochwały.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "dopuszczalne, tylko jeżeli ryzyko wad wrodzonych jest duże.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zabronione, ponieważ nie wolno przeprowadzać eksperymentów na embrionach ludzkich.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zabronione, ponieważ wywołałby dziedziczne zmiany genetyczne u człowieka.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Kodeks Etyki Lekarskiej nie odnosi się do tego problemu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-86",
+      "question": "W prawie polskim tajemnica lekarska obejmuje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wszystkie informacje, które lekarz posiada na temat pacjenta i jego rodziny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wszystkie informacje związane z pacjentem, które lekarz uzyskał w związku z wykonywaniem zawodu medycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wyłącznie informacje dotyczące zdrowia i leczenia pacjenta, które lekarz uzyskał w związku z wykonywaniem zawodu medycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wyłącznie informacje związane z pacjentem, które lekarz uzyskał od samego pacjenta lub na podstawie przeprowadzonych badań.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wyłącznie informacje zawarte w dokumentacji medycznej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-87",
+      "question": "Minister Zdrowia wydał rozporządzenie, w którym określił sposób leczenia pewnej choroby. W 6 miesięcy później lekarz przeczytał nową publikację naukową z której jednoznacznie wynikało, że określony w rozporządzeniu sposób leczenia jest szkodliwy dla chorych. Zgodnie z Kodeksem Etyki Lekarskiej powinien:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "leczyć chorych zgodnie z rozporządzeniem ministra do czasu jego nowelizacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "odmówić leczenia chorych do czasu nowelizacji rozporządzenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "odmówić leczenia chorych powołując się na klauzulę sumienia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "leczyć chorych zgodnie z dostępną wiedzą medyczną wbrew rozporządzeniu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Kodeks Etyki Lekarskiej nie odnosi się do takich sytuacji.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-88",
+      "question": "Lekarz może udzielić świadczenia zdrowotnego małoletniemu pacjentowi, który ukończył lat 16:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "bez uzyskania jakiejkolwiek zgody.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "po uzyskaniu zgody pacjenta, ale bez zgody jego przedstawiciela ustawowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "po uzyskaniu zgody przedstawiciela ustawowego, ale bez zgody pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "bez zgody pacjenta, ale po uzyskaniu zgody jego rodziców.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "po uzyskaniu zgody pacjenta i jego przedstawiciela ustawowego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-89",
+      "question": "W myśl ustawy o działalności leczniczej sekcja zwłok co do zasady jest przeprowadzana po upływie co najmniej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "6 godzin od stwierdzenia zgonu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "12 godzin od stwierdzenia zgonu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "24 godzin od stwierdzenia zgonu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "12 godzin od wystawienia aktu zgonu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "24 godzin od wystawienia karty zgonu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-90",
+      "question": "Eksperyment medyczny z udziałem człowieka może być przeprowadzony:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "pod nadzorem specjalisty prawa medycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wyłącznie pod nadzorem lekarza posiadającego odpowiednio wysokie kwalifikacje.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wyłącznie pod nadzorem lekarza, będącego pracownikiem uniwersytetu medycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "pod nadzorem bioetyka.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "pod nadzorem antropologa.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-91",
+      "question": "Terminem „przywilej terapeutyczny” określa się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "prawo pacjenta do uzyskania dostępu do najbardziej nowoczesnych i zaawansowanych procedur medycznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "prawo lekarza do decydowania o tym, który z pacjentów potrzebujących deficytowego świadczenia zdrowotnego otrzyma je w pierwszej kolejności.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "prawo lekarza do tego, aby w wyjątkowych przypadkach i ze względu na dobro pacjenta powstrzymać się od udzielenia pacjentowi pełnej informacji o stanie jego zdrowia i niepomyślnym rokowaniu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawo pacjenta do uzyskania dostępu do dotyczącej go dokumentacji medycznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawo lekarza do tego, aby w wyjątkowych przypadkach i ze względu na dobro pacjenta udzielić kompetentnemu pacjentowi świadczenia zdrowotnego wbrew sprzeciwowi tego pacjenta.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-92",
+      "question": "Chory, zgodnie z zaleceniami Amerykańskiego Towarzystwa Naukowego, powinien być leczony lekiem A, a według stanowiska Europejskiego Towarzystwa Naukowego lekiem B. Zgodnie z Kodeksem Etyki Lekarskiej pracujący w Polsce lekarz:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "powinien stosować lek A, bo „zalecenia” są formą mocniejszą niż „stanowisko”.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "powinien stosować lek A, jeżeli pacjent jest obywatelem USA, a lek B, jeśli jest Europejczykiem.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "powinien stosować lek B, ponieważ Polska jest w Unii Europejskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "powinien stosować lek zgodny z wytycznymi Polskiego Towarzystwa Naukowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ma swobodę wyboru leku.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-93",
+      "question": "Lekarz nie jest uprawniony do udzielenia informacji o stanie zdrowia nieprzytomnej pacjentki (w wieku 54 lat):",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wnuczce tej pacjentki.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "synowej tej pacjentki.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "mężowi tej pacjentki.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kuzynowi tej pacjentki.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "konkubentowi tej pacjentki.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-94",
+      "question": "Czy osoba ubezwłasnowolniona może zgłosić sprzeciw wobec jej przyjęcia do szpitala?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie - decyzję podejmuje wyłącznie opiekun prawny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nie - decyzję podejmuje wyłącznie sąd opiekuńczy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tak - jeśli jest pełnoletnia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tak - jeśli posiada rozeznanie co do sytuacji i rozumie kierowane do niej komunikaty.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tak - ale tylko w przypadku szpitala psychiatrycznego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-95",
+      "question": "Zgodnie z ustawą o prawach pacjenta i Rzeczniku Praw Pacjenta, pacjent ma prawo do:\n1) wyrażenia zgody na udzielenie określonych świadczeń zdrowotnych;\n2) odmowy zgody na udzielenie określonych świadczeń zdrowotnych;\n3) bezpłatnej informacji o prawach pacjenta określonych w tej ustawie;\n4) bezpłatnego wyciągu, odpisu, kopii lub wydruku dokumentacji medycznej;\n5) bezpłatnej pomocy prawnej z zakresu prawa medycznego i ubezpieczeń zdrowotnych. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-96",
+      "question": "Warunkiem koniecznym, dopuszczającym możliwość pobierania komórek, tkanek lub narządów od zmarłej osoby dorosłej w celu ich przeszczepienia jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wyrażenie przez tę osobę za życia zgody na przeszczep.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "niewyrażenie sprzeciwu osoby zmarłej za jej życia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "uzyskanie zezwolenia sądu opiekuńczego po śmierci tej osoby lub za jej życia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "niewyrażenie sprzeciwu przez osobę bliską zmarłego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wyrażenie przez osobę bliską zmarłego zgody na przeszczep.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-97",
+      "question": "W świetle polskiego prawa, pobrania komórek, tkanek lub narządów ze zwłok ludzkich w celu ich przeszczepienia można dokonać, jeśli:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "osoba zmarła wyraziła za życia zgodę na zostanie dawcą po śmierci.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "rodzina osoby zmarłej nie sprzeciwia się pobraniu komórek, tkanek lub narządów z jej zwłok.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "osoba zmarła wyraziła za życia zgodę na zostanie dawcą po śmierci i jej rodzina nie sprzeciwia się pobraniu komórek, tkanek lub narządów z jej zwłok.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "osoba zmarła nie wyraziła za życia sprzeciwu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "osoba zmarła zarejestrowała się za życia w Centralnym Rejestrze Dawców.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-98",
+      "question": "Zgodnie z Ustawą z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów, w przypadku dawców poniżej\n18. roku życia:\n1) dawstwo narządów nie jest możliwe;\n2) dawstwo narządów jest możliwe jedynie na rzecz rodzeństwa, gdy istnieje niebezpieczeństwo utraty życia kandydata na biorcę a pozyskanie narządu ze zwłok nie jest możliwe;\n3) dawstwo szpiku nie jest możliwe;\n4) dawstwo szpiku lub komórek krwiotwórczych krwi obwodowej jest możliwe jedynie na rzecz rodzeństwa w sytuacji bezpośredniego niebezpieczeństwa utraty życia kandydata na biorcę;\n5) dawstwo szpiku jest możliwe na rzecz osoby spokrewnionej w linii prostej. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-99",
+      "question": "Jednym z podstawowych obowiązków lekarza jest zachowanie tajemnicy lekarskiej. Po śmierci pacjentki, w szpitalu pojawiła się jej pełnoletnia siostra z prośbą o udostępnienie jej dokumentacji zmarłej dotyczącej pobytu w tym podmiocie leczniczym. W tej sytuacji lekarz:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "powinien odmówić siostrze zmarłej pacjentki, motywując tę decyzję prawnym i etycznym obowiązkiem zachowania tajemnicy lekarskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "powinien zezwolić siostrze zmarłej pacjentki wyłącznie na skorzystanie z prawa wglądu do dokumentacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "powinien przeprowadzić rozmowę z wszystkimi bliskimi członkami rodziny zmarłej i udostępnić dokumentację tej osobie, która wg niego była najbardziej związana z pacjentką.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "powinien udostępnić dokumentację medyczną zmarłej pacjentki każdej osobie bliskiej, która wystąpi z takim żądaniem, chyba, że pacjentka za życia sprzeciwiła się temu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie powinien udostępnić dokumentacji medycznej, a może jedynie udzielić siostrze zmarłej pacjentki ustnej informacji o przyczynie zgonu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-100",
+      "question": "Powołując się na klauzulę sumienia, lekarz ma obowiązek:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "uzyskać zgodę przełożonego na skorzystanie z tej formy odmowy udzielenia świadczenia medycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "odnotować ten fakt w dokumentacji medycznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wskazać pacjentowi realną możliwość skorzystania z danej interwencji medycznej u innego lekarza lub w innym podmiocie leczniczym.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "skonsultować swoją decyzję z innym lekarzem specjalistą w tej samej dziedzinie medycyny.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "przedstawić swoją decyzję o odmowie wykonania świadczenia w formie pisemnej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-101",
+      "question": "Wskaż, kiedy lekarz onkolog może ograniczyć informację udzielaną pacjentowi o stanie jego zdrowia i o rokowaniu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "w sytuacji ogłoszenia stanu epidemii.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "na żądanie osoby bliskiej pacjenta, jeśli pacjent jest pełnoletni, przytomny i zdolny do zrozumienia znaczenia informacji, ale taka jest wola osoby bliskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "na żądanie Rzecznika Praw Lekarza, działającego przy Okręgowej Izbie Lekarskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ze względu na udział pacjenta w badaniu klinicznym.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "jeżeli rokowanie jest niepomyślne dla pacjenta a wg oceny lekarza przemawia za tym dobro pacjenta.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-102",
+      "question": "Kto może wystąpić do wojewódzkiej komisji do spraw orzekania o zdarzeniach medycznych z wnioskiem o ustalenie zdarzenia medycznego?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "osoba bliska pacjentowi, w sytuacji gdy doszło do zakażenia, uszkodzenia ciała lub rozstroju zdrowia pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "spadkobiercy pacjenta, w przypadku śmierci pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "każdy członek rodziny pacjenta, w przypadku śmierci pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "osoba bliska pacjentowi, w przypadku śmierci pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "opiekun faktyczny, w sytuacji gdy doszło do zakażenia, uszkodzenia ciała lub rozstroju zdrowia pacjenta.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-103",
+      "question": "Do przychodni podstawowej opieki zdrowotnej zgłasza się pacjent, u którego badający lekarz stwierdza objawy wskazujące na podejrzenie zachorowania na chorobę szczególnie niebezpieczną i wysoce zakaźną. W tej sytuacji decyzję o skierowaniu pacjenta na przymusową izolację podejmuje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "państwowy powiatowy inspektor sanitarny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kierownik przychodni.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarz, który zbadał tego pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "dyrektor szpitala zakaźnego, którego powiadomiono o potrzebie izolacji tego pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lekarz specjalista chorób zakaźnych, którego wezwano na konsultacje lub z którym przeprowadzono konsultację telefoniczną.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-104",
+      "question": "Lekarz kierujący eksperymentem medycznym przeprowadza procedurę uzyskania świadomej zgody od uczestników badania. Uczestnikami są osoby małoletnie, które ukończyły 13. rok życia, a nie ukończyły jeszcze 16. roku życia. Lekarz ma obowiązek uzyskać zgodę:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wyłącznie od przedstawicieli ustawowych tych małoletnich uczestników.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wyłącznie od małoletnich uczestników, którzy ukończywszy 13. rok życia uzyskali pełną zdolność do czynności prawnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zarówno od przedstawicieli ustawowych uczestników jak i od samych uczestników.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "od sądu opiekuńczego, ponieważ tylko ten organ jest w stanie obiektywnie ocenić ryzyko uczestnictwa w eksperymencie i zadbać o dobro małoletniego uczestnika.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "od przedstawiciela ustawowego małoletniego uczestnika oraz od jego lekarza podstawowej opieki zdrowotnej, który najlepiej zna stan zdrowia pacjenta i jest w stanie ocenić stosunek ryzyka udziału w badaniu do korzyści z niego wynikających.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-105",
+      "question": "Lekarz, po zapoznaniu się z wynikami zleconych przez siebie badań diagnostycznych, informuje pacjenta o rozpoznaniu, które jest niekorzystne dla chorego. Pacjent przerywa lekarzowi i stwierdza, że nie chce więcej nic na temat swojej choroby wiedzieć. W tej sytuacji lekarz powinien:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "odstąpić od informowania chorego, ponieważ ustawodawca zwalnia go z tego obowiązku na żądanie pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kontynuować realizację obowiązku informacyjnego, jako warunku udzielenia lub odmowy przez pacjenta uświadomionej zgody na leczenie.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "przekonać pacjenta, że ma on obowiązek przyjąć wszelkie informacje na temat swojego stanu zdrowia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "przekazać informacje na temat stanu zdrowia pacjenta upoważnionej przez niego osobie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zwołać konsylium składające się z trzech lekarzy, w tym co najmniej dwóch specjalistów z dziedziny, której dotyczy rozpoznanie i przekazać pacjentowi informację w tak poszerzonym składzie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-106",
+      "question": "Kto może reprezentować pokrzywdzonego w postępowaniu przed izbą lekarską?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "prokurator.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "prezes urzędu do spraw ofiar błędów medycznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "rzecznik odpowiedzialności zawodowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Rzecznik Praw Pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "lekarz, adwokat lub radca prawny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-107",
+      "question": "Na SOR trafia pacjent z rozpoznaniem rozległego udaru mózgu. Komunikacja z pacjentem jest niemożliwa, ponieważ ma poważne zaburzenia mowy i utrudnioną percepcję. Lekarz stwierdza, że pacjent wymaga natychmiastowej pomocy lekarskiej. Czy może działać, podejmując się leczenia bez zgody pacjenta?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie, ponieważ prawo a także zasady etyki lekarskiej zakazują jakiejkolwiek interwencji medycznej bez zgody pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tak, ponieważ ustawa o zawodach lekarza i lekarza dentysty dopuszcza, na zasadzie wyjątku, możliwość interwencji medycznej bez zgody pacjenta, jeżeli wymaga on niezwłocznej pomocy lekarskiej, a ze względu na stan zdrowia nie może takowej udzielić.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tak, ale tylko pod warunkiem uzyskania zgody sądu opiekuńczego przed podjęciem jakichkolwiek działań.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tak, ale może tylko zlecić badania, natomiast nie wolno mu leczyć.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie, ponieważ, podejmując taką decyzję, naraża się na zarzut bezprawności działania.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-108",
+      "question": "Ograniczenie praw pacjenta z uwagi na możliwości organizacyjne podmiotu udzielającego świadczeń zdrowotnych może dotyczyć:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "prawa pacjenta do kontaktu osobistego, telefonicznego i korespondencyjnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "prawa pacjenta do poszanowania intymności i godności.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "prawa pacjenta do leczenia bólu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawa pacjenta do informacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawa pacjenta do wyrażenia zgody.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-109",
+      "question": "Lekarz nie ma obowiązku odnotowania w dokumentacji medycznej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "okoliczności odmowy wnioskowanej przez pacjenta konsultacji z innym lekarzem.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "faktu odmowy obecności osoby bliskiej przy udzielaniu świadczeń zdrowotnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "okoliczności wykonania świadczenia zdrowotnego bez zgody dorosłego pacjenta, który wymagał niezwłocznej pomocy lekarskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "okoliczności wykonania zabiegu operacyjnego u osoby małoletniej bez zgody przedstawiciela ustawowego pacjenta bądź zgody właściwego sądu opiekuńczego, gdy zwłoka spowodowana postępowaniem w sprawie uzyskania zgody groziłaby pacjentowi niebezpieczeństwem utraty życia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "faktu udzielenia informacji córce nieprzytomnego pacjenta.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "bio-1-110",
+      "question": "Wykonanie interwencji medycznej bez zgody pacjenta jest czynnością bezprawną",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tylko wtedy, gdy pacjent w jej wyniku doznał szkody.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tylko wtedy, gdy zgoda miała charakter blankietowy (ogólny).",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nawet wówczas, gdy interwencja została przeprowadzona zgodnie z aktualną wiedzą medyczną.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wyłącznie wówczas, gdy interwencja została przeprowadzona niezgodnie z aktualną wiedzą medyczną.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wyłącznie wtedy, gdy interwencja została przeprowadzona przez nieuprawnioną do tego osobę.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    }
+  ]
+}
