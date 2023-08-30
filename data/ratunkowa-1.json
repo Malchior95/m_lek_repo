@@ -1,0 +1,7149 @@
+{
+  "name": "ratunkowa-1",
+  "tags": [
+    "ratunkowa",
+    "2022"
+  ],
+  "questions": [
+    {
+      "id": "rat-1-1",
+      "question": "Kiedy stosuje się opaskę uciskową?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "celem udzielenia pomocy jak największej liczbie poszkodowanych w katastrofie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "w sytuacji amputacji urazowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "w przypadku niemożności zatamowania krwawienia dostępnymi metodami.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawdziwe są odpowiedzi A,B,C.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A,B.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-2",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące wentylacji dodatnim ciśnieniem\n(PEEP):\n1) wszystkie noworodki wymagające wentylacji po urodzeniu muszą otrzymać PEEP;\n2) poprawia upowietrznienie płuc, ich podatność oraz wymianę gazową;\n3) zmniejsza zapotrzebowanie na stosowanie większych stężeń tlenu w mieszaninie oddechowej.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "żadna z wymienionych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-3",
+      "question": "Które z wymienionych znajdują zastosowanie w trakcie resuscytacji pacjenta z zatrzymaniem krążenia z migotaniem komór?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "atropina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "adrenalina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "adrenalina, amiodaron, magnez.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "adrenalina, amiodaron.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "amiodaron, lidokaina.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-4",
+      "question": "Skala Doloplus - 2 jest metodą pomiaru bólu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "u pacjentów geriatrycznych z zaburzeniami funkcji poznawczych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "u dzieci.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "u pacjentów sztucznie wentylowanych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "u każdego pacjenta po urazie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "w żadnej z powyższych grup pacjentów.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-5",
+      "question": "Wskazaniem do leczenia osób dorosłych w Centrach Oparzeniowych lub Oddziałach Leczenia Oparzeń jest między innymi obszar oparzeń drugiego stopnia przekraczający:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "5% powierzchni ciała.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "10% powierzchni ciała.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "15% powierzchni ciała.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "20% powierzchni ciała.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "40% powierzchni ciała.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-6",
+      "question": "Według wytycznych Europejskiej Rady Resuscytacji z 2015 roku temperatura docelowa u chorego objętego opieką poresuscytacyjną wynosi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "37°C.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "36°C.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "35°C.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "34°C.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "33°C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-7",
+      "question": "Według wytycznych Europejskiej Rady Resuscytacji 2015 w trakcie prowadzenia RKO przerwy na wentylację nie powinny być dłuższe niż:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "5 sekund.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "10 sekund.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "15 sekund.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "20 sekund.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "30 sekund.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-8",
+      "question": "Co należy podać pacjentowi z hiperkaliemią na poziomie 7 mmol/l, jeżeli w zapisie EKG pojawiają się zmiany wynikające z toksycznego wpływu potasu na mięsień sercowy?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "30 ml 10% glukonianu wapnia iv.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "30 ml 10% chlorku wapnia iv.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "6 mg adenozyny iv.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "500 ml płynu fizjologicznego wieloelektrolitowego iv.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2 g siarczanu magnezu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-9",
+      "question": "Skala Glasgow-Blatchford dotyczy chorych:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "z ostrym zapaleniem trzustki.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "po urazie głowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "z pozaszpitalnym zapaleniem płuc.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "z krwawieniem do przewodu pokarmowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "we wstrząsie septycznym.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-10",
+      "question": "Najczęstszą w Polsce przyczyną wstrząsu septycznego są:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "grzyby.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "adenowirusy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "rotawirusy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "bakterie Gram-ujemne.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "bakterie Gram-dodatnie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-11",
+      "question": "Zalecane postępowanie z pacjentem z niemiarowym częstoskurczem z wąskimi zespołami QRS (przy braku objawów niewydolności krążenia) obejmuje wszystkie wymienione, z wyjątkiem:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "farmakologicznego zwolnienia częstości rytmu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "stymulacji nerwu błędnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "kardiowersji farmakologicznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kardiowersji elektrycznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "leczenia zapobiegającego powikłaniom (np. antykoagulacja).",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-12",
+      "question": "Całkowita dawka N-acetylocysteiny stosowanej dożylnie w zatruciu paracetamolem wynosi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "100 mg/kg m.c.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "150 mg/kg m.c.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "200 mg/kg m.c.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "250 mg/kg m.c.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "300 mg/kg m.c.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-14",
+      "question": "Jeżeli ofiara tonąca w wodzie przeżyje 24 godziny od zdarzenia, wówczas mamy do czynienia z:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zespołem nagłego zanurzenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "asfiksją.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "podtopieniem.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "utonięciem „suchym”.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "utonięciem niedokonanym.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-15",
+      "question": "Do szpitalnego oddziału ratunkowego przywieziono 70-letniego mężczyznę zgłaszającego nasiloną duszność, która wystąpiła nagle przed około dwiema godzinami. Pacjent leczony przewlekle z powodu cukrzycy i nadciśnienia tętniczego. W badaniu przedmiotowym stwierdzono szmer oddechowy pęcherzykowy prawidłowy z przypodstawnymi, obustronnymi rzężeniami drobnobańkowymi. Czynność serca wynosiła 90/min, RR 190/80 mmHg. Pierwszorzutowym lekiem w tej sytuacji jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nitrogliceryna.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "urapidyl.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "furosemid.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "metoprolol.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "amiodaron.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-16",
+      "question": "Stwierdzenie niestabilności podczas badania miednicy jest wskazaniem do:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zastosowania tlenoterapii czynnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "masywnego przetoczenia płynów infuzyjnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "założenia pasa stabilizującego miednicę.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wdrożenia procedury terapeutycznej hipotermii.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zrolowania poszkodowanego na bok celem oceny obrażeń na plecach.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-17",
+      "question": "Przeciwwskazaniem do założenia dostępu doszpikowego jest:\n1) złamanie kości, w której ma być założony dostęp;\n2) zakażenie skóry lub tkanek miękkich;\n3) nasilona osteoporoza;\n4) próba założenia wkłucia w ostatniej dobie.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-18",
+      "question": "Pierwszy w życiu, nagły i silny ból w nadbrzuszu z potami u 50-letniego palacza tytoniu wymaga uwzględnienia w diagnostyce różnicowej:\n1) zawału mięśnia serca;\n2) perforacji wrzodu;\n3) napadu kolki żółciowej;\n4) zapalenia trzustki;\n5) krwawienia z przewodu pokarmowego.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tylko 1.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tylko 3.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-19",
+      "question": "Który z wymienionych poniżej objawów nie jest związany z ostrym zespołem popromiennym?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "uszkodzenie ośrodkowego układu nerwowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "uszkodzenie szpiku kostnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "uszkodzenie mięśnia sercowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "uszkodzenie skóry.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "uszkodzenie przewodu pokarmowego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-20",
+      "question": "Zastosowanie czasowej elektrostymulacji należy rozważyć w następujących sytuacjach klinicznych:\n1) objawowa bradykardia oporna na leki antycholinergiczne;\n2) bradykardia w zespole WPW;\n3) objawowy blok przedsionkowo-komorowy II stopnia typ 2;\n4) objawowy blok przedsionkowo-komorowy II stopnia typ 1;\n5) asystolia ze stwierdzanymi w zapisie EKG załamkami P;\n6) blok przedsionkowo-komorowy III stopnia.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3,4,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,3,5,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,3,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "3,4,5,6.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-21",
+      "question": "Noworodek może być zaliczony na podstawie oceny wstępnej do pierwszej grupy (wymagającej tylko osuszenia skóry i okrycia), gdy spełnia następujące warunki:\n1) aktywnie oddycha lub płacze;\n2) ma prawidłowe napięcie mięśniowe;\n3) ma prawidłowe lub obniżone napięcie mięśniowe;\n4) czynność serca wynosi powyżej 100/min;\n5) czynność serca wynosi poniżej 100/min.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,3,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-22",
+      "question": "Do typowych objawów stłuczonego płuca należy/należą:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "krwioplucie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "duszność.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "sinica.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "rzężenia nad polem płucnym.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-23",
+      "question": "Wstrząs hipowolemiczny rozwinie się, gdy utrata krwi krążącej przekroczy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1/5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1/4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1/3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1/2.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2/3.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-24",
+      "question": "Które z wymienionych złamań nie jest charakterystyczne dla 'syndromu dziecka maltretowanego'?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "skośne złamanie nasady kości długich.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "złamanie przynasadowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "złamanie trzonu kręgu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "złamanie kilku żeber.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "złamanie trzonu kości długiej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-25",
+      "question": "Która z następujących struktur cechuje się najwyższą opornością elektryczną?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nerwy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "krew.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "mięśnie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wilgotna skóra.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "kości.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-26",
+      "question": "Podczas resuscytacji krążeniowo-oddechowej u dorosłego prawidłowo ręce układa się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "na środku klatki piersiowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "na dolnej połowie mostka.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "w linii międzysutkowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawdziwe są odpowiedzi A,B.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A,B,C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-27",
+      "question": "Do Szpitalnego Oddziału Ratunkowego zgłosił się 35-letni pacjent, leczony z powodu hemofilii A, u którego od kilku godzin występują smoliste stolce. Najważniejszym postępowaniem będzie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "oznaczenie grupy krwi i przetoczenie dwóch jednostek koncentratu krwinek czerwonych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "podanie inhibitorów pompy protonowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "niezwłoczne podanie czynnika VIII.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "pilne wykonanie gastroskopii.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "oznaczenie stężenia czynnika VIII.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-28",
+      "question": "Zakażenie skóry z szybko szerzącym się zapaleniem tkanki łącznej, ropnym wyciekiem z rany, objawami ogólnymi i tworzeniem odległych ropni, wywołane przez Pasteurella multocida charakterystyczne jest dla ran spowodowanych przez:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "psy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "koty.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "gryzonie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "węże jadowite.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żadne z powyższych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-29",
+      "question": "W przypadku pacjenta z nagłym zatrzymaniem krążenia, który ma wszczepiony prawidłowo działający stymulator jednojamowy serca w ekg może wystąpić:\n1) asystolia bez artefaktów stymulacji;\n2) migotanie komór bez artefaktów stymulacji;\n3) migotanie komór i artefakty stymulacji;\n4) asystolia i artefakty stymulacji;\n5) migotanie komór i okresowo występujące artefakty stymulacji.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,2.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-30",
+      "question": "Quicktrach służy do:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "odbarczenia odmy prężnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "diagnostycznego nakłucia worka osierdziowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wykonania konikopunkcji.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wykonania tracheostomii.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żadnego z powyższych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-31",
+      "question": "Intensywna terapia chorych po nagłym zatrzymaniu krążenia polega między innymi na utrzymywaniu:\n1) glikemii około 180 mg%;\n2) wartości pCO około 30 mmHg;\n3) wartości pO około 100 mmHg;\n4) temperatury ciała pacjenta około 32-34°C.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-32",
+      "question": "Wielokrotne dawki węgla aktywowanego należy zastosować w zatruciu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "alkoholem metylowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "paracetamolem.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nasionami bielunia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "metforminą.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "karbamazepiną.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-33",
+      "question": "Maksymalna dawka dobowa diazepamu stosowanego u dorosłych w przypadku utrzymujących się napadów drgawkowych wynosi:\n2\n2",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1 mg.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "10 mg.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "25 mg.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "50 mg.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "100 mg.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-34",
+      "question": "W trakcie „porodu domowego” stwierdzono dużą ilość smółki w okolicy ust noworodka. Prawidłowe postępowanie to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "usunięcie smółki z jamy ustnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wykonanie intubacji dotchawiczej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wykonanie 5 wdechów.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wykonanie 3 uciśnięć klatki piersiowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wykonanie 15 uciśnięć klatki piersiowej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-35",
+      "question": "Wskaż objawy należące do obrazu klinicznego krwotoku podpajęczynówkowego:\n1) silny ból głowy;\n2) ogniskowe objawy neurologiczne;\n3) wymioty;\n4) objawy oponowe.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-36",
+      "question": "Jeżeli podczas wentylacji resuscytatorem AMBU z maską twarzową, klatka piersiowa nie unosi się prawidłowo, należy najpierw sprawdzić:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "czy drogi oddechowe są drożne.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "czy jest odpowiedni przepływ tlenu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "czy jest zachowana szczelność układu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "czy została zamknięta zastawka bezpieczeństwa.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A i C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-37",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące zatrucia litem:\n1) lit jest wiązany przez węgiel aktywowany, więc jego podawanie jest uzasadnione;\n2) płukanie żołądka w przypadku zatrucia litem ma uzasadnienie, jeżeli minęło mniej niż 1 godzina od przyjęcia leku;\n3) niewydolność nerek w następstwie zatrucia litem ma wyłącznie charakter nerkowy;\n4) lit szybko wchłania się i szybko jest usuwany z tkanek;\n5) forsowna diureza z alkalizacją moczu pozwalają na eliminację litu.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-38",
+      "question": "Defibrylacja elektryczna powinna być wykonana w czasie przerwania uciskania klatki piersiowej na okres nie dłuższy niż:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "5 sekund.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "10 sekund.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "15 sekund.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "20 sekund.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "czas przerwy w uciskaniu klatki piersiowej jest bez znaczenia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-39",
+      "question": "Według wytycznych Europejskiej Rady Resuscytacji 2015 czas zanurzenia u chorego po epizodzie tonięcia, który wiąże się ze złym rokowaniem to czas dłuższy niż:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "3 minuty.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "5 minut.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "7 minut.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "10 minut.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "15 minut.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-40",
+      "question": "Postępowanie w drgawkach gorączkowych u dzieci polega na:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zapewnieniu drożności dróg oddechowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "podaniu leków przeciwgorączkowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zastosowaniu zimnych okładów.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "podaniu diazepamu doodbytniczo.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkich wymienionych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-41",
+      "question": "Na szpitalny oddział ratunkowy przywieziono 18-miesięczne dziecko z urazem głowy, po upadku z łóżka. Podczas badania fizykalnego dziecko aktywnie zgina i prostuje kończyny, gaworzy oraz ma pełną ruchomość gałek ocznych. Przy zastosowaniu skali pediatrycznej GCS dziecko to otrzyma:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "15 pkt.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "14 pkt.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "13 pkt.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "12 pkt.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "11 pkt.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-42",
+      "question": "„Złota godzina” dla zastosowania hiperbarii tlenowej w ciężkim zatruciu tlenkiem węgla wynosi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1 godzinę.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2 godziny.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3 godziny.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "4 godziny.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "6 godzin.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-43",
+      "question": "Objawy wstrząsu neurogennego to:\n1) obniżenie ciśnienia tętniczego;\n2) tachykardia;\n3) bradykardia;\n4) blada, zimna skóra;\n5) ciepła, dobrze ukrwiona skóra.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "3,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-44",
+      "question": "U kobiety w 38. tyg. ciąży doszło do nagłego zatrzymania krążenia. Co będzie działaniem priorytetowym?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "rozpoczęcie ucisków mostka.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wykonanie 5 oddechów.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "przeprowadzenie defibrylacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zmiana pozycji ciała na lewy bok.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wczesna intubacja.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-45",
+      "question": "Zastosowanie PEEP (dodatnie ciśnienie w końcowej fazie wydechu):",
+      "answers": [
+        {
+          "id": "A",
+          "text": "jest przeciwwskazane w ciężkich urazach klatki piersiowej oraz płuc.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nie jest wskazane u wyratowanych po utonięciu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zmniejsza powrót żylny - jest przeciwwskazane we wstrząsie hipowolemicznym.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "jest przeciwwskazane w ciężkim obrzęku płuc.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie jest możliwe podczas wentylacji workiem samorozprężalnym.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-46",
+      "question": "Skalą opisującą możliwość uwidocznienia poszczególnych struktur w laryngoskopii bezpośredniej, która określa wizualizację głośni jest skala:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Younga.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Tile'a.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Cormacka-Lehane’a.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Conwella.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Keya.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-47",
+      "question": "Które z obrażeń ciała może być wskazaniem do natychmiastowej torakotomii w SOR?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tępy uraz klatki piersiowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tępy uraz jamy brzusznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tępy uraz miednicy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "penetrujący uraz klatki piersiowej prowadzący do zatrzymania krążenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "penetrujący uraz jamy brzusznej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-48",
+      "question": "Wytyczne ERC 2015 dopuszczają podczas resuscytacji noworodka bezpośrednio po urodzeniu podanie leków. Przy utrzymującej się czynności serca poniżej 60/min można rozważyć podanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "atropiny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "adrenaliny.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "adenozyny.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "amiodaronu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "anatoksyny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-49",
+      "question": "Ocena pacjenta wg schematu ABCDE ma na celu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wykrycie potencjalnych obrażeń ciała.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wykluczenie bezpośredniego zagrożenia życia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ustalenie dokładnego rozpoznania.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawdziwe są odpowiedzi A,B.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A,B,C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-50",
+      "question": "Do intubacji dziecka w wieku 2 lat należy użyć rurki bez mankietu o rozmiarze:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "3,0.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "3,5-4,0.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "4,0-4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "5,0.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "5,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-51",
+      "question": "W leczeniu nadciśnienia ze wskazań nagłych, najszybciej zadziała:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "esmolol.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "furosemid.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nitrogliceryna.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nitroprusydek sodu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "urapidyl.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-52",
+      "question": "Najniższe ciśnienie skurczowe krwi, przy którym wyczuwalne jest tętno na tętnicy szyjnej, wynosi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "20 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "30 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "40 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "50 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "60 mmHg.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-53",
+      "question": "„Oparzenie to obejmuje pełną grubość naskórka, częściowo skóry właściwej, nie przekracza jednak jej granic. Skóra w miejscu oparzenia jest blada, czasem różowa lub żywoczerwona. Po zagojeniu pozostają przykurczone blizny”. Powyższy opis dotyczy oparzenia:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "stopnia I.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "stopnia II A.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "stopnia II B.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "stopnia III.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "stopnia IV.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-54",
+      "question": "Pacjent z wszczepionym stymulatorem serca zasłabł na ulicy. Przybyły na miejsce zdarzenia zespół ratownictwa medycznego stwierdził zatrzymanie krążenia, na monitorze - zapis migotania komór. Czy w tej sytuacji ratownicy mogą przeprowadzić defibrylację u pacjenta?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie, najpierw trzeba odłączyć stymulator.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tak, ale zaleca się aby elektrody umieścić w pozycji „przód-tył”.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nie, defibrylacja może zniszczyć stymulator.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tak, obecność stymulatora nie ma znaczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tak, ale należy obniżyć wartość energii wyładowania.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-55",
+      "question": "Zespół ratownictwa medycznego (ZRM) został wezwany do nieprzytomnego mężczyzny w wieku około 35 lat, chory przebywał ze znajomymi w klubie muzycznym. Jak podają osoby towarzyszące, przyszli tutaj po całodniowej pracy. W badaniu: 8 oddechów/minutę, tętno na tętnicy promieniowej ok.\n75/min, skóra spocona, zimna. Na miejscu zdarzenia ZRM u poszkodowanego powinien:\n1) oznaczyć poziom glikemii;\n2) oznaczyć poziom alkoholu we krwi;\n3) ocenić źrenice;\n4) zbadać siłę mięśniową;\n5) ocenić skalę śpiączki Glasgow.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-56",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące resuscytacji otyłych pacjentów:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "uciskanie klatki piersiowej jest łatwiejsze niż u pacjentów z prawidłową masą ciała, dlatego jeden ratownik może wykonywać uciskanie klatki piersiowej dłużej niż 2 minuty, po czym powinna nastąpić zmiana ratownika.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "uciskanie klatki piersiowej jest trudniejsze niż u pacjentów z prawidłową masą ciała, dlatego jeden ratownik może wykonywać uciskanie klatki piersiowej krócej niż 2 minuty, po czym powinna nastąpić zmiana ratownika.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "masa ciała nie wpływa na trudności w prowadzeniu resuscytacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "w przypadku ekstremalnej otyłości można nie podejmować resuscytacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wytyczne ERC 2015 nie podnoszą tego problemu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-57",
+      "question": "Uciskanie mostka przy prowadzeniu masażu serca u niemowlęcia wykonuje się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "opuszkami dwóch palców.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nadgarstkiem jednej dłoni.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nadgarstkami obu dłoni.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "dwoma kciukami.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A i D.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-58",
+      "question": "Standardem postępowania diagnostycznego u pacjenta z urazem wielonarządowym powinno być:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "diagnostyczne nakłucie jamy opłucnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "diagnostyczne nakłucie jamy osierdzia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "diagnostyczne nakłucie jamy otrzewnowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "diagnostyczne nakłucie przestrzeni podpajęczynówkowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "badanie USG metodą FAST.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-59",
+      "question": "Przełom hiperkalcemiczny może wystąpić w przebiegu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "terapii jodem promieniotwórczym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ostrego zapalenia trzustki.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wielokrotnego przetoczenia krwi.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ziarnicy złośliwej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "przewlekłej niewydolności nerek.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-60",
+      "question": "Najczęstszą przyczyną ostrego uszkodzenia wątroby jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zakażenie wirusem HBV.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zatrucie kokainą.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "przerzutowy rak wątroby.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hipertermia złośliwa.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zatrucie paracetamolem.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-61",
+      "question": "Leczeniu szpitalnemu powinien podlegać poszkodowany z:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "oparzeniem I° obejmującym cały tułów i dwie kończyny dolne.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "oparzeniem II° obejmującym dwie kończyny dolne.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "oparzeniem III° wielkości dłoni, znajdującym się na przedramieniu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawdziwe są odpowiedzi A,B,C.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi B,C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-62",
+      "question": "Czas trwania odstępu QT w poniższym zapisie EKG (25 mm/s) jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "prawidłowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "skrócony.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wydłużony.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nieokreślony, ponieważ załamki T są ujemne.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nieokreślony, ponieważ jest różny w różnych odprowadzeniach.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-63",
+      "question": "Do SOR zgłosił się przerażony pacjent, który doznał oparzenia prawego oka płynem do udrożniania rur kanalizacyjnych. W przypadku oparzenia narządu wzroku substancjami chemicznymi prawidłowym postępowaniem jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "szybka enukleacja.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "badanie oka, a następnie płukanie worka spojówkowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "płukanie worka spojówkowego, zanim przeprowadzone będzie badanie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "przeszczepienie rąbka rogówki w trybie dyżurowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żadne z powyższych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-64",
+      "question": "Najczęstszym objawem klinicznym zatorowości płucnej jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "krwioplucie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ból w klatce piersiowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "duszność.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kaszel.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "omdlenie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-65",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące hiperbarii tlenowej (HBO):\n1) w przypadku zatrucia CO zalecana terapia to poddanie chorego działaniu\n4,0 atmosfer przez 90 minut;\n2) „złota godzina” stosowana HBO w ciężkim zatruciu CO to 6h;\n3) wskazaniem do rozpoczęcia HBO jest stężenie COHb powyżej 25%;\n4) HBO przesuwa krzywą dysocjacji oksyhemoglobiny w lewo;\n5) HBO jest uważana za bezpieczną zarówno dla kobiety ciężarnej jak i płodu.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-66",
+      "question": "Z niżej wymienionych wskaż najbezpieczniejszy lek, który można zastosować u kobiety w ciąży:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "metamizol.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "fentanyl.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "morfina.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "paracetamol.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "drotaweryna.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-67",
+      "question": "Pierwszym zaburzeniem wynikającym z przedawkowania wodorowęglanu sodu jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kwasica metaboliczna.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zasadowica metaboliczna.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "kwasica oddechowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zasadowica oddechowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "hipoosmolalność.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-68",
+      "question": "Prowadzenie resuscytacji u osoby ze znaczną otyłością może być utrudnione ze względu na:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "szybsze zmęczenie ratownika.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "trudności z wentylacją.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "trudności z wyznaczeniem miejsca ucisku mostka.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "możliwość złamania żeber.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A, B.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-69",
+      "question": "Pacjentka zgłasza się na SOR z powodu bólu brzucha, częstych (8 x na dobę) krwistych, bolesnych wypróżnień, z gorączką, tachykardią i niedokrwistością. W badaniu fizykalnym stwierdza się tkliwość jamy brzusznej ze wzdęciem. Ponadto w surowicy krwi podwyższone białko C-reaktywne i OB. Wskaż prawdopodobne rozpoznanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "krwotoczne zapalenie błony śluzowej żołądka.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ostre toksyczne rozdęcie okrężnicy (megacolon toxicum).",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ostre zapalenie trzustki.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "rak jelita grubego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ciąża pozamaciczna.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-70",
+      "question": "Wskaż zdanie prawdziwe dotyczące zastosowania Automatycznego Defibrylatora Zewnętrznego (AED):",
+      "answers": [
+        {
+          "id": "A",
+          "text": "daje on możliwość wykonania kardiowersji.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nie stosuje się go u dzieci < 8. roku życia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nie stosuje się go u kobiet ciężarnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "po rozpoczęciu analizy rytmu nikt nie może dotykać pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "jeżeli uzyskuje się informację, że rytm jest niedefibrylacyjny, należy ułożyć pacjenta w pozycji bezpiecznej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-71",
+      "question": "Resuscytację krążeniowo-oddechową należy kontynuować do momentu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "przybycia zespołu ratownictwa medycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kiedy AED zaleci przerwanie resuscytacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "pojawienia się prawidłowego oddechu u poszkodowanego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wyczerpania sił ratownika.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A,C,D.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-72",
+      "question": "Według wytycznych Europejskiej Rady Resuscytacji 2015 w przypadku kiedy pierwszej pomocy udziela się osobie z drgawkami należy w pierwszej kolejności:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "sprawdzić oddech i wykluczyć zatrzymanie krążenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "chronić głowę przed wtórnymi obrażeniami.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wsadzić dostępny przedmiot pomiędzy zęby w celu zapobiegania przygryzieniu języka.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ułożyć chorego w pozycji bocznej bezpiecznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nie podejmować czynności ratunkowych aż do czasu ustania drgawek.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-73",
+      "question": "Wskaż prawdziwe zdania dotyczące resuscytacji niemowlaka:\n1) objętość oddechu w trakcie RKO niemowlaka powinna wynieść około 500 ml;\n2) na sprawdzenie oddechu u niemowlaka w ramach RKO należy poświęcić około 10 sekund;\n3) na wykonanie 5 skutecznych oddechów zastępczych u niemowlaka należy poświęcić około minuty;\n4) w trakcie RKO u niemowlaka wskazane jest uzyskanie tempa uciśnięć na poziomie przynajmniej 100/min;\n5) prowadząc RKO należy to robić w stosunku 15 uciśnięć i 2 oddechy;\n6) prowadząc RKO u niemowlaka ręce do uciśnięć należy ułożyć na środku mostka.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,5,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,3,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,3,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,5,6.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-74",
+      "question": "U chorych nieprzytomnych, u których podejrzewane jest zapalenie opon mózgowo-rdzeniowych należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wykonać punkcję płynu mózgowo-rdzeniowego, a następnie podać antybiotyk.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wykonać TK głowy, a po wykluczeniu obrzęku mózgu wykonać punkcję płynu mózgowo-rdzeniowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "podać antybiotyk empiryczny niezwłocznie po uzyskaniu wyniku badania TK głowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wykonać punkcję płynu mózgowo-rdzeniowego, a przy wątpliwym wyniku - TK głowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "podać antybiotyk przed pobraniem płynu mózgowo-rdzeniowego na posiew.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-75",
+      "question": "Skala Mallampatiego ma zastosowanie do przewidywania trudności podczas intubacji dotchawiczej. Jeżeli u pacjenta po otwarciu ust nie widać podniebienia miękkiego, odpowiada to wg skali Mallampatiego klasie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "pierwszej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "drugiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "trzeciej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "czwartej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "piątej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-76",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące paralizatora elektrycznego (tasera):",
+      "answers": [
+        {
+          "id": "A",
+          "text": "powoduje bolesny skurcz mięśni, zwłaszcza w dużych grupach mięśniowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "jest niebezpieczny dla osób pod wpływem leków, alkoholu, narkotyków.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "przy upadku po porażeniu paralizatorem może dojść do groźnych urazów głowy i kręgosłupa.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "u osób z chorobami układu krążenia działanie paralizatora może doprowadzić do śmierci.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "w paralizatorach stosowane są prądy o wysokim natężeniu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-77",
+      "question": "Do SOR przywieziono 32-letniego mężczyznę z objawami ciężkiego wstrząsu hipowolemicznego. Wymaga on szybkiego uzupełnienia płynów. Jaką drogę podania należy wybrać i który cewnik będzie najlepszy do tego celu?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "dostęp centralny, cewnik 22 G, dług. 30 cm.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "dostęp centralny, cewnik 20 G, dług. 21 cm.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "dostęp obwodowy, cewnik 18 G, dług. 5,0 cm.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "dostęp obwodowy, cewnik 16 G, dług. 5,0 cm.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "dostęp doszpikowy, cewnik 20 G, dług. 8,0 cm.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-78",
+      "question": "Pacjent z rozpoznanym zawałem mięśnia sercowego STEMI, z silnymi dolegliwościami bólowymi w klatce piersiowej, bez objawów niewydolności układu sercowo-naczyniowego, bez duszności i hipoksemii nie wymaga:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "suplementacji tlenu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "podaży tikagreloru.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "podaży heparyny niefrakcjonowanej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "podaży enoksyparyny.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "podaży morfiny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-79",
+      "question": "Rutynowym i bezwzględnie wskazanym postępowaniem polegającym na podaniu antybiotyku w zranieniach skóry jest sytuacja, gdy doszło do:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zranienia samej skóry spowodowanego przez cięcie nożem.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zranienia skóry z uszkodzeniem stawu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zranienia skóry u osób starszych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zranienia skóry u osób z otyłością.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zranienia skóry u pacjentów z cukrzycą.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-80",
+      "question": "Przeprowadzasz segregację pacjentów w wypadku masowym. Posługujesz się systemem START. Dotarłeś do poszkodowanego niechodzącego, oddychającego 15x na minutę, z wyczuwalnym tętnem na tętnicy promieniowej, niespełniającego poleceń. Zakwalifikujesz go do grupy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "niebieskiej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zielonej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "żółtej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "czerwonej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "czarnej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-81",
+      "question": "Do przyczyn napadów drgawkowych nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "hipoglikemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "hiponatremia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "hipokaliemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hipokalcemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "hipomagnezemia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-82",
+      "question": "Pierwsza pomoc przy złamaniu kości ramiennej polega na założeniu opatrunku unieruchamiającego na:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ramię.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ramię i staw łokciowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ramię i staw barkowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ramię, staw łokciowy i barkowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ramię, staw łokciowy i barkowy oraz staw promieniowo-nadgarstkowy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-83",
+      "question": "Które z potencjalnie odwracalnych przyczyn zatrzymania krążenia są najbardziej prawdopodobne u poszkodowanego potrąconego przez samochód?\n1) hipoksja;\n2) hipotermia;\n3) hipowolemia;\n4) zaburzenia elektrolitowe i metaboliczne;\n5) odma prężna;\n6) tamponada;\n7) zaburzenia zatorowo-zakrzepowe;\n8) zatrucie.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,8.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "4,7.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-84",
+      "question": "U pacjenta po urazie klatki piersiowej po stronie prawej wystąpiły początkowo przyśpieszony oddech oraz tachykardia, następnie po pewnym czasie skóra pacjenta zmieniła barwę na sino-bladą. Stwierdzono niskie ciśnienie krwi. W takiej sytuacji w pierwszej kolejności należy wykonać:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ponowny pomiar ciśnienia krwi.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "TK klatki piersiowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "drenaż opłucnej po stronie prawej kaniulą w V przestrzeni międzyżebrowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "punkcję odbarczającą kaniulą w II przestrzeni międzyżebrowej prawej po górnej krawędzi żebra.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "punkcję odbarczającą kaniulą w II przestrzeni międzyżebrowej prawej po dolnej krawędzi żebra.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-85",
+      "question": "Do klasycznej triady objawów zatorowości płucnej, występującej u 25% pacjentów, należą:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ból w klatce piersiowej o charakterze rozlanym, krwioplucie, duszność.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ból w klatce piersiowej o charakterze opłucnowym, krwioplucie, kaszel.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ból w klatce piersiowej o charakterze opłucnowym, krwioplucie, duszność.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ból w klatce piersiowej o charakterze rozlanym, kaszel, duszność.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "kaszel, krwioplucie, duszność.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-86",
+      "question": "Pacjent lat 44, zgłasza silne bóle brzucha i krwiste wymioty. W badaniu częstość oddechów - 24/min, osłuchowo bez zmian nad polami płucnymi, SpO - słaby sygnał, częstość pracy serca - 130/min, brak tętna na tętnicach dystalnych, ciśnienie krwi - 75/50 mmHg, pacjent jest blady i spocony, w zapisie EKG - wąskie miarowe zespoły QRS. Jakie postępowanie należy zastosować?\n2",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kardiowersja.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "manewry na nerwie błędnym.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "adenozyna 6 mg i.v. szybki bolus.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "płynoterapia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "amiodaron 300 mg i.v. w ciągu 20-60 minut.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-87",
+      "question": "Pacjentka lat 45 przyjęta do szpitalnego oddziału ratunkowego głęboko nieprzytomna, z płytkim oddechem 10/min, szpilkowato zwężonymi źrenicami, akcja serca 60/min, ciśnienie krwi 110/60 mmHg, stężenie glukozy 115 mg/dl. W wywiadzie zespół bólowy kręgosłupa leczony meloksykamem 15 mg/dobę i doraźnie oksykodonem 10 mg. Wskaż rozpoznanie i postępowanie, które należy wdrożyć:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zatrucie opioidem, należy podać dożylnie flumazenil w dawce 0,5 mg.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "śpiączka hipoglikemiczna, należy podać dożylnie 10 ml 40% glukozy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zatrucie opioidem, należy podać dożylnie nalokson w dawce 0,4 mg.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wstrząs neurogenny, należy podać dożylnie hydrokortyzon w dawce 200 mg.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wstrząs anafilaktyczny, należy podać domięśniowo adrenalinę w dawce 1 mg.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-88",
+      "question": "Do potencjalnych odwracalnych przyczyn zatrzymania krążenia tzw. 'cztery H' nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "hipoksja.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "hipowolemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "hiperkalcemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hiperkaliemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "hipotermia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-89",
+      "question": "Członkowie zespołu S na miejscu wypadku znaleźli mężczyznę, który oddycha z trudnością. Które działania będą najbardziej pomocne w celu ustalenia wstępnego rozpoznania?\n1) opukiwanie klatki piersiowej;\n2) ocena częstości oddychania;\n3) osłuchiwanie klatki piersiowej;\n4) badanie saturacji.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "3,4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-90",
+      "question": "Za pomocą worka samorozprężalnego AMBU z rezerwuarem, przy przepływie tlenu ok. 10 l/min. można osiągnąć maksymalne wdechowe stężenie tlenu na poziomie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "45%.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "60%.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "70%.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "85%.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "100%.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-91",
+      "question": "Urządzenie LUCAS służy do:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "przyrządowego udrożnienia górnych dróg oddechowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "obwodowego uciskania klatki piersiowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "mechanicznej wentylacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "intubacji dotchawiczej za pomocą wideolaryngoskopu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żadnego z powyższych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-92",
+      "question": "Tętniak aorty brzusznej najczęściej jest błędnie rozpoznawany jako:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zapalenie trzustki.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kamica nerkowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zawał mięśnia sercowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "neuralgia mięśni pleców.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zapalenie uchyłków.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-93",
+      "question": "Lek stosowany w czasie ALS, podawany w dawce 300 mg w 20 ml 5% glukozy, stosowany w leczeniu komorowych i nadkomorowych zaburzeń rytmu, a także w migotaniu komór opornym na defibrylację to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "adrenalina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "atropina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "amiodaron.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "lidokaina.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "siarczan magnezu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-94",
+      "question": "W trakcie czynności resuscytacyjnych amiodaron podaje się w dawce:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "300 mg w bolusie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "200 mg w bolusie.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "150 mg w bolusie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "150 mg w bolusie i w razie potrzeby można ją powtórzyć.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "300 mg, w czasie 10-20 minut.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-95",
+      "question": "W przypadku nawracających zaburzeń rytmu z szybką czynnością serca, przy nieskuteczności kardiowersji elektrycznej oraz wlewu amiodaronu można rozważyć zastosowanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "stymulacji typu overdrive.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "defibrylacji elektrycznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "adenozyny.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "lignokainy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "adrenaliny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-96",
+      "question": "Do przyczyn kwasicy nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "biegunka.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "cukrzyca.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zatrucie alkoholem.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "przedawkowanie metforminy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "stosowanie leków moczopędnych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-97",
+      "question": "Wydłużenie odstępu PQ >0,2 s, spłaszczenie załamka P, wysoki szpiczasty załamek T i poszerzenie zespołu QRS powyżej 0,12 s w zapisie EKG może sugerować:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "hipokalcemię.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "hiperkalcemię.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "hipokaliemię.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hiperkaliemię.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "hipernatremię.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-98",
+      "question": "Do Szpitalnego Oddziału Ratunkowego trafił pacjent wychłodzony, ma dreszcze, przyspieszony oddech 25/min, temperatura centralna ciała 34°C, przyspieszenie czynności serca 95/min, pobudzony, świadomość jest w pełni zachowana. Obraz kliniczny przemawia za:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "hipotermią głęboką.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "hipotermią umiarkowaną.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "hipotermią łagodną.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "odmrożeniem.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "odmroziną.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-99",
+      "question": "Objaw Levine’a to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zwiększenie odczuwania bólu podczas odrywania ręki badającego od powłok brzucha.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "szpilkowate źrenice na skutek podwyższenia ciśnienia śródczaszkowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "uderzanie dłonią przez pacjenta w okolicach mostka w celu scharakteryzowania bólu w chorobie niedokrwiennej mięśnia sercowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "drgawki przy przyginaniu głowy do klatki piersiowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ustąpienie sinicy płatka ucha na skutek jego masażu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-100",
+      "question": "W przypadku resuscytacji osoby dorosłej porażonej prądem elektrycznym zalecany stosunek liczby uciśnięć mostka do liczby sztucznych oddechów wynosi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "03:01",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "05:01",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "05:02",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "15:02",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "30:02:00",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-101",
+      "question": "W przypadku wystąpienia hipoglikemii, po podaniu domięśniowym 1 mg glukagonu, glikemia wzrośnie o około:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1 mg%.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "10 mg%.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "50 mg%.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "100 mg%.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "150 mg%.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-102",
+      "question": "Poniższy zapis EKG (25 mm/s) przedstawia:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "bradykardię zatokową.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "rytm węzłowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "migotanie przedsionków z bradykardią.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "rytm zatokowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "rytm komorowy zastępczy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-103",
+      "question": "W leczeniu przełomu tyreotoksycznego nie stosuje się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kwasu acetylosalicylowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "esmololu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tiamazolu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hydrokortyzonu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "heparyny drobnocząsteczkowej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-104",
+      "question": "W terapii ostrego obrzęku płuc, do leków stosowanych w pierwszej kolejności nie zalicza się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "morfiny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "dobutaminy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "dopaminy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "furosemidu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "digoksyny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-105",
+      "question": "W leczeniu pacjenta z hiperkalcemią należy uwzględnić wszystkie wymienione, z wyjątkiem:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nawadniania.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "spironolaktonu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "bisfosfonianów.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "furosemidu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "dializy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-106",
+      "question": "Z jaką częstością należy uciskać klatkę piersiową u dorosłego pacjenta podczas resuscytacji krążeniowo-oddechowej?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "60-70/min.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "80-90/min.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "100-120/min.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "130-140/min.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "140-150/min.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-107",
+      "question": "Na Szpitalny Odział Ratunkowy został przywieziony pacjent chorujący na cukrzycę. Podczas badania fizykalnego lekarz dyżurny stwierdził charakterystyczny zapach acetonu. Z dużym prawdopodobieństwem u tego pacjenta stwierdzono także:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "niechęć do przyjmowania płynów doustnie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "bradykardię.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "hipoglikemię.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wysokie ciśnienie tętnicze krwi.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "infekcję.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-108",
+      "question": "Lekiem stosowanym w celu obniżenia ciśnienia w układzie wrotnym u chorych krwawiących z żylaków przełyku jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "terlipresyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "glukagon.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "urapidyl.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "propranolol.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nitroprusydek sodu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-109",
+      "question": "Objawy takie jak:\n1) bóle i zawroty głowy;\n2) zamglenie pola widzenia do ślepoty włącznie;\n3) ciężka kwasica metaboliczna; są charakterystyczne dla zatrucia:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "substancjami żrącymi.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "paracetamolem.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "trójpierścieniowymi lekami przeciwdepresyjnymi.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "alkoholem metylowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "pestycydami fosforoorganicznymi.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-110",
+      "question": "Leczenie hiperosmolarnej nieketonowej śpiączki cukrzycowej obejmuje m.in.:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "podanie glukagonu w dawce 1,0 g.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "prowadzenie agresywnej insulinoterapii.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wyrównanie niedoborów płynów (10 l).",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "substytucję hormonów tarczycy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "podanie hydrokortyzonu w dawce 250 mg.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-111",
+      "question": "Nalokson stosuje się w przypadku zatrucia:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "benzodiazepinami.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "muchomorem sromotnikowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "atropiną.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "opioidami.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "alkoholem metylowym.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-112",
+      "question": "Podczas zakładania dojścia centralnego do żyły podobojczykowej w oddziale ratunkowym, u pacjenta doszło do nagłego wystąpienia duszności, tachykardii oraz kaszlu. Jaka jest prawdopodobna przyczyna tego stanu?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "odma opłucnowa po stronie wkłucia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "podrażnienie nerwu przeponowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "podrażnienie nerwu krtaniowego wstecznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "uszkodzenie splotu ramiennego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nakłucie tętnicy podobojczykowej i krwiak.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-113",
+      "question": "Które z wymienionych znajdują zastosowanie w trakcie resuscytacji pacjenta z zatrzymaniem krążenia z asystolią?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lidokaina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "adrenalina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "adenozyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "amiodaron.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "amiodaron, lidokaina.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-114",
+      "question": "Do szpitala przyjęto pacjenta z objawami biegunki od kilku dni. W wykonanej gazometrii krwi tętniczej obserwowano pH = 7,2, PaCO2 = 28 mmHg. Jakie zaburzenie RKZ należy rozpoznać u pacjenta?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kwasicę oddechową.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kwasicę metaboliczną.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zasadowicę metaboliczną.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zasadowicę oddechową.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żadne z powyższych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-115",
+      "question": "Pierwszym laboratoryjnym „parametrem krytycznym” oznaczanym we krwi u nieprzytomnego pacjenta w szpitalnym oddziale ratunkowym jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "stężenie glukozy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "gazometria.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "stężenie karboksyhemoglobiny.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "stężenie hemoglobiny.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "stężenie potasu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-116",
+      "question": "Hiponatremia rzekoma występuje wtórnie do:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "chorób O.U.N.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "choroby Addisona.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nerkowej kwasicy cewkowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hiperglikemii.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "niedoczynności przysadki.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-117",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące olbrzymiokomórkowego zapalenia tętnic:\n1) zwykle występuje przed 50. rokiem życia;\n2) zwykle manifestuje się bólem głowy;\n3) wartość OB jest zwykle prawidłowa;\n4) leczeniem z wyboru jest glikokortykoterapia;\n5) nieleczone może prowadzić do ślepoty.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-118",
+      "question": "Wskazaniem do intubacji pacjenta jest ocena w skali Glasgow Coma Scale:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "≤ 10 pkt.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "≤ 9 pkt.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "≤ 8 pkt.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "≤ 7 pkt.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "≤ 6 pkt.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-119",
+      "question": "W zatruciu cyjankami jako antidotum stosuje się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "hydroksykobalaminę.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "atropinę.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "glukagon.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "pirydoksynę.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nalokson.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-120",
+      "question": "RKO rozpoczyna się od 5 oddechów ratowniczych w przypadku zatrzymania krążenia:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "spowodowanego podtopieniem.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "u kobiety ciężarnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "spowodowanego zawałem mięśnia sercowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "u dzieci.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A,D.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-121",
+      "question": "Wytyczne Europejskiej Rady Resuscytacji 2015 kładą nacisk na rozpoznawanie odwracalnych przyczyn zatrzymania krążenia przy pomocy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "rezonansu magnetycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ultrasonografii.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "szybkich testów przyłóżkowych (testów z kropli krwi).",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tomografii komputerowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "scyntygrafii.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-122",
+      "question": "Widoczne na poniżej rycinie zaburzenie rytmu serca to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "asystolia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "migotanie komór.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "migotanie przedsionków.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "częstoskurcz komorowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "torsade de pointes.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-123",
+      "question": "Do następstw zatrucia glikolem etylenowym należą:\n1) kwasica metaboliczna;\n2) zasadowica metaboliczna;\n3) kwasica oddechowa;\n4) zasadowica oddechowa;\n5) ostra niewydolność nerek;\n6) przewlekła niewydolność nerek.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "3,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-124",
+      "question": "Kardiowersję przy zastosowaniu energii 70-120 J wykonuje się w przypadku:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "migotania komór.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "bradykardii opornej na farmakoterapię.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "napadowego częstoskurczu nadkomorowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "migotania przedsionków.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "częstoskurczu komorowego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-125",
+      "question": "Reguła Parkland stosowana jest do:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "oceny ryzyka zgonu po NZK.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "obliczania dawki promieniowania RTG/powierzchnię ciała.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "obliczania ilości płynów do przetoczenia w przypadku oparzenia ciała.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "oceny stanu świadomości.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "obliczania dawki metyloprednizolonu po urazach rdzenia kręgowego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-126",
+      "question": "Hipotermia jest stanem zagrożenia życia zdefiniowanym jako:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wychłodzenie ciała poniżej 32°C mierzone pod pachą.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "spadek wewnętrznej temperatury ciała poniżej 35°C.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wychłodzenie ciała poniżej 36°C z obecnością dreszczy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "spadek powierzchownej temperatury ciała poniżej 35°C.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "miejscowe wychłodzenie ciała poniżej 35°C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-127",
+      "question": "Dyspozytor medyczny ma obecnie do spełnienia szczególną rolę podczas resuscytacji prowadzonej przez świadków zdarzenia. Wskaż działanie, które nie należy do jego kompetencji:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "uczenie jak badać tętno u poszkodowanego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zapewnienie telefonicznego instruktażu prowadzenia RKO.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lokalizowanie najbliższego AED.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "dysponowanie najbliższego AED.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "utrzymywanie stałego kontaktu z osobą ratującą.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-128",
+      "question": "Do szpitalnego oddziału ratunkowego przywieziono nieprzytomnego, 60- letniego mężczyznę, który został znaleziony nieprzytomny około 12 godzin wcześniej. Po kilku minutach od przyjęcia odzyskał przytomność, okoliczności zdarzenia nie pamiętał. W wywiadzie zespół uzależnienia od alkoholu, cukrzyca. Przy przyjęciu w badaniu przedmiotowym stwierdzono: GCS 9 pkt, niewielki obrzęk w okolicy potylicznej, czynność serca 50/min, ciśnienie tętnicze krwi 190/100 mmHg, 8 oddechów/min. Przedstawiona sytuacja przemawia za:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "śpiączką hipoglikemiczną.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zespołem majaczeniowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "upojeniem alkoholowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kwasicą metaboliczną.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "krwiakiem nadtwardówkowym.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-129",
+      "question": "Który z poniższych zestawów objawów nie pozwala rozpoznać zespołu uogólnionej reakcji zapalnej (SIRS)?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "temperatura ciała powyżej 38 °C, liczba leukocytów we krwi obwodowej powyżej 12 000/ml, częstość akcji serca powyżej 90 uderzeń/min.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "temperatura ciała poniżej 36 °C, częstość oddechów powyżej 20/min, pCO poniżej 32 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "temperatura ciała poniżej 38 °C, częstość akcji serca poniżej 80/min, liczba leukocytów we krwi obwodowej poniżej 2000/ml, częstość oddechów poniżej 20/min.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "temperatura ciała powyżej 40 °C, częstość akcji serca powyżej 110/min, częstość oddechów powyżej 30/min.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "temperatura ciała poniżej 35 °C, częstość akcji serca powyżej 90/min, pCO poniżej 32 mmHg.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-130",
+      "question": "Pacjent lat 36 o wadze 80 kg został przywieziony przez Zespół Ratownictwa\n2\n2 Medycznego do Szpitalnego Oddziału Ratunkowego w wyniku oparzenia wrzątkiem. Po dokładnym zbadaniu pacjenta lekarz stwierdził oparzenie obu kończyn dolnych oraz prawej kończyny górnej. Jaką ilość płynów należy przetoczyć temu pacjentowi w pierwszych 8 godzinach od urazu?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "14400 ml.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "8640 ml.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "7200 ml.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "4800 ml.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "4320 ml.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-131",
+      "question": "W ciężkim ostrym zapaleniu trzustki w leczeniu przeciwbólowym nie zaleca się stosowania:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "buprenorfiny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "bupiwakainy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "metamizolu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "morfiny.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tramadolu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-132",
+      "question": "Podstawowe dobowe zapotrzebowanie płynowe u dziecka ważącego 35 kg wynosi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1000 ml.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1300 ml.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1500 ml.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1800 ml.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2100 ml.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-133",
+      "question": "„Triada śmierci” to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "hipertermia, kwasica, zaburzenia krzepnięcia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "hipotermia, kwasica, zaburzenia krzepnięcia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "hipotermia, zasadowica, zaburzenia krzepnięcia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hipotermia, zasadowica, zaburzenia równowagi wodno-elektrolitowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "hipertermia, zasadowica, zaburzenia krzepnięcia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-134",
+      "question": "Którego z wymienionych nie stosuje się u pacjenta z ciężką niewydolnością oddechową spowodowaną stanem astmatycznym?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "O w przepływie 10-16 l/min przez maskę z rezerwuarem tlenowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "5 mg salbutamolu w nebulizacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "6 mg adenozyny iv.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "0,5 mg bromku ipratropium iv.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2 g siarczanu magnezu iv.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-135",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące segregacji medycznej w przypadku katastrof:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "w ramach segregacji medycznej ocenia się ciśnienie krwi pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kolor zielony przydziela się poszkodowanym niechodzącym.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "kolor żółty przydziela się kobietom ciężarnym z krwotokiem z dróg rodnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kolor czerwony przydziela się poszkodowanym we wstrząsie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "poszkodowani z zatrzymaniem krążenia mają najwyższy priorytet.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-136",
+      "question": "Następujące wyniki badań laboratoryjnych: glikemia 651 mg/dl, Na 120 mmol/l, K 3,22 mmol/l, osmolalność osocza 325 mOsm/l u pacjenta z zaburzoną orientacją co do miejsca i czasu, odwodnionego i oddającego około 5 litrów moczu na dobę mogą wskazywać na:\n2\n+\n+",
+      "answers": [
+        {
+          "id": "A",
+          "text": "śpiączkę hipoglikemiczną.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ketonową kwasicę cukrzycową.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "hiperosmolalną nieketonową śpiączkę cukrzycową.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zdekompensowaną moczówkę prostą.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "przełom nadnerczowy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-137",
+      "question": "Kobieta, lat 20, w 34. tygodniu ciąży, skarży się na bóle głowy, zaburzenia widzenia i nudności oraz obrzęki. W badaniu fizykalnym: częstość oddechów\n32/min, osłuchowo trzeszczenia nad polami płucnymi, częstość pracy serca\n- 120/min, w EKG wąskie, miarowe zespoły QRS, ciśnienie krwi - 190/110 mmHg. W czasie badania doszło do napadu drgawek. Jaki lek i w jakiej dawce należy zastosować?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "adenozyna 6 mg i.v.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "furosemid 5 mg i.v.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "morfina 3-5 mg i.v.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "relanium 40 mg i.v.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "siarczan magnezu 4 g i.v.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-138",
+      "question": "Specyficzną „odtrutką” w zatruciu zolpidemem jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nalokson.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "atropina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "dwuwęglan sodu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "glukagon.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "flumazenil.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-139",
+      "question": "Badaniem potwierdzającym zatrucie tlenkiem węgla jest ocena stężenia hemoglobiny tlenkowęglowej (HbCO). Stężenie HbCO wynoszące 5%:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "świadczy o ciężkim zatruciu CO.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "jest normalną wartością u nałogowych palaczy tytoniu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "jest wskazaniem do tlenoterapii hiperbarycznej, nawet przy braku klinicznych objawów zatrucia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "jest wskazaniem do przetoczenia 300 ml koncentratu krwinek czerwonych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "jest wskazaniem do podania naloksonu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-140",
+      "question": "U pacjentów z udarem niedokrwiennym mózgu leczonych fibrynolitycznie ciśnienie tętnicze winno być utrzymywane poniżej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "240/120 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "220/120 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "185/110 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "165/105 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "135/75 mmHg.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-141",
+      "question": "Wskaż objaw, który nie jest charakterystyczny dla ostrego zapalenia nagłośni u 3-letniego dziecka:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wysoka gorączka.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ślinienie.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tachypnoe.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "szczekający kaszel.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zaburzenia połykania.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-142",
+      "question": "W przypadku małego prawdopodobieństwa wystąpienia zatoru tętnicy płucnej, badaniem diagnostycznym, które należy wykonać w pierwszej kolejności jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "angio-CT klatki piersiowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "oznaczenie stężenia D-dimerów.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "echokardiografia przezklatkowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "oznaczenie stężenia peptydu natriuretycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "echokardiografia przezprzełykowa.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-143",
+      "question": "Zgodnie z definicją hipotermia jest obniżeniem głębokiej temperatury ciała do:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "36°C lub niżej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "35°C lub niżej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "34°C lub niżej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "33°C lub niżej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "30°C lub niżej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-144",
+      "question": "Do oddziału ratunkowego zgłosił się 50-letni mężczyzna po pobiciu w dniu poprzednim. Obecnie skarży się na dwojenie (diplopia), tkliwość i bolesność okolicy oczodołu. Zewnętrznie widoczne: obrzęk powieki i zasinienie lewego oczodołu. Jaka może być przyczyna tych objawów?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "złamanie podstawy czaszki.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "rozprężające złamanie oczodołu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "odwarstwienie siatkówki.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "złamanie zatoki czołowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "złamanie typu Le Forta I.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-145",
+      "question": "Do SOR trafił 70-letni pacjent z zapisem EKG jak poniżej. Tętno jest wyczuwalne na tętnicy szyjnej, ratownicy medyczni przekazują informację, że wzywającą pomoc była żona poszkodowanego, która znalazła męża w stanie omdlenia w łazience. Jakie będzie najwłaściwsze postępowanie z pacjentem?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "defibrylacja energią 200 J.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "defibrylacja energią 100 J.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "kardiowersja elektryczna.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "stymulacja elektryczna przezskórna.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "podanie amin katecholowych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-146",
+      "question": "Do SOR zgłosił się 55-letni mężczyzna z powodu silnych, rozrywających bólów w klatce piersiowej, promieniujących do pleców. Pacjent jest nałogowym palaczem i przyjmuje nieregularnie leki obniżające ciśnienie. W zapisie EKG - nie stwierdzono uniesienia odcinka ST. Jakie schorzenie należy rozważyć w pierwszej kolejności w diagnostyce różnicowej?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "owrzodzenie żołądka.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "rozwarstwienie aorty.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zapalenie osierdzia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "odmę opłucnową.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zatorowość płucną.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-147",
+      "question": "Do kryteriów rozpoznania ARDS nie należy/nie należą:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "PaO2/FiO2 < 200 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "obecność czynników sprzyjających.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ostry początek.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "obustronne nacieki w RTG klatki piersiowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "SpO2 < 90%.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-148",
+      "question": "W przypadku masywnej transfuzji krwi na każdą jednostkę koncentratu krwinek czerwonych powinno się przetoczyć:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1 jednostkę świeżo mrożonego osocza w objętości 10-15 ml/kg.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2 jednostki świeżo mrożonego osocza w objętości 10-15 ml/kg.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3 jednostki świeżo mrożonego osocza w objętości 10-15 ml/kg.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "4 jednostki świeżo mrożonego osocza w objętości 10-15 ml/kg.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "5 jednostek świeżo mrożonego osocza w objętości 10-15 ml/kg.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-149",
+      "question": "Najwłaściwszym postępowaniem w przypadku niskonapięciowego VF jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "defibrylacja 150 J.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "defibrylacja 200 J.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "defibrylacja 360 J.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "uciskanie klatki piersiowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "podanie 300 mg amiodaronu i.v.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-150",
+      "question": "Czynnikami uprawniającymi do stwierdzenia zgonu u pacjenta są:\n1) plamy opadowe;\n2) brak akcji serca;\n3) brak oddechu;\n4) stężenie pośmiertne;\n5) spadek temperatury ciała;\n6) nieskuteczność RKO prowadzonej zgodnie z aktualnymi wytycznymi.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,4,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-151",
+      "question": "W ostrym zatruciu którym z wymienionych ksenobiotyków nie występuje zwężenie źrenic?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tramadol.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "morfina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "atropina.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "fentanyl.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "kodeina.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-152",
+      "question": "Wskazaniem do wykonania hemodializy nie jest ostre zatrucie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "alkoholem metylowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "glikolem etylenowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "salicylanami.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "diazepamem.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "litem.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-153",
+      "question": "W przypadku resuscytacji krążeniowo oddechowej przez osobę nie mającą stałego doświadczenia w prowadzeniu resuscytacji krążeniowo-oddechowej bezwzględnie konieczne jest wykonanie następujących czynności:\n1) uciskanie klatki piersiowej;\n2) wentylacja zastępcza;\n3) badanie pulsu na tętnicy szyjnej;\n4) badanie pulsu na tętnicy promieniowej;\n5) ocena stanu świadomości i oddechu.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,2,3,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-154",
+      "question": "7-letnie dziecko zostało ukąszone przez żmiję zygzakowatą. Wystąpiły objawy wstrząsu anafilaktycznego. Adrenalinę należy podać w dawce:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "0,15 ml 0,1% roztworu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "0,3 ml 0,1% roztworu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "0,5 ml 0,1% roztworu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "0,75 ml 0,1% roztworu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,0 ml 0,1% roztworu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-155",
+      "question": "W przypadku asystolii występującej bezpośrednio po defibrylacji, najbardziej skutecznym postępowaniem, które może prowadzić do pojawienia się migotania komór lub powrotu prawidłowego rytmu serca jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "uciskanie klatki piersiowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "uderzenie przedsercowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "podanie i.v. 300 mg amiodaronu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zewnętrzna stymulacja serca.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wykonanie dwóch oddechów ratowniczych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-156",
+      "question": "Zespół ratownictwa medycznego został wezwany do nieprzytomnego chorego znalezionego w parku w grudniowy poranek. Przez jaki okres czasu należy poszukiwać oznak życia u tego pacjenta?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "do 10 sekund.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "do 20 sekund.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "do 30 sekund.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "do 60 sekund.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "do 120 sekund.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-157",
+      "question": "W celu obniżenia stężenia potasu we krwi stosuje się wszystkie niżej wymienione leki, z wyjątkiem:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1 mg/kg m.c. furosemidu i.v.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "15 mg salbutamolu w nebulizacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "10 j. krótko działającej insuliny i 25 g glukozy i.v. w ciągu 15-30 min.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "10 ml 10% CaCl2 i.v.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wodorowęglanu sodu 1 mmol/kg m.c. i.v.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-158",
+      "question": "Hipertermia jest charakterystycznym objawem:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ostrego zatrucia alkoholem etylowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ostrego zatrucia klonazepamem.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "toksydromu opioidowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "złośliwego zespołu neuroleptycznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "toksydromu uspokajająco-nasennego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-159",
+      "question": "Wskaż powód wyłączenia pacjenta z leczenia trombolitycznego:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "czas trwania objawów - 4 godziny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "liczba płytek krwi - 150 tys/mm3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "INR - 1,7.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wiek - 18 lat.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "przebyty przed dwoma miesiącami udar mózgu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-160",
+      "question": "35-letni mężczyzna został przywieziony do SOR po urazie głowy, w następstwie upadku z wysokości. W chwili przyjęcia jego parametry są następujące: akcja serca 135/min, RR 80/40 mmHg, częstość oddechów\n20/min. Która z wymienionych poniżej jest najbardziej prawdopodobną przyczyną hipotensji?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "przyczyna pozamózgowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "krwiak nadtwardówkowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "krwiak podtwardówkowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "krwawienie podpajęczynówkowe (SAH).",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "stłuczenie mózgu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-161",
+      "question": "Pacjent skarży się na silny, nagły ból brzucha z towarzyszącą biegunką z domieszką krwi, wymiotami oraz częste napady migotania przedsionków. W badaniu przedmiotowym stwierdza się jedynie bolesność uciskową brzucha bez obrony mięśniowej. Wskaż najbardziej prawdopodobne rozpoznanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ostre niedokrwienie jelita cienkiego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ostre zapalenie trzustki.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "niedrożność przewodu pokarmowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kamicę nerkową.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ostre zapalenie wyrostka robaczkowego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-162",
+      "question": "Podczas segregacji wstępnej poszkodowanych w wypadku masowym, przy zastosowaniu protokołu START, poszkodowany niereagujący na żadne bodźce, nieoddychający spontanicznie i niepodejmujący oddechu po udrożnieniu dróg oddechowych:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "powinien zostać oznaczony kolorem czerwonym (najwyższy priorytet ewakuacji).",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "powinien być ewakuowany natychmiast do punktu medycznego celem podłączenia do respiratora.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "powinien być resuscytowany na miejscu, zgodnie z protokołem ALS.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "powinien otrzymać adrenalinę w bezpośrednim wstrzyknięciu dosercowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "powinien być uznany za zmarłego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-163",
+      "question": "W przypadku resuscytacji krążeniowo-oddechowej i wykonaniu defibrylacji zapis ekg ocenia się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "natychmiast po defibrylacji, ale nie może to trwać dłużej niż 5 sekund.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "natychmiast po defibrylacji, ale nie może to trwać dłużej niż 10 sekund.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "po 1 min resuscytacji krążeniowo-oddechowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "po 2 min resuscytacji krążeniowo-oddechowej lub wcześniej, jeśli wystąpiły objawy powrotu czynności układu krążenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "po 5 min resuscytacji krążeniowo-oddechowej lub wcześniej, jeśli wystąpiły objawy powrotu czynności układu krążenia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-164",
+      "question": "Odtrutką w zatruciu benzodiazepinami jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "siarczan protaminy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "glukagon.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nalokson.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "węgiel aktywowany.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "flumazenil.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-165",
+      "question": "U pacjenta z dużym prawdopodobieństwem zatoru tętnicy płucnej, przed potwierdzeniem rozpoznania należy podać:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "urokinazę.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tkankowy aktywator plazminogenu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "apiksaban.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "enoksaparynę.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "kwas acetylosalicylowy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-166",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące wykonywania defibrylacji u pacjenta w hipotermii (temperatura centralna 27 ºC), u którego wystąpiło nagłe zatrzymanie krążenia w mechanizmie migotania komór:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie zaleca się wykonywania defibrylacji do uzyskania temperatury centralnej ≥ 30 ºC.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zalecane jest jednokrotne wykonanie defibrylacji do uzyskania temperatury centralnej ≥ 30 ºC.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nie zaleca się wykonywania defibrylacji do uzyskania temperatury centralnej ≥ 32 ºC.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zalecane jest 3-krotne wykonanie defibrylacji do uzyskania temperatury centralnej ≥ 30 ºC.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zalecane jest wykonywanie defibrylacji do skutku, zgodnie z ogólnym algorytmem dla migotania komór.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-167",
+      "question": "Chory lat 40 przyjęty do SOR z powodu silnych dolegliwości bólowych pod prawym łukiem żebrowym o charakterze kolki żółciowej, z dreszczami i gorączką oraz żółtaczką. CRP jest podwyższone. W USG poszerzenie dróg żółciowych zewnątrzwątrobowych. W pierwszej kolejności należy rozpoznać:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ostre zapalenie trzustki.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ostre zapalenie pęcherzyka żółciowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "raka wnęki wątroby.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ostre zapalenie dróg żółciowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "posocznicę.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-168",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące kapnometrii (ETCO2) podczas uciskania klatki piersiowej w trakcie RKO:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wartości ETCO2 < 10 mmHg po 20 minutach RKO sugerują dobre wyniki leczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wartości ETCO2 nie mają znaczenia rokowniczego podczas RKO.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wartości ETCO2 są niezależne od głębokości uciśnięć klatki piersiowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "pomaga monitorować częstość uciśnięć klatki piersiowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "może służyć do rozpoznania ROSC (powrót samoistnego krążenia) podczas RKO.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-169",
+      "question": "Podczas resuscytacji noworodka, przy prawidłowo prowadzonej wentylacji zastępczej, wskazaniem do rozpoczęcia uciskania klatki piersiowej jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wyłącznie asystolia lub migotanie komór.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wyłącznie asystolia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zwolnienie czynności serca poniżej 60/min.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zwolnienie czynności serca poniżej 100/min.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "przyspieszenie czynności serca powyżej 120/min.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-170",
+      "question": "Do odwracalnych przyczyn zatrzymania krążenia nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "odma prężna.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "odma zamknięta.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "hipowolemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hipotermia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "przedawkowanie leków.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-171",
+      "question": "Podczas RKO stosunek uciśnięć klatki piersiowej do oddechów powinien wynosić:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "5:1 u noworodków.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "3:1 u noworodków.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2:15 u niemowląt.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2:15 u dzieci do 8. r.ż.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2:30 u dorosłych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-172",
+      "question": "Wskazaniem do kardiowersji jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "migotanie przedsionków.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "migotanie komór.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "asystolia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "czynność elektryczna bez tętna.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "częstoskurcz komorowy bez tętna.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-173",
+      "question": "Oddech Kussmaula występuje w zatruciu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "benzodiazepinami.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "salicylanami.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "blokerami kanału wapniowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "insuliną.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "betaadrenolitykami.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-174",
+      "question": "Do krystaloidów należą:\n1) mleczan Ringera;\n2) albuminy;\n3) HES;\n4) 0,9% NaCl.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tylko 4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-175",
+      "question": "Który z poniższych objawów nie jest objawem anafilaksji?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "uogólniona pokrzywka.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "niewydolność oddechowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wzrost skurczowego ciśnienia tętniczego krwi.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nietrzymanie moczu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "utrata przytomności.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-176",
+      "question": "Wartość energii do defibrylacji zalecana u dzieci wynosi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "2 J/kg dla pierwszej i kolejnych defibrylacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2 J/kg dla pierwszej i 3 J/kg dla kolejnych defibrylacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3 J/kg dla pierwszej i 4 J/kg dla kolejnych defibrylacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "4 J/kg dla pierwszej i kolejnych defibrylacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "4 J/kg dla pierwszej i 5 J/kg dla kolejnych defibrylacji.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-177",
+      "question": "Do szpitalnego oddziału ratunkowego zgłosiła się 68-letnia pacjentka z rozpoznanym przed 3 laty rakiem sutka prawego z przerzutami do kręgosłupa i żeber. Głównym powodem zgłoszenia się był ból brzucha utrzymujący się od kilku dni. Dodatkowo pacjentka podaje występowanie wielomoczu, zaparcia, uczucia kołatania serca. Przyczyną wymienionych powyżej objawów jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "hiperkaliemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "hipokaliemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "hiperkalcemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hipokalcemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "hiponatremia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-178",
+      "question": "Zalecane postępowanie z pacjentem z miarowym częstoskurczem z wąskimi zespołami QRS nie obejmuje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "bolusa atropiny 1 mg i.v.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "stymulacji nerwu błędnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "bolusa adenozyny 6 mg i.v.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "masażu zatoki tętnicy szyjnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "próby Valsalvy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-179",
+      "question": "Wskaż nieprawdziwe zdanie dotyczące hipotermii:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "hipotermią nazywa się sytuację, kiedy głęboka temperatura ciała obniża się poniżej 35°C.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "czynnikiem usposabiającym do powstawania hipotermii jest spadek produkcji ciepła wskutek podeszłego wieku.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "rozpoznanie śmierci mózgu jest możliwe dopiero po przywróceniu głębokiej temperatury ciała do wartości prawidłowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "organizm ludzki w temperaturze poniżej 20°C jest w stanie tolerować zatrzymanie krążenia przez więcej niż 1h bez uszkodzeń neurologicznych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "bradykardia hipotermiczna jest wrażliwa na leczenie atropiną.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-180",
+      "question": "Do specyficznych odtrutek nie zalicza się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "atropiny w zatruciu środkami fosfoorganicznymi.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "acetylocysteiny w zatruciu benzodiazepinami.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "azotanu amylu w zatruciu cyjankami.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hydroksykobalaminy w zatruciu cyjankami.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "naloksonu w zatruciu opioidami.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-181",
+      "question": "Do oddziału ratunkowego zgłosił się 65-letni pacjent po zasłabnięciu bez utraty przytomności. Obecnie pacjent zgłasza osłabienie oraz dolegliwości bólowe w klatce piersiowej. Pacjent przewlekle przyjmuje leki VKA z powodu napadowego migotania przedsionków. W badaniu przedmiotowym stwierdza się, między innymi, zimną, bladą i spoconą skórę, HR 130/min, RR 80/50 mmHg. W zapisie EKG występuje migotanie przedsionków. W pierwszej kolejności należy zastosować:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "amiodaron w dawce 300 mg dożylnie w ciągu 10 minut.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kardiowersję elektryczną do trzech prób.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "roztwór siarczanu magnezu w dawce 2g dożylnie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "adenozynę w dawce 6 mg dożylnie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "digoksynę w dawce 0,25 mg dożylnie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-182",
+      "question": "Kardiowersję elektryczną w trybie nagłym wykonuje się w poniższych zaburzeniach rytmu serca, z wyjątkiem:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "częstoskurczu komorowego opornego na leczenie farmakologiczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "częstoskurczu komorowego niestabilnego hemodynamicznie.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nawrotowego częstoskurczu nadkomorowego niestabilnego hemodynamicznie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "częstoskurczu komorowego bez tętna.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "migotania/trzepotania przedsionków z zespołem małego rzutu serca i niestabilnością hemodynamiczną.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-183",
+      "question": "Podczas prowadzenia czynności reanimacyjnych, przed powrotem spontanicznej czynności układu krążenia, nie podaje się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "siarczanu magnezu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "dopaminy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "adrenaliny.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "lidokainy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "amiodaronu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-184",
+      "question": "Informacja o zażywaniu którego z leków nie stanowi możliwego wyjaśnienia występowania u pacjenta hiperkaliemii:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ramiprylu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ketonalu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "propranololu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "trimetoprimu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "torasemidu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-185",
+      "question": "Czynności zwiększające napięcie nerwu błędnego (np. próba Valsalvy) są często skuteczne w doraźnym leczeniu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "migotania przedsionków.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "bradykardii.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "częstoskurczu z wąskimi zespołami QRS.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "częstoskurczu z szerokimi zespołami QRS.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żadnego z wymienionych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-186",
+      "question": "W celu najbardziej czułego i swoistego potwierdzenia prawidłowego położenia rurki intubacyjnej u pacjenta należy monitorować:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "pulsoksymetrię.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kapnografię.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "powrót włośniczkowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tor oddychania.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wysycenie krwi tlenem.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-187",
+      "question": "W przypadku resuscytacji noworodków zalecany stosunek liczby uciśnięć mostka do liczby sztucznych oddechów wynosi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "03:01",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "05:01",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "05:02",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "15:02",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "30:02:00",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-188",
+      "question": "W kryteriach Wellsa stosowanych do ustalenia prawdopodobieństwa wystąpienia zatorowości płucnej nie uwzględnia się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "liczby płytek krwi.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "częstości akcji serca > 100/min.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "krwioplucia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nowotworu złośliwego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "niedawnego zabiegu operacyjnego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-189",
+      "question": "Do przyczyn hipokaliemii nie należy/ą:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wymioty.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kwasica.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "podawanie insuliny.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zespół Conna.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "leczenie diuretykami pętlowymi.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-190",
+      "question": "U chorego zatrutego trójpierścieniowymi lekami przeciwdepresyjnymi wystąpił różnokształtny częstoskurcz komorowy. W leczeniu należy zastosować:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "siarczan magnezu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "β-bloker.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "digoksynę.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "amiodaron.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "werapamil.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-191",
+      "question": "Skala CURB-65 ułatwia podjęcie decyzji o dalszym postępowaniu z pacjentem z:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zatrzymaniem moczu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zapaleniem płuc.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ostrym zapaleniem trzustki.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "udarem niedokrwiennym mózgu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zapaleniem mięśnia sercowego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-192",
+      "question": "Wskaż organy organizmu człowieka uszeregowane w kolejności od najkrótszego do najdłuższego czasu tolerancji na niedotlenienie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kora mózgu, pień mózgu, kości, skóra, mięśnie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "mięsień sercowy, pień mózgu, nerki, wątroba.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "kora mózgu, pień mózgu, mięsień sercowy, nerki, wątroba.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "skóra, mięśnie, kości, nerki, wątroba.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "kości, skóra, mięsień sercowy, pień mózgu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-193",
+      "question": "Wskaż obowiązujące zalecenie/a dotyczące farmakoterapii nagłego zatrzymania krążenia (NZK):",
+      "answers": [
+        {
+          "id": "A",
+          "text": "w czasie resuscytacji nie wolno podawać leków domięśniowo, podskórnie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "niezalecane jest podawanie leków do żyły udowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nie wolno podawać leków dosercowo z powodu ryzyka uszkodzenia mięśnia sercowego, tamponady serca, odmy opłucnowej, a ponadto konieczności przerwania akcji ratunkowej na czas wykonania wkłucia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "niezalecana jest droga dotchawicza wg wytycznych Europejskiej Rady Resuscytacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie powyższe.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-194",
+      "question": "Wskaż błędne zestawienie trucizny i odtrutki (trucizna-antidotum):",
+      "answers": [
+        {
+          "id": "A",
+          "text": "benzodiazepiny - flumazenil.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "opioidy i opiaty - nalokson.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "alkohol metylowy - alkohol etylowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "glikol etylenowy - alkohol metylowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "beta-blokery - glukagon.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-195",
+      "question": "Wskaż uszeregowaną narastająco (od najmniejszej do największej objętości) utratę krwi towarzyszącą złamaniom:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "jeden kręg, jedno żebro, kości przedramienia, kości podudzia, miednica.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "jedno żebro, bark i kość ramienna, miednica, kość udowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "bark i kość ramienna, kości przedramienia, kości podudzia, kość udowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "miednica, kość udowa, bark i kość ramienna, jedno żebro.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "kość udowa, jeden kręg, kości przedramienia, jedno żebro.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-196",
+      "question": "W przypadku tamponady serca stwierdza się charakterystyczne objawy - tzw. triadę Becka. Są to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "ból w klatce piersiowej, narastająca duszność, tachykardia / tętno paradoksalne.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zimna, blada skóra, utrata przytomności, zatrzymanie krążenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "obniżenie ciśnienia tętniczego, ciche tony serca, przepełnienie żył szyjnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "narastająca duszność, ból w klatce piersiowej, ciche tony serca.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ból w klatce piersiowej, narastająca duszność, zimna, blada skóra.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-197",
+      "question": "W ocenie jakich stanów, znajduje uzasadnienie wykonanie zdjęć RTG czaszki, pomimo dostępności badania TK?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "uraz przenikający (postrzał z broni palnej).",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "podejrzenie złamania czaszki z wgłobieniem kości.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "podejrzenie złamania podstawy czaszki.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "u pacjentów z wcześniejszymi zabiegami kraniotomii lub drenażem komorowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie powyższe są prawdziwe.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-198",
+      "question": "Badania z ostatnich lat wskazują, że w chwili podjęcia resuscytacji zarówno poza szpitalem, jak i w szpitalu, z upływem czasu maleje częstość rytmów podatnych na defibrylację. Każda minuta opóźnienia defibrylacji zmniejsza szansę na przeżycie o:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1%.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "10%.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "20%.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "50%.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "90%.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-199",
+      "question": "Monitorowanie stanu pacjenta na miejscu zdarzenia i podczas transportu dzieli się na bezprzyrządowe i przyrządowe. Wśród przyrządowych metod duże znaczenie ma pomiar temperatury. Wskaż fałszywe stwierdzenie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "po NZK i urazach OUN ryzyko powikłań neurologicznych wzrasta z każdym stopniem temperatury ciała powyżej 37,6°C.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "hipertermia oznacza wzrost temp. bez przestawienia ośrodka termoregulacji > 40°C.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "hiperpireksja oznacza wzrost temp. > 41,1°C.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "gorączka jest to wzrost temp. > 36,6°C.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "hipotermia jest to temperatura głęboka ciała poniżej 35°C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-200",
+      "question": "Do nieinwazyjnych metod monitorowania układu krążenia zalicza się nieinwazyjne oznaczanie ciśnienia krwi (NIBP). Dodatkowym parametrem nieinwazyjnym jest m.in. ciśnienie tętna (ciśnienie skurczowe - ciśnienie rozkurczowe), którego prawidłowe wartości mieszczą się w zakresie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "10 - 30 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "20 - 40 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "30 - 50 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "40 - 60 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "50 - 70 mmHg.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-201",
+      "question": "W kapnometrii wzrost końcowo-wydechowego CO (EtCO ) nie występuje2 2 podczas:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "hipowentylacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "hipertermii złośliwej.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "hipotermii.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "aktywności mięśni szkieletowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "przełomu tarczycowego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-202",
+      "question": "Do nieinwazyjnych metod monitorowania układu krążenia zalicza się nieinwazyjne oznaczanie ciśnienia krwi (NIBP). Dodatkowym parametrem nieinwazyjnym jest m.in. produkt ciśnienia (heart rate pressure product) definiowany jako czynność serca x ciśnienie skurczowe. Wskaż prawidłowe wartości produktu ciśnienia:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "do 5 000.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "do 10 000.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "do 15 000.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "do 20 000.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "do 25 000.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-203",
+      "question": "W czasie badania pacjenta należy ustalić pochodzenie bólu głowy. Przyczyną bólu twarzy może być:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "stan zębów i dziąseł.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nerwoból nerwu trójdzielnego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nerwoból nerwu językowo-gardłowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "prawdziwe są odpowiedzi A,B,C.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi B i C.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-204",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące właściwości tlenku węgla (CO):",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tlenek węgla jest gazem bez zapachu, bez smaku oraz bez barwy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "CO ma 200-krotnie silniejsze powinowactwo do hemoglobiny (Hb) niż tlen.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "cząsteczki CO nie mogą przenikać przez ściany wykonane z płyty gipsowo-kartonowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "karboksyhemoglobina (COHb) jest nośnikiem CO w organizmie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "cząsteczki CO są na tyle małe, że mogą przenikać przez ściany wykonane z płyty gipsowo-kartonowej i zatruć osoby w sąsiednich pomieszczeniach.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-205",
+      "question": "Do wczesnych radiologicznych objawów udaru niedokrwiennego mózgu w TK głowy nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wygładzenie bruzd mózgu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zatarcie wstęgi wyspy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zatarcie granic jąder podkorowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hiperdensyjny sygnał tętnic mózgu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "hipodensyjny sygnał tętnic mózgu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-206",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące ogólnych zasad postępowania w trakcie napadu drgawek:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nie należy wkładać żadnych przedmiotów do ust/między zęby pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nie należy próbować cucić pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nie należy polewać twarzy pacjenta wodą.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "po napadzie drgawkowym należy obudzić pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "w trakcie napadu drgawkowego należy podłożyć coś miękkiego pod głowę pacjenta.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-207",
+      "question": "Większość zgonów pacjentów niestabilnych hemodynamicznie, którzy krwawią z przewodu pokarmowego wynika z:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "niewydolności nerek.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "niedokrwienia mózgu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "niedokrwienia mięśnia sercowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "niedokrwienia wątroby (u osób z ograniczoną rezerwą).",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie powyższe prawidłowe.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-208",
+      "question": "U 75-letniej pacjentki z utrwalonym migotaniem przedsionków wystąpił nagle niedowład prawostronny z afazją. Pacjentka nie stosuje leczenia przeciwzakrzepowego. W pierwszej kolejności należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wykonać badanie TK głowy z kontrastem.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wykonać badanie TK głowy bez kontrastu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "oznaczyć stężenie glukozy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "podać tkankowy aktywator plazminogenu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "podać heparynę.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-209",
+      "question": "W przypadku powrotu czynności układu krążenia podczas resuscytacji krążeniowo-oddechowej pacjenta z zatrzymaniem krążenia poziom końcowo-wydechowy dwutlenku węgla (ETCO2):",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wzrośnie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "obniży się.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nie zmieni się.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "spadnie do zera.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "osiągnie wartość 200 mmHg.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-210",
+      "question": "40-letni pacjent stracił przytomność. W chwili przybycia ZRM pacjent jest nieprzytomny, częstość oddechów 6/min, a chwilami wpada w bezdech, puls\n120/min, saturacja 78%, źrenice są wąskie. W pierwszej kolejności należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zacząć wentylować pacjenta tlenem, zaintubować pacjenta, podać nalokson.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "podać atropinę w celu uzyskania poszerzenia źrenic.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wykonać płukanie żołądka.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "podać nalokson, nie wentylować pacjenta.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "podać 500 ml PWE dożylnie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rat-1-211",
+      "question": "U 70-letniego mężczyzny wystąpiło kołatanie serca i ból w klatce piersiowej, ciśnienie tętnicze wynosiło 70/50 mmHg. W EKG stwierdzono migotanie przedsionków z czynnością komór 180/min. Wskaż właściwe postępowanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wykonanie kardiowersji elektrycznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "podanie amiodaronu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wykonanie próby Valsalvy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "podanie lidokainy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "podanie digoksyny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    }
+  ]
+}
