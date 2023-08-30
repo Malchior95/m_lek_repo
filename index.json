@@ -5,9 +5,19 @@
         "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/interna-1.json",
         "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/interna-2.json",
         "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/pediatria-1.json",
+        "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/pediatria-2.json",
         "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/psychiatria-1.json",
+
         "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/psychiatria-2.json",
         "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/chirurgia-1.json",
-        "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/chirurgia-2.json"
+        "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/chirurgia-2.json",
+        "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/bioetyka-1.json",
+        "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/ginekologia-1.json",
+
+        "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/orzecznictwo-1.json",
+        "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/ratunkowa-1.json",
+        "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/rodzinna-1.json",
+        "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/rodzinna-2.json",
+        "https://raw.githubusercontent.com/Malchior95/m_lek_repo/main/data/zdrowie-publiczne-1.json"
     ]
 }
