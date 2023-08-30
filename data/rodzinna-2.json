@@ -1,0 +1,2423 @@
+{
+  "name": "rodzinna-2",
+  "tags": [
+    "rodzinna",
+    "2023"
+  ],
+  "questions": [
+    {
+      "id": "rod-2-1",
+      "question": "Wskaż najczęstsze przyczyny bólu lędźwiowo- krzyżowego u pacjentów poniżej 30 roku życia:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "spondyloartropatie seronegatywne.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "choroba Pageta.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wrodzona cieśń lędźwiowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "dyskopatie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wypuklina jądra miażdżystego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-2",
+      "question": "Uszkodzenie nerwu krtaniowego wstecznego jako jedna z przyczyn chrypki może powstać na skutek:\n1) ostrego zapalenia nagłośni;\n2) niedoczynności tarczycy;\n3) dny moczanowej;\n4) nowotworów płuc;\n5) akromegalii.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tylko 4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-3",
+      "question": "Ostra choroba infekcyjna układu oddechowego, wywołana przez RNA wirusy, w której człowiek jest jedynym rezerwuarem wirusa, a zakaźność dla otoczenia występuje 5 dni przed wystąpieniem wysypki oraz 3 dni po jej ustąpieniu to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "mononukleoza zakaźna.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "różyczka.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "rumień nagły.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "choroba bostońska.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "odra.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-4",
+      "question": "Który z parazytów pasożytuje tylko w świetle jelita grubego człowieka:\n1) owsik;\n2) giardioza;\n3) glista ludzka;\n4) tasiemiec uzbrojony;\n5) bruzdogłowiec szeroki.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tylko 1.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-5",
+      "question": "Lekiem z wyboru w leczeniu ostrego niepowikłanego zapalenia oskrzeli jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "amoksycylina.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "amoksycylina z kwasem klawulonowym.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "klarytromycyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "aksetyl cefuroksymu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "leczenie objawowe-bez antybiotykoterapii.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-6",
+      "question": "Do lekarza rodzinnego zgłosił się pacjent z temperaturą powyżej 39°C, dreszczami oraz silnym bólem, trwającym od godzin wieczornych poprzedniego dnia, który pojawił się kilkanaście minut po zjedzonej obfitej kolacji, zlokalizowanym w nadbrzuszu, promieniującym do prawego barku. Pacjent podaje jednorazowy incydent wymiotów oraz nudności. Wskaż przyczynę objawów:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "choroba wrzodowa żołądka.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zapalenie wyrostka robaczkowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "prawostronna kolka nerkowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ostre zapalenie pęcherzyka żółciowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tętniak rozwarstwiający aorty brzusznej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-7",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące czerniaka:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "złośliwy nowotwór wywodzący się najczęściej ze skórnych melanocytów, które uległy złośliwej transformacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "pomocnym narzędziem ułatwiającym kliniczną diagnostykę czerniaka jest skala ABCDE.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "rokowanie jest uzależnione od stopnia zaawansowania choroby.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ryzyko rozwoju kolejnego czerniaka wzrasta ok.10-25-krotnie u osoby, która miała już wcześniej ten nowotwór.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "najlepszą metodą diagnostyczną jest biopsja cienkoigłowa podejrzanej zmiany.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-8",
+      "question": "W których chorobach nowotworowych występuje świąd skóry :\n1) rak płuca;\n2) rak sutka;\n3) rak żołądka;\n4) ziarnica złośliwa;\n5) zespół Sezary'ego.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tylko 1.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-9",
+      "question": "Wskaż szczepionki, które mogą być podawane kobietom w ciąży:\n1) inaktywowana szczepionka przeciwko grypie;\n2) szczepionka przeciwko wirusowemu zapaleniu wątroby typu B;\n3) szczepionka przeciwko krztuścowi, błonicy i tężcowi typu Tdap;\n4) szczepionka przeciwko krztuścowi, błonicy i tężcowi typu DTPw;\n5) szczepionka przeciw gruźlicy.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tylko 1.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-10",
+      "question": "Lekarz rodzinny został wezwany na wizytę domową do 80-letniej pacjentki przez zaniepokojonego dziwnym zachowaniem matki syna: od 2 dni pacjentka nie jest w stanie wypowiedzieć się, dziś nie rozumie co się do Niej mówi, nie wykonuje najprostszych poleceń, a ponadto ma problemy z utrzymaniem równowagi. Wskaż przyczynę tych objawów:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "hipoglikemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "udar mózgu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "guz mózgu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "spadek ciśnienia krwi.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "choroba Alzheimera.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-11",
+      "question": "Do lekarza rodzinnego zgłosił się 66-letni pacjent z powodu uczucia kołatania serca, upośledzonej tolerancji wysiłku oraz zawrotów głowy. Oceniając EKG tego pacjenta lekarz stwierdził arytmie z nieregularnymi odstępami RR, brak widocznych załamków P oraz w odprowadzeniu V1 regularną czynność elektryczną przedsionków. Wskaż przyczynę::",
+      "answers": [
+        {
+          "id": "A",
+          "text": "trzepotanie przedsionków.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "napadowy częstoskurcz przedsionkowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ostry zespół wieńcowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "napadowe migotanie przedsionków.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "komorowe zaburzenia rytmu serca.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-12",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące róży:\n1) czynnikiem patogennym jest paciorkowiec β-hemolizujący;\n2) może być powikłaniem owrzodzeń w przebiegu niewydolności naczyń żylnych;\n3) na twarzy zakażenie zajmuje zwykle policzki i nos, często przyjmując kształt motyla;\n4) lekiem z wyboru jest antybiotykoterapia lekiem o aktywności wobec bakterii gram-ujemnych;\n5) ostre odkłębuszkowe zapalenie nerek jest bardzo często obserwowanym powikłaniem róży.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tylko 1.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-13",
+      "question": "W którym zakażeniu bakteryjnym zastosujesz amoksycyklinę jako lek pierwszego rzutu:\n1) bakteryjne zapalenie gardła lub migdałków;\n2) bakteryjne zapalenie zatok;\n3) niepowikłane zapalenie pęcherza moczowego u kobiet;\n4) ostre odmiedniczkowe zapalenie nerek;\n5) biegunka podróżnych.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tylko 1.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tylko 2.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-14",
+      "question": "Rozpoczęcie postępowania poekspozycyjnego można odłożyć do czasu potwierdzenia wścieklizny u zwierzęcia, o ile zwierzę, które naraziło człowieka nie wykazywało objawów choroby podczas ekspozycji i jest możliwa jego 15-dniowa obserwacja weterynaryjna. Wskaż stwierdzenie, którego dotyczy opis:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zwierząt, które były szczepione przeciwko wściekliźnie i mają udokumentowane szczepienie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wszystkich zwierząt „ domowych”, t.j.: koty, psy, króliki, chomiki, myszki.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "tylko kotów i psów.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "rozpoczęcie postępowania poekspozycyjnego w przypadku podejrzenia wścieklizny należy rozpocząć natychmiast bez zbędnej obserwacji zwierzęcia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "taka obserwacja jest możliwa u każdego zwierzęcia tylko w przypadku oślinienia uszkodzonej skóry, lekkie pogryzienia i zadrapania.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-15",
+      "question": "Natychmiastowe zastosowanie antybiotyku w ostrym zapaleniu ucha środkowego jest zalecane u:\n1) dzieci poniżej 6 miesiąca życia;\n2) dzieci powyżej 2 roku życia, z obustronnym zapaleniem ucha środkowego;\n3) dzieci z wysoką gorączką (>390 C), znacznie nasilonymi dolegliwościami bólowymi i wymiotami;\n4) chorych z wyciekiem ropnym z ucha;\n5) chorych z ograniczonym dostępem do opieki medycznej\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tylko 1.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-16",
+      "question": "U 60-letniej pacjentki, chorującej na chorobę zakrzepowo-zatorową doszło do nagłego pogorszenia stanu zdrowia. Wystąpiły duszności, tachykardii, tachypnoe. Pacjentka prezentuje wyraźny niepokój psychiczny. Wskaż przyczynę:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zaostrzenie choroby niedokrwiennej serca.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "neuralgia nerwu międzyżebrowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zatorowość płucna.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zaostrzenie POChP.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zapalenie płuc.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-17",
+      "question": "Do lekarza rodzinnego zgłosił się uczeń 7 klasy szkoły podstawowej, na badanie bilansowe. Oceniając rozwój płciowy lekarz stwierdził: jądra wyraźnie się powiększają i mają rozmiar około 3,6 cm. Prącie i moszna powiększają się. Włosy łonowe nadal wyrastają głównie w okolicy grzbietu prącia, ale stają się gęste i kręcone. Prawidłowa ocena wg skali Tannera to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "G1,P1.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "G2, P3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "G3, P3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "G4, P4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "G5, P5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-18",
+      "question": "Prawidłowy osad moczu nie powinien zawierać :\n1) kryształków cystyny;\n2) kryształów fosforanu amonowo-magnezowego;\n3) kryształów kwasu moczowego;\n4) kryształów szczawianów wapnia;\n5) kryształów fosforanów wapnia,\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tylko 1.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-19",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące wizyty patronażowej:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "lekarska wizyta patronażowa, u zdrowego, urodzonego o czasie noworodka powinna się odbyć w pierwszych czterech tygodniach jego życia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "lekarska wizyta patronażowa, u wcześniaków powinna się odbyć w ciągu 7 dni od wypisania dziecka ze szpitala.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "lekarska wizyta patronażowa, u noworodka urodzonego o czasie odbywa się w domu noworodka lub w zakładzie opieki zdrowotnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "lekarska wizyta patronażowa u wcześniaków zawsze odbywa się w domu noworodka.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "badanie przedmiotowe w trakcie wizyty patronażowej należy wykonywać w obecności rodziców lub opiekunów noworodka.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-20",
+      "question": "Wskaż cechę, która nie jest charakterystyczna dla POChP:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "postępujący charakter.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zmienność objawów w ciągu dnia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "przewlekła ekspozycja na dym tytoniowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wdechowe ustawienie klatki piersiowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "utrata masy ciała.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-21",
+      "question": "21-dniową antybiotykoterapię zastosujesz w przypadku zapalenia płuc wywołanego przez:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Streptococcus pneumoniae.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Legionella pneumophila.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Mycoplasma pneumoniae.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Chlamydia pneumoniae.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Haemophilus influenzae.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-22",
+      "question": "Typowy obraz elektrokardiograficzny ostrego zawału serca to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "uniesienie odcinka ST w punkcie J, w dwóch sąsiadujących odprowadzeniach, o 2 mm w V1-V3 lub o 1 mm w pozostałych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "uniesienie odcinka ST w punkcie J, w dwóch sąsiadujących odprowadzeniach , o 2 mm w V4-V6 lub o 1 mm w pozostałych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zmiana morfologii odcinka ST w punkcie J (obniżenie lub uniesienie).",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "świeży blok prawej odnogi pęczka Hisa.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "prawdziwe są odpowiedzi A i D.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-23",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące wartości parametrów morfologii krwi:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "w rozmazie krwi obwodowej, u niemowlęcia przeważają limfocyty.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "w rozmazie krwi obwodowej, u dzieci przeważają neutrofile.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "najwyższe fizjologicznie wartości leukocytów obserwuje się u noworodka w drugim tygodniu życia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "najniższe wartości hemoglobiny i hematokrytu występują u niemowląt.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "najwyższe wartości płytek krwi występują u niemowląt.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-24",
+      "question": "W którym przypadku lekarz rodzinny stosując profilaktykę przeciwtężcową zastosuje 3 dawkowy schemat szczepienia?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "historia szczepień niepewna, brak dokumentacji, ryzyko wystąpienia tężca niskie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "historia szczepień niepewna, brak dokumentacji, ryzyko wystąpienia tężca wysokie.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ostatnia dawka szczepionki powyżej 10 lat temu, ryzyko wystąpienia tężca wysokie.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ostatnie szczepienie 5-10 lat temu, ryzyko wystąpienia tężca wysokie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ostatnia dawka szczepienia 1-5 lat temu, ryzyko wystąpienia tężca niskie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-25",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące szpiczaka plazmocytowego:\n1) typowym objawem szpiczaka plazmocytowego jest ból kości, szczególnie okolicy lędźwiowej, żeber, dobrze reagujący na niesteroidowe leki przeciwzapalne;\n2) trzycyfrowe OB oraz obecność białka M w surowicy i moczu są typowe dla szpiczaka plazmocytowego;\n3) typowy dla szpiczaka plazmocytowego jest zwiększony odsetek plazmocytów monoklonalnych w trepanobiopsji;\n4) chorzy z otyłością w trakcie terapii talidomidem powinni otrzymywać leczenie profilaktyczne przeciwko żylnej chorobie zakrzepowo-zatorowej;\n5) występuje głównie u młodych dorosłych.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,2,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-26",
+      "question": "Wskaż fałszywe stwierdzenia dotyczące chorób nowotworowych:\n1) spożycie 10-20 gram dziennie alkoholu jest uznanym czynnikiem ryzyka wystąpienia raka wątrobowokomórkowego i dróg żółciowych;\n2) do profilaktyki wtórnej raka jelita grubego zalicza się wykonywanie rektosigmoidoskopii co 10 lat;\n3) bezobjawowa hiperkalcemia pogarsza rokowanie u chorego na nowotwór;\n4) sensowność wykonywania badań obrazowych lub badań krwi w profilaktyce chorób nowotworowych u chorych bezobjawowych jest niewielka;\n5) pojawienie się gorączki u chorych leczących się cytostatykami wymaga wykonania pilnej morfologii krwi.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "3,4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-27",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące choroby rozrostowej krwi:\n1) w przypadku przewlekłej białaczki szpikowej w 50% stwierdza się obecność chromosomu Philadelfia;\n2) guz śródpiersia nigdy nie powoduje zespołu żyły głównej górnej;\n3) mediana rozpoznania ostrej białaczki szpikowej to 57 rok życia;\n4) ambulatoryjne wykonywanie morfologii krwi i USG jamy brzusznej, u dziecka z podejrzeniem ostrej białaczki szpikowej może opóźnić rozpoznanie;\n5) konieczne do rozpoznania ostrej białaczki szpikowej jest stwierdzenie minimum 20% komórek blastycznych w rozmazie krwi i/lub szpiku.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-28",
+      "question": "Wskaż objawy, które mogą towarzyszyć rakowi drobnokomórkowemu płuc:\n1) ból barku w guzie Pancosta;\n2) zespół Lamberta-Eatona;\n3) zespół Cushinga;\n4) ubytek masy ciała;\n5) rogowacenie ciemne.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-29",
+      "question": "Stopień III, w skali TNM, w raku żołądka oznacza:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "guz naciekający błonę podśluzową, bez przerzutów odległych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "guz naciekający otrzewną z obecnością przerzutów odległych.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "guz naciekający warstwę mięśniową, bez przerzutów odległych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "guz naciekający warstwę mięśniową z obecnością przerzutów odległych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "guz naciekający błonę podśluzowa z obecnością przerzutów odległych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-30",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące raków skóry:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "rak podstawnokomórkowy zazwyczaj rozwija się przed 40 rokiem życia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "rak kolczystokomórkowy jest najczęściej występującym rakiem skóry.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "rak podstawnokomórkowy charakteryzuje się szybkim wzrostem i łatwością w krwawieniu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "szczególnie narażeni na rozwój czerniaka złośliwego są pacjenci z licznymi znamionami i z historią oparzenia II stopnia w dzieciństwie.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "najbardziej złośliwą formą czerniaka jest postać rozwijająca się ze złośliwej plamy soczewicowatej.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-31",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące raka drobnokomórkowego płuc:\n1) podwyższenie wskaźnika dehydrogenazy mleczanowej jest złym wskaźnikiem rokowniczym;\n2) pojawienie się wymiotów kilka dni po zastosowaniu leczenia jest charakterystyczne dla chemioterapeutyków stosowanych w trakcie leczenia raka drobnokomórkowego płuc;\n3) leczenie operacyjne jest preferowaną metodą leczenia;\n4) zdjęcie RTG to najskuteczniejsza metoda obrazowania odpowiedzi na chemioterapię;\n5) guz w przypadku raka drobnokomórkowego płuc może być czynny neuroendokrynnie.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,2,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-32",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące fibroadenoma piersi:\n1) objawem odróżniającym fibroadenoma od ropnia będzie np. objaw chełbotania typowy dla zmiany ropnej;\n2) guz piersi powinien być oceniony według 5-stopiowej skali Birads;\n3) ujemny wynik BAC wyklucza obecność raka;\n4) późna menarche zwiększa ryzyko wystąpienia fibroadenoma;\n5) klinicznie jest trudny do odróżnienia od guza liściastego piersi.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-33",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące profilaktyki raka szyjki macicy:\n1) szczepionka Cervarix jest refundowana po ukończeniu 9 roku życia;\n2) przyjęcie schematu jednodawkowego daje porównywalną skuteczność do schematu dwudawkowego;\n3) dzieci po ukończeniu 15 roku życia powinny przyjąć schemat 3-dawkowy;\n4) u dzieci między 9-14 rokiem życia jeżeli między 1 a 2 dawką odstęp wynosił mniej niż 5 miesięcy, zawsze należy podać 3 dawkę;\n5) kobiet w ciąży nie należy szczepić szczepionką Cervix.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-34",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące bólu i jego możliwej przyczyny:\n1) ból w nocy – ból nowotworowy;\n2) ból zmniejszający się w pozycji siedzącej i stojącej, zwiększający w leżącej, z uczuciem ciasnoty w brzuchu – kompresyjne złamanie trzonów kręgowych;\n3) ból zwiększający się w pozycji siedzącej – stenoza kanału kręgowego;\n4) ból pojawiający się przy kaszlu – przepuklina jądra miażdżystego;\n5) ból zmniejszający się w pozycji siedzącej – stenoza kanału kręgowego.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-35",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące parazytozy wywołanej owsikiem ludzkim:\n1) w jelicie grubym dochodzi do zmian nieżytowych mogących wywoływać zapalenie wyrostka robaczkowego;\n2) najczęstszymi objawami są świąd w okolicy odbytu, ból brzucha i nadmierna pobudliwość ruchowa;\n3) w leczeniu farmakologicznym stosuje się pyrantel w dawce 10 mg/kg m.c. w dawce jednorazowej nie przekraczając dawki maksymalnej 2g;\n4) do zakażenia dochodzi drogą pokarmową przez połknięcie jaj unoszących się w kurzu domowym;\n5) może dochodzić do autoendoinwazji zwłaszcza u osób z zaparciami.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-36",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące antybiotykoterapii w gabinecie lekarza rodzinnego:\n1) u osób dorosłych z pozaszpitalnym zapaleniem płuc, o łagodnym przebiegu, lekiem pierwszego rzutu jest cefuroksym;\n2) u dziecka 2 miesięcznego z podejrzeniem zapalenia płuc możliwym czynnikiem etiologicznym jest Chlamydia Trachomatis;\n3) jednym z czynników niekorzystnych rokowniczych w leczeniu pozaszpitalnym w skali CRUB-65 jest liczba oddechów powyżej 30;\n4) u osób starszych pozaszpitalne zapalenie płuc może przebiegać bez gorączki, ale z zaburzeniami świadomości;\n5) w przypadku zakażenia patogenami atypowymi może pojawić się świszczący oddech.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-37",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące gruźlicy w Polsce:\n1) w przypadku chorych na gruźlicę, przewlekle prątkujących, leczenie prowadzi się zgodnie z antybiogramem;\n2) w przypadku gruźlicy noworozpoznanej schemat terapeutyczny zaczyna się od 2 leków;\n3) leczenie gruźlicy prosówkowej trwa minimum 18 miesięcy;\n4) gruźlica pierwotna zazwyczaj dotyczy dzieci;\n5) objawy to najczęściej gorączka, nocne poty, najpierw suchy kaszel, a następnie produktywny.\nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-38",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące witaminy D3:\n1) pokarmy bogate w witaminę D3 to np. węgorz świeży, sardynki, żółtko jajka kurzego, ser;\n2) suplementację witaminą D3 wprowadza się od pierwszych dni życia, u noworodka donoszonego, w dawce 400 jm./24 h;\n3) niedobór witaminy D jest czynnikiem ryzyka rozwoju między innymi depresji, choroby Alzheimera, stwardnienia rozsianego;\n4) dieta wegetariańska jest jednym z czynników ryzyka niedoboru witaminy D;\n5) suplementacja witaminy D3 obniża ryzyko zachorowania na cukrzycę typu I. \nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-39",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące nadciśnienia tętniczego:\n1) nadciśnienie tętnicze II stopnia jest rozpoznawane przy ciśnieniu skurczowym o wartości 160-179 mm Hg;\n2) przeciwskazaniem do stosowania diuretyków tiazydowych jest dna moczanowa;\n3) lekami hipotensyjnymi preferowanymi u pacjenta z rozpoznaną cukrzycą i białkomoczem są inhibitory konwertazy angiotensyny lub antagoniści receptora angiotensyny;\n4) chorzy na astmę nie powinni być leczeni beta-adrenolitykami niekardioselektywnymi;\n5) u osób powyżej 80 roku życia z wyjściowym ciśnieniem tętniczym skurczowym >160, lekarz rodzinny będzie dążył do obniżenia ciśnienienia tętniczego skurczowego do 140-150 mm Hg. \nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-40",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące zawału serca:\n1) ból uciskający za mostkiem, mogący promieniować do prawej ręki lub żuchwy jest typowy dla zawału serca;\n2) u osób po 75 roku życia zawał serca może manifestować się jak ból w nadbrzuszu bez uchwytnej przyczyny;\n3) troponiny nie umożliwiają różnicowania między NSTEMI i niestabilną dławicą piersiową;\n4) lekarz rodzinny po wykonaniu EKG i stwierdzeniu zawału serca powinien podać pacjentowi kwas acetylosalicylowy w dawce 125-325 mg, przed przyjazdem pogotowia ratunkowego;\n5) osłuchowo, ostrej niewydolności lewej komory serca, mogą towarzyszyć rzężenia. \nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-41",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące pokrzywki:\n1) do metod diagnostycznych zaliczamy próby wysiłkowe, wibracyjne, świetlne;\n2) w przypadku przewlekłej pokrzywki spontanicznej należy oznaczyć stężenie hormonów tarczycy;\n3) w zaostrzeniach możemy stosować krótkotrwałą glikokortykoterapię systemową (CRUSH Therapy);\n4) u kobiet w ciąży nie stosuje się glikokortykosteroidów systemowych;\n5) w przypadku utrzymujących się zmian można zastosować leczenie biologiczne. \nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-42",
+      "question": "Wskaż prawdziwe stwierdzenia dotyczące gorączek u dziecka w gabinecie POZ:\n1) gorączka oporna na leczenie lekami przeciwgorączkowymi oraz antybiotykami jest typowa dla Choroby Kawasakiego;\n2) u noworodków dopuszczalne jest przeprowadzenie pomiaru temperatury umieszczając termometr elektroniczny pod pachą;\n3) termometry skroniowe nie powinny być wykorzystywane przy podejmowaniu decyzji klinicznych;\n4) ochładzanie dziecka z wysoką gorączką nie jest zalecane ponieważ jest mało skuteczne;\n5) u dziecka z gorączką i wysypką nieblednąca pod wpływem ucisku np. w teście szklanki powinna nasunąć podejrzenie posocznicy meningokokowej. \nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-43",
+      "question": "Najczęstszą chorobą przewlekłą wśród populacji pacjentów dorosłych w gabinecie lekarza rodzinnego jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "przewlekła choroba niedokrwienna serca.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zmiany zwyrodnieniowe kręgosłupa.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "cukrzyca insulinoniezależna.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "nadciśnienie tętnicze pierwotne.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nadciśnienie tętnicze wtórne.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-44",
+      "question": "Wskaż możliwą przyczynę wzrostu parametru płytek krwi w badaniu morfologii:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zakażanie HIV.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "cytostatyki.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "alkohol etylowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "odra.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "splenektomia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-45",
+      "question": "Wskaż czynniki pogarszające rokowanie wyleczenia raka podstawnokomórkowego:\n1) średnica guza powyżej 1 cm;\n2) średnica guza powyżej 2 cm;\n3) lokalizacja na skórze owłosionej głowy;\n4) lokalizacja w strefie H;\n5) lokalizacja na wewnętrznej stronie dłoni i stóp. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,3,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-46",
+      "question": "Objaw Hutchinsona (zajęcie wałów paznokciowych) jest charakterystyczny dla:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "postaci akralnej czerniaka.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "postaci bezbarwnikowej raka skóry.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "raka podstawnokomórkowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "znamion barwnikowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "znamion dysplastycznych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-47",
+      "question": "Incydentaloma to przypadkowo stwierdzone:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nadciśnienie tętnicze.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "hipertrójglicerydemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "guz nadnerczy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "guz tarczycy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "guz przysadki.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-48",
+      "question": "W obrazie klinicznym raka nerki mogą występować następujące cechy zespołu paranowotworowego:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "gorączka, erytrocytoza, niedokrwistość, hipokalcemia, nadciśnienie tętnicze.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "gorączka, erytrocytoza, niedokrwistość, hiperkalcemia, nadciśnienie tętnicze.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "gorączka, erytrocytoza, niedokrwistość, hipokalemia, nadciśnienie tętnicze.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "gorączka, erytrocytoza, niedokrwistość, hiperkalemia, nadciśnienie tętnicze.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "gorączka, erytrocytoza, niedokrwistość, hiponatremia, nadciśnienie tętnicze.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-49",
+      "question": "Do objawów zespołów paranowotworowych w raku płuca nie zalicza się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zespółu Cushinga.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zespołu hiperkalcemicznego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zespółu nadmiernego wydzielania wazopresyny (SIADH).",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zespółu DIC.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "zespółu Zollingera i Ellisona.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-50",
+      "question": "Wskaż czynniki rozwoju raka przełyku:\n1) palenie papierosów i alkohol;\n2) rak głowy i szyi w wywiadzie;\n3) oparzenia przełyku;\n4) zespół Plummera-Vinsona;\n5) zespół Zollingera-Ellisona. \nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "3,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-51",
+      "question": "Do późnych powikłań raka żołądka, mogących być także jego pierwszymi objawami nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wodobrzusze.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nudności i odbijanie.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "niedrożność przewodu pokarmowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "krwawienie z przewodu pokarmowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żółtaczka.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-52",
+      "question": "W diagnostyce różnicowej raka jelita grubego należy brać pod uwagę takie choroby jak:\n1) uchyłkowatość;\n2) zapalenie jelita grubego;\n3) guzy krwawnicze;\n4) inne nowotwory. \nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tylko 3.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tylko 4.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-53",
+      "question": "Do nowotworów złośliwych wątroby zalicza się: A. rak wątrobowokomórkowy (HCC), rak wewnątrzwątrobowych dróg żółciowych\n(CCC), gruczolak. B. rak wątrobowokomórkowy (HCC), rak wewnątrzwątrobowych dróg żółciowych\n(CCC), przerzuty nowotworowe. C. rak wątrobowokomórkowy (HCC), rak wewnątrzwątrobowych dróg żółciowych\n(CCC), ogniskowy rozrost guzkowy (FNH).",
+      "answers": [
+        {
+          "id": "A",
+          "text": "rak wątrobowokomórkowy (HCC), rak wewnątrzwątrobowych dróg żółciowych (CCC), gruczolak.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "rak wątrobowokomórkowy (HCC), rak wewnątrzwątrobowych dróg żółciowych (CCC), przerzuty nowotworowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "rak wątrobowokomórkowy (HCC), rak wewnątrzwątrobowych dróg żółciowych (CCC), ogniskowy rozrost guzkowy (FNH).",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "rak wątrobowokomórkowy (HCC), ogniskowy rozrost guzkowy (FNH), gruczolak.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "rak wątrobowokomórkowy (HCC), przerzuty nowotworowe, gruczolak.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-54",
+      "question": "W diagnostyce różnicowej zatorowości płuc należy uwzględnić:\n1) choroby płuc (astma, POCHP, zapalenie płuc i opłucnej, ARDS);\n2) choroby układu sercowo-naczyniowego (ostry zespół wieńcowy, niewydolność serca);\n3) neuralgię nerwu międzyżebrowego;\n4) wstrząs kardiogenny;\n5) zespół Brugadów. \nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "1,3,4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-55",
+      "question": "Nadciśnienie tętnicze oporne można rozpoznać u pacjenta, u którego pomimo wprowadzenia modyfikacji stylu życia oraz zastosowania następujących grup leków hipotensyjnych nie uzyskano docelowych wartości ciśnienia tętniczego:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "beta-adrenolityk, ACEI, antagonista kanału wapniowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ACEI, diuretyk, antagonista kanału wapniowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ACEI, antagonista receptora angiotensynowego, antagonista kanału wapniowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "beta-adrenolityk, ACEI, antagonista receptora angiotensynowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żadna z powyższych odpowiedzi.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-56",
+      "question": "Wskaż objawy kliniczne mogące wskazywać niedoczynność tarczycy:\n1) nerwowość, niepokój, problemy ze snem;\n2) spowolnienie, osłabienie, nadmierna senność;\n3) utrata ciężaru ciała, mimo wzmożonego apetytu;\n4) umiarkowany wzrost masy ciała;\n5) uczucie gorąca i nadmierną potliwość;\n6) suchość oraz szorstkość skóry. \nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "2,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,3,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,4,6.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-57",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące metod leczenia zespołu jelita nadwrażliwego:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "stosuje się leki przeczyszczające o działaniu osmotycznym.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "stosuje się duże dawki witaminy D.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "stosuje się leki psychotropowe mające dodatkowo działanie cholinolityczne.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "stosuje się rifaksyminę.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "stosuje się probiotyki.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-58",
+      "question": "W leczeniu glistnicy stosuje się następujące leki:\n1) metronidazolu, w dawce 750-1500 mg/dobę, w 3 dawkach przez 5-10 dni;\n2) tymidazol, u dzieci powyżej 12 roku życia i dorosłych 2 g jednorazowo;\n3) pyrantel, w dawce jednorazowej 10 mg/kg m.c.;\n4) mebendazol, w dawce 100 mg, 2 razy dziennie przez 3 dni;\n5) albendazol jednorazowo 400 mg. \nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-59",
+      "question": "W postępowaniu leczniczym, w krótkotrwałym wysiękowym zapaleniu ucha środkowego zaleca się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "obserwację około 3-6 miesięcy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "obserwację nie dłużej niż 1 miesiąc.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "antybiotyk.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "donosowy glikokortykosteroid.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "leki przeciwhistaminowe.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-60",
+      "question": "Zapalenie oskrzelików to choroba infekcyjna dróg oddechowych, której towarzyszy świszczący oddech o etiologii:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wirusowej, pojawiająca się u dzieci do 2. roku życia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "mieszanej, pojawiająca się u dzieci do 2. roku życia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wirusowej, pojawiająca się u niemowląt.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "mieszanej, pojawiająca się u niemowląt.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "nieznanej, pojawiająca się u dzieci do 2. roku życia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-61",
+      "question": "Antybiotykiem z wyboru w leczeniu bakteryjnego zapalenia zatok jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "amoksycylina w dawce dla dorosłych 1,5-2,0 g, podzielona na 2 dawki, podawana przez 7-10 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "amoksycylina w dawce dla dorosłych 1,5-2,0 g, podzielona na 2 dawki, podawana przez 10-14 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "amoksycylina z kwasem klawulanowym w dawce dla dorosłych 2,0 g, podzielona na 2 dawki, podawana przez 7 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "cefuroksym w dawce dla dorosłych 1,0 g podzielony na 2 dawki, podawany przez 5 dni.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "cefuroksym w dawce dla dorosłych 1,0 g, podzielony na 2 dawki, podawany przez 7 dni.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-62",
+      "question": "Lekami z wyboru w leczeniu krztuśca są:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "amoksycylina, doksycyklina klarytromycyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "cefuroksym, amoksycylina, doksycyklina.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "cefuroksym, doksycyklina, erytromycyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "azytromycyna, klarytromycyna, erytromycyna.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "amoksycylina, azytromycyna, doksycyklina.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-63",
+      "question": "Nietypowe lub pozaprzełykowe objawy choroby refluksowej przełyku to:\n1) bóle gardła;\n2) bezgłos;\n3) świszczący oddech;\n4) bóle w klatce piersiowej;\n5) zapalenie dziąseł. \nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tylko 4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "żadna z wymienionych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-64",
+      "question": "W leczeniu nietrzymania moczu u seniorów znajdują zastosowanie następujące grupy leków:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "antycholinergiczne, preparaty estrogenowe, antagoniści receptorów adrenergicznych, koanalgetyki.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "preparaty estrogenowe, inhibitory wychwytu zwrotnego serotoniny i noradrenaliny, antagoniści receptorów adrenergicznych, konalgetyki.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "antycholinergiczne, inhibitory wychwytu zwrotnego serotoniny i noradrenaliny, antagoniści receptorów adrenergicznych, konalgetyki.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "antycholinergiczne, preparaty estrogenowe, inhibitory wychwytu zwrotnego serotoniny i noradrenaliny, koanalgetyki.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "antycholinergiczne, preparaty estrogenowe, inhibitory wychwytu zwrotnego serotoniny i noradrenaliny, antagoniści receptorów adrenergicznych.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-65",
+      "question": "Gradówka to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "zapalenie tylnych brzegów powiek.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "zakażenie nużeńcem.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zapalenie gruczołów tarczkowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zapalenie gruczołu łojowego Meiboma.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "ostre zapalenie gruczołów łojowych w obrębie powiek.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-66",
+      "question": "Zapalenie nerwu wzrokowego należy podejrzewać, gdy pacjent zgłasza następujące objawy:\n1) nagłe i postępujące zaburzenia widzenia w jednym oku;\n2) nagłe i postępujące zaburzenia widzenia obuoczne;\n3) zaburzenia widzenia barw – zwłaszcza czerwonej i zielonej;\n4) zaburzenia widzenia barw – zwłaszcza żółtej i niebieskiej;\n5) obraz jasnej plamy w centralnym polu widzenia;\n6) ból przy poruszaniu gałką oczną. \nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,3,4,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,3,5,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,4,5,6.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,3,5,6.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-67",
+      "question": "Wskaż czynniki predykcyjne raka jajnika:\n1) niepłodność, mała liczba przebytych ciąż;\n2) nosicielstwo mutacji BRCA1;\n3) nosicielstwo mutacji BRCA2;\n4) ponad 5-letnie stosowanie estrogenowej terapii zastępczej;\n5) ponad 10-letnie stosowanie estrogenowej terapii zastępczej. \nPrawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "2,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-68",
+      "question": "Wskaż objawy raka jądra:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "guz, zgrubienie, ginekomastia, przedwczesne dojrzewanie płciowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "guz, zgrubienie, ginekomastia, opóźnione dojrzewanie płciowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zgrubienie, ból, ginekomastia, opóźnione dojrzewanie płciowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zgrubienie, ból, ginekomastia, obrzęk najądrza.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "guz, zgrubienie, ból, obrzęk najądrza.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-69",
+      "question": "Do opioidów II stopnia drabiny analgetycznej zalicza się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kodeinę, tramadol, fentanyl, metadon.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "tramadol, oksykodon, metadon, buprenorfinę.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "dihydrokodeinę, kodeinę, tramadol, małe dawki morfiny.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "dihydrokodeinę, małe dawki morfiny, tramadol, buprenorfinę.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "małe dawki morfiny, tramadol, metadon, kodeinę.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-70",
+      "question": "Wskaż przeciwskazania do zabiegów fizjoterapii:\n1) u pacjentów z rozpoznaną chorobą nowotworową zabiegi w rejonie ogniska nowotworowego;\n2) u pacjentów z rozrusznikiem serca przeciwskazane są zabiegi z zastosowaniem prądu;\n3) u pacjentów z pompą insulinową są przeciwskazane wszystkie zabiegi;\n4) u kobiet w I trymestrze ciąży jest przeciwskazana kinezyterapia;\n5) u kobiet w II trymestrze ciąży przeciwskazana jest krioterapia. Prawdziwe stwierdzenia to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "1,2,3,4.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "4,5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "rod-2-71",
+      "question": "Skala MMSE (mini mental state examination) pozwala na ocenę:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "orientacji, pamięci, liczenia koncentracji, uwagi, funkcji językowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "orientacji, złożonych czynności dnia codziennego, koncentracji.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "orientacji, złożonych czynności dnia codziennego, liczenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "pamięci, oceny stanu emocjonalnego, funkcji językowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "pamięci, koncentracji , oceny stanu emocjonalnego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    }
+  ]
+}
