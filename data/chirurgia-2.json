@@ -22,7 +22,7 @@
         {
           "id": "C",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -46,7 +46,7 @@
         {
           "id": "A",
           "text": "1,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -95,7 +95,7 @@
         {
           "id": "D",
           "text": "2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -124,7 +124,7 @@
         {
           "id": "C",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -158,7 +158,7 @@
         {
           "id": "C",
           "text": "1,2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -187,7 +187,7 @@
         {
           "id": "B",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -226,7 +226,7 @@
         {
           "id": "C",
           "text": "1,2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -265,7 +265,7 @@
         {
           "id": "D",
           "text": "krwiak podtorebkowy >50% powierzchni, pęknięty lub śródmiąższowy >5cm lub powiększający się.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -299,7 +299,7 @@
         {
           "id": "D",
           "text": "chalazja.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -323,7 +323,7 @@
         {
           "id": "B",
           "text": "biegunka.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -372,7 +372,7 @@
         {
           "id": "E",
           "text": "raka odbytnicy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -401,7 +401,7 @@
         {
           "id": "D",
           "text": "esofagostomia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -425,7 +425,7 @@
         {
           "id": "B",
           "text": "1,2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -469,7 +469,7 @@
         {
           "id": "D",
           "text": "1,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -498,7 +498,7 @@
         {
           "id": "C",
           "text": "1,2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -522,7 +522,7 @@
         {
           "id": "A",
           "text": "zespolenie omijające żołądka.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -566,7 +566,7 @@
         {
           "id": "C",
           "text": "trzustki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -605,7 +605,7 @@
         {
           "id": "D",
           "text": "klasyfikacji nasilenia stanu zapalnego choroby uchyłkowej jelit.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -644,7 +644,7 @@
         {
           "id": "E",
           "text": "prawidłowe są odpowiedzi A i C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -678,7 +678,7 @@
         {
           "id": "E",
           "text": "stopnia zaawasowania raka jelita grubego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -692,7 +692,7 @@
         {
           "id": "A",
           "text": "drenaż ssący jamy opłucnej oraz antybiotykoterapia na podstawie posiewu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -726,7 +726,7 @@
         {
           "id": "A",
           "text": "guz przekracza ścianę jelita.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -780,7 +780,7 @@
         {
           "id": "E",
           "text": "prawidłowa są odpowiedzi A i D.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -809,7 +809,7 @@
         {
           "id": "D",
           "text": "krwawienie z górnego odcinka przewodu pokarmowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -843,7 +843,7 @@
         {
           "id": "D",
           "text": "przewlekła niewydolność nerek.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -862,7 +862,7 @@
         {
           "id": "A",
           "text": "polipy hiperplastyczne.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -896,7 +896,7 @@
         {
           "id": "A",
           "text": "silny ból w okolicy podżebrowej prawej (kolka żółciowa), żółtaczka i gorączka z dreszczami.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -930,7 +930,7 @@
         {
           "id": "A",
           "text": "niedobór jodu i związana z tym endemia wola sprzyja częstszemu występowaniu raka brodawczakowatego tarczycy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -964,7 +964,7 @@
         {
           "id": "A",
           "text": "utajone krwawienie z dolnego odcinka przewodu pokarmowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1013,7 +1013,7 @@
         {
           "id": "D",
           "text": "niedrożności mechanicznej jelit.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1042,7 +1042,7 @@
         {
           "id": "C",
           "text": "duszność, ból, bębenkowy odgłos opukowy, brak szmeru pęcherzykowego, wdechowe ustawienie chorej połowy klatki piersiowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1076,7 +1076,7 @@
         {
           "id": "C",
           "text": "xylocaina, bupiwakaina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1115,7 +1115,7 @@
         {
           "id": "D",
           "text": "choroba Leśniowskiego-Crohna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1144,7 +1144,7 @@
         {
           "id": "C",
           "text": "somatyczny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1173,7 +1173,7 @@
         {
           "id": "B",
           "text": "całkowitym żywieniu parenteralnym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
