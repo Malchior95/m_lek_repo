@@ -1,0 +1,995 @@
+{
+  "name": "pediatria-2",
+  "tags": [
+    "pediatria",
+    "2023"
+  ],
+  "questions": [
+    {
+      "id": "ped-2-1",
+      "question": "Test odwracalności obturacji (próba bronchodilatacyjna) polega na podaniu:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "krótko działającego beta-2 mimetyku i oznaczeniu FEV1 w badaniu krzywej przepływ-objętość.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "szybko działającego beta-adrenolityku i oznaczeniu FEV1 w badaniu krzywej przepływ-objętość.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "budesonidu i oznaczeniu FVC w badaniu krzywej przepływ-objętość.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "antyleukotrienu i oznaczeniu PEF w badaniu krzywej przepływ-objętość.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "salbutamolu i oznaczeniu FVC w badaniu krzywej przepływ-objętość.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-2",
+      "question": "Dodatni wynik próby odwracalności obturacji oskrzeli oznacza:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wzrost FVC o minimum 5% po podaniu wziewnego sterydu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wzrost FEV1 o minimum 12% po leku bronchodilatacyjnym.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wzrost PEF o 20% po budesonidzie wziewnym.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wzrost MEF50 o 40% po podaniu salbutamolu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "spadek FEV1 o 15% po podaniu leku antycholinergicznego.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-3",
+      "question": "Czynnikiem etiologicznym podgłośniowego zapalenia krtani u dzieci w wieku przedszkolnym jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Haemophilus influenzae.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Streptococcus pneumoniae.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wirusy paragrypy, grypy i adenowirusy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Mycoplasma pneumoniae.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Streptococcus agalactiae.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-4",
+      "question": "Do najczęstszych czynników etiologicznych zapaleń płuc u noworodków zalicza się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wirusy grypy i adenowirusy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "rinowirusy.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "paciorkowce z grupy B, Enterobacteriaceae.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Mycoplasma pneumoniae.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Chlamydia pneumoniae.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-5",
+      "question": "Do kryteriów większych, wg Hanifina i Rajki, w rozpoznawaniu atopowego zapalenia skóry u dzieci nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "świąd.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "przewlekły i nawrotowy przebieg choroby.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "typowe umiejscowienie zmian skórnych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "biały dermografizm.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "atopia u pacjenta lub w wywiadzie rodzinnym.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-6",
+      "question": "W leczeniu umiarkowanego zaostrzenia astmy oskrzelowej u 7-letniego dziecka jako lek pierwszego rzutu stosuje się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "formoterolu.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "salbutamolu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "salmeterolu.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "encortonu.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "amoksycyliny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-7",
+      "question": "Leczeniem z wyboru zapalenia płuc o etiologii Chlamydia pneumoniae u 8-letniego dziecka jest zastosowanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tetracyklin.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "amoksycyliny.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "antybiotyków makrolidowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wziewnych glikokortykosteroidów.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "cefalosporyny drugiej generacji.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-8",
+      "question": "Leczeniem pierwszego rzutu ostrego zapalenia gardła i migdałków wywołanego przez Streptococcus pyogenes jest zastosowanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tetracyklin doustnie.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "amoksycyliny dożylnie.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "antybiotyków makrolidowych.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "wziewnych glikokortykosteroidów.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "fenoksymetylpenicyliny doustnie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-9",
+      "question": "Leczeniem z wyboru ostrego bakteryjnego zapalenia ucha środkowego u dzieci jest zastosowanie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "tetracyklin.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "amoksycyliny.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "linkozamidów.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "dustnych glikokortykosteroidów.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "fenoksymetylpenicyliny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-10",
+      "question": "W leczeniu wstrząsu anafilaktycznego u dziecka jako lek pierwszego rzutu należy podać:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "adrenalinę w dawce 0,01 mg/kg m.c. domięśniowo w mięsień naramienny.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "adrenalinę w dawce 0,001 mg/kg m.c. domięśniowo w boczną powierzchnię mięśnia czworogłowego uda.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "adrenalinę w dawce 0,01 mg/kg m.c. domięśniowo w przednio-boczną powierzchnię mięśnia czworogłowego uda.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "adrenalinę w dawce 0,001 mg/kg m.c. domięśniowo w mięsień naramienny.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "hydrocortison w dawce 5 mg doustnie.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-11",
+      "question": "U 5-letniego, wcześniej zdrowego chłopca pojawiły się obrzęki powiek, które przez 2 tygodnie leczone były przez lekarza pierwszego kontaktu jako obrzęki alergiczne. Po bezskutecznej terapii dziecko zgłosiło się ponownie. W czasie badania przedmiotowego stwierdzono: temperatura ciała – 36,5°C, czynność serca – 90/min., RR – 90/55mmHg, twarz wyraźnie obrzęknięta, ciastowate obrzęki na grzbiecie stóp i podudzi. W badaniu ogólnym moczu: białko – 4,5 g/l, cg. 1030. Stężenie albumin w surowicy – 10 g/l, cholesterolu – 320 mg/dl. Co należy podejrzewać?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "idiopatyczny zespół nerczycowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "ostre kłebuszkowe zapalenie nerek.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "ostre odmiedniczkowe zapalenie nerek.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "zakrzep żyły nerkowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "obrzęk naczynioruchowy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-12",
+      "question": "Badanie przesiewowe noworodków w kierunku wrodzonej pierwotnej niedoczynności tarczycy polega na:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "oznaczeniu stężenia T4 w surowicy krwi.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "oznaczeniu stężenia T3 i T4 w osoczu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "oznaczeniu stężenia TSH w suchej kropli krwi.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "oznaczeniu TSH i fT3.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "u noworodków nie wykonuje się badań przesiewowych w kierunku pierwotnej niedoczynności tarczycy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-13",
+      "question": "W rozpoznaniu atopowego zapalenia skóry kryteria większe (podstawowe) to:\n1) świąd;\n2) przewlekły i nawrotowy przebieg choroby;\n3) charakterystyczna lokalizacja i charakter zmian skórnych;\n4) podwyższone stężenie IgE w surowicy;\n5) eozynofilia we krwi obowodowej. Prawidłowa odpowiedź to:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wszystkie wymienione.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "1,2,3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "tylko 5.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-14",
+      "question": "Lekami pierwszego rzutu w przewlekłym leczeniu astmy oskrzelowej u dzieci powyżej 5 roku życia jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kortykosteroid wziewny w niskich dawkach.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "krótko działający betaadrenolityk.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "teofilina.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "doustne glikokortykosteroidy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "leki przeciwhistaminowe.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-15",
+      "question": "Typowe dla rozpoznania zespołu Wiskott-Aldricha są następujące cechy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "dziewczynka, nawracające ropnie skórne, upośledzenie funkcji neutrofili.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "dysmorfia twarzy, niedobór masy i wzrostu, niedobór podklas IgG.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "chłopiec, małopłytkowość, atopowe zapalenie skóry, uporczywe zakażenia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "dysmorfia twarzy, wrodzona wada serca, tężyczka, brak lub niedorozwój grasicy.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "niedorozwój umysłowy, nadpłytkowość, niedokrwistość megaloblastyczna.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-16",
+      "question": "Powiększanie się węzłów chłonnych w chłoniaku Hodgkina typowo postępuje:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "wolno – wywiad chorobowy jest zwykle długi.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "gwałtownie – zmiany węzłowe mogą powiększyć się dwukrotnie w ciągu kilkunastu godzin.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "u małych dzieci szybko, a u młodzieży wolno.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "u małych dzieci wolno, a u młodzieży szybko.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "w chłoniaku Hodgkina węzły chłonne są rzadko powiększone.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-17",
+      "question": "Typowym, pierwotnym umiejscowieniem chłoniaka limfoblastycznego z linii T są:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "węzły chłonne krezkowe.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "węzły chłonne śródpiersia i grasica.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "skóra i tkanka podskórna.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kości.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "mózg.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-18",
+      "question": "Do metabolicznych wyznaczników zespołu lizy guza nie należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "hiperfosfatemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "hipernatremia.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "hiperkaliemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "hiperurykemia.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "hipokalcemia.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-19",
+      "question": "Najczęstszym typem mięsaka tkanek miękkich występującym u dzieci jest:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "mięsak poprzecznie prążkowany (RMS).",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "mięsak maziówkowy (SS).",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "prymitywny neuroektodermalny guz (PNET).",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "włókniakomięsak (Fibrosarcoma).",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "mięsak Ewinga.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-20",
+      "question": "Zwiększony przepływ płucny w wadach wrodzonych serca z przeciekiem lewo-prawym powoduje zmiany strukturalne w tętniczkach płucnych, co skutkuje rozwojem nieodwracalnego nadciśnienia płucnego, a to prowadzi do zmiany przecieku krwi na prawo-lewy. Wskaż zespół, dla którego charakterystyczne są te objawy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Aspergera.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "Eisenhowera.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "Eisenmengera.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "Tourett’a.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "Downa.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-21",
+      "question": "Jeżeli przygodne stężenie glukozy wynosi 14 mmol/l oraz obecny jest częstomocz i wielomocz, wówczas dla potwierdzenia rozpoznania cukrzycy typu I należy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "oznaczyć stężenie glukozy 2 godziny po posiłku.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "wykonać test OGTT.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "powtórzyć badanie poziomu glukozy na czczo lub przygodnej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "postawić rozpoznanie cukrzycy bez wykonania dodatkowych badań.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wykonać badanie ogólne moczu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-22",
+      "question": "13-letnia dziewczynka zgłosiła się do pediatry z następującym wywiadem: osłabienie koncentracji uwagi, pogorszenie wyników w nauce, wypadanie włosów i drżenie rąk, potliwość. Pediatra stwierdził utratę masy ciała o około 3 kg w okresie 6 miesięcy. Podczas badania przedmiotowego stwierdzono tętno spoczynkowe\n120/min, ciśnienie tętnicze krwi 130/50, ciepłą i wilgotną skórę, drżenie palców. Wskaż chorobę, jakiej towarzyszą takie objawy:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "choroba Hashimoto.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "cukrzyca typu 1.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "rak rdzeniasty tarczycy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "choroba Graves-Basedowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "niedoczynność tarczycy.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-23",
+      "question": "W rozpoznawaniu nerwiaka zarodkowego współczulnego (neuroblasma) u dzieci duże znaczenie diagnostyczne ma oznaczenie:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "adrenaliny i noradrenaliny w surowicy krwi.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "kwasu wanilinomigdałowego i homowanilinowego w dobowej zbiórce moczu.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "stężenia glukozy na czczo w surowicy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "ACTH i kalcytoniny w surowicy krwi.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "kwasu moczowego w dobowej zbiórce moczu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-24",
+      "question": "Z pierwotnej listewki nerwowej wywodzą się: rdzeń nadnerczy, współczulny układ nerwowy oraz jeden ze złośliwych nowotworów u dzieci. Wskaż ten nowotwór:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "nephroblastoma.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "hepatoblastoma.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "retinoblastoma.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "non-Hodgkin lymphoma.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "neuroblastoma.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-25",
+      "question": "Guz Wilmsa to nowotwór:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "jajnika.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "nerki.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "nadnerczy.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "kości.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "mózgu.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-26",
+      "question": "W hemofilii B niedobór dotyczy czynnika:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "VII.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "VIII.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "IX.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "XI.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "XII.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-27",
+      "question": "W przebiegu zakażenia parwowirusem B19 może dojść do rozwoju:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "aplazji układu czerwonokrwinkowego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "niedokrwistości Diamonda-Blackfana.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "niedokrwistości sierpowatokrwinkowej.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "sferocytozy wrodzonej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "hemofilii A.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-28",
+      "question": "Punktacja Apgar obejmuje ocenę następujących cech z wyjątkiem:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kolor skóry.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "oddech.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "reakcja na drażnienie cewnikiem.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "tętno.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "temperatura.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-2-29",
+      "question": "Noworodek hipotroficzny to taki, u którego masa urodzeniowa:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "jest <10 percentyla.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "jest >10 percentyla.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "wynosi >2000 g.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "jest prawidłowa.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "definicja hipotrofii nie ma związku z masą urodzeniową.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    }
+  ]
+}
