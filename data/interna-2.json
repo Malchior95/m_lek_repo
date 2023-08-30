@@ -27,7 +27,7 @@
         {
           "id": "D",
           "text": "2,4,6.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -66,7 +66,7 @@
         {
           "id": "E",
           "text": "1,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -80,7 +80,7 @@
         {
           "id": "A",
           "text": "1,2,6.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -95,7 +95,7 @@
         {
           "id": "D",
           "text": "2,4,6.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -129,7 +129,7 @@
         {
           "id": "D",
           "text": "1,2,6.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -153,7 +153,7 @@
         {
           "id": "B",
           "text": "1,2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -197,7 +197,7 @@
         {
           "id": "D",
           "text": "klonidyna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -231,7 +231,7 @@
         {
           "id": "D",
           "text": "furosemid.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -265,7 +265,7 @@
         {
           "id": "D",
           "text": "indapamid.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -294,7 +294,7 @@
         {
           "id": "C",
           "text": "perindopryl.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -318,7 +318,7 @@
         {
           "id": "A",
           "text": "amlodypina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -372,7 +372,7 @@
         {
           "id": "E",
           "text": "bisoprolol.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -396,7 +396,7 @@
         {
           "id": "C",
           "text": "perindopryl.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -435,7 +435,7 @@
         {
           "id": "D",
           "text": "indapamid.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -464,7 +464,7 @@
         {
           "id": "C",
           "text": "perindopryl i losartan.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -503,7 +503,7 @@
         {
           "id": "D",
           "text": "bisoprolol.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -532,7 +532,7 @@
         {
           "id": "C",
           "text": "kaptopryl.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -576,7 +576,7 @@
         {
           "id": "E",
           "text": "metyldopa.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -605,7 +605,7 @@
         {
           "id": "D",
           "text": "spironolakton.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -629,7 +629,7 @@
         {
           "id": "B",
           "text": "urapidyl.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -673,7 +673,7 @@
         {
           "id": "D",
           "text": "0,9% roztwór NaCl.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -731,7 +731,7 @@
         {
           "id": "B",
           "text": "nowotwór jelita grubego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -770,7 +770,7 @@
         {
           "id": "C",
           "text": "powtórzyć badanie stężenia glukozy w osoczu krwi żylnej na czczo w ciągu jednego z najbliższych dni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -804,7 +804,7 @@
         {
           "id": "C",
           "text": "urografia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -877,7 +877,7 @@
         {
           "id": "D",
           "text": "zmniejszone TSH i zwiększone FT4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -901,7 +901,7 @@
         {
           "id": "B",
           "text": "zwiększone TSH i zmniejszone FT4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -930,7 +930,7 @@
         {
           "id": "A",
           "text": "zwiększenie aktywności amylazy i lipazy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -984,7 +984,7 @@
         {
           "id": "E",
           "text": "zwiększona liczba leukocytów w moczu.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1013,7 +1013,7 @@
         {
           "id": "D",
           "text": "ograniczenie podaży wody.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1032,7 +1032,7 @@
         {
           "id": "A",
           "text": "25 μg na dobę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1086,7 +1086,7 @@
         {
           "id": "E",
           "text": "klindamycyna.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1120,7 +1120,7 @@
         {
           "id": "E",
           "text": "oznaczyć stężenie glukozy i dopiero na podstawie stężenia wtedy zadecydować o podaży glukozy lub insuliny dożylnie.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1139,7 +1139,7 @@
         {
           "id": "B",
           "text": "zapalenie płuc.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1178,7 +1178,7 @@
         {
           "id": "C",
           "text": "15 okresów bezdechu (trwające 10 sekund lub dłużej) lub niedostatecznego oddychania (zmniejszenie oddychania o 50% trwające 10 sekund lub dłużej) na godzinę snu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1217,7 +1217,7 @@
         {
           "id": "D",
           "text": "1,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1304,7 +1304,7 @@
         {
           "id": "A",
           "text": "amoksycylinę 500 mg co 8 godzin doustnie, a jeśli pacjent jest uczulony na penicylinę klarytromycynę 500 mg co 12 godzin doustnie lub erytromycynę 500 mg co 6 godzin doustnie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1343,7 +1343,7 @@
         {
           "id": "B",
           "text": "prostaglandyna F2α może spowodować skurcz oskrzeli i powinna być stosowana z ekstremalną ostrożnością.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1460,7 +1460,7 @@
         {
           "id": "E",
           "text": "utrwalone teleangiektazje.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1489,7 +1489,7 @@
         {
           "id": "D",
           "text": "wrodzonej łamliwości kości.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1552,7 +1552,7 @@
         {
           "id": "C",
           "text": "podawaniu leku α-adrenolitycznego, a w przypadku znacznej tachykardii dodaniu leku β-adrenolitycznego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1596,7 +1596,7 @@
         {
           "id": "E",
           "text": "pacjenci zgłaszają się do lekarza z nagłą wodnistą biegunką lub łagodną tłuszczową.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1615,7 +1615,7 @@
         {
           "id": "B",
           "text": "manifestuje się bólem, niedokrwistością, wymiotami, utratą masy ciała.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1654,7 +1654,7 @@
         {
           "id": "C",
           "text": "1,2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1683,7 +1683,7 @@
         {
           "id": "B",
           "text": "polega na wykonywaniu badania ultrasonograficznego i pomiarów alfa-fetoproteiny (AFP) co 6 miesięcy, u pacjentów wysokiego ryzyka, do których zalicza się chorych z marskością wątroby spowodowaną zapaleniem wątroby typu B i C, hemochromatozą, alkoholem;",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1722,7 +1722,7 @@
         {
           "id": "C",
           "text": "są zwykle bezobjawowe, choć większe mogą odpowiadać za dyspepsję, owrzodzenia i krwawienia z przewodu pokarmowego, wykazują ekspresję protoonkogenu c-kit.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1795,7 +1795,7 @@
         {
           "id": "D",
           "text": "kolonoskopia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1834,7 +1834,7 @@
         {
           "id": "E",
           "text": "bólem brzucha, utratą masy ciała lub żółtaczką mechaniczną, trzustka jest powiększona w badaniach obrazowych, dobrze odpowiada na leczenie glikokortykosteroidami.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1848,7 +1848,7 @@
         {
           "id": "A",
           "text": "rozstrzenią koniuszka lewej komory, której towarzyszy upośledzenie czynności lewej komory, zwężenie drogi odpływu lewej komory, klinicznie i elektrokardiograficznie przypomina ostry zespół wieńcowy z uniesieniem odcinka ST, bez istotnych zmian w koronarografii.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1897,7 +1897,7 @@
         {
           "id": "D",
           "text": "jest guzem łagodnym zlokalizowanym w obrębie siodła tureckiego lub w przestrzeni nadsiodłowej, który może powodować wystąpienie objawów uszkodzenia podwzgórza i moczówkę prostą.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1926,7 +1926,7 @@
         {
           "id": "C",
           "text": "jest słyszalny na wdechu i wydechu;",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1965,7 +1965,7 @@
         {
           "id": "D",
           "text": "obniżenie FVC bez zmiany wartości wskaźnika FEV1/FVC, co wskazuje na zaburzenia restrykcyjne.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1984,7 +1984,7 @@
         {
           "id": "A",
           "text": "tachykardia spoczynkowa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2023,7 +2023,7 @@
         {
           "id": "B",
           "text": "Jest stosowana jako terapia pierwszego rzutu w cukrzycy typu 2, bez względu na masę ciała.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2067,7 +2067,7 @@
         {
           "id": "D",
           "text": "kolkę nerkową.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2096,7 +2096,7 @@
         {
           "id": "C",
           "text": "salbutamolu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2125,7 +2125,7 @@
         {
           "id": "B",
           "text": "bortezomib.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2169,7 +2169,7 @@
         {
           "id": "D",
           "text": "antracykliny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2208,7 +2208,7 @@
         {
           "id": "E",
           "text": "rytuksymab.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2222,7 +2222,7 @@
         {
           "id": "A",
           "text": "lokalizacja w części przedodźwiernikowej, związek z zakażeniem Helicobacter pylori, przerzuty drogą krwionośną do wątroby.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2271,7 +2271,7 @@
         {
           "id": "D",
           "text": "kwas acetylosalicylowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2300,7 +2300,7 @@
         {
           "id": "C",
           "text": "lewego płata wątroby.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2329,7 +2329,7 @@
         {
           "id": "B",
           "text": "insulinopodobny czynnik wzrostu 1.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2373,7 +2373,7 @@
         {
           "id": "D",
           "text": "hiperkalcemia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2392,7 +2392,7 @@
         {
           "id": "A",
           "text": "kory nadnerczy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2446,7 +2446,7 @@
         {
           "id": "E",
           "text": "jod promieniotwórczy jest skuteczny w leczeniu przerzutów do płuc pod warunkiem pozostawienia zdrowych fragmentów tarczycy po resekcji guza pierwotnego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2475,7 +2475,7 @@
         {
           "id": "D",
           "text": "scyntygrafia receptorowa z zastosowaniem analogu somatostatyny znakowanego promieniotwórczym galem lub technetem.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2504,7 +2504,7 @@
         {
           "id": "C",
           "text": "chromogranina A.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2533,7 +2533,7 @@
         {
           "id": "B",
           "text": "abatacept.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2577,7 +2577,7 @@
         {
           "id": "D",
           "text": "2,3,7.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2596,7 +2596,7 @@
         {
           "id": "A",
           "text": "zapalenie błony maziowej lub bolesność uciskowa w co najmniej dwóch stawach ze sztywnością poranną przez co najmniej 30 minut.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2640,7 +2640,7 @@
         {
           "id": "C",
           "text": "belimumab.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2664,7 +2664,7 @@
         {
           "id": "A",
           "text": "1,5,6.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2703,7 +2703,7 @@
         {
           "id": "B",
           "text": "wrzodziejące zapalenie jelita grubego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2742,7 +2742,7 @@
         {
           "id": "C",
           "text": "cefuroksym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2781,7 +2781,7 @@
         {
           "id": "D",
           "text": "zwężenie zastawki aortalnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2805,7 +2805,7 @@
         {
           "id": "B",
           "text": "rozkurczowym, którego źródłem jest zastawka dwudzielna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2849,7 +2849,7 @@
         {
           "id": "D",
           "text": "wykonać badanie elektrokardiograficzne.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2878,7 +2878,7 @@
         {
           "id": "C",
           "text": "bradykardia i hipotonia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2907,7 +2907,7 @@
         {
           "id": "B",
           "text": "1,2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2936,7 +2936,7 @@
         {
           "id": "A",
           "text": "holosystoliczny w rzucie koniuszka serca.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2985,7 +2985,7 @@
         {
           "id": "D",
           "text": "statyna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3004,7 +3004,7 @@
         {
           "id": "A",
           "text": "obniżanie ciśnienia tętniczego nie redukuje ryzyka powikłań sercowo-naczyniowych i śmiertelności w tej grupie chorych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3043,7 +3043,7 @@
         {
           "id": "B",
           "text": "dihydropirydynowy bloker kanału wapniowego i lek tiazydowy lub tiazydopodobny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3058,6 +3058,40 @@
         {
           "id": "E",
           "text": "inhibitor konwertazy angiotensyny i lek tiazydowy lub tiazydopodobny.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "int-2-91",
+      "question": "W skali PESI służącej do oceny rokowania w zatorowości płucnej, przekroczenie wartości 125 punktów wiąże się z bardzo wysokim ryzykiem zgonu w przebiegu tej choroby. Największą liczbę punktów (wynoszącą aż 60) przyznaje się w tej skali za:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "współistnienie nowotworu złośliwego.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "skurczowe ciśnienie tętnicze <100 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "zmiany stanu psychicznego pacjenta.",
+          "isCorrect": true
+        },
+        {
+          "id": "D",
+          "text": "współistnienie przewlekłej choroby płuc.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "częstość oddechów >30/minutę.",
           "isCorrect": false
         }
       ],
