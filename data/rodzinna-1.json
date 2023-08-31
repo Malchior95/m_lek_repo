@@ -27,7 +27,7 @@
         {
           "id": "D",
           "text": "Downa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -61,7 +61,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A, B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -80,7 +80,7 @@
         {
           "id": "A",
           "text": "płeć żeńska.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -124,7 +124,7 @@
         {
           "id": "C",
           "text": "6 tygodniach.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -148,7 +148,7 @@
         {
           "id": "A",
           "text": "24 godzin.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -202,7 +202,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -236,7 +236,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -250,7 +250,7 @@
         {
           "id": "A",
           "text": "zmniejszone pragnienie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -289,7 +289,7 @@
         {
           "id": "B",
           "text": "14 dni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -323,7 +323,7 @@
         {
           "id": "B",
           "text": "badanie stolca na obecność cyst.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -362,7 +362,7 @@
         {
           "id": "C",
           "text": "8,5%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -386,7 +386,7 @@
         {
           "id": "A",
           "text": "kwas acetylosalicylowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -440,7 +440,7 @@
         {
           "id": "E",
           "text": "postać piramidowa.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -464,7 +464,7 @@
         {
           "id": "C",
           "text": "5-10%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -503,7 +503,7 @@
         {
           "id": "D",
           "text": "diadynamiki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -542,7 +542,7 @@
         {
           "id": "E",
           "text": "wszystkie wyżej wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -561,7 +561,7 @@
         {
           "id": "B",
           "text": "makrolid.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -600,7 +600,7 @@
         {
           "id": "C",
           "text": "3 tygodni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -629,7 +629,7 @@
         {
           "id": "B",
           "text": "3. roku życia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -673,7 +673,7 @@
         {
           "id": "D",
           "text": "6. miesiąc życia - 5. rok życia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -707,7 +707,7 @@
         {
           "id": "D",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -726,7 +726,7 @@
         {
           "id": "A",
           "text": "doustnego testu obciążenia glukozą.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -760,7 +760,7 @@
         {
           "id": "A",
           "text": "małoletni, który ukończył 16. rok życia, może współdecydować o postępowaniu leczniczym oraz prosić o przeprowadzenie konsultacji pod nieobecność przedstawiciela ustawowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -814,7 +814,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -848,7 +848,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A,C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -882,7 +882,7 @@
         {
           "id": "E",
           "text": "urazu.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -916,7 +916,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -940,7 +940,7 @@
         {
           "id": "C",
           "text": "ciężkie zaburzenia odporności.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -969,7 +969,7 @@
         {
           "id": "B",
           "text": "6. tygodnia życia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1008,7 +1008,7 @@
         {
           "id": "C",
           "text": "6,5 g/dl.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1032,7 +1032,7 @@
         {
           "id": "A",
           "text": "chorobie refluksowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1086,7 +1086,7 @@
         {
           "id": "E",
           "text": "szmer średnio głośny, któremu nigdy nie towarzyszy „koci mruk”.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1105,7 +1105,7 @@
         {
           "id": "B",
           "text": "zapalenie żył głębokich.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1154,7 +1154,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1168,7 +1168,7 @@
         {
           "id": "A",
           "text": "odry.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1222,7 +1222,7 @@
         {
           "id": "E",
           "text": "grupy krwi „0”.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1256,7 +1256,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1275,7 +1275,7 @@
         {
           "id": "B",
           "text": "4 tygodnie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1319,7 +1319,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A,B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1353,7 +1353,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A,B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1392,7 +1392,7 @@
         {
           "id": "E",
           "text": "żadne z powyższych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1416,7 +1416,7 @@
         {
           "id": "C",
           "text": "uspokojenie mamy, pouczenie o odpowiednim ułożeniu dziecka w trakcie karmienia i odbiciu po karmieniu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1440,7 +1440,7 @@
         {
           "id": "A",
           "text": "najmniej precyzyjny jest pomiar pod pachą i w uchu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1474,7 +1474,7 @@
         {
           "id": "A",
           "text": "tylko 1.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1523,7 +1523,7 @@
         {
           "id": "D",
           "text": "siarą.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1557,7 +1557,7 @@
         {
           "id": "D",
           "text": "hospitalizacji.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1576,7 +1576,7 @@
         {
           "id": "A",
           "text": "makrosomia, nadmierna ilość tkanki tłuszczowej podskórnej, żywo czerwone zabarwienie skóry, obfite owłosienie głowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1625,7 +1625,7 @@
         {
           "id": "D",
           "text": "skierowanie pacjentki do poradni profilaktyki nowotworów i poradni genetycznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1659,7 +1659,7 @@
         {
           "id": "D",
           "text": "choroba naczyniowa serca.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1678,7 +1678,7 @@
         {
           "id": "A",
           "text": "wzrost stężenia hemoglobiny o około 2 g/dl po 1-2 tygodniach od rozpoczęcia leczenia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1732,7 +1732,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1756,7 +1756,7 @@
         {
           "id": "C",
           "text": "oskrzela prawego - szerszego, stanowiącego jakby przedłużenie tchawicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1785,7 +1785,7 @@
         {
           "id": "B",
           "text": "bulimii.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1819,7 +1819,7 @@
         {
           "id": "B",
           "text": "łupież pstry.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1863,7 +1863,7 @@
         {
           "id": "D",
           "text": "7 punktów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1887,7 +1887,7 @@
         {
           "id": "B",
           "text": "zażywających więcej niż jeden lek z grupy NLPZ.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1926,7 +1926,7 @@
         {
           "id": "C",
           "text": "Demodex.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1970,7 +1970,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi B,C,D.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2004,7 +2004,7 @@
         {
           "id": "E",
           "text": "wszystkich wymienionych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2038,7 +2038,7 @@
         {
           "id": "E",
           "text": "wszyscy wymienieni.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2057,7 +2057,7 @@
         {
           "id": "B",
           "text": "obecności głużenia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2091,7 +2091,7 @@
         {
           "id": "B",
           "text": "opuścić jedną dawkę acenokumarolu a następnie zmniejszyć kolejne dawki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2125,7 +2125,7 @@
         {
           "id": "B",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2169,7 +2169,7 @@
         {
           "id": "D",
           "text": "niezależnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2208,7 +2208,7 @@
         {
           "id": "E",
           "text": "oznaczanie aminotransferazy alaninowej (ALT) nie może służyć jako badanie diagnostyczne zakażenia WZW-B.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2242,7 +2242,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2271,7 +2271,7 @@
         {
           "id": "D",
           "text": "≥ 95%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2310,7 +2310,7 @@
         {
           "id": "E",
           "text": "stężenie HbA1c.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2324,7 +2324,7 @@
         {
           "id": "A",
           "text": "10%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2358,7 +2358,7 @@
         {
           "id": "A",
           "text": "na czczo, 30-60 minut przed śniadaniem.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2407,7 +2407,7 @@
         {
           "id": "D",
           "text": "świąd.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2431,7 +2431,7 @@
         {
           "id": "B",
           "text": "w 1.-4. tygodniu życia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2480,7 +2480,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2509,7 +2509,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A,B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2548,7 +2548,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2582,7 +2582,7 @@
         {
           "id": "E",
           "text": "próbę Romberga.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2616,7 +2616,7 @@
         {
           "id": "E",
           "text": "chłoniak Hodgkina.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2645,7 +2645,7 @@
         {
           "id": "D",
           "text": "zapalenie wyrostka robaczkowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2684,7 +2684,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2718,7 +2718,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2742,7 +2742,7 @@
         {
           "id": "C",
           "text": "dieta wegetariańska.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2781,7 +2781,7 @@
         {
           "id": "D",
           "text": "Escherichia coli.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2820,7 +2820,7 @@
         {
           "id": "E",
           "text": "zaburzeń mowy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2839,7 +2839,7 @@
         {
           "id": "B",
           "text": "1,2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2868,7 +2868,7 @@
         {
           "id": "A",
           "text": "amoksycylina w dawce 1,5 - 2,0 g na dobę, podawana co 12 godzin przez 10-14 dni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2917,7 +2917,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A,B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2936,7 +2936,7 @@
         {
           "id": "A",
           "text": "zaszczepienie dziecka.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2985,7 +2985,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A,B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3014,7 +3014,7 @@
         {
           "id": "C",
           "text": "niedoczynność tarczycy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3053,7 +3053,7 @@
         {
           "id": "D",
           "text": "ocena obecności kilkumilimetrowych tuneli i zaordynowanie kremu z permetryną w przypadku ich uwidocznienia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3087,7 +3087,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A,B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3121,7 +3121,7 @@
         {
           "id": "D",
           "text": "hipotensję, tachykardię, skąpomocz.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3140,7 +3140,7 @@
         {
           "id": "A",
           "text": "u dzieci urodzonych przed ukończeniem 37. tygodnia ciąży lub urodzonych z masą urodzeniową poniżej 2500 g.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3194,7 +3194,7 @@
         {
           "id": "E",
           "text": "zapalenia kaletek stawu.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3223,7 +3223,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A,B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3262,7 +3262,7 @@
         {
           "id": "E",
           "text": "1,5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3296,7 +3296,7 @@
         {
           "id": "E",
           "text": "przepuklina powiększa się podczas płaczu.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3310,7 +3310,7 @@
         {
           "id": "A",
           "text": "metronidazol.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3354,7 +3354,7 @@
         {
           "id": "C",
           "text": "kobiet w wieku 35-40 lat.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3383,7 +3383,7 @@
         {
           "id": "B",
           "text": "ostre WZW.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3422,7 +3422,7 @@
         {
           "id": "C",
           "text": "zespołu antyfosfolipidowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3461,7 +3461,7 @@
         {
           "id": "D",
           "text": "etiologia wirusowa (adenowirusy, wirusy opryszczki).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3480,7 +3480,7 @@
         {
           "id": "A",
           "text": "obecność głużenia, brak gaworzenia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3519,7 +3519,7 @@
         {
           "id": "B",
           "text": "30,0 - 34,9.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3568,7 +3568,7 @@
         {
           "id": "E",
           "text": "róża.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3592,7 +3592,7 @@
         {
           "id": "C",
           "text": "135/85 mmHg.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3631,7 +3631,7 @@
         {
           "id": "D",
           "text": "6,5% (48 mmol/mol).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3650,7 +3650,7 @@
         {
           "id": "A",
           "text": "metformina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3694,7 +3694,7 @@
         {
           "id": "C",
           "text": "30 dni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3728,7 +3728,7 @@
         {
           "id": "C",
           "text": "przewlekły nieżyt nosa ze spływającą po tylnej ścianie gardła wydzieliną.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3767,7 +3767,7 @@
         {
           "id": "D",
           "text": "liszajca zakaźnego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3806,7 +3806,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3840,7 +3840,7 @@
         {
           "id": "E",
           "text": "plamy łososiowe.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3859,7 +3859,7 @@
         {
           "id": "B",
           "text": "niesymetryczne powiększenie węzłów chłonnych, głównie szyjnych i nadobojczykowych (twarde i niebolesne, tworzą pakiety), gorączka.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3893,7 +3893,7 @@
         {
           "id": "B",
           "text": "odstawić acenokumarol na 1-2 dni do uzyskania wartości INR: 2,0-3,0.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3927,7 +3927,7 @@
         {
           "id": "B",
           "text": "pierwszorzędowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3976,7 +3976,7 @@
         {
           "id": "E",
           "text": "1. tygodnia życia i trwa do 4-12 tygodni.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3995,7 +3995,7 @@
         {
           "id": "B",
           "text": "u chorych z nadciśnieniem tętniczym 2. lub 3. stopnia należy rozpocząć leczenie od zastosowania 2 leków w małych dawkach.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4039,7 +4039,7 @@
         {
           "id": "D",
           "text": "bolesność palpacyjna węzłów może sugerować obecność procesu nowotworowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4068,7 +4068,7 @@
         {
           "id": "C",
           "text": "niedobór jodu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4097,7 +4097,7 @@
         {
           "id": "B",
           "text": "mononukleoza zakaźna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4146,7 +4146,7 @@
         {
           "id": "E",
           "text": "12-miesięczną przerwę.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4165,7 +4165,7 @@
         {
           "id": "B",
           "text": "Staphylococcus.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4199,7 +4199,7 @@
         {
           "id": "B",
           "text": "jest rodzajem immunizacji czynnej i polega na wprowadzeniu do organizmu żywych lub zabitych drobnoustrojów, ich fragmentów albo produktów ich metabolizmu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4238,7 +4238,7 @@
         {
           "id": "C",
           "text": "podgłośniowego zapalenia krtani.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4262,7 +4262,7 @@
         {
           "id": "A",
           "text": "w czasie ciąży.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4316,7 +4316,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi B,C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4340,7 +4340,7 @@
         {
           "id": "C",
           "text": "4 gramy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4379,7 +4379,7 @@
         {
           "id": "D",
           "text": "powyżej 40.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4418,7 +4418,7 @@
         {
           "id": "E",
           "text": "choroba Takayasu.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4442,7 +4442,7 @@
         {
           "id": "C",
           "text": "EBV.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4486,7 +4486,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4510,7 +4510,7 @@
         {
           "id": "C",
           "text": "akarboza w dawce 300 mg/dobę obniża glikemię na czczo równie skutecznie jak poposiłkową.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4549,7 +4549,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A,B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4578,7 +4578,7 @@
         {
           "id": "C",
           "text": "zachowania zdrowotne.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4622,7 +4622,7 @@
         {
           "id": "E",
           "text": "nawadnianie doustne w warunkach domowych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4651,7 +4651,7 @@
         {
           "id": "D",
           "text": "75 g; na czczo i po drugiej godzinie testu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4690,7 +4690,7 @@
         {
           "id": "E",
           "text": "1,2,4.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4719,7 +4719,7 @@
         {
           "id": "D",
           "text": "tetracykliny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4748,7 +4748,7 @@
         {
           "id": "C",
           "text": "nadciśnienia tętniczego 3. stopnia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4787,7 +4787,7 @@
         {
           "id": "D",
           "text": "zanokcica.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4826,7 +4826,7 @@
         {
           "id": "E",
           "text": "swoiste IgG utrzymują się we krwi do 12-24 tygodni od zakażenia.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4860,7 +4860,7 @@
         {
           "id": "E",
           "text": "dokładnego badania ginekologicznego i specjalistycznych badań dodatkowych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4874,7 +4874,7 @@
         {
           "id": "A",
           "text": "działania estrogenów matki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4913,7 +4913,7 @@
         {
           "id": "B",
           "text": "nie powinna trwać dłużej niż 10 sekund.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4957,7 +4957,7 @@
         {
           "id": "D",
           "text": "mononukleozę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4986,7 +4986,7 @@
         {
           "id": "C",
           "text": "między 12. a 18. miesiącem życia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5015,7 +5015,7 @@
         {
           "id": "B",
           "text": "1,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5044,7 +5044,7 @@
         {
           "id": "A",
           "text": "jest to objaw działania estrogenów u matki, zwykle ustępujący samoistnie, dlatego należy zalecić odpowiednią pielęgnację dziecka.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5088,7 +5088,7 @@
         {
           "id": "C",
           "text": "przewlekłej prawokomorowej niewydolności serca.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5122,7 +5122,7 @@
         {
           "id": "C",
           "text": "słaby stopień uzależnienia od nikotyny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5151,7 +5151,7 @@
         {
           "id": "B",
           "text": "uogólnionego powiększenia węzłów chłonnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5195,7 +5195,7 @@
         {
           "id": "D",
           "text": "hiperglikemia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5234,7 +5234,7 @@
         {
           "id": "E",
           "text": "100 ml krwi.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5263,7 +5263,7 @@
         {
           "id": "D",
           "text": "zmniejszenie stężenia TSH, stężenia fT3 i fT4 nie przekraczają górnej granicy normy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5292,7 +5292,7 @@
         {
           "id": "C",
           "text": "ospie wietrznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5321,7 +5321,7 @@
         {
           "id": "B",
           "text": "subkliniczną hipotyreozę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5350,7 +5350,7 @@
         {
           "id": "A",
           "text": "ciężkich krwiopochodnych postaci gruźlicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5404,7 +5404,7 @@
         {
           "id": "E",
           "text": "niedrożności czynnościowej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5433,7 +5433,7 @@
         {
           "id": "D",
           "text": "zespołu jelita drażliwego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5462,7 +5462,7 @@
         {
           "id": "C",
           "text": "zasada 5 x P.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5496,7 +5496,7 @@
         {
           "id": "C",
           "text": "obecne głużenie, brak gaworzenia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5530,7 +5530,7 @@
         {
           "id": "C",
           "text": "odry.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5564,7 +5564,7 @@
         {
           "id": "C",
           "text": "podwaja w 5. miesiącu, a potraja w 12. miesiącu życia swoją masę urodzeniową.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5593,7 +5593,7 @@
         {
           "id": "B",
           "text": "stwierdzenie mononukleozy zakaźnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5622,7 +5622,7 @@
         {
           "id": "A",
           "text": "wzrostem stężenia TSH przy stężeniu fT4 w granicach normy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5661,7 +5661,7 @@
         {
           "id": "B",
           "text": "3-14 lat.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5710,7 +5710,7 @@
         {
           "id": "E",
           "text": "glikokortykosteroidów.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5734,7 +5734,7 @@
         {
           "id": "C",
           "text": "Haemophilus influenzae.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5773,7 +5773,7 @@
         {
           "id": "D",
           "text": "130/80 mmHg.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5797,7 +5797,7 @@
         {
           "id": "B",
           "text": "zespół policystycznych jajników.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5836,7 +5836,7 @@
         {
           "id": "C",
           "text": "odprowadzenie aVL.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5880,7 +5880,7 @@
         {
           "id": "E",
           "text": "5 cm.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5914,7 +5914,7 @@
         {
           "id": "E",
           "text": "10. roku życia.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5943,7 +5943,7 @@
         {
           "id": "D",
           "text": "odwracanie przebiegu choroby, powstrzymanie lub opóźnienie jej rozwoju lub następstw.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5967,7 +5967,7 @@
         {
           "id": "B",
           "text": "stężenie cholesterolu całkowitego w surowicy/osoczu > 250 mg/dl.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6001,7 +6001,7 @@
         {
           "id": "B",
           "text": "CURB-65.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6035,7 +6035,7 @@
         {
           "id": "B",
           "text": "samoistnemu włóknieniu płuc.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6074,7 +6074,7 @@
         {
           "id": "C",
           "text": "2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6113,7 +6113,7 @@
         {
           "id": "D",
           "text": "wiek poniżej 2. roku życia jest zawsze wskazaniem do antybiotykoterapii, z chwilą rozpoznania OZUŚ.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6147,7 +6147,7 @@
         {
           "id": "D",
           "text": "terapia poczwórna: IPP + bizmut + metronidazol + tetracyklina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6186,7 +6186,7 @@
         {
           "id": "E",
           "text": "szczepionka poliwalentna zawiera antygeny co najmniej 2 różnych gatunków drobnoustrojów.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6215,7 +6215,7 @@
         {
           "id": "D",
           "text": "ramipryl.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6249,7 +6249,7 @@
         {
           "id": "D",
           "text": "poniżej 70 mg/dl.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6288,7 +6288,7 @@
         {
           "id": "E",
           "text": "10%.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6312,7 +6312,7 @@
         {
           "id": "C",
           "text": "stosuje się w czterodawkowym schemacie szczepienia 0; 1; 2; 12 miesięcy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6346,7 +6346,7 @@
         {
           "id": "C",
           "text": "u kobiet w ciąży stosuje się test dwuetapowy rozpoczynając od badania przesiewowego z 50 gramami glukozy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6375,7 +6375,7 @@
         {
           "id": "B",
           "text": "wielomiesięczna antybiotykoterapia nie przynosi korzyści medycznych i nie poprawia jakości życia pacjentów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6419,7 +6419,7 @@
         {
           "id": "D",
           "text": "1,2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6453,7 +6453,7 @@
         {
           "id": "D",
           "text": "u chorych z nadwrażliwością typu 1 na penicyliny należy zastosować doksycyklinę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6492,7 +6492,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6521,7 +6521,7 @@
         {
           "id": "D",
           "text": "ustępowanie po przyjęciu nitrogliceryny pod język w ciągu 5-10 minut.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6540,7 +6540,7 @@
         {
           "id": "A",
           "text": "osób w wieku podeszłym z zespołem kruchości.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6584,7 +6584,7 @@
         {
           "id": "C",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6628,7 +6628,7 @@
         {
           "id": "E",
           "text": "0h - 87 mg/dl (4,8 mmol/l); 2h - 150 mg/dl (8,3 mmol/l).",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6642,7 +6642,7 @@
         {
           "id": "A",
           "text": "metformina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6691,7 +6691,7 @@
         {
           "id": "D",
           "text": "Polskie Towarzystwo Medycyny Rodzinnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6710,7 +6710,7 @@
         {
           "id": "A",
           "text": "cykl poprawy jakości.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6764,7 +6764,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6793,7 +6793,7 @@
         {
           "id": "D",
           "text": "1,2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6817,7 +6817,7 @@
         {
           "id": "B",
           "text": "stężenia mocznika w surowicy ≥ 7 mmol/l.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6851,7 +6851,7 @@
         {
           "id": "B",
           "text": "2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6880,7 +6880,7 @@
         {
           "id": "A",
           "text": "należy pilnie skierować pacjentkę do szpitala z podejrzeniem niedrożności przewodu pokarmowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6919,7 +6919,7 @@
         {
           "id": "B",
           "text": "szpiczak plazmocytowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6958,7 +6958,7 @@
         {
           "id": "C",
           "text": "skierowanie dziecka do ośrodka onkologicznego w celu wykonania badań obrazowych głowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6997,7 +6997,7 @@
         {
           "id": "D",
           "text": "do grupy B, z uwzględnieniem przyczyny ograniczenia oraz ewentualnymi wskazówkami dla nauczyciela.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7036,7 +7036,7 @@
         {
           "id": "E",
           "text": "1,6.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7055,7 +7055,7 @@
         {
           "id": "B",
           "text": "1,2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7088,8 +7088,8 @@
         },
         {
           "id": "B",
-          "text": "1, 2, 4. 1 1",
-          "isCorrect": false
+          "text": "1, 2, 4.",
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7133,7 +7133,7 @@
         {
           "id": "D",
           "text": "należy odbyć 20-30 minutową drzemkę w ciągu dnia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7157,7 +7157,7 @@
         {
           "id": "B",
           "text": "europejskie wytyczne leczenia choroby X dla opieki ambulatoryjnej z 2020 r.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7196,7 +7196,7 @@
         {
           "id": "C",
           "text": "stężenie LDL-C >115 mg/dl lub leczenie tej postaci dyslipidemii.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7220,7 +7220,7 @@
         {
           "id": "A",
           "text": "podanie deksametazonu doustnie w dawce 0,15-0,6 mg/kg masy ciała.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
