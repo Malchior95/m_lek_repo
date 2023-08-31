@@ -17,7 +17,7 @@
         {
           "id": "B",
           "text": "oliguria.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -56,7 +56,7 @@
         {
           "id": "C",
           "text": "o wykształconym łożysku można mówić dopiero w połowie II trymestru.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -100,7 +100,7 @@
         {
           "id": "E",
           "text": "wszystkie powyższe.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -124,7 +124,7 @@
         {
           "id": "C",
           "text": "III.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -148,7 +148,7 @@
         {
           "id": "A",
           "text": "poród przedwczesny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -202,7 +202,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -231,7 +231,7 @@
         {
           "id": "D",
           "text": "tylko po 24. tygodniu ciąży w ciąży pojedynczej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -255,7 +255,7 @@
         {
           "id": "B",
           "text": "lęk ciężarnej przed porodem.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -304,7 +304,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -323,7 +323,7 @@
         {
           "id": "B",
           "text": "alergii na pyłki traw.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -372,7 +372,7 @@
         {
           "id": "E",
           "text": "2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -406,7 +406,7 @@
         {
           "id": "E",
           "text": "defekt blizny myometrium po cięciu cesarskim.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -425,7 +425,7 @@
         {
           "id": "B",
           "text": "test hamowania deksametazonem.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -464,7 +464,7 @@
         {
           "id": "C",
           "text": "7.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -503,7 +503,7 @@
         {
           "id": "D",
           "text": "tylko 2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -527,7 +527,7 @@
         {
           "id": "B",
           "text": "obumarcie II płodu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -571,7 +571,7 @@
         {
           "id": "D",
           "text": "dostęp pochwowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -590,7 +590,7 @@
         {
           "id": "A",
           "text": "założenia profilaktycznego szwu okrężnego na szyjkę macicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -624,7 +624,7 @@
         {
           "id": "A",
           "text": "masa płodu powyżej 3500 g.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -663,7 +663,7 @@
         {
           "id": "B",
           "text": "testosteronu wolnego lub indeksu wolnych androgenów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -692,7 +692,7 @@
         {
           "id": "A",
           "text": "1,2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -726,7 +726,7 @@
         {
           "id": "A",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -760,7 +760,7 @@
         {
           "id": "A",
           "text": "parcia naglące.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -814,7 +814,7 @@
         {
           "id": "E",
           "text": "ustawienie potylicowe przednie.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -838,7 +838,7 @@
         {
           "id": "C",
           "text": "9-12 tydzień ciąży.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -862,7 +862,7 @@
         {
           "id": "A",
           "text": "brak destrukcyjnego naciekania podścieliska.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -911,7 +911,7 @@
         {
           "id": "D",
           "text": "1,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -935,7 +935,7 @@
         {
           "id": "B",
           "text": "wykonanie kolposkopii z pobraniem wycinków z podejrzanych miejsc oraz abrazja kanału szyjki macicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -974,7 +974,7 @@
         {
           "id": "C",
           "text": "II.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1013,7 +1013,7 @@
         {
           "id": "D",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1042,7 +1042,7 @@
         {
           "id": "C",
           "text": "stosowanie steroidów anabolicznych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1076,7 +1076,7 @@
         {
           "id": "C",
           "text": "10%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1105,7 +1105,7 @@
         {
           "id": "B",
           "text": "tylko 2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1139,7 +1139,7 @@
         {
           "id": "B",
           "text": "9-16 lat.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1168,7 +1168,7 @@
         {
           "id": "A",
           "text": "zespołu Downa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1217,7 +1217,7 @@
         {
           "id": "D",
           "text": "następstwem hiperprolaktynemii są brak owłosienia łonowego oraz spadek wydzielania androgenów nadnerczowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1256,7 +1256,7 @@
         {
           "id": "E",
           "text": "10/10 punktów.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1285,7 +1285,7 @@
         {
           "id": "D",
           "text": "1,2,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1319,7 +1319,7 @@
         {
           "id": "D",
           "text": "pozostawić pacjentkę w obserwacji monitorując spadek hCG - taki ból to typowy objaw leczenia metotreksatem.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1338,7 +1338,7 @@
         {
           "id": "A",
           "text": "aplazję jajników.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1372,7 +1372,7 @@
         {
           "id": "A",
           "text": "krótkie i skąpe.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1416,7 +1416,7 @@
         {
           "id": "C",
           "text": "odchodzi od tętnicy biodrowej wewnętrznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1440,7 +1440,7 @@
         {
           "id": "A",
           "text": "która ma grupę krwi RhD ujemną, 300 μg immunoglobuliny anty-RhD w 28.-32. tygodniu ciąży.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1474,7 +1474,7 @@
         {
           "id": "A",
           "text": "przedwczesne oddzielenie się łożyska.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1508,7 +1508,7 @@
         {
           "id": "A",
           "text": "sposób Lővseta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1562,7 +1562,7 @@
         {
           "id": "E",
           "text": "wszystkie wyżej wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1581,7 +1581,7 @@
         {
           "id": "B",
           "text": "duloksetyna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1620,7 +1620,7 @@
         {
           "id": "C",
           "text": "odległości od kości krzyżowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1659,7 +1659,7 @@
         {
           "id": "D",
           "text": "1,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1688,7 +1688,7 @@
         {
           "id": "C",
           "text": "1,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1717,7 +1717,7 @@
         {
           "id": "B",
           "text": "hipogonadyzmu hipergonadotropowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1761,7 +1761,7 @@
         {
           "id": "D",
           "text": "otyłość.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1780,7 +1780,7 @@
         {
           "id": "A",
           "text": "1,2,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1819,7 +1819,7 @@
         {
           "id": "B",
           "text": "poronienie w toku, wyłyżeczkowanie jamy macicy z badaniem histopatologicznym uzyskanego materiału.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1858,7 +1858,7 @@
         {
           "id": "C",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1882,7 +1882,7 @@
         {
           "id": "A",
           "text": "pierwszą miesiączkę w życiu, występującą na ogół w 12.-13. roku życia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1916,7 +1916,7 @@
         {
           "id": "A",
           "text": "zmniejszenie masy ciała (dieta).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1950,7 +1950,7 @@
         {
           "id": "A",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1994,7 +1994,7 @@
         {
           "id": "C",
           "text": "tylko 4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2018,7 +2018,7 @@
         {
           "id": "A",
           "text": "wynicowania macicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2062,7 +2062,7 @@
         {
           "id": "C",
           "text": "hamują selekcję i wzrost pęcherzyka dominującego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2106,7 +2106,7 @@
         {
           "id": "E",
           "text": "ropień gruczołu przedsionkowego większego, naciąć go i zdrenować.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2140,7 +2140,7 @@
         {
           "id": "E",
           "text": "4,6.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2169,7 +2169,7 @@
         {
           "id": "D",
           "text": "długości ciemieniowo-siedzeniowej (CRL).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2208,7 +2208,7 @@
         {
           "id": "E",
           "text": "zmniejszenie libido.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2227,7 +2227,7 @@
         {
           "id": "B",
           "text": "brak plemników w ejakulacie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2261,7 +2261,7 @@
         {
           "id": "B",
           "text": "ciążę dwupłodową, jednokosmówkową, jednoowodniową.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2300,7 +2300,7 @@
         {
           "id": "C",
           "text": "2,3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2334,7 +2334,7 @@
         {
           "id": "C",
           "text": "toksyczne działanie siarczanu magnezu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2358,7 +2358,7 @@
         {
           "id": "A",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2407,7 +2407,7 @@
         {
           "id": "D",
           "text": "domaciczna wkładka uwalniająca lewonorgestrel.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2426,7 +2426,7 @@
         {
           "id": "A",
           "text": "piersi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2470,7 +2470,7 @@
         {
           "id": "C",
           "text": "2,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2504,7 +2504,7 @@
         {
           "id": "C",
           "text": "ciążą pozamaciczną.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2543,7 +2543,7 @@
         {
           "id": "D",
           "text": "1,2,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2577,7 +2577,7 @@
         {
           "id": "D",
           "text": "1,2,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2611,7 +2611,7 @@
         {
           "id": "D",
           "text": "50%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2635,7 +2635,7 @@
         {
           "id": "B",
           "text": "młody wiek.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2684,7 +2684,7 @@
         {
           "id": "E",
           "text": "wtórny brak miesiączki.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2713,7 +2713,7 @@
         {
           "id": "D",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2737,7 +2737,7 @@
         {
           "id": "B",
           "text": "stosowanie prezerwatyw eliminuje całkowicie ryzyko zakażenia HPV.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2771,7 +2771,7 @@
         {
           "id": "B",
           "text": "u nosicielek mutacji BRCA1, ryzyko zachorowania jest wyższe niż u nosicielek BRCA2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2800,7 +2800,7 @@
         {
           "id": "A",
           "text": "1,2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2854,7 +2854,7 @@
         {
           "id": "E",
           "text": "wszystkich wymienionych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2883,7 +2883,7 @@
         {
           "id": "D",
           "text": "hamuje produkcję TSH i stymuluje tarczycę do produkcji tyroksyny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2922,7 +2922,7 @@
         {
           "id": "E",
           "text": "położenie miednicowe płodu.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2951,7 +2951,7 @@
         {
           "id": "D",
           "text": "przebyła toksoplazmozę przed ciążą (najprawdopodobniej było to zarażenie bezobjawowe) i płodowi nie zagraża świeże zarażenie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2990,7 +2990,7 @@
         {
           "id": "E",
           "text": "do częstych objawów klinicznych należą nadmierne wymioty oraz objawy niedoczynności tarczycy u ciężarnej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3024,7 +3024,7 @@
         {
           "id": "E",
           "text": "200 ml.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3038,7 +3038,7 @@
         {
           "id": "A",
           "text": "zakażenie wywołane przez HIV.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3082,7 +3082,7 @@
         {
           "id": "C",
           "text": "tabletki dwuskładnikowej z etynyloestradiolem i lewonorgestrelem.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3116,7 +3116,7 @@
         {
           "id": "C",
           "text": "ocenie stanu ogólnego ciężarnej, monitorowaniu tętna płodu, przygotowaniu do i wykonaniu cięcia cesarskiego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3140,7 +3140,7 @@
         {
           "id": "A",
           "text": "odrze.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3174,7 +3174,7 @@
         {
           "id": "A",
           "text": "ciąży pozamacicznej - poronienie trąbkowe.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3223,7 +3223,7 @@
         {
           "id": "D",
           "text": "wysokiego stężenia hCG w surowicy krwi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3262,7 +3262,7 @@
         {
           "id": "E",
           "text": "żadne z wymienionych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3296,7 +3296,7 @@
         {
           "id": "E",
           "text": "w opisanej powyżej sytuacji klinicznej nie ma wskazań do włączenia terapii gestagennej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3330,7 +3330,7 @@
         {
           "id": "E",
           "text": "żeńskim fenotypem, brakiem owłosienia łonowego i pachowego, żeńskimi narządami płciowymi zewnętrznymi.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3354,7 +3354,7 @@
         {
           "id": "C",
           "text": "dobry dostęp do pola operacyjnego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3398,7 +3398,7 @@
         {
           "id": "E",
           "text": "zwiększenie stężenia czynników krzepnięcia II, VII, IX i X.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3417,7 +3417,7 @@
         {
           "id": "B",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3446,7 +3446,7 @@
         {
           "id": "A",
           "text": "metyldopa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3490,7 +3490,7 @@
         {
           "id": "C",
           "text": "jest wskazaniem do natychmiastowego ukończenia porodu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3519,7 +3519,7 @@
         {
           "id": "B",
           "text": "zwolnienie podstawowej czynności serca płodu poniżej 110 uderzeń na minutę trwające przynajmniej 10 minut.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3558,7 +3558,7 @@
         {
           "id": "C",
           "text": "lokalizacja łożyska na tylnej ścianie macicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3602,7 +3602,7 @@
         {
           "id": "E",
           "text": "protokołu krótkiego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3616,7 +3616,7 @@
         {
           "id": "A",
           "text": "wzrostowi ciśnienia wewnątrz jamy brzusznej towarzyszy mimowolne wyciekanie moczu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3665,7 +3665,7 @@
         {
           "id": "D",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3699,7 +3699,7 @@
         {
           "id": "D",
           "text": "Trichomonas vaginalis.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3733,7 +3733,7 @@
         {
           "id": "D",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3767,7 +3767,7 @@
         {
           "id": "D",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3801,7 +3801,7 @@
         {
           "id": "D",
           "text": "charakterystyczne są uderzenia gorąca.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3825,7 +3825,7 @@
         {
           "id": "B",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3874,7 +3874,7 @@
         {
           "id": "E",
           "text": "część bańkowa jajowodu.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3898,7 +3898,7 @@
         {
           "id": "C",
           "text": "krwawienia miesiączkowe występujące w odstępach co 43 dni - 6 miesięcy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3927,7 +3927,7 @@
         {
           "id": "B",
           "text": "2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3956,7 +3956,7 @@
         {
           "id": "A",
           "text": "zarośnięcie błony dziewiczej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3990,7 +3990,7 @@
         {
           "id": "A",
           "text": "brakiem degeneracji ciałka żółtego i zwiększającą się produkcją progesteronu i estrogenów z powodu wzrastającego poziomu gonadotropiny kosmówkowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4034,7 +4034,7 @@
         {
           "id": "C",
           "text": "mirabegron.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4058,7 +4058,7 @@
         {
           "id": "A",
           "text": "nacięcie ropnia lub jego marsupializacja.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4092,7 +4092,7 @@
         {
           "id": "A",
           "text": "tak, do 3 godzin.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4141,7 +4141,7 @@
         {
           "id": "D",
           "text": "1,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4180,7 +4180,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4209,7 +4209,7 @@
         {
           "id": "D",
           "text": "prolaktyny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4243,7 +4243,7 @@
         {
           "id": "D",
           "text": "1,2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4277,7 +4277,7 @@
         {
           "id": "D",
           "text": "tętnicy biodrowej wewnętrznej lewej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4306,7 +4306,7 @@
         {
           "id": "C",
           "text": "przegrodzona.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4340,7 +4340,7 @@
         {
           "id": "C",
           "text": "3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4384,7 +4384,7 @@
         {
           "id": "E",
           "text": "ziarniszczaka.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4398,7 +4398,7 @@
         {
           "id": "A",
           "text": "brak plemników w ejakulacie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4447,7 +4447,7 @@
         {
           "id": "D",
           "text": "nierództwo.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4481,7 +4481,7 @@
         {
           "id": "D",
           "text": "1,5%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4505,7 +4505,7 @@
         {
           "id": "B",
           "text": "wątroba płodu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4544,7 +4544,7 @@
         {
           "id": "C",
           "text": "w wyniku wykorzystania komórki jajowej dawczyni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4583,7 +4583,7 @@
         {
           "id": "D",
           "text": "deceleracje to trwające 20 sekund i dłużej zwolnienia podstawowej częstości serca płodu o co najmniej 10 uderzeń na minutę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4622,7 +4622,7 @@
         {
           "id": "E",
           "text": "26 kwietnia 2019.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4656,7 +4656,7 @@
         {
           "id": "E",
           "text": "przetokę pęcherzowo-pochwową.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4675,7 +4675,7 @@
         {
           "id": "B",
           "text": "ciąży po zapłodnieniu in vitro.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4714,7 +4714,7 @@
         {
           "id": "C",
           "text": "1,2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4743,7 +4743,7 @@
         {
           "id": "B",
           "text": "110-160 uderzeń/minutę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4777,7 +4777,7 @@
         {
           "id": "B",
           "text": "zespół wykrzepiania wewnątrznaczyniowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4826,7 +4826,7 @@
         {
           "id": "E",
           "text": "hipotrofia płodu w przebiegu niewydolności łożyska.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4860,7 +4860,7 @@
         {
           "id": "E",
           "text": "wywiad rodzinny obciążony rakiem jajnika.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4879,7 +4879,7 @@
         {
           "id": "B",
           "text": "kordocenteza.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4908,7 +4908,7 @@
         {
           "id": "A",
           "text": "hamowania aktywności współczulnej i wzrostu impulsacji w układzie przywspółczulnym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4952,7 +4952,7 @@
         {
           "id": "C",
           "text": "110 - 150 uderzeń na minutę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4976,7 +4976,7 @@
         {
           "id": "A",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5015,7 +5015,7 @@
         {
           "id": "B",
           "text": "operacyjne: wycięcie macicy z przydatkami.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5059,7 +5059,7 @@
         {
           "id": "D",
           "text": "zwiększenie masy mięśniowej macicy oraz przyspieszenie perystaltyki jajowodów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5083,7 +5083,7 @@
         {
           "id": "B",
           "text": "stanowi 3-8% wszystkich nowotworów złośliwych żeńskich narządów płciowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5122,7 +5122,7 @@
         {
           "id": "C",
           "text": "manewr Brachta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5166,7 +5166,7 @@
         {
           "id": "E",
           "text": "przygięcie, obrót, odgięcie, obrót.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5180,7 +5180,7 @@
         {
           "id": "A",
           "text": "raka jajnika.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5234,7 +5234,7 @@
         {
           "id": "E",
           "text": "ciąży bliźniaczej dwukosmówkowej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5258,7 +5258,7 @@
         {
           "id": "C",
           "text": "rodność.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5287,7 +5287,7 @@
         {
           "id": "B",
           "text": "3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5326,7 +5326,7 @@
         {
           "id": "C",
           "text": "pomiaru prędkości przepływu krwi w tętnicy pępowinowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5350,7 +5350,7 @@
         {
           "id": "A",
           "text": "endometrioza.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5389,7 +5389,7 @@
         {
           "id": "B",
           "text": "na wysokości pępka.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5433,7 +5433,7 @@
         {
           "id": "D",
           "text": "lek jest względnie bezpieczny w ciąży, badania na zwierzętach nie wykazały działania teratogennego, ale brak jest badań przeprowadzonych na kobietach ciężarnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5467,7 +5467,7 @@
         {
           "id": "D",
           "text": "ziarniszczak.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5496,7 +5496,7 @@
         {
           "id": "C",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5530,7 +5530,7 @@
         {
           "id": "C",
           "text": "III chwyt Leopolda.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5564,7 +5564,7 @@
         {
           "id": "C",
           "text": "stosunek długiej osi płodu do długiej osi macicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5608,7 +5608,7 @@
         {
           "id": "E",
           "text": "1,2,4.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5622,7 +5622,7 @@
         {
           "id": "A",
           "text": "normospermia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5666,7 +5666,7 @@
         {
           "id": "C",
           "text": "siarczan magnezu podawany dożylnie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5700,7 +5700,7 @@
         {
           "id": "C",
           "text": "wzrostu stężenia estrogenów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5729,7 +5729,7 @@
         {
           "id": "B",
           "text": "wyciek moczu przy wzroście ciśnienia wewnątrz jamy brzusznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5763,7 +5763,7 @@
         {
           "id": "B",
           "text": "przesiewowym badaniu cytologicznym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5802,7 +5802,7 @@
         {
           "id": "C",
           "text": "linia łącząca promontorium z najbardziej do wewnątrz skierowanym punktem spojenia łonowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5846,7 +5846,7 @@
         {
           "id": "E",
           "text": "leczenia karłowatości przysadkowej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5860,7 +5860,7 @@
         {
           "id": "A",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5894,7 +5894,7 @@
         {
           "id": "A",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5948,7 +5948,7 @@
         {
           "id": "E",
           "text": "różnica w długości kości obojczykowej i kości ramiennej powyżej 50 mm.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5982,7 +5982,7 @@
         {
           "id": "E",
           "text": "jednoczesne współistnienie ciąży prawidłowo zlokalizowanej oraz ciąży pozamacicznej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6001,7 +6001,7 @@
         {
           "id": "B",
           "text": "jest niższa niż poza ciążą, ponieważ w czasie ciąży wzrost produkcji erytrocytów nie nadąża za wzrostem objętości krwi krążącej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6035,7 +6035,7 @@
         {
           "id": "B",
           "text": "hipogonadyzmem hipogonadotropowym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6069,7 +6069,7 @@
         {
           "id": "B",
           "text": "dwutlenek węgla.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6103,7 +6103,7 @@
         {
           "id": "B",
           "text": "beta hCG.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6147,7 +6147,7 @@
         {
           "id": "D",
           "text": "leczenie farmakologiczne endometriozy jest ograniczone ze względu na efekty uboczne stosowanych leków.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6166,7 +6166,7 @@
         {
           "id": "A",
           "text": "1,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6200,7 +6200,7 @@
         {
           "id": "A",
           "text": "usunięciu zmienionej części szyjki macicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6234,7 +6234,7 @@
         {
           "id": "A",
           "text": "komórek Sertolego i Leydiga.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6268,7 +6268,7 @@
         {
           "id": "A",
           "text": "50 μg.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6302,7 +6302,7 @@
         {
           "id": "A",
           "text": "położenie płodu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6346,7 +6346,7 @@
         {
           "id": "C",
           "text": "brak macicy i pochwy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6385,7 +6385,7 @@
         {
           "id": "D",
           "text": "za 3 lata.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6414,7 +6414,7 @@
         {
           "id": "C",
           "text": "hormonalna antykoncepcja pozwala zmniejszyć ryzyko wystąpienia raka jajnika, raka szyjki macicy oraz raka błony śluzowej trzonu macicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6438,7 +6438,7 @@
         {
           "id": "A",
           "text": "hipertrofii płodu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6482,7 +6482,7 @@
         {
           "id": "C",
           "text": "ograniczenia płodności, zespołu bólowego miednicy mniejszej, bolesnego miesiączkowania.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6521,7 +6521,7 @@
         {
           "id": "D",
           "text": "estrogenu produkowanego przez komórki ziarniste.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6540,7 +6540,7 @@
         {
           "id": "A",
           "text": "8. rokiem życia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6574,7 +6574,7 @@
         {
           "id": "A",
           "text": "podpotyliczno-ciemieniowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6623,7 +6623,7 @@
         {
           "id": "D",
           "text": "akceleracji.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6647,7 +6647,7 @@
         {
           "id": "B",
           "text": "obniżenie stężenia hemoglobiny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6691,7 +6691,7 @@
         {
           "id": "D",
           "text": "brak laktacji.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6730,7 +6730,7 @@
         {
           "id": "E",
           "text": "wzrost stężenia glukozy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6754,7 +6754,7 @@
         {
           "id": "C",
           "text": "zapobiega poronieniom u kobiet z dziedziczną trombofilią.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6798,7 +6798,7 @@
         {
           "id": "E",
           "text": "najczęściej nie prowadzi do wytworzenia się krwiaka.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6822,7 +6822,7 @@
         {
           "id": "C",
           "text": "preparatów zawierających wyłącznie 17-b estradiol.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6851,7 +6851,7 @@
         {
           "id": "B",
           "text": "w leczeniu guza przysadki mózgowej wytwarzającego prolaktynę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6895,7 +6895,7 @@
         {
           "id": "D",
           "text": "1,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6919,7 +6919,7 @@
         {
           "id": "B",
           "text": "2. chwyt Leopolda.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6953,7 +6953,7 @@
         {
           "id": "B",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6997,7 +6997,7 @@
         {
           "id": "D",
           "text": "ostre odmiedniczkowe zapalenie nerek.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7031,7 +7031,7 @@
         {
           "id": "D",
           "text": "męski fenotyp.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7060,7 +7060,7 @@
         {
           "id": "C",
           "text": "tylko 3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7089,7 +7089,7 @@
         {
           "id": "B",
           "text": "ucisku główki i podrażnieniu nerwu błędnego i nie stanowi niepomyślnego objawu, jeśli nie kojarzy się z przedłużonymi zmianami podstawowej akcji serca.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7123,7 +7123,7 @@
         {
           "id": "B",
           "text": "wysokie stężenia FSH.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7152,7 +7152,7 @@
         {
           "id": "A",
           "text": "metronidazolem.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7191,7 +7191,7 @@
         {
           "id": "B",
           "text": "cyprofloksacyna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7240,7 +7240,7 @@
         {
           "id": "E",
           "text": "ocena wolnego DNA płodowego we krwi matki.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7254,7 +7254,7 @@
         {
           "id": "A",
           "text": "odsetek plemników o prawidłowej budowie poniżej 4%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7298,7 +7298,7 @@
         {
           "id": "C",
           "text": "pH > 4,5, wydzielina homogenna, szara lub mleczna, obecność komórek jeżowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7327,7 +7327,7 @@
         {
           "id": "B",
           "text": "przeprowadza się cytoredukcję w największym możliwym zakresie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7371,7 +7371,7 @@
         {
           "id": "D",
           "text": "1,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7405,7 +7405,7 @@
         {
           "id": "D",
           "text": "wzrost ryzyka raka piersi i raka odbytnicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7429,7 +7429,7 @@
         {
           "id": "B",
           "text": "1,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7463,7 +7463,7 @@
         {
           "id": "B",
           "text": "toksoplazmozą.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7502,7 +7502,7 @@
         {
           "id": "C",
           "text": "labetalolu, nifedypiny, metylodopy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7526,7 +7526,7 @@
         {
           "id": "A",
           "text": "palenie tytoniu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7580,7 +7580,7 @@
         {
           "id": "E",
           "text": "hipogonadyzm hipogonadotropowy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7614,7 +7614,7 @@
         {
           "id": "E",
           "text": "położenie stópkowe.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7628,7 +7628,7 @@
         {
           "id": "A",
           "text": "porodu przedwczesnego w przebiegu niewydolności cieśniowo-szyjkowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7682,7 +7682,7 @@
         {
           "id": "E",
           "text": "wykonać natychmiast test tolerancji z obciążeniem 75 g glukozy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7711,7 +7711,7 @@
         {
           "id": "D",
           "text": "inhibitory konwertazy angiotensyny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7745,7 +7745,7 @@
         {
           "id": "D",
           "text": "cholestaza ciężarnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7779,7 +7779,7 @@
         {
           "id": "D",
           "text": "stosowanie przez matkę penicylin półsyntetycznych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7808,7 +7808,7 @@
         {
           "id": "C",
           "text": "Ashermana.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7847,7 +7847,7 @@
         {
           "id": "D",
           "text": "tętnicę środkową mózgu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7876,7 +7876,7 @@
         {
           "id": "C",
           "text": "1,2,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7900,7 +7900,7 @@
         {
           "id": "A",
           "text": "stosunek poszczególnych części płodu do poszczególnych części macicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7944,7 +7944,7 @@
         {
           "id": "C",
           "text": "przepływu krwi w tętnicy pępowinowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7968,7 +7968,7 @@
         {
           "id": "A",
           "text": "wzrost czynności serca, wzrost objętości minutowej serca, wzrost objętości krwi krążącej, obniżenie oporów naczyń obwodowych i płucnych, obniżenie ciśnienia tętniczego krwi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8012,7 +8012,7 @@
         {
           "id": "C",
           "text": "otyłość.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8046,7 +8046,7 @@
         {
           "id": "C",
           "text": "1,2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8070,7 +8070,7 @@
         {
           "id": "A",
           "text": "50 μg.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8114,7 +8114,7 @@
         {
           "id": "C",
           "text": "stopnia dojrzałości łożyska.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8158,7 +8158,7 @@
         {
           "id": "E",
           "text": "2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8177,7 +8177,7 @@
         {
           "id": "B",
           "text": "podpotyliczno-ciemieniowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8216,7 +8216,7 @@
         {
           "id": "C",
           "text": "powiększenia gruczołów sutkowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8250,7 +8250,7 @@
         {
           "id": "C",
           "text": "leczenia nawrotów ropnia gruczołu Bartholina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8284,7 +8284,7 @@
         {
           "id": "C",
           "text": "3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8308,7 +8308,7 @@
         {
           "id": "A",
           "text": "stosunek szyjki macicy do osi pochwy, rozwarcie, skrócenie szyjki macicy, wysokość punktu przodującego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8342,7 +8342,7 @@
         {
           "id": "A",
           "text": "zaburzeń miesiączkowania o typie oligomenorrhea.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8386,7 +8386,7 @@
         {
           "id": "C",
           "text": "waginozy bakteryjnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8430,7 +8430,7 @@
         {
           "id": "E",
           "text": "endometrioza.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8459,7 +8459,7 @@
         {
           "id": "D",
           "text": "raka kosmówki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8478,7 +8478,7 @@
         {
           "id": "A",
           "text": "niedokrwistość, mięśniaki macicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8522,7 +8522,7 @@
         {
           "id": "C",
           "text": "pierwotne bolesne miesiączkowanie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8551,7 +8551,7 @@
         {
           "id": "B",
           "text": "szczepienie profilaktyczne przeciwko HPV.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8590,7 +8590,7 @@
         {
           "id": "C",
           "text": "1, 3, 4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8619,7 +8619,7 @@
         {
           "id": "B",
           "text": "1,2,5,6.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8658,7 +8658,7 @@
         {
           "id": "C",
           "text": "w ciągu 72-96 godzin po kontakcie podanie immunoglobuliny domięśniowo pacjentce.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8702,7 +8702,7 @@
         {
           "id": "E",
           "text": "2, 3, 5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8716,7 +8716,7 @@
         {
           "id": "A",
           "text": "kolposkopia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8770,7 +8770,7 @@
         {
           "id": "E",
           "text": "cukrzyca ojca dziecka.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8789,7 +8789,7 @@
         {
           "id": "B",
           "text": "2, 4, 5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8838,7 +8838,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8872,7 +8872,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8901,7 +8901,7 @@
         {
           "id": "D",
           "text": "2,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8930,7 +8930,7 @@
         {
           "id": "C",
           "text": "przedwczesne pęknięcie błon płodowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8964,7 +8964,7 @@
         {
           "id": "C",
           "text": "zespół przetoczenia krwi między płodami (TTTS) i zalecić laserową obliterację połączeń naczyniowych między płodami.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9003,7 +9003,7 @@
         {
           "id": "D",
           "text": "neuropatii cukrzycowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -9022,7 +9022,7 @@
         {
           "id": "A",
           "text": "występowanie raka szyjki macicy jest skorelowane z występowaniem infekcji wirusem ludzkiego brodawczaka (HPV).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -9061,7 +9061,7 @@
         {
           "id": "B",
           "text": "płaskonabłonkowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9105,7 +9105,7 @@
         {
           "id": "D",
           "text": "choriocarcinoma.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -9139,7 +9139,7 @@
         {
           "id": "D",
           "text": "szczepienie przeciwko HPV.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -9178,7 +9178,7 @@
         {
           "id": "E",
           "text": "przezpochwowe badanie USG narządów miednicy małej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -9202,7 +9202,7 @@
         {
           "id": "C",
           "text": "BRCA1 i BRCA2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9231,7 +9231,7 @@
         {
           "id": "B",
           "text": "1,2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9270,7 +9270,7 @@
         {
           "id": "C",
           "text": "progestageny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9309,7 +9309,7 @@
         {
           "id": "D",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -9333,7 +9333,7 @@
         {
           "id": "B",
           "text": "antygen CA125.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9372,7 +9372,7 @@
         {
           "id": "C",
           "text": "szczepienie dziewcząt przed inicjacją seksualną szczepionką anty-HPV.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9401,7 +9401,7 @@
         {
           "id": "B",
           "text": "rak endometrium.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9435,7 +9435,7 @@
         {
           "id": "B",
           "text": "polega na miejscowej radioterapii nowotworów narządów płciowych u kobiet.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9479,7 +9479,7 @@
         {
           "id": "D",
           "text": "1,2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -9508,7 +9508,7 @@
         {
           "id": "C",
           "text": "2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9547,7 +9547,7 @@
         {
           "id": "D",
           "text": "1,4,5,6,7,8.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
