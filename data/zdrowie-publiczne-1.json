@@ -32,7 +32,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -61,7 +61,7 @@
         {
           "id": "D",
           "text": "16%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -90,7 +90,7 @@
         {
           "id": "C",
           "text": "Europejski Komitet Regionalny WHO jako dokument pt. „Zdrowie 2020. Europejska polityka wspierająca działania rządów i społeczeństw na rzecz zdrowia i dobrostanu człowieka”.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -119,7 +119,7 @@
         {
           "id": "B",
           "text": "zgłoszenie podejrzenia choroby zakaźnej nie później niż w ciągu 24 godzin do państwowego powiatowego inspektora sanitarnego właściwego dla miejsca powzięcia podejrzenia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -148,7 +148,7 @@
         {
           "id": "A",
           "text": "oceny technologii medycznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -187,7 +187,7 @@
         {
           "id": "B",
           "text": "QALY.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -216,7 +216,7 @@
         {
           "id": "A",
           "text": "około 10 na 100 pacjentów hospitalizowanych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -255,7 +255,7 @@
         {
           "id": "B",
           "text": "urazom w wyniku upadków dzieci na placu zabaw.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -299,7 +299,7 @@
         {
           "id": "D",
           "text": "z Maastricht.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -333,7 +333,7 @@
         {
           "id": "D",
           "text": "oceny technologii medycznych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -352,7 +352,7 @@
         {
           "id": "A",
           "text": "ankiety.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -396,7 +396,7 @@
         {
           "id": "C",
           "text": "układu krążenia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -435,7 +435,7 @@
         {
           "id": "D",
           "text": "prawdopodobieństwo podporządkowania się zaleceniom.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -474,7 +474,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -498,7 +498,7 @@
         {
           "id": "C",
           "text": "przecięcia dróg transmisji zakażenia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -527,7 +527,7 @@
         {
           "id": "B",
           "text": "1,2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -576,7 +576,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -595,7 +595,7 @@
         {
           "id": "B",
           "text": "badania kliniczno-kontrolnego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -634,7 +634,7 @@
         {
           "id": "C",
           "text": "dobrowolny system jakości prowadzony w oparciu o dostępne i opublikowane standardy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -678,7 +678,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -712,7 +712,7 @@
         {
           "id": "E",
           "text": "wskaźnikiem narażenia na szkodliwy czynnik środowiskowy pochodzącym z badań stężeń ksenobiotyku lub jego metabolitu w materiale biologicznym pobranym od osoby narażonej na ten czynnik.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -726,7 +726,7 @@
         {
           "id": "A",
           "text": "świadomość pacjenta na temat związku otyłości ze zdrowiem.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -770,7 +770,7 @@
         {
           "id": "C",
           "text": "epizoocji.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -809,7 +809,7 @@
         {
           "id": "D",
           "text": "z epidemiologicznego punktu widzenia zakażenia szpitalne mogą mieć charakter pandemii.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -848,7 +848,7 @@
         {
           "id": "E",
           "text": "w krajach rozwiniętych rzeczywisty współczynnik zgonów jest zazwyczaj większy z powodu większego w tych krajach udziału osób starych w populacji.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -872,7 +872,7 @@
         {
           "id": "C",
           "text": "5%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -916,7 +916,7 @@
         {
           "id": "E",
           "text": "jednostki samorządu terytorialnego i ministrów.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -945,7 +945,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -969,7 +969,7 @@
         {
           "id": "B",
           "text": "pomiar ciśnienia tętniczego w czasie wizyty pacjenta u lekarza rodzinnego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1018,7 +1018,7 @@
         {
           "id": "E",
           "text": "ogniska epidemicznego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1042,7 +1042,7 @@
         {
           "id": "C",
           "text": "analiza demograficzna i epidemiologiczna; analiza stanu i wykorzystania zasobów; prognozy potrzeb zdrowotnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1066,7 +1066,7 @@
         {
           "id": "A",
           "text": "choroby układu krążenia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1115,7 +1115,7 @@
         {
           "id": "D",
           "text": "szpitalu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1134,7 +1134,7 @@
         {
           "id": "A",
           "text": "obserwacyjne.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1183,7 +1183,7 @@
         {
           "id": "D",
           "text": "wiarygodna ocena różnicy w zakresie umieralności z powodu chorób nowotworowych pomiędzy populacjami miast A i B nie jest możliwa bez przeprowadzenia procedury standaryzacji pod względem wieku.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1212,7 +1212,7 @@
         {
           "id": "C",
           "text": "Państwowej Inspekcji Sanitarnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1256,7 +1256,7 @@
         {
           "id": "E",
           "text": "Zakładu Ubezpieczeń Społecznych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1290,7 +1290,7 @@
         {
           "id": "E",
           "text": "2,3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1309,7 +1309,7 @@
         {
           "id": "B",
           "text": "Główny Urząd Statystyczny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1348,7 +1348,7 @@
         {
           "id": "C",
           "text": "wskaźnik długości życia skorygowany jakością.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1372,7 +1372,7 @@
         {
           "id": "A",
           "text": "zakazu działań i zachowań szkodliwych dla zdrowia jednostek i wspólnoty.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1416,7 +1416,7 @@
         {
           "id": "C",
           "text": "metody badań przesiewowych nie muszą być akceptowane przez badanych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1445,7 +1445,7 @@
         {
           "id": "B",
           "text": "wskaźnik lat zdrowego życia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1489,7 +1489,7 @@
         {
           "id": "D",
           "text": "szczepienia pracowników służby zdrowia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1518,7 +1518,7 @@
         {
           "id": "C",
           "text": "nierówności w zdrowiu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1547,7 +1547,7 @@
         {
           "id": "B",
           "text": "choroba niedokrwienna serca.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1576,7 +1576,7 @@
         {
           "id": "A",
           "text": "5/50 000 x 100 000 = 10.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1630,7 +1630,7 @@
         {
           "id": "E",
           "text": "wcześniejsze zachowanie antyspołeczne.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1664,7 +1664,7 @@
         {
           "id": "E",
           "text": "zdrowia publicznego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1683,7 +1683,7 @@
         {
           "id": "B",
           "text": "zwiększanie się nierówności w zdrowiu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1732,7 +1732,7 @@
         {
           "id": "E",
           "text": "profilaktyki I oraz III fazy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1751,7 +1751,7 @@
         {
           "id": "B",
           "text": "1,2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1800,7 +1800,7 @@
         {
           "id": "E",
           "text": "liczby osób w populacji chorych na daną chorobę.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1814,7 +1814,7 @@
         {
           "id": "A",
           "text": "57/560 x 100% = 10,2%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1853,7 +1853,7 @@
         {
           "id": "B",
           "text": "autoselekcja badających się powoduje, że próba nie jest reprezentatywna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1887,7 +1887,7 @@
         {
           "id": "B",
           "text": "swoistość testu wynosi 11%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1921,7 +1921,7 @@
         {
           "id": "B",
           "text": "ochrony praw uczestników badań klinicznych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1960,7 +1960,7 @@
         {
           "id": "C",
           "text": "liczbę ludności w tej dzielnicy w środku roku kalendarzowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1999,7 +1999,7 @@
         {
           "id": "D",
           "text": "przed osiągnięciem 60. lub 65. r.ż.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2033,7 +2033,7 @@
         {
           "id": "D",
           "text": "3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2067,7 +2067,7 @@
         {
           "id": "D",
           "text": "1,2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2101,7 +2101,7 @@
         {
           "id": "D",
           "text": "współczynnik śmiertelności wynoszący 200 / 1000.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2140,7 +2140,7 @@
         {
           "id": "E",
           "text": "przebycia przez osobę hospitalizowaną wirusowego zapalenia górnych dróg oddechowych w okresie 4 tygodni poprzedzających hospitalizację.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2164,7 +2164,7 @@
         {
           "id": "C",
           "text": "liczby nowych przypadków zachorowań na tę chorobę w danym okresie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2188,7 +2188,7 @@
         {
           "id": "A",
           "text": "u 5% kobiet objętych badaniem uzyskano fałszywie dodatni wynik.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2232,7 +2232,7 @@
         {
           "id": "C",
           "text": "śmiertelność.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2256,7 +2256,7 @@
         {
           "id": "A",
           "text": "test jest w 100% swoisty.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2310,7 +2310,7 @@
         {
           "id": "E",
           "text": "czynniki finansowe.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2344,7 +2344,7 @@
         {
           "id": "E",
           "text": "żadne szczepienie nie jest zalecane.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2363,7 +2363,7 @@
         {
           "id": "B",
           "text": "choroba ma długi okres trwania.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2397,7 +2397,7 @@
         {
           "id": "B",
           "text": "powstałą po przerwie nieprzekraczającej 60 dni, spowodowaną tą samą chorobą, która była przyczyną niezdolności do pracy przed przerwą.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2436,7 +2436,7 @@
         {
           "id": "C",
           "text": "profilaktyką II fazy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2460,7 +2460,7 @@
         {
           "id": "A",
           "text": "wyników prawdziwie ujemnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2494,7 +2494,7 @@
         {
           "id": "A",
           "text": "dzieli zbiór na pół (połowa jest poniżej tej wartości, a połowa powyżej).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2543,7 +2543,7 @@
         {
           "id": "D",
           "text": "opisowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2577,7 +2577,7 @@
         {
           "id": "D",
           "text": "odchylenia standardowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2606,7 +2606,7 @@
         {
           "id": "C",
           "text": "kliniczno-kontrolnego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2630,7 +2630,7 @@
         {
           "id": "A",
           "text": "nierówności w zdrowiu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2679,7 +2679,7 @@
         {
           "id": "D",
           "text": "ospy prawdziwej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2708,7 +2708,7 @@
         {
           "id": "C",
           "text": "chore na gruźlicę płuc, kiłę i rzeżączkę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",

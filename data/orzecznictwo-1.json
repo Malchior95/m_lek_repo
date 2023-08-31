@@ -22,7 +22,7 @@
         {
           "id": "C",
           "text": "1 rok w przypadku astmy oskrzelowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -61,7 +61,7 @@
         {
           "id": "D",
           "text": "za drogę do lub z pracy uważa się również miejsce zwykłego spożywania posiłków.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -100,7 +100,7 @@
         {
           "id": "E",
           "text": "obniżenie zdolności do wykonywania pracy przez naruszoną sprawność organizmu powodującą ograniczenia w wykonywaniu pracy zarobkowej, istotnie obniżające wydajność pracy na danym stanowisku w porównaniu do wydajności, jaką wykazują osoby o podobnych kwalifikacjach zawodowych z pełną sprawnością psychiczną i fizyczną.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -124,7 +124,7 @@
         {
           "id": "C",
           "text": "1,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -153,7 +153,7 @@
         {
           "id": "B",
           "text": "Minister właściwy do spraw zabezpieczenia społecznego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -182,7 +182,7 @@
         {
           "id": "A",
           "text": "pracownicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -231,7 +231,7 @@
         {
           "id": "D",
           "text": "renty z tytułu niezdolności do pracy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -250,7 +250,7 @@
         {
           "id": "A",
           "text": "lekarz orzecznik ZUS lub komisja lekarska ZUS.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -299,7 +299,7 @@
         {
           "id": "D",
           "text": "12 miesięcy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -328,7 +328,7 @@
         {
           "id": "C",
           "text": "skierować ubezpieczonego na obserwację szpitalną.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -362,7 +362,7 @@
         {
           "id": "C",
           "text": "ciężki wypadek przy pracy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -401,7 +401,7 @@
         {
           "id": "D",
           "text": "nieubezpieczonemu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -440,7 +440,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -474,7 +474,7 @@
         {
           "id": "E",
           "text": "na wniosek osoby zainteresowanej, jej przedstawiciela ustawowego lub za ich zgodą na wniosek ośrodka pomocy społecznej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -498,7 +498,7 @@
         {
           "id": "C",
           "text": "skierować osoby ubezpieczonej do dowolnego lekarza na badanie specjalistyczne.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -537,7 +537,7 @@
         {
           "id": "D",
           "text": "po zaprzestaniu pracy w kontakcie z tymi substancjami, czynnikami lub pyłami; koszty ponosi pracodawca.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -571,7 +571,7 @@
         {
           "id": "D",
           "text": "stałej lub długotrwałej opieki i pomocy innej osoby w zaspokajaniu podstawowych potrzeb życiowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -590,7 +590,7 @@
         {
           "id": "A",
           "text": "lekarzom mającym upoważnienie ZUS do wystawiania zaświadczeń lekarskich.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -629,7 +629,7 @@
         {
           "id": "B",
           "text": "sprzeciw do komisji lekarskiej ZUS w terminie 14 dni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -673,7 +673,7 @@
         {
           "id": "D",
           "text": "celowość przekwalifikowania zawodowego ze względu na niezdolność do pracy w dotychczasowym zawodzie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -712,7 +712,7 @@
         {
           "id": "E",
           "text": "zasiłek pielęgnacyjny.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -741,7 +741,7 @@
         {
           "id": "D",
           "text": "zawał mięśnia sercowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -775,7 +775,7 @@
         {
           "id": "D",
           "text": "całkowitą niezdolność do pracy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -814,7 +814,7 @@
         {
           "id": "E",
           "text": "ubezpieczonemu, który po wyczerpaniu zasiłku chorobowego jest nadal niezdolny do pracy, a dalsze leczenie lub rehabilitacja lecznicza rokują odzyskanie zdolności do pracy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -843,7 +843,7 @@
         {
           "id": "D",
           "text": "zawał mięśnia sercowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -877,7 +877,7 @@
         {
           "id": "D",
           "text": "w znacznym stopniu utraciła zdolność do wykonywania pracy zgodnej z poziomem posiadanych kwalifikacji.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -916,7 +916,7 @@
         {
           "id": "E",
           "text": "zawał mięśnia sercowego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -945,7 +945,7 @@
         {
           "id": "D",
           "text": "jednorazowe odszkodowanie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -969,7 +969,7 @@
         {
           "id": "B",
           "text": "zawał mięśnia sercowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1018,7 +1018,7 @@
         {
           "id": "E",
           "text": "z powodu leczenia sanatoryjnego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1032,7 +1032,7 @@
         {
           "id": "A",
           "text": "lekarz orzecznik ZUS.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1086,7 +1086,7 @@
         {
           "id": "E",
           "text": "osoba ubezpieczona.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1115,7 +1115,7 @@
         {
           "id": "D",
           "text": "każdy lekarz po uzyskaniu upoważnienia do wystawiania zaświadczeń lekarskich o czasowej niezdolności do pracy przez ZUS.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1134,7 +1134,7 @@
         {
           "id": "A",
           "text": "częściowo niezdolna do pracy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1178,7 +1178,7 @@
         {
           "id": "C",
           "text": "jej członek może być jednocześnie lekarzem orzecznikiem ZUS.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1217,7 +1217,7 @@
         {
           "id": "D",
           "text": "sprzeciwu do komisji lekarskiej ZUS.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1241,7 +1241,7 @@
         {
           "id": "B",
           "text": "zasiłek chorobowy i świadczenie rehabilitacyjne w wysokości 100% wymiaru podstawy oraz odszkodowanie jednorazowe, ale tylko w przypadku, gdy osoba doznała stałego lub długotrwałego uszczerbku na zdrowiu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1285,7 +1285,7 @@
         {
           "id": "D",
           "text": "1,2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1314,7 +1314,7 @@
         {
           "id": "C",
           "text": "osobie ubezpieczonej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1348,7 +1348,7 @@
         {
           "id": "C",
           "text": "sporządza wypis z kopii tego zaświadczenia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1382,7 +1382,7 @@
         {
           "id": "C",
           "text": "lekarza psychiatrę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1411,7 +1411,7 @@
         {
           "id": "B",
           "text": "renta szkoleniowa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1460,7 +1460,7 @@
         {
           "id": "E",
           "text": "1 rok.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1479,7 +1479,7 @@
         {
           "id": "B",
           "text": "stopniu niepełnosprawności.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1508,7 +1508,7 @@
         {
           "id": "A",
           "text": "jeden rok.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1542,7 +1542,7 @@
         {
           "id": "A",
           "text": "przypadającą w okresie ciąży.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1596,7 +1596,7 @@
         {
           "id": "E",
           "text": "1 rok.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1625,7 +1625,7 @@
         {
           "id": "D",
           "text": "gruźlica.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1654,7 +1654,7 @@
         {
           "id": "C",
           "text": "lekarz psychiatra.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1698,7 +1698,7 @@
         {
           "id": "E",
           "text": "360 dni.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1722,7 +1722,7 @@
         {
           "id": "C",
           "text": "doznała stałego lub długotrwałego uszczerbku na zdrowiu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1766,7 +1766,7 @@
         {
           "id": "E",
           "text": "5 lat.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1800,7 +1800,7 @@
         {
           "id": "E",
           "text": "12 miesięcy od dnia, w którym decyzja stała się ostateczna.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1819,7 +1819,7 @@
         {
           "id": "B",
           "text": "kodem B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1868,7 +1868,7 @@
         {
           "id": "E",
           "text": "niezdolności do pracy, która powstała w okresie ubezpieczenia albo nie później niż w ciągu 18 miesięcy od ustania zatrudnienia.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1902,7 +1902,7 @@
         {
           "id": "E",
           "text": "270 dni.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1921,7 +1921,7 @@
         {
           "id": "B",
           "text": "oryginale i drugiej kopii zaświadczenia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1960,7 +1960,7 @@
         {
           "id": "C",
           "text": "kod C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1999,7 +1999,7 @@
         {
           "id": "D",
           "text": "orzeczenie o stopniu niepełnosprawności.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2033,7 +2033,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A+B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2062,7 +2062,7 @@
         {
           "id": "C",
           "text": "Państwowa Inspekcja Sanitarna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2091,7 +2091,7 @@
         {
           "id": "B",
           "text": "w czasie zatrudnienia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2135,7 +2135,7 @@
         {
           "id": "D",
           "text": "orzeczenia lekarzy medycyny pracy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2169,7 +2169,7 @@
         {
           "id": "D",
           "text": "organ Państwowej Inspekcji Sanitarnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2208,7 +2208,7 @@
         {
           "id": "E",
           "text": "renty z tytułu niezdolności do pracy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2242,7 +2242,7 @@
         {
           "id": "E",
           "text": "ubezpieczonemu, który stał się niezdolny do pracy z powodu choroby w czasie trwania ubezpieczenia chorobowego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2256,7 +2256,7 @@
         {
           "id": "A",
           "text": "niezdolność do pracy powstałą po przerwie nieprzekraczającej 60 dni - spowodowaną tą samą chorobą, która była przyczyną niezdolności do pracy przed przerwą.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2305,7 +2305,7 @@
         {
           "id": "D",
           "text": "zasiłek wyrównawczy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2339,7 +2339,7 @@
         {
           "id": "D",
           "text": "wojewódzkiego zespołu do spraw orzekania o niepełnosprawności.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2368,7 +2368,7 @@
         {
           "id": "C",
           "text": "80% podstawy wymiaru zasiłku.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2412,7 +2412,7 @@
         {
           "id": "E",
           "text": "znacznym stopniu niepełnosprawności.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2436,7 +2436,7 @@
         {
           "id": "C",
           "text": "na okres nie dłuższy niż 5 lat, chyba że zgodnie z wiedzą medyczną nie ma rokowań odzyskania zdolności do pracy przed upływem tego okresu – wówczas na okres dłuższy niż 5 lat.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",

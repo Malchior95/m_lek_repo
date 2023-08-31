@@ -32,7 +32,7 @@
         {
           "id": "E",
           "text": "lekarz ma obowiązek podjąć takie działania, gdyż dotyczą one czynu zabronionego, o którym wypowiada się art. 240 § 1. Kodeksu karnego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -56,7 +56,7 @@
         {
           "id": "C",
           "text": "zorganizować konsylium bez udziału znachora-homeopaty.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -100,7 +100,7 @@
         {
           "id": "E",
           "text": "1,4.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -124,7 +124,7 @@
         {
           "id": "C",
           "text": "nie, ponieważ odmówienie skierowania naruszyło prawo pacjentki do informacji i do świadczeń zdrowotnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -148,7 +148,7 @@
         {
           "id": "A",
           "text": "tak, ale w wyjątkowych przypadkach i musi w tej sytuacji powiadomić chorego o możliwości skorzystania z pomocy w innym miejscu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -192,7 +192,7 @@
         {
           "id": "C",
           "text": "3 miesięcy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -216,7 +216,7 @@
         {
           "id": "A",
           "text": "1,2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -270,7 +270,7 @@
         {
           "id": "E",
           "text": "winien odnotować swoje czynności w dokumentacji medycznej pacjenta, oraz powinien w miarę możliwości skonsultować je z innym lekarzem.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -289,7 +289,7 @@
         {
           "id": "B",
           "text": "dokument ten ogłasza Główny Inspektor Sanitarny w dzienniku urzędowym Ministra Zdrowia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -338,7 +338,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -362,7 +362,7 @@
         {
           "id": "C",
           "text": "3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -406,7 +406,7 @@
         {
           "id": "E",
           "text": "właściwej miejscowo lokalnej komisji etycznej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -440,7 +440,7 @@
         {
           "id": "E",
           "text": "lekarz ma prawo podjąć tego typu interwencję w celach profilaktyczno- terapeutycznych za zgodą pacjenta oraz stosownej komisji etycznej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -469,7 +469,7 @@
         {
           "id": "D",
           "text": "zakaz stosowania takich metod w sposób bezpośredni sformułowany został w treści Kodeksu Etyki Lekarskiej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -498,7 +498,7 @@
         {
           "id": "C",
           "text": "tak, w formie pisemnej przed badaniem.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -522,7 +522,7 @@
         {
           "id": "A",
           "text": "ma obowiązek poinformować organy ścigania o popełnionym przestępstwie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -576,7 +576,7 @@
         {
           "id": "E",
           "text": "ma swobodę wyboru w zakresie metod postępowania, które uzna za najskuteczniejsze w zakresie ograniczonym aktualną wiedzą medyczną i rzeczywistymi potrzebami pacjenta.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -610,7 +610,7 @@
         {
           "id": "E",
           "text": "może podpisać taką klauzulę i będzie ona wówczas skuteczna, ale nie jest do tego zobowiązany.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -639,7 +639,7 @@
         {
           "id": "D",
           "text": "jeśli pacjent potrzebuje natychmiastowego udzielenia takiego świadczenia ze względu na zagrożenie życia lub zdrowia należy udzielić mu takiej pomocy bez względu na brak kontraktu zawartego z NFZ.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -678,7 +678,7 @@
         {
           "id": "E",
           "text": "może ujawnić tajemnicę lekarską i udzielić informacji partnerce zmarłego pacjenta jedynie, gdy jest to choroba zakaźna stanowiąca zagrożenie dla życia i zdrowia kobiety.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -707,7 +707,7 @@
         {
           "id": "D",
           "text": "tak, kodeks w sposób wyraźny wskazuje, że lekarz nie może stosować eutanazji i pomagać choremu w dokonaniu samobójstwa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -731,7 +731,7 @@
         {
           "id": "B",
           "text": "2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -760,7 +760,7 @@
         {
           "id": "A",
           "text": "dobro chorego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -809,7 +809,7 @@
         {
           "id": "D",
           "text": "lekarz nie wykonuje szczepienia, ale zamieszcza stosowną adnotację w kwartalnym sprawozdaniu przekazywanym państwowemu powiatowemu inspektorowi sanitarnemu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -843,7 +843,7 @@
         {
           "id": "D",
           "text": "ma uzasadnione zastrzeżenia do jego postawy etycznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -882,7 +882,7 @@
         {
           "id": "E",
           "text": "udzielania choremu pomocy w popełnieniu samobójstwa.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -916,7 +916,7 @@
         {
           "id": "E",
           "text": "przedstawiciela ustawowego pacjenta.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -945,7 +945,7 @@
         {
           "id": "D",
           "text": "3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -964,7 +964,7 @@
         {
           "id": "A",
           "text": "tak, wynika on z Kodeksu Etyki Lekarskiej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1018,7 +1018,7 @@
         {
           "id": "E",
           "text": "prawdziwe są stwierdzenia A, B i C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1037,7 +1037,7 @@
         {
           "id": "B",
           "text": "zapewnić choremu konsultację innego lekarza, mając świadomość, że za całość postępowania odpowiada lekarz prowadzący leczenie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1086,7 +1086,7 @@
         {
           "id": "E",
           "text": "zadbanie o to, aby on sam jak również inny personel medyczny przestrzegał w postępowaniu z pacjentem zasady poszanowania intymności i godności osobistej pacjenta.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1100,7 +1100,7 @@
         {
           "id": "A",
           "text": "zapłodnienia pozaustrojowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1139,7 +1139,7 @@
         {
           "id": "B",
           "text": "tak i stanowi ono fragment art. 57 ust. 1 Kodeksu Etyki Lekarskiej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1178,7 +1178,7 @@
         {
           "id": "C",
           "text": "tak, jest to jedno z praw pacjenta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1202,7 +1202,7 @@
         {
           "id": "A",
           "text": "jest obowiązkiem lekarza niezależnie od tego, czy pacjent prosił o przekazanie informacji.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1251,7 +1251,7 @@
         {
           "id": "D",
           "text": "przepisy KEL dopuszczają taką możliwość tylko wyjątkowo, w szczególnych przypadkach zagrożenia życia lub zdrowia pacjenta lub innych osób.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1285,7 +1285,7 @@
         {
           "id": "D",
           "text": "właściwa Okręgowa Rada Lekarska.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1314,7 +1314,7 @@
         {
           "id": "C",
           "text": "tak, Kodeks Etyki Lekarskiej wskazuje, iż działanie to może być podjęte w wyjątkowych sytuacjach.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1358,7 +1358,7 @@
         {
           "id": "E",
           "text": "do zasad wyrażonych w uchwałach władz samorządu lekarskiego, w orzecznictwie sądów lekarskich oraz dobrych obyczajów przyjętych przez środowisko lekarskie.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1387,7 +1387,7 @@
         {
           "id": "D",
           "text": "nie wolno.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1416,7 +1416,7 @@
         {
           "id": "C",
           "text": "udzielić informacji na temat potencjalnych skutków poniesionych obrażeń oraz proponowanej diagnostyki i następnie postąpić zgodnie z wolą pacjenta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1460,7 +1460,7 @@
         {
           "id": "E",
           "text": "lekarza i jest związana z oceną szans leczniczych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1484,7 +1484,7 @@
         {
           "id": "C",
           "text": "nie dopuszcza klonowania ludzi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1518,7 +1518,7 @@
         {
           "id": "C",
           "text": "3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1557,7 +1557,7 @@
         {
           "id": "D",
           "text": "lekarz może podjąć takie czynności, w chwili, gdy zwłoka spowodowana postępowaniem w sprawie uzyskania zgody groziłaby pacjentowi niebezpieczeństwem utraty życia, ciężkiego uszkodzenia ciała lub ciężkiego rozstroju zdrowia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1576,7 +1576,7 @@
         {
           "id": "A",
           "text": "wyłącznie zbadanie pacjenta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1615,7 +1615,7 @@
         {
           "id": "B",
           "text": "tytułem takim nie można się w ogóle posługiwać, gdyż on nie istnieje w sensie prawnym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1664,7 +1664,7 @@
         {
           "id": "E",
           "text": "wyłączyć respirator i wystawić kartę zgonu.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1698,7 +1698,7 @@
         {
           "id": "E",
           "text": "Kodeks Etyki Lekarskiej wprost wskazuje, że lekarz ustalający kolejność pacjentów powinien opierać się na kryteriach medycznych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1732,7 +1732,7 @@
         {
           "id": "E",
           "text": "kobieta w ciąży może być uczestnikiem takich działań; ustawa określa w tym zakresie szczególne obowiązki lekarza.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1746,7 +1746,7 @@
         {
           "id": "A",
           "text": "każdy lekarz.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1795,7 +1795,7 @@
         {
           "id": "D",
           "text": "tak, od 16. r. ż. posiada takie prawo.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1814,7 +1814,7 @@
         {
           "id": "A",
           "text": "zachować szczególną ostrożność w formułowaniu opinii o działalności zawodowej tego lekarza, w szczególności nie powinien publicznie dyskredytować go w jakikolwiek sposób.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1868,7 +1868,7 @@
         {
           "id": "E",
           "text": "3,5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1897,7 +1897,7 @@
         {
           "id": "D",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1931,7 +1931,7 @@
         {
           "id": "D",
           "text": "istnieje prawdopodobieństwo wystąpienia zagrożenia epidemicznego lub ze względu na bezpieczeństwo zdrowotne pacjenta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1960,7 +1960,7 @@
         {
           "id": "C",
           "text": "w badaniach na człowieku interes nauki lub społeczeństwa nie powinien nigdy być przedkładany nad uwarunkowania związane z dobrem badanego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1999,7 +1999,7 @@
         {
           "id": "D",
           "text": "tak, ale tylko za zgodą sądu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2018,7 +2018,7 @@
         {
           "id": "A",
           "text": "1,2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2072,7 +2072,7 @@
         {
           "id": "E",
           "text": "podobne postępowanie byłoby naruszeniem zasad etyki lekarskiej, zakazujących współpracy z osobami leczącymi pacjentów niesprawdzonymi metodami leczniczymi.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2101,7 +2101,7 @@
         {
           "id": "D",
           "text": "2,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2120,7 +2120,7 @@
         {
           "id": "A",
           "text": "nie jest sprzeczny z tymi zaleceniami.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2174,7 +2174,7 @@
         {
           "id": "E",
           "text": "tylko gdy istnieje prawdopodobieństwo wystąpienia zagrożenia epidemicznego lub gdy przemawia za tym wzgląd na bezpieczeństwo zdrowotne pacjenta.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2188,7 +2188,7 @@
         {
           "id": "A",
           "text": "nie może mieć pierwszeństwa nad prawami i interesami uczestników badania naukowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2232,7 +2232,7 @@
         {
           "id": "C",
           "text": "jest unormowanie pośrednie, z którego wynika, że powołaniem lekarza jest również zapobieganie chorobom.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2271,7 +2271,7 @@
         {
           "id": "D",
           "text": "może być ujawniona, jeśli po śmierci pacjenta zgodzi się na to jego osoba bliska w rozumieniu ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2310,7 +2310,7 @@
         {
           "id": "E",
           "text": "lekarzowi zabrania się wykonywać podobnych działań - zakaz taki jest wyrażony wprost w Kodeksie Etyki Lekarskiej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2324,7 +2324,7 @@
         {
           "id": "A",
           "text": "musi zostać zapoznany z celami, ryzykiem i niedogodnościami związanymi z tym badaniem klinicznym oraz warunkami, w jakich ma ono zostać przeprowadzone i może wycofać się z badania klinicznego w każdej chwili.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2358,7 +2358,7 @@
         {
           "id": "A",
           "text": "zdanie to jest prawdziwe, stanowi część zapisów Kodeksu Etyki Lekarskiej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2397,7 +2397,7 @@
         {
           "id": "B",
           "text": "nie, lekarz poprzez namawianie pacjentki i posłużenie się presją rodziny zignorował autonomiczną decyzję pacjentki - wymusił na niej zgodę na operację.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2431,7 +2431,7 @@
         {
           "id": "B",
           "text": "udzielenie pacjentowi przystępnej informacji o jego stanie zdrowia, rozpoznaniu, proponowanych oraz możliwych metodach diagnostycznych, leczniczych, dających się przewidzieć następstwach ich zastosowania albo zaniechania, wynikach leczenia oraz rokowaniu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2460,7 +2460,7 @@
         {
           "id": "A",
           "text": "nie jest możliwe.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2514,7 +2514,7 @@
         {
           "id": "E",
           "text": "prowadzenie rejestru czynności przetwarzania danych osobowych w związku z wykonywaną przez członków samorządu działalnością leczniczą.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2533,7 +2533,7 @@
         {
           "id": "B",
           "text": "4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2567,7 +2567,7 @@
         {
           "id": "B",
           "text": "lekarz naraża się na poniesienie odpowiedzialności cywilnej - pacjent może żądać zadośćuczynienia pieniężnego, a ponadto lekarz podlega odpowiedzialności zawodowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2606,7 +2606,7 @@
         {
           "id": "C",
           "text": "tak, na takie działanie zezwalają przepisy ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2635,7 +2635,7 @@
         {
           "id": "B",
           "text": "prawo lekarza do odmowy wykonania świadczenia zdrowotnego, które jest niezgodne z jego sumieniem.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2664,7 +2664,7 @@
         {
           "id": "A",
           "text": "kryteriami medycznymi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2698,7 +2698,7 @@
         {
           "id": "A",
           "text": "działać dla dobra chorego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2752,7 +2752,7 @@
         {
           "id": "E",
           "text": "zachować tę informację w tajemnicy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2776,7 +2776,7 @@
         {
           "id": "C",
           "text": "może ograniczyć informację o stanie zdrowia i rokowaniu, przekazywaną pacjentowi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2805,7 +2805,7 @@
         {
           "id": "B",
           "text": "taka możliwość istnieje na podstawie przepisów ustawy o ochronie zdrowia psychicznego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2834,7 +2834,7 @@
         {
           "id": "A",
           "text": "odmowa poddania się przez pacjenta jednej z metod leczenia, którą zaproponował mu lekarz.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2883,7 +2883,7 @@
         {
           "id": "D",
           "text": "zabronione, ponieważ wywołałby dziedziczne zmiany genetyczne u człowieka.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2907,7 +2907,7 @@
         {
           "id": "B",
           "text": "wszystkie informacje związane z pacjentem, które lekarz uzyskał w związku z wykonywaniem zawodu medycznego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2951,7 +2951,7 @@
         {
           "id": "D",
           "text": "leczyć chorych zgodnie z dostępną wiedzą medyczną wbrew rozporządzeniu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2990,7 +2990,7 @@
         {
           "id": "E",
           "text": "po uzyskaniu zgody pacjenta i jego przedstawiciela ustawowego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3009,7 +3009,7 @@
         {
           "id": "B",
           "text": "12 godzin od stwierdzenia zgonu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3043,7 +3043,7 @@
         {
           "id": "B",
           "text": "wyłącznie pod nadzorem lekarza posiadającego odpowiednio wysokie kwalifikacje.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3082,7 +3082,7 @@
         {
           "id": "C",
           "text": "prawo lekarza do tego, aby w wyjątkowych przypadkach i ze względu na dobro pacjenta powstrzymać się od udzielenia pacjentowi pełnej informacji o stanie jego zdrowia i niepomyślnym rokowaniu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3126,7 +3126,7 @@
         {
           "id": "E",
           "text": "ma swobodę wyboru leku.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3155,7 +3155,7 @@
         {
           "id": "D",
           "text": "kuzynowi tej pacjentki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3189,7 +3189,7 @@
         {
           "id": "D",
           "text": "tak - jeśli posiada rozeznanie co do sytuacji i rozumie kierowane do niej komunikaty.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3218,7 +3218,7 @@
         {
           "id": "C",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3247,7 +3247,7 @@
         {
           "id": "B",
           "text": "niewyrażenie sprzeciwu osoby zmarłej za jej życia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3291,7 +3291,7 @@
         {
           "id": "D",
           "text": "osoba zmarła nie wyraziła za życia sprzeciwu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3315,7 +3315,7 @@
         {
           "id": "B",
           "text": "1,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3359,7 +3359,7 @@
         {
           "id": "D",
           "text": "powinien udostępnić dokumentację medyczną zmarłej pacjentki każdej osobie bliskiej, która wystąpi z takim żądaniem, chyba, że pacjentka za życia sprzeciwiła się temu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3383,7 +3383,7 @@
         {
           "id": "B",
           "text": "odnotować ten fakt w dokumentacji medycznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3432,7 +3432,7 @@
         {
           "id": "E",
           "text": "jeżeli rokowanie jest niepomyślne dla pacjenta a wg oceny lekarza przemawia za tym dobro pacjenta.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3451,7 +3451,7 @@
         {
           "id": "B",
           "text": "spadkobiercy pacjenta, w przypadku śmierci pacjenta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3490,7 +3490,7 @@
         {
           "id": "C",
           "text": "lekarz, który zbadał tego pacjenta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3524,7 +3524,7 @@
         {
           "id": "C",
           "text": "zarówno od przedstawicieli ustawowych uczestników jak i od samych uczestników.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3548,7 +3548,7 @@
         {
           "id": "A",
           "text": "odstąpić od informowania chorego, ponieważ ustawodawca zwalnia go z tego obowiązku na żądanie pacjenta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3602,7 +3602,7 @@
         {
           "id": "E",
           "text": "lekarz, adwokat lub radca prawny.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3621,7 +3621,7 @@
         {
           "id": "B",
           "text": "tak, ponieważ ustawa o zawodach lekarza i lekarza dentysty dopuszcza, na zasadzie wyjątku, możliwość interwencji medycznej bez zgody pacjenta, jeżeli wymaga on niezwłocznej pomocy lekarskiej, a ze względu na stan zdrowia nie może takowej udzielić.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3650,7 +3650,7 @@
         {
           "id": "A",
           "text": "prawa pacjenta do kontaktu osobistego, telefonicznego i korespondencyjnego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3704,7 +3704,7 @@
         {
           "id": "E",
           "text": "faktu udzielenia informacji córce nieprzytomnego pacjenta.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3728,7 +3728,7 @@
         {
           "id": "C",
           "text": "nawet wówczas, gdy interwencja została przeprowadzona zgodnie z aktualną wiedzą medyczną.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
