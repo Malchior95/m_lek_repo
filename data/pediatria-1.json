@@ -41,7 +41,7 @@
     },
     {
       "id": "ped-1-2",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące zespołu Carneya: D. przebieg zespołu Cushinga u chorych z zespołem Carneya może być subkliniczny, cykliczny i jawny.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące zespołu Carneya:",
       "answers": [
         {
           "id": "A",
@@ -148,7 +148,7 @@
         {
           "id": "A",
           "text": "1,3,4,6.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -202,7 +202,7 @@
         {
           "id": "E",
           "text": "żadnego z wymienionych badań.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -211,7 +211,7 @@
     },
     {
       "id": "ped-1-7",
-      "question": "Wskaż typowe cechy pseudohypoparatyroidyzmu: B. obniżone stężenie wapnia i podwyższone stężenie fosforanów w surowicy.",
+      "question": "Wskaż typowe cechy pseudohypoparatyroidyzmu:",
       "answers": [
         {
           "id": "A",
@@ -221,7 +221,7 @@
         {
           "id": "B",
           "text": "obniżone stężenie wapnia i podwyższone stężenie fosforanów w surowicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -250,7 +250,7 @@
         {
           "id": "A",
           "text": "tylko 3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -284,7 +284,7 @@
         {
           "id": "A",
           "text": "w roztworze 1:1000 w dawce 0,01 mg/kg mc.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -328,7 +328,7 @@
         {
           "id": "C",
           "text": "cukrzyca MODY2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -352,7 +352,7 @@
         {
           "id": "A",
           "text": "test prowokacji glutenem.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -401,7 +401,7 @@
         {
           "id": "D",
           "text": "ospy wietrznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -420,7 +420,7 @@
         {
           "id": "A",
           "text": "przez 5 dni przed wystąpieniem wysypki i 3 dni po jej wystąpieniu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -459,7 +459,7 @@
         {
           "id": "B",
           "text": "1,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -483,7 +483,7 @@
     },
     {
       "id": "ped-1-15",
-      "question": "Jakie jest optymalne postępowanie po kontakcie ciężarnej (w III trymestrze ciąży) z dzieckiem, u którego w dniu kontaktu rozpoznano (typowy przebieg kliniczny, zmiany skórne) rumień zakaźny? Dziecko poza tym jest zdrowe, nie ma obciążeń. A. izolacja od chorego dziecka, badania serologiczne w kierunku wcześniejszego zakażenia parwowirusem B19 u matki. B. izolacja od chorego dziecka, oczekiwanie na wystąpienie objawów infekcji u matki oraz ultrasonografia płodu.",
+      "question": "Jakie jest optymalne postępowanie po kontakcie ciężarnej (w III trymestrze ciąży) z dzieckiem, u którego w dniu kontaktu rozpoznano (typowy przebieg kliniczny, zmiany skórne) rumień zakaźny? Dziecko poza tym jest zdrowe, nie ma obciążeń.",
       "answers": [
         {
           "id": "A",
@@ -503,7 +503,7 @@
         {
           "id": "D",
           "text": "bez wskazań do izolacji, bez wskazań do rozszerzania diagnostyki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -537,7 +537,7 @@
         {
           "id": "D",
           "text": "wykonanie punktowych testów skórnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -576,7 +576,7 @@
         {
           "id": "E",
           "text": "pobudzenie.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -590,7 +590,7 @@
         {
           "id": "A",
           "text": "1,2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -639,7 +639,7 @@
         {
           "id": "D",
           "text": "zespołu Ehlersa-Danlosa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -653,7 +653,7 @@
     },
     {
       "id": "ped-1-20",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące badań czynnościowych układu oddechowego u dzieci: B. przed wykonaniem badania spirometrycznego konieczne jest odstawienie leków rozszerzających oskrzela. C. próbę odwracalności skurczu oskrzeli uznaje się za dodatnią, gdy FEV1 wzrośnie o co najmniej 12% i 200 ml w stosunku do badania wyjściowego. D. do oceny przepływu w średnich i drobnych drogach oddechowych służą parametry MEF25 i MEF50.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące badań czynnościowych układu oddechowego u dzieci:",
       "answers": [
         {
           "id": "A",
@@ -678,7 +678,7 @@
         {
           "id": "E",
           "text": "badania spirometryczne zaleca się u dzieci od 4. r.ż.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -712,7 +712,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -731,7 +731,7 @@
         {
           "id": "B",
           "text": "krwiak podokostnowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -755,7 +755,7 @@
     },
     {
       "id": "ped-1-23",
-      "question": "Przeciwciała IgM przeciwko wirusowemu zapaleniu wątroby typu A (anty- HAV IgM) u dzieci: A. pojawiają się po 12-20 dniach od zakażenia i utrzymują się przez okres\n2-3 miesięcy. B. pojawiają się po 18-40 dniach od zakażenia i utrzymują się przez okres\n4-6 miesięcy. C. pojawiają się po 24-60 dniach od zakażenia i utrzymują się przez okres\n6-9 miesięcy. D. pojawiają się po 30-80 dniach od zakażenia i utrzymują się przez okres\n8-12 miesięcy. E. pojawiają się po 36-100 dniach od zakażenia i utrzymują się przez okres\n10-15 miesięcy.",
+      "question": "Przeciwciała IgM przeciwko wirusowemu zapaleniu wątroby typu A (anty- HAV IgM) u dzieci:",
       "answers": [
         {
           "id": "A",
@@ -765,7 +765,7 @@
         {
           "id": "B",
           "text": "pojawiają się po 18-40 dniach od zakażenia i utrzymują się przez okres 4-6 miesięcy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -789,7 +789,7 @@
     },
     {
       "id": "ped-1-24",
-      "question": "U 7-letniego dziecka, chorującego na astmę oskrzelową i leczonego glikokortykosteroidami wziewnymi, po wycieczce do lasu wystąpiło zaostrzenie choroby pod postacią: narastającej duszności, kaszlu i świszczącego oddechu. Rodzice podali dodatkową dawkę krótko działającego β -mimetyku. Kolejnym krokiem postępowania w takiej sytuacji powinno być: B. odstawienie podaży glikokortykosteroidów wziewnych i włączenie do leczenia β-mimetyków o przedłużonym działaniu. C. dołączenie do leczenia doustnych preparatów teofiliny o przedłużonym działaniu. D. podwojenie dotychczas przyjmowanej dawki wziewnego glikokortykosteroidu. E. kontynuowanie dotychczas przyjmowanej dawki wziewnego glikokortykosteroidu podawanego łącznie z formoterolem z jednego inhalatora.",
+      "question": "U 7-letniego dziecka, chorującego na astmę oskrzelową i leczonego glikokortykosteroidami wziewnymi, po wycieczce do lasu wystąpiło zaostrzenie choroby pod postacią: narastającej duszności, kaszlu i świszczącego oddechu. Rodzice podali dodatkową dawkę krótko działającego β2-mimetyku. Kolejnym krokiem postępowania w takiej sytuacji powinno być:",
       "answers": [
         {
           "id": "A",
@@ -809,7 +809,7 @@
         {
           "id": "D",
           "text": "podwojenie dotychczas przyjmowanej dawki wziewnego glikokortykosteroidu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -823,17 +823,17 @@
     },
     {
       "id": "ped-1-25",
-      "question": "Do typowych objawów krytycznego zwężenia zastawki aorty u noworodka nie należy: A. powiększenie lewego przedsionka, objawy zastoju i obrzęku płuc w badaniu RTG klatki piersiowej.\n2",
+      "question": "Do typowych objawów krytycznego zwężenia zastawki aorty u noworodka nie należy:",
       "answers": [
         {
           "id": "A",
-          "text": "powiększenie lewego przedsionka, objawy zastoju i obrzęku płuc w badaniu RTG klatki piersiowej. 2",
+          "text": "powiększenie lewego przedsionka, objawy zastoju i obrzęku płuc w badaniu RTG klatki piersiowej.",
           "isCorrect": false
         },
         {
           "id": "B",
           "text": "sinica centralna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -872,7 +872,7 @@
         {
           "id": "C",
           "text": "3-4 tygodnie po przebytej infekcji.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -916,7 +916,7 @@
         {
           "id": "E",
           "text": "wszystkimi wymienionymi.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -940,7 +940,7 @@
         {
           "id": "C",
           "text": "guza Wilmsa i hepatoblastoma.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -964,7 +964,7 @@
         {
           "id": "A",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1018,7 +1018,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1042,7 +1042,7 @@
         {
           "id": "C",
           "text": "2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1071,7 +1071,7 @@
         {
           "id": "B",
           "text": "2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1105,7 +1105,7 @@
         {
           "id": "B",
           "text": "kamica pęcherzyka żółciowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1149,7 +1149,7 @@
         {
           "id": "D",
           "text": "0,75 ml zawiesiny z paracetamolem (100 mg/1 ml), tj. 15 mg/kg/dawkę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1173,7 +1173,7 @@
         {
           "id": "B",
           "text": "2,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1217,7 +1217,7 @@
         {
           "id": "D",
           "text": "moczówki prostej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1231,7 +1231,7 @@
     },
     {
       "id": "ped-1-37",
-      "question": "U matki 3-tygodniowego noworodka lekarz rodzinny stwierdza krztusiec. Wskaż prawidłowe postępowanie w opisanej sytuacji: E. należy skierować dziecko do szpitala celem podania dożylnego preparatu immunoglobulin.",
+      "question": "U matki 3-tygodniowego noworodka lekarz rodzinny stwierdza krztusiec. Wskaż prawidłowe postępowanie w opisanej sytuacji:",
       "answers": [
         {
           "id": "A",
@@ -1241,7 +1241,7 @@
         {
           "id": "B",
           "text": "należy niezwłocznie zlecić dziecku azytromycynę przez 5 dni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1265,7 +1265,7 @@
     },
     {
       "id": "ped-1-38",
-      "question": "Rodzice zgłaszają się do pediatry z 6-tygodniowym niemowlęciem urodzonym w lutym 2017 r. w celu wykonania szczepień. Wskaż właściwe postępowanie dotyczące szczepienia przeciwko inwazyjnym zakażeniom Streptococcus pneumoniae biorąc pod uwagę, że dziecko urodziło się w 36. tygodniu ciąży z masą urodzeniową 2100 g: A. dziecko nie podlega obowiązkowemu szczepieniu przeciwko inwazyjnym zakażeniom Streptococcus pneumoniae; może być zaszczepione w ramach szczepień zalecanych na koszt rodziców. B. dziecko może otrzymać szczepienie przeciwko inwazyjnym zakażeniom Streptococcus pneumoniae jako obowiązkowe (nieodpłatnie dla rodziców) z zastosowaniem schematu: dwie dawki szczepienia pierwotnego i jedna dawka szczepienia uzupełniającego. C. dziecko może otrzymać szczepienie przeciwko inwazyjnym zakażeniom Streptococcus pneumoniae jako obowiązkowe (nieodpłatnie dla rodziców) z zastosowaniem schematu: trzy dawki szczepienia pierwotnego i jedna dawka szczepienia uzupełniającego. D. szczepienie przeciwko inwazyjnym zakażeniom Streptococcus pneumoniae jest przeciwwskazane u dzieci z urodzeniową masą ciała <\n2500 g. E. szczepienie przeciwko inwazyjnym zakażeniom Streptococcus pneumoniae u dzieci z urodzeniową masą ciała < 2500 g podaje się dopiero w drugim półroczu życia.",
+      "question": "Rodzice zgłaszają się do pediatry z 6-tygodniowym niemowlęciem urodzonym w lutym 2017 r. w celu wykonania szczepień. Wskaż właściwe postępowanie dotyczące szczepienia przeciwko inwazyjnym zakażeniom Streptococcus pneumoniae biorąc pod uwagę, że dziecko urodziło się w 36. tygodniu ciąży z masą urodzeniową 2100 g:",
       "answers": [
         {
           "id": "A",
@@ -1280,7 +1280,7 @@
         {
           "id": "C",
           "text": "dziecko może otrzymać szczepienie przeciwko inwazyjnym zakażeniom Streptococcus pneumoniae jako obowiązkowe (nieodpłatnie dla rodziców) z zastosowaniem schematu: trzy dawki szczepienia pierwotnego i jedna dawka szczepienia uzupełniającego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": "ped-1-39",
-      "question": "Rodzice zgłaszają się do pediatry z 7-letnim dzieckiem urodzonym za granicą, które nigdy nie było szczepione przeciwko Haemophilus influenzae typu b, w celu uzupełnienia tego szczepienia. Wskaż prawidłowe postępowanie: A. należy niezwłocznie uzupełnić brakujące szczepienie 1 dawką szczepionki. B. należy niezwłocznie uzupełnić brakujące szczepienie 3 dawkami szczepionki w schemacie 0-1-6 miesięcy. C. należy uzupełnić brakujące szczepienie przy okazji szczepienia w 10. roku życia. D. należy uzupełnić brakujące szczepienie przy okazji szczepienia w 14. roku życia. E. nie ma wskazań do podania szczepionki przeciwko Haemophilus influenzae typu b 7-letniemu dziecku.",
+      "question": "Rodzice zgłaszają się do pediatry z 7-letnim dzieckiem urodzonym za granicą, które nigdy nie było szczepione przeciwko Haemophilus influenzae typu b, w celu uzupełnienia tego szczepienia. Wskaż prawidłowe postępowanie:",
       "answers": [
         {
           "id": "A",
@@ -1324,7 +1324,7 @@
         {
           "id": "E",
           "text": "nie ma wskazań do podania szczepionki przeciwko Haemophilus influenzae typu b 7-letniemu dziecku.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1333,12 +1333,12 @@
     },
     {
       "id": "ped-1-40",
-      "question": "Badania bilansowe dziecka do ukończenia pierwszego roku życia należy przeprowadzić: A. sześciokrotnie: wizyta patronażowa, badanie w wieku 6-9 tygodni, 3-4 miesięcy, 6 miesięcy, 9 miesięcy i 12 miesięcy. B. pięciokrotnie: wizyta patronażowa, badanie w wieku 3-4 miesięcy, 6 miesięcy, 9 miesięcy i 12 miesięcy. C. trzykrotnie: w terminach odpowiadających terminom obowiązkowych szczepień ochronnych. D. czterokrotnie: wizyta patronażowa oraz w terminach odpowiadających terminom obowiązkowych szczepień ochronnych. E. nie ma zaleceń dotyczących terminu przeprowadzania tych badań i decyzje o ich przeprowadzeniu podejmuje lekarz rodzinny lub pediatra.",
+      "question": "Badania bilansowe dziecka do ukończenia pierwszego roku życia należy przeprowadzić:",
       "answers": [
         {
           "id": "A",
           "text": "sześciokrotnie: wizyta patronażowa, badanie w wieku 6-9 tygodni, 3-4 miesięcy, 6 miesięcy, 9 miesięcy i 12 miesięcy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1382,7 +1382,7 @@
         {
           "id": "C",
           "text": "1,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1401,7 +1401,7 @@
     },
     {
       "id": "ped-1-42",
-      "question": "Wskazaniem do badania histopatologicznego powiększonego węzła chłonnego u dziecka nie jest: C. obecność towarzyszących limfadenopatii objawów ogólnych: utraty masy ciała, gorączki bez objawów infekcji, świądu skóry. E. niebolesny, powiększający się od kilku tygodni węzeł chłonny, bez objawów infekcji.",
+      "question": "Wskazaniem do badania histopatologicznego powiększonego węzła chłonnego u dziecka nie jest:",
       "answers": [
         {
           "id": "A",
@@ -1421,7 +1421,7 @@
         {
           "id": "D",
           "text": "trwające tydzień powiększenie węzła szyjnego towarzyszące anginie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1450,7 +1450,7 @@
         {
           "id": "C",
           "text": "białka mleka krowiego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1489,7 +1489,7 @@
         {
           "id": "D",
           "text": "gorączka, silny ból gardła, ból brzucha, wymioty.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1523,7 +1523,7 @@
         {
           "id": "D",
           "text": "dodatni wywiad rodzinny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1547,7 +1547,7 @@
         {
           "id": "B",
           "text": "3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1596,7 +1596,7 @@
         {
           "id": "E",
           "text": "żadne, nie należy wdrażać profilaktyki poekspozycyjnej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1620,7 +1620,7 @@
         {
           "id": "C",
           "text": "retinopatia wcześniaków.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1664,7 +1664,7 @@
         {
           "id": "E",
           "text": "mutacji inaktywującej CaSR.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1693,7 +1693,7 @@
         {
           "id": "D",
           "text": "hipermagnezuria.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1717,7 +1717,7 @@
         {
           "id": "B",
           "text": "wypić 200 ml soku.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1741,7 +1741,7 @@
     },
     {
       "id": "ped-1-52",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące prowokacji pokarmowej (PP), będącej uznanym narzędziem diagnostycznym w alergii pokarmowej: A. PP najczęściej jest wykonywana z mlekiem krowim, jajem kurzym, orzeszkami arachidowymi i pszenicą. C. złotym standardem jest prowokacja wykonana metodą podwójnie ślepej próby z placebo, przeprowadzona w warunkach kontrolowanych. D. u dzieci po anafilaksji na dany pokarm próbę prowokacji przeprowadza się z reguły po okresie 12 miesięcy stosowania diety eliminacyjnej. E. zwykle stosuje się co najmniej dwa alergeny równocześnie podczas próby.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące prowokacji pokarmowej (PP), będącej uznanym narzędziem diagnostycznym w alergii pokarmowej:",
       "answers": [
         {
           "id": "A",
@@ -1766,7 +1766,7 @@
         {
           "id": "E",
           "text": "zwykle stosuje się co najmniej dwa alergeny równocześnie podczas próby.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1775,7 +1775,7 @@
     },
     {
       "id": "ped-1-53",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące rozdwojenia II tonu serca u dzieci: B. patologiczne najczęściej występuje u dzieci z ubytkiem w przegrodzie międzyprzedsionkowej. C. stałe rozdwojenie II tonu występuje u dzieci ze zwężeniem zastawki tętnicy płucnej. D. patologiczne rozdwojenie II tonu słyszalne w czasie wydechu charakterystyczne jest dla kardiomiopatii przerostowej ze zwężeniem drogi odpływu z lewej komory serca. E. każde rozdwojenie II tonu serca u noworodka jest zjawiskiem patologicznym.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące rozdwojenia II tonu serca u dzieci:",
       "answers": [
         {
           "id": "A",
@@ -1800,7 +1800,7 @@
         {
           "id": "E",
           "text": "każde rozdwojenie II tonu serca u noworodka jest zjawiskiem patologicznym.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1814,7 +1814,7 @@
         {
           "id": "A",
           "text": "mononukleozy zakaźnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1868,7 +1868,7 @@
         {
           "id": "E",
           "text": "Wiskotta-Aldricha.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1887,7 +1887,7 @@
         {
           "id": "B",
           "text": "choroba Gravesa-Basedowa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1911,7 +1911,7 @@
     },
     {
       "id": "ped-1-57",
-      "question": "Dziecko 10-letnie, u którego rok temu rozpoznano cukrzycę, w okresie niemowlęcym otrzymało pełne szczepienie podstawowe przeciwko WZW B. Rodzice pytają, czy w związku z rozpoznaniem cukrzycy dziecko wymaga ponownego szczepienia przeciwko WZW B. Wskaż prawidłową odpowiedź: A. dziecko nie wymaga żadnych dodatkowych działań w związku ze szczepieniem przeciwko WZW B. B. należy sprawdzić stężenie przeciwciał anty-HBs - jeśli jest większe od 10 j.m./l, dziecko nie wymaga dodatkowych dawek szczepionki. C. należy sprawdzić stężenie przeciwciał anty-HBs - jeśli jest większe od\n100 j.m./l, dziecko nie wymaga dodatkowych dawek szczepionki. E. należy podać ponownie pełne szczepienie podstawowe (3 dawki) przeciwko WZW B.",
+      "question": "Dziecko 10-letnie, u którego rok temu rozpoznano cukrzycę, w okresie niemowlęcym otrzymało pełne szczepienie podstawowe przeciwko WZW B. Rodzice pytają, czy w związku z rozpoznaniem cukrzycy dziecko wymaga ponownego szczepienia przeciwko WZW B. Wskaż prawidłową odpowiedź:",
       "answers": [
         {
           "id": "A",
@@ -1920,8 +1920,8 @@
         },
         {
           "id": "B",
-          "text": "Wskaż prawidłową odpowiedź: A. dziecko nie wymaga żadnych dodatkowych działań w związku ze szczepieniem przeciwko WZW B. B. należy sprawdzić stężenie przeciwciał anty-HBs - jeśli jest większe od 10 j.m./l, dziecko nie wymaga dodatkowych dawek szczepionki.",
-          "isCorrect": false
+          "text": " należy sprawdzić stężenie przeciwciał anty-HBs - jeśli jest większe od 10 j.m./l, dziecko nie wymaga dodatkowych dawek szczepionki.",
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1960,7 +1960,7 @@
         {
           "id": "C",
           "text": "40/min.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1979,7 +1979,7 @@
     },
     {
       "id": "ped-1-59",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące odpływów pęcherzowo- moczowodowych: C. częstość występowania zakażeń układu moczowego u dzieci z tą wadą jest wyższa.",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące odpływów pęcherzowo- moczowodowych:",
       "answers": [
         {
           "id": "A",
@@ -1994,7 +1994,7 @@
         {
           "id": "C",
           "text": "częstość występowania zakażeń układu moczowego u dzieci z tą wadą jest wyższa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2038,7 +2038,7 @@
         {
           "id": "E",
           "text": "37 tygodni lub 259 dni.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2062,7 +2062,7 @@
         {
           "id": "C",
           "text": "1,2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2091,7 +2091,7 @@
         {
           "id": "B",
           "text": "3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2140,7 +2140,7 @@
         {
           "id": "E",
           "text": "3,4.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2159,7 +2159,7 @@
         {
           "id": "B",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2183,7 +2183,7 @@
     },
     {
       "id": "ped-1-65",
-      "question": "U 6-miesięcznej dziewczynki w dobrym stanie ogólnym pobrano do tzw. jałowego woreczka mocz do badania. W badaniu ogólnym moczu stwierdzono obecność 10-20 leukocytów w polu widzenia, wynik posiewu moczu jest w opracowaniu. Jakie powinno być dalsze postepowanie pediatry? A. rozpoznaje zakażenie w drogach moczowych i włącza terapię empiryczną dożylnym antybiotykiem. B. rozpoznaje zakażenie w drogach moczowych i włącza terapię empiryczną antybiotykiem doustnym. C. rozpoznaje zakażenie w drogach moczowych i włącza chemioterapeutyk do czasu uzyskania wyniku posiewu moczu. E. wstrzymuje się z włączeniem leczenia do czasu uzyskania wyniku posiewu moczu.",
+      "question": "U 6-miesięcznej dziewczynki w dobrym stanie ogólnym pobrano do tzw. jałowego woreczka mocz do badania. W badaniu ogólnym moczu stwierdzono obecność 10-20 leukocytów w polu widzenia, wynik posiewu moczu jest w opracowaniu. Jakie powinno być dalsze postepowanie pediatry?",
       "answers": [
         {
           "id": "A",
@@ -2203,7 +2203,7 @@
         {
           "id": "D",
           "text": "zleca powtórzenie badań po pobraniu moczu ze środkowego strumienia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2217,7 +2217,7 @@
     },
     {
       "id": "ped-1-66",
-      "question": "Ostre zapalenie gardła u dzieci w 3. - 4. roku życia: A. jest najczęściej wywołane przez paciorkowce i wymaga leczenia antybiotykiem. B. zawsze jest wskazaniem do przeprowadzenia podstawowych badań: morfologii krwi obwodowej i CRP, celem różnicowania zakażenia bakteryjnego od infekcji wirusowej.",
+      "question": "Ostre zapalenie gardła u dzieci w 3. - 4. roku życia:",
       "answers": [
         {
           "id": "A",
@@ -2232,7 +2232,7 @@
         {
           "id": "C",
           "text": "jest najczęściej wywołane przez wirusy i nie wymaga antybiotykoterapii.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2256,7 +2256,7 @@
         {
           "id": "A",
           "text": "adrenoleukodystrofię sprzężoną z chromosomem X.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2285,12 +2285,12 @@
     },
     {
       "id": "ped-1-68",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące zapaleń płuc u dzieci: A. wiek < 6. m.ż. u dziecka z zapaleniem płuc jest wskazaniem do hospitalizacji. B. częstym czynnikiem etiologicznym zapaleń płuc u dzieci powyżej 5. r.ż. jest Streptococcus agalactiae. C. ciężkie zapalenie płuc rozpoznaje się, gdy częstość oddechów u niemowląt wynosi > 30 oddechów/min. D. zapalenie płuc u dziecka z towarzyszącym zapaleniem opłucnej można leczyć ambulatoryjnie.",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące zapaleń płuc u dzieci:",
       "answers": [
         {
           "id": "A",
           "text": "wiek < 6. m.ż. u dziecka z zapaleniem płuc jest wskazaniem do hospitalizacji.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2319,7 +2319,7 @@
     },
     {
       "id": "ped-1-69",
-      "question": "Bezwzględnym przeciwwskazaniem do płukania żołądka w przypadku spożycia przez dziecko substancji toksycznej jest: B. spożycie substancji o znacznej toksyczności, stwarzającej zagrożenie dla życia.",
+      "question": "Bezwzględnym przeciwwskazaniem do płukania żołądka w przypadku spożycia przez dziecko substancji toksycznej jest:",
       "answers": [
         {
           "id": "A",
@@ -2339,7 +2339,7 @@
         {
           "id": "D",
           "text": "połknięcie substancji żrącej, alkalicznej lub kwaśnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2368,7 +2368,7 @@
         {
           "id": "C",
           "text": "wirusowego zapalenia opon mózgowo-rdzeniowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2407,7 +2407,7 @@
         {
           "id": "D",
           "text": "15-40 dni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2421,7 +2421,7 @@
     },
     {
       "id": "ped-1-72",
-      "question": "Wskaż zdanie prawdziwe dotyczące zabiegu Credego: A. jest wykonywany u wszystkich dzieci i polega na obustronnym dospojówkowym podaniu 0,5% erytromycyny lub 1% tetracykliny. D. zapobiega zapaleniom spojówek wywołanym przez Neisseria gonorrhoeae i Chlamydia trachomatis.",
+      "question": "Wskaż zdanie prawdziwe dotyczące zabiegu Credego:",
       "answers": [
         {
           "id": "A",
@@ -2436,7 +2436,7 @@
         {
           "id": "C",
           "text": "polega na zakropieniu dospojówkowo 1% azotanu srebra.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2460,7 +2460,7 @@
         {
           "id": "A",
           "text": "1,2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2499,7 +2499,7 @@
         {
           "id": "B",
           "text": "leprechaunizm.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2528,7 +2528,7 @@
         {
           "id": "A",
           "text": "1,2,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2572,7 +2572,7 @@
         {
           "id": "C",
           "text": "cefalosporynę III generacji.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2616,7 +2616,7 @@
         {
           "id": "E",
           "text": "2,4.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2635,7 +2635,7 @@
         {
           "id": "B",
           "text": "4 tygodnie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2679,7 +2679,7 @@
         {
           "id": "D",
           "text": "46 XY.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2713,7 +2713,7 @@
         {
           "id": "D",
           "text": "dieta matki bogata w kwas foliowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2747,7 +2747,7 @@
         {
           "id": "D",
           "text": "20% wartości bilirubiny całkowitej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2776,7 +2776,7 @@
         {
           "id": "C",
           "text": "bloker receptorów β.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2795,7 +2795,7 @@
     },
     {
       "id": "ped-1-83",
-      "question": "Do lekarza POZ zgłosiła się mama z 4-letnią dziewczynką, gorączkującą od rana do 39,5 ºC. Poza gorączką dziecko zgłasza silny ból gardła. W badaniu przedmiotowym lekarz stwierdza nalot włóknikowy i czopy ropne na migdałkach podniebiennych, migdałki są powiększone, obrzęknięte. Powiększone są również węzły chłonne szyjne przednie. Obraz kliniczny pozwala stwierdzić: A. ostre zapalenie gardła, 2 punkty w skali Centora/McIsaaca, brak wskazań do antybiotykoterapii. C. ostre paciorkowcowe zapalenie gardła i migdałków, 4 pkt. wg skali Centora/McIsaaca; wskazanie do antybiotykoterapii bez potrzeby wykonywania szybkiego testu w kierunku zakażenia paciorkowcem. D. ostre paciorkowcowe zapalenie gardła i migdałków, ale przed decyzją o wdrożeniu antybiotykoterapii bezwzględnie konieczne jest wykonanie szybkiego testu w kierunku zakażenia paciorkowcem.",
+      "question": "Do lekarza POZ zgłosiła się mama z 4-letnią dziewczynką, gorączkującą od rana do 39,5 ºC. Poza gorączką dziecko zgłasza silny ból gardła. W badaniu przedmiotowym lekarz stwierdza nalot włóknikowy i czopy ropne na migdałkach podniebiennych, migdałki są powiększone, obrzęknięte. Powiększone są również węzły chłonne szyjne przednie. Obraz kliniczny pozwala stwierdzić:",
       "answers": [
         {
           "id": "A",
@@ -2809,8 +2809,8 @@
         },
         {
           "id": "C",
-          "text": "Poza gorączką dziecko zgłasza silny ból gardła. W badaniu przedmiotowym lekarz stwierdza nalot włóknikowy i czopy ropne na migdałkach podniebiennych, migdałki są powiększone, obrzęknięte. Powiększone są również węzły chłonne szyjne przednie. Obraz kliniczny pozwala stwierdzić: A. ostre zapalenie gardła, 2 punkty w skali Centora/McIsaaca, brak wskazań do antybiotykoterapii. B. mononukleozę zakaźną, brak wskazań do antybiotykoterapii. C. ostre paciorkowcowe zapalenie gardła i migdałków, 4 pkt. wg skali Centora/McIsaaca; wskazanie do antybiotykoterapii bez potrzeby wykonywania szybkiego testu w kierunku zakażenia paciorkowcem.",
-          "isCorrect": false
+          "text": "ostre paciorkowcowe zapalenie gardła i migdałków, 4 pkt. wg skali Centora/McIsaaca; wskazanie do antybiotykoterapii bez potrzeby wykonywania szybkiego testu w kierunku zakażenia paciorkowcem.",
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2829,7 +2829,7 @@
     },
     {
       "id": "ped-1-84",
-      "question": "Ostra białaczka limfoblastyczna (acute lymphoblastic leukemia, ALL) jest w populacji dziecięcej chorobą o relatywnie dobrym rokowaniu na tle innych chorób nowotworowych. Wskaźnikiem prognostycznym wysokiego ryzyka w ostrej białaczce limfoblastycznej u dzieci, wymuszającym intensyfikację leczenia i zmniejszającym szanse trwałego wyleczenia jest: A. steroidowrażliwość w odpowiedzi na wstępne leczenie glikokortykosteroidami. C. prawidłowa leukocytoza krwi obwodowej w chwili rozpoznania zajęcia szpiku przez komórki białaczkowe. E. brak minimalnej choroby resztkowej w szpiku kostnym po miesiącu leczenia.",
+      "question": "Ostra białaczka limfoblastyczna (acute lymphoblastic leukemia, ALL) jest w populacji dziecięcej chorobą o relatywnie dobrym rokowaniu na tle innych chorób nowotworowych. Wskaźnikiem prognostycznym wysokiego ryzyka w ostrej białaczce limfoblastycznej u dzieci, wymuszającym intensyfikację leczenia i zmniejszającym szanse trwałego wyleczenia jest:",
       "answers": [
         {
           "id": "A",
@@ -2839,7 +2839,7 @@
         {
           "id": "B",
           "text": "obecność translokacji t(9;22).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2868,7 +2868,7 @@
         {
           "id": "A",
           "text": "scyntygrafia DMSA.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2907,7 +2907,7 @@
         {
           "id": "B",
           "text": "1,2,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2931,7 +2931,7 @@
     },
     {
       "id": "ped-1-87",
-      "question": "U 4-letniego dziecka rozpoznano w szpitalu inwazyjną chorobę meningokokową. Jakie postępowanie zapobiegawcze powinno zostać wdrożone u 2-letniego brata tego chorego, mieszkającego z nim i z rodzicami w tym samym mieszkaniu? A. nie ma skutecznych metod zapobiegania zakażeniu meningokokowemu u dziecka z kontaktu domowego.",
+      "question": "U 4-letniego dziecka rozpoznano w szpitalu inwazyjną chorobę meningokokową. Jakie postępowanie zapobiegawcze powinno zostać wdrożone u 2-letniego brata tego chorego, mieszkającego z nim i z rodzicami w tym samym mieszkaniu?",
       "answers": [
         {
           "id": "A",
@@ -2946,7 +2946,7 @@
         {
           "id": "C",
           "text": "należy podać jednorazowo ceftriakson w dawce 125 mg.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2970,7 +2970,7 @@
         {
           "id": "A",
           "text": "świerzb.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3019,7 +3019,7 @@
         {
           "id": "D",
           "text": "2,3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3038,7 +3038,7 @@
         {
           "id": "A",
           "text": "postać o początku nielicznostawowym/skąpostawowym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3067,21 +3067,21 @@
     },
     {
       "id": "ped-1-91",
-      "question": "Do najczęstszych przyczyn niedokrwistości makrocytarnej u dzieci należy zaliczyć: A. niedobór witaminy B , niedobór kwasu foliowego, niedoczynność tarczycy, choroby wątroby. B. niedobór witaminy B , niedobór żelaza, niedoczynność tarczycy, choroby\n12\n12 wątroby. C. niedobór witaminy B , niedobór kwasu foliowego, ostry krwotok, choroby wątroby. D. aplazję szpiku kostnego, niedobór kwasu foliowego, niedoczynność tarczycy, choroby wątroby. E. niedobór witaminy B , niedobór kwasu foliowego, niedoczynność tarczycy, zatrucie ołowiem.",
+      "question": "Do najczęstszych przyczyn niedokrwistości makrocytarnej u dzieci należy zaliczyć:",
       "answers": [
         {
           "id": "A",
-          "text": "niedobór witaminy B , niedobór kwasu foliowego, niedoczynność tarczycy, choroby wątroby.",
-          "isCorrect": false
+          "text": "niedobór witaminy B12, niedobór kwasu foliowego, niedoczynność tarczycy, choroby wątroby.",
+          "isCorrect": true
         },
         {
           "id": "B",
-          "text": "niedobór witaminy B , niedobór żelaza, niedoczynność tarczycy, choroby 12 12 wątroby.",
+          "text": "niedobór witaminy B12, niedobór żelaza, niedoczynność tarczycy, choroby wątroby.",
           "isCorrect": false
         },
         {
           "id": "C",
-          "text": "niedobór witaminy B , niedobór kwasu foliowego, ostry krwotok, choroby wątroby.",
+          "text": "niedobór witaminy B12, niedobór kwasu foliowego, ostry krwotok, choroby wątroby.",
           "isCorrect": false
         },
         {
@@ -3091,7 +3091,7 @@
         },
         {
           "id": "E",
-          "text": "niedobór witaminy B , niedobór kwasu foliowego, niedoczynność tarczycy, zatrucie ołowiem.",
+          "text": "niedobór witaminy B12, niedobór kwasu foliowego, niedoczynność tarczycy, zatrucie ołowiem.",
           "isCorrect": false
         }
       ],
@@ -3121,7 +3121,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A,B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3145,7 +3145,7 @@
         {
           "id": "B",
           "text": "penicyliny V (fenoksymetylopenicyliny) przez 10 dni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3169,7 +3169,7 @@
     },
     {
       "id": "ped-1-94",
-      "question": "Do rozpoznawania otyłości u dzieci nie służy: B. wskaźnik talia-biodra (WHR).\n12\n12",
+      "question": "Do rozpoznawania otyłości u dzieci nie służy:",
       "answers": [
         {
           "id": "A",
@@ -3178,7 +3178,7 @@
         },
         {
           "id": "B",
-          "text": "wskaźnik talia-biodra (WHR). 12 12",
+          "text": "wskaźnik talia-biodra (WHR).",
           "isCorrect": false
         },
         {
@@ -3194,7 +3194,7 @@
         {
           "id": "E",
           "text": "długość siedzeniowo-ciemieniowa.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3223,7 +3223,7 @@
         {
           "id": "D",
           "text": "2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3247,7 +3247,7 @@
         {
           "id": "B",
           "text": "krzywica.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3276,7 +3276,7 @@
         {
           "id": "A",
           "text": "kwasica ketonowa w przebiegu dotychczas nierozpoznanej cukrzycy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3310,7 +3310,7 @@
         {
           "id": "A",
           "text": "1,2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3339,7 +3339,7 @@
     },
     {
       "id": "ped-1-99",
-      "question": "U 16-letniej pacjentki z nefropatią toczniową z eGFR = 45 ml/min/1,73 m należy rozpoznać następujące stadium przewlekłej niewydolności nerek: D. 4.\n2",
+      "question": "U 16-letniej pacjentki z nefropatią toczniową z eGFR = 45 ml/min/1,73 m2 należy rozpoznać następujące stadium przewlekłej niewydolności nerek:",
       "answers": [
         {
           "id": "A",
@@ -3354,11 +3354,11 @@
         {
           "id": "C",
           "text": "3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
-          "text": "4. 2",
+          "text": "4.",
           "isCorrect": false
         },
         {
@@ -3378,7 +3378,7 @@
         {
           "id": "A",
           "text": "wydzielina śluzowa w przewodach nosowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3432,7 +3432,7 @@
         {
           "id": "E",
           "text": "zespół nerczycowy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3441,7 +3441,7 @@
     },
     {
       "id": "ped-1-102",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące zapalenia oskrzelików: A. występuje wyłącznie u wcześniaków w 1. m.ż., wywołane jest przez adenowirusy. B. występuje głównie u dzieci w wieku szkolnym narażonych na dym tytoniowy lub palących papierosy.",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące zapalenia oskrzelików:",
       "answers": [
         {
           "id": "A",
@@ -3461,7 +3461,7 @@
         {
           "id": "D",
           "text": "to najczęstsza postać zapalenia dolnych dróg oddechowych u niemowląt.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3490,7 +3490,7 @@
         {
           "id": "C",
           "text": "1,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3524,7 +3524,7 @@
         {
           "id": "C",
           "text": "ostrego podgłośniowego zapalenia krtani.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3563,7 +3563,7 @@
         {
           "id": "D",
           "text": "mukowiscydozę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3602,7 +3602,7 @@
         {
           "id": "E",
           "text": "choroby Taya-Sachsa.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3621,7 +3621,7 @@
         {
           "id": "B",
           "text": "1,2,3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3660,7 +3660,7 @@
         {
           "id": "C",
           "text": "jest obecny od urodzenia, a zanika pomiędzy 3 a 6 mies. życia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3689,7 +3689,7 @@
         {
           "id": "B",
           "text": "zespołu Marfana.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3728,7 +3728,7 @@
         {
           "id": "C",
           "text": "1,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3752,7 +3752,7 @@
         {
           "id": "A",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3796,7 +3796,7 @@
         {
           "id": "C",
           "text": "testy IGRA nie mają zastosowania w diagnostyce gruźlicy u dzieci.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3815,12 +3815,12 @@
     },
     {
       "id": "ped-1-113",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące mononukleozy zakaźnej: A. jest wywołana przez wirusa z rodziny Herpesviridae, odpowiadającego również za choroby przebiegające z proliferacją komórkową: ziarnicę złośliwą i chłoniaka Burkitta. B. okres wylęgania choroby wynosi około tygodnia, a po nim występuje wysoka gorączka, powiększenie węzłów chłonnych i silny kaszel. C. leukopenia i limfopenia są typowymi odchyleniami w badaniu morfologii krwi. D. z racji obecności wysypki, powiększenia węzłów chłonnych oraz zapalenia gardła choroba powinna być różnicowana przede wszystkim ze szkarlatyną.",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące mononukleozy zakaźnej:",
       "answers": [
         {
           "id": "A",
           "text": "jest wywołana przez wirusa z rodziny Herpesviridae, odpowiadającego również za choroby przebiegające z proliferacją komórkową: ziarnicę złośliwą i chłoniaka Burkitta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3859,7 +3859,7 @@
         {
           "id": "B",
           "text": "choroba przeszczep przeciw gospodarzowi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3888,7 +3888,7 @@
         {
           "id": "A",
           "text": "plamicę Schönleina-Henocha.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3917,7 +3917,7 @@
     },
     {
       "id": "ped-1-116",
-      "question": "Mama 2-letniego chłopca niepokoi się, że dziecko nie chce jeść warzyw ani mięsa, domaga się jedynie deserów mlecznych lub słodkich napojów. Dziecko ma wzrost i wagę na poziomie 50cc, aktualnie nie ma objawów infekcji, było dotychczas w życiu 2 x leczone antybiotykiem doustnym z powodu zapalenia gardła i zapalenia oskrzeli. Nie ma innych objawów niepokojących. W morfologii krwi: leukocyty - 8,4 tys/mm , hemoglobina - 9,1 g/dl, MCV - 62 fl, płytki krwi - 330 000/mm . Glukoza na czczo - 88 mg%. Wskaż właściwe postępowanie i jego uzasadnienie: B. wykonanie krzywej obciążenia glukozą, gdyż objawy mogą wynikać z cukrzycy. C. steroidoterapia, gdyż objawy kliniczne i laboratoryjne sugerują anemię hemolityczną. D. leczenie dożylne preparatami żelaza i witaminami, gdyż objawy kliniczne i laboratoryjne sugerują anemię z niedoboru żelaza. E. leczenie doustne preparatami żelaza i witaminami, gdyż objawy kliniczne i laboratoryjne sugerują anemię z niedoboru żelaza.",
+      "question": "Mama 2-letniego chłopca niepokoi się, że dziecko nie chce jeść warzyw ani mięsa, domaga się jedynie deserów mlecznych lub słodkich napojów. Dziecko ma wzrost i wagę na poziomie 50cc, aktualnie nie ma objawów infekcji, było dotychczas w życiu 2 x leczone antybiotykiem doustnym z powodu zapalenia gardła i zapalenia oskrzeli. Nie ma innych objawów niepokojących. W morfologii krwi: leukocyty - 8,4 tys/mm3, hemoglobina - 9,1 g/dl, MCV - 62 fl, płytki krwi - 330 000/mm3. Glukoza na czczo - 88 mg%. Wskaż właściwe postępowanie i jego uzasadnienie:",
       "answers": [
         {
           "id": "A",
@@ -3942,7 +3942,7 @@
         {
           "id": "E",
           "text": "leczenie doustne preparatami żelaza i witaminami, gdyż objawy kliniczne i laboratoryjne sugerują anemię z niedoboru żelaza.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3971,7 +3971,7 @@
         {
           "id": "D",
           "text": "niedokrwistości z niedoboru żelaza.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3985,7 +3985,7 @@
     },
     {
       "id": "ped-1-118",
-      "question": "Do diagnostyki zaparcia wykorzystuje się:\n1) manometrię;\n2) test Hintona;\n3) test wodorowy;\n4) wlew kontrastowy jelita grubego;\n5) gastrofiberoskopię. Prawidłowa odpowiedź to: C. 2,3,4.\n3\n3",
+      "question": "Do diagnostyki zaparcia wykorzystuje się:\n1) manometrię;\n2) test Hintona;\n3) test wodorowy;\n4) wlew kontrastowy jelita grubego;\n5) gastrofiberoskopię. Prawidłowa odpowiedź to:",
       "answers": [
         {
           "id": "A",
@@ -3995,11 +3995,11 @@
         {
           "id": "B",
           "text": "1,2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
-          "text": "2,3,4. 3 3",
+          "text": "2,3,4.",
           "isCorrect": false
         },
         {
@@ -4029,7 +4029,7 @@
         {
           "id": "B",
           "text": "odrę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4063,7 +4063,7 @@
         {
           "id": "B",
           "text": "1,2,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4107,7 +4107,7 @@
         {
           "id": "D",
           "text": "ciepłoty ciała > 38,5 st. C lub < 36 st.C i tachypnoe lub tachykardii.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4121,12 +4121,12 @@
     },
     {
       "id": "ped-1-122",
-      "question": "Nakłucie lędźwiowe u dziecka należy bezwzględnie wykonać we wszystkich wymienionych przypadkach, z wyjątkiem: E. 3-letniego dziecka z rozsiewem nowotworowym do ośrodkowego układu nerwowego.",
+      "question": "Nakłucie lędźwiowe u dziecka należy bezwzględnie wykonać we wszystkich wymienionych przypadkach, z wyjątkiem:",
       "answers": [
         {
           "id": "A",
           "text": "noworodka z zespołem dysrafii.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4170,7 +4170,7 @@
         {
           "id": "C",
           "text": "chorobę indukowaną (tzw. Münchhausena).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4204,7 +4204,7 @@
         {
           "id": "C",
           "text": "niedoczynności kory nadnerczy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4233,7 +4233,7 @@
         {
           "id": "B",
           "text": "glikokortykosteroidów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4262,7 +4262,7 @@
         {
           "id": "A",
           "text": "HR: 105/min, RR: 85/60 mmHg.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4291,7 +4291,7 @@
     },
     {
       "id": "ped-1-127",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące zapaleń oskrzeli u dzieci: B. dla złagodzenia objawów ostrego zapalenia oskrzeli pomocne może być zastosowanie nebulizacji 3% roztworem chlorku sodu. D. w profilaktyce zapaleń oskrzeli uwzględnia się coroczne szczepienie przeciw grypie dzieci > 1. m.ż. E. w diagnostyce zapalenia oskrzeli rutynowo wykonuje się zdjęcie przeglądowe klatki piersiowej.",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące zapaleń oskrzeli u dzieci:",
       "answers": [
         {
           "id": "A",
@@ -4301,7 +4301,7 @@
         {
           "id": "B",
           "text": "dla złagodzenia objawów ostrego zapalenia oskrzeli pomocne może być zastosowanie nebulizacji 3% roztworem chlorku sodu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4325,7 +4325,7 @@
     },
     {
       "id": "ped-1-128",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące nowo rozpoznanej małopłytkowości immunologicznej: A. jest wskazaniem do natychmiastowego wdrożenia leczenia immunosupresyjnego. C. warunkiem rozpoznania jest wykazanie liczby krwinek płytkowych < 100 x\n10 /μl w morfologii krwi obwodowej oraz wykluczenie patologii, mogących wskazywać na inny charakter małopłytkowości (np. powiększenia węzłów chłonnych, powiększenia wątroby, niedokrwistości, nieprawidłowej liczby krwinek białych). D. przy liczbie krwinek płytkowych < 50 x 10 /μl są wskazania do przetoczenia koncentratu krwinek płytkowych. E. dla potwierdzenia podłoża immunologicznego konieczne jest przeprowadzenie badań w kierunku obecności we krwi przeciwciał przeciwpłytkowych.",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące nowo rozpoznanej małopłytkowości immunologicznej:",
       "answers": [
         {
           "id": "A",
@@ -4339,12 +4339,12 @@
         },
         {
           "id": "C",
-          "text": "warunkiem rozpoznania jest wykazanie liczby krwinek płytkowych < 100 x 10 /μl w morfologii krwi obwodowej oraz wykluczenie patologii, mogących wskazywać na inny charakter małopłytkowości (np. powiększenia węzłów chłonnych, powiększenia wątroby, niedokrwistości, nieprawidłowej liczby krwinek białych).",
-          "isCorrect": false
+          "text": "warunkiem rozpoznania jest wykazanie liczby krwinek płytkowych < 100 x 10^3 /μl w morfologii krwi obwodowej oraz wykluczenie patologii, mogących wskazywać na inny charakter małopłytkowości (np. powiększenia węzłów chłonnych, powiększenia wątroby, niedokrwistości, nieprawidłowej liczby krwinek białych).",
+          "isCorrect": true
         },
         {
           "id": "D",
-          "text": "przy liczbie krwinek płytkowych < 50 x 10 /μl są wskazania do przetoczenia koncentratu krwinek płytkowych.",
+          "text": "przy liczbie krwinek płytkowych < 50 x 10^3 /μl są wskazania do przetoczenia koncentratu krwinek płytkowych.",
           "isCorrect": false
         },
         {
@@ -4359,11 +4359,11 @@
     },
     {
       "id": "ped-1-129",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące zespołu Alagille’a: A. jest to choroba dziedziczona autosomalnie dominująco.\n3\n3 E. stwierdza się podwyższone stężenia bilirubiny całkowitej, z przewagą pośredniej.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące zespołu Alagille’a:",
       "answers": [
         {
           "id": "A",
-          "text": "jest to choroba dziedziczona autosomalnie dominująco. 3 3",
+          "text": "jest to choroba dziedziczona autosomalnie dominująco.",
           "isCorrect": false
         },
         {
@@ -4384,7 +4384,7 @@
         {
           "id": "E",
           "text": "stwierdza się podwyższone stężenia bilirubiny całkowitej, z przewagą pośredniej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4408,7 +4408,7 @@
         {
           "id": "C",
           "text": "biopsja szpiku.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4447,7 +4447,7 @@
         {
           "id": "D",
           "text": "krztuśca.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4476,7 +4476,7 @@
         {
           "id": "C",
           "text": "badanie obrazowe: tomografia komputerowa i/lub USG jamy brzusznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4500,7 +4500,7 @@
         {
           "id": "A",
           "text": "leczenie objawowe.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4544,7 +4544,7 @@
         {
           "id": "C",
           "text": "penicylina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4568,7 +4568,7 @@
         {
           "id": "A",
           "text": "zespół Alporta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4607,7 +4607,7 @@
         {
           "id": "B",
           "text": "odruch Landaua.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4651,7 +4651,7 @@
         {
           "id": "D",
           "text": "białkomocz ortostatyczny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4685,7 +4685,7 @@
         {
           "id": "D",
           "text": "15 dni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4714,7 +4714,7 @@
         {
           "id": "C",
           "text": "50%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4743,7 +4743,7 @@
         {
           "id": "B",
           "text": "1,2,3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4767,7 +4767,7 @@
     },
     {
       "id": "ped-1-141",
-      "question": "Idiopatyczne bóle mięśniowo-szkieletowe występujące u dzieci, określane często jako wzrostowe, są przyczyną wizyt w gabinecie lekarza pediatry. Jakie objawy pozwalają na postawienie tego rozpoznania? A. chód nieprawidłowy, bóle występują codziennie, wyniki badań laboratoryjnych są prawidłowe. B. chód jest prawidłowy, bóle występują zawsze rano, wyniki badań laboratoryjnych są prawidłowe. C. chód jest prawidłowy, występują obrzęki stawów kolanowych, wyniki badań laboratoryjnych są prawidłowe. D. chód jest prawidłowy, bóle nie występują nigdy rano, wyniki badań laboratoryjnych są prawidłowe. E. bóle występują codziennie, obrzęki stawów kolanowych, nieprawidłowe wyniki badań laboratoryjnych.",
+      "question": "Idiopatyczne bóle mięśniowo-szkieletowe występujące u dzieci, określane często jako wzrostowe, są przyczyną wizyt w gabinecie lekarza pediatry. Jakie objawy pozwalają na postawienie tego rozpoznania?",
       "answers": [
         {
           "id": "A",
@@ -4787,7 +4787,7 @@
         {
           "id": "D",
           "text": "chód jest prawidłowy, bóle nie występują nigdy rano, wyniki badań laboratoryjnych są prawidłowe.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4806,7 +4806,7 @@
         {
           "id": "A",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4850,7 +4850,7 @@
         {
           "id": "C",
           "text": "2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4869,12 +4869,12 @@
     },
     {
       "id": "ped-1-144",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące szczepionek: A. szczepionka polisacharydowa przeciwko pneumokokom (PPV23) jest przeznaczona do uodporniania niemowląt i dzieci do 2. roku życia. B. szczepienie przeciwko grypie jest rekomendowane dla dzieci od 6. miesiąca życia. C. szczepionka BCG jest szczepionką żywą, atenuowaną, dlatego jej użycie jest przeciwwskazane u dzieci z podejrzeniem lub rozpoznaniem poważnych niedoborów odporności. D. szczepionka przeciwko pneumokokom PCV10 lub 13 jest przykładem szczepionki skoniugowanej, w której antygeny polisacharydowe są połączone z nośnikiem białkowym. E. szczepionka DTP jest przykładem szczepionki inaktywowanej, skojarzonej, z pełnokomórkową komponentą krztuścową.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące szczepionek:",
       "answers": [
         {
           "id": "A",
           "text": "szczepionka polisacharydowa przeciwko pneumokokom (PPV23) jest przeznaczona do uodporniania niemowląt i dzieci do 2. roku życia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4903,7 +4903,7 @@
     },
     {
       "id": "ped-1-145",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące liszajca zakaźnego: B. w wielu przypadkach spowodowany jest zakażeniem paciorkowcem beta- hemolizującym. C. na skórze pojawiają się rumień, następnie pęcherze i miodowo-żółte strupy. D. ostre kłębuszkowe zapalenie nerek może być powikłaniem liszajca zakaźnego. E. guzki Lischa są stwierdzane u ponad 90% pacjentów z liszajcem zakaźnym.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące liszajca zakaźnego:",
       "answers": [
         {
           "id": "A",
@@ -4928,7 +4928,7 @@
         {
           "id": "E",
           "text": "guzki Lischa są stwierdzane u ponad 90% pacjentów z liszajcem zakaźnym.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4937,7 +4937,7 @@
     },
     {
       "id": "ped-1-146",
-      "question": "Żółtaczka związana z karmieniem piersią prawdopodobnie wynika z: B. znacznej zawartości laktozy w mleku początkowym utrudniającej sprzęganie bilirubiny z kwasem glukuronowym. D. niedostatecznej kolonizacji bakteryjnej przewodu pokarmowego noworodka. E. przyjmowania przez matkę karmiącą leków rozszczepiających wiązania estrowe glukuronidu bilirubiny.",
+      "question": "Żółtaczka związana z karmieniem piersią prawdopodobnie wynika z:",
       "answers": [
         {
           "id": "A",
@@ -4952,7 +4952,7 @@
         {
           "id": "C",
           "text": "opóźnionego pierwszego karmienia i niedostatecznej podaży pokarmu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4991,7 +4991,7 @@
         {
           "id": "D",
           "text": "Turnera.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5005,7 +5005,7 @@
     },
     {
       "id": "ped-1-148",
-      "question": "Do przyczyn omdleń kardiogennych u dzieci nie zalicza się: D. nieprawidłowej autoregulacji częstości serca i ciśnienia tętniczego krwi podczas długotrwałej pozycji stojącej.",
+      "question": "Do przyczyn omdleń kardiogennych u dzieci nie zalicza się:",
       "answers": [
         {
           "id": "A",
@@ -5025,7 +5025,7 @@
         {
           "id": "D",
           "text": "nieprawidłowej autoregulacji częstości serca i ciśnienia tętniczego krwi podczas długotrwałej pozycji stojącej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5059,7 +5059,7 @@
         {
           "id": "D",
           "text": "bólu narastającego przy ruchach szyją.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5093,7 +5093,7 @@
         {
           "id": "D",
           "text": "ropień okołomigdałkowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5117,7 +5117,7 @@
         {
           "id": "B",
           "text": "1,2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5161,7 +5161,7 @@
         {
           "id": "D",
           "text": "2,3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5200,7 +5200,7 @@
         {
           "id": "E",
           "text": "rodzinna gorączka śródziemnomorska.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5214,7 +5214,7 @@
         {
           "id": "A",
           "text": "zespołu Gardnera.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5243,7 +5243,7 @@
     },
     {
       "id": "ped-1-155",
-      "question": "Czy u dzieci można rozpoznać cukrzycę na podstawie doustnego testu obciążenia glukozą (OGTT)? C. tak, podaje się wyliczoną dawkę glukozy 1,75 g/kg mc., maksymalnie 50 g. D. tak, podaje się wyliczoną dawkę glukozy 1,75 g/kg mc., maksymalnie 75 g.",
+      "question": "Czy u dzieci można rozpoznać cukrzycę na podstawie doustnego testu obciążenia glukozą (OGTT)?",
       "answers": [
         {
           "id": "A",
@@ -5263,7 +5263,7 @@
         {
           "id": "D",
           "text": "tak, podaje się wyliczoną dawkę glukozy 1,75 g/kg mc., maksymalnie 75 g.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5277,12 +5277,12 @@
     },
     {
       "id": "ped-1-156",
-      "question": "O zakażeniu układu moczowego u dziecka nie świadczy: A. poszerzenie układu kielichowo-miedniczkowego w badaniu ultrasonograficznym.",
+      "question": "O zakażeniu układu moczowego u dziecka nie świadczy:",
       "answers": [
         {
           "id": "A",
           "text": "poszerzenie układu kielichowo-miedniczkowego w badaniu ultrasonograficznym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5311,7 +5311,7 @@
     },
     {
       "id": "ped-1-157",
-      "question": "Siedmioletni chłopiec z alergią pokarmową, ze wstrząsem anafilaktycznym po wypiciu mleka krowiego w wywiadzie, zgłosił się do lekarza rodzinnego z powodu ogólnego osłabienia oraz obrzęku powiek. Dolegliwości utrzymują się od ponad 2 dni. Chłopiec wydolny oddechowo i krążeniowo. Ciśnienie tętnicze krwi w normie. Czynność serca miarowa, 80/min. Na skórze widoczne liczne świeże ślady po ukąszeniu owadów. Obrzęki twarzy i podudzi. Wynik szybkiego testu oznaczającego stężenie CRP w krwi włośniczkowej - w normie. Test paskowy moczu: leukocyty (+), białko (+++). Dziecko zostało skierowane do szpitala. Jakie rozpoznanie należy uznać za najbardziej prawdopodobne na tym etapie diagnostyki? A. nasilenie objawów alergii pokarmowej u chłopca ze wstrząsem anafilaktycznym w wywiadzie.",
+      "question": "Siedmioletni chłopiec z alergią pokarmową, ze wstrząsem anafilaktycznym po wypiciu mleka krowiego w wywiadzie, zgłosił się do lekarza rodzinnego z powodu ogólnego osłabienia oraz obrzęku powiek. Dolegliwości utrzymują się od ponad 2 dni. Chłopiec wydolny oddechowo i krążeniowo. Ciśnienie tętnicze krwi w normie. Czynność serca miarowa, 80/min. Na skórze widoczne liczne świeże ślady po ukąszeniu owadów. Obrzęki twarzy i podudzi. Wynik szybkiego testu oznaczającego stężenie CRP w krwi włośniczkowej - w normie. Test paskowy moczu: leukocyty (+), białko (+++). Dziecko zostało skierowane do szpitala. Jakie rozpoznanie należy uznać za najbardziej prawdopodobne na tym etapie diagnostyki?",
       "answers": [
         {
           "id": "A",
@@ -5336,7 +5336,7 @@
         {
           "id": "E",
           "text": "podejrzenie zespołu nerczycowego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5350,7 +5350,7 @@
         {
           "id": "A",
           "text": "< 6,5%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5379,7 +5379,7 @@
     },
     {
       "id": "ped-1-159",
-      "question": "Do profilaktyki alergii pokarmowej nie należy: B. wprowadzanie do diety dziecka pokarmów innych niż mleko nie wcześniej niż po ukończeniu 4. miesiąca życia dziecka. C. stosowanie hydrolizatów białkowych u dzieci żywionych sztucznie z obciążeniem rodzinnym atopią.",
+      "question": "Do profilaktyki alergii pokarmowej nie należy:",
       "answers": [
         {
           "id": "A",
@@ -5399,7 +5399,7 @@
         {
           "id": "D",
           "text": "stosowanie mleka koziego zamiast krowiego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5428,7 +5428,7 @@
         {
           "id": "C",
           "text": "płonicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5457,7 +5457,7 @@
         {
           "id": "B",
           "text": "10 g węglowodanów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5496,7 +5496,7 @@
         {
           "id": "C",
           "text": "nieprawidłową tolerancję glukozy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5540,7 +5540,7 @@
         {
           "id": "E",
           "text": "ampicylina z gentamycyną.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5569,7 +5569,7 @@
         {
           "id": "D",
           "text": "nielicznostawowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5593,7 +5593,7 @@
         {
           "id": "B",
           "text": "zatruciem morfiną lub jej pochodnymi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5637,7 +5637,7 @@
         {
           "id": "D",
           "text": "mononukleozy zakaźnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5651,12 +5651,12 @@
     },
     {
       "id": "ped-1-167",
-      "question": "Mózgowe porażenie dziecięce to niepostępujące zaburzenie czynności ruchowych i postawy spowodowane uszkodzeniem: A. OUN w okresie jego rozwoju (w okresie ciąży, porodu lub w okresie okołoporodowym). B. OUN oraz obwodowego układu nerwowego w okresie rozwoju (w okresie ciąży, porodu lub w okresie okołoporodowym).",
+      "question": "Mózgowe porażenie dziecięce to niepostępujące zaburzenie czynności ruchowych i postawy spowodowane uszkodzeniem:",
       "answers": [
         {
           "id": "A",
           "text": "OUN w okresie jego rozwoju (w okresie ciąży, porodu lub w okresie okołoporodowym).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5685,7 +5685,7 @@
     },
     {
       "id": "ped-1-168",
-      "question": "Mama zgłosiła się z rocznym chłopcem do lekarza POZ z powodu objawów banalnej infekcji wirusowej górnych dróg oddechowych. Lekarz zwrócił uwagę na bladość dziecka. Chłopiec karmiony jest od 6. miesiąca życia niemodyfikowanym mlekiem krowim. Niechętnie zjada cokolwiek innego poza kaszką na mleku krowim. W wykonanej morfologii krwi obwodowej wykazano: RBC 4 x 10 /μl, Hgb 9,0 g/dl, MCV 60 fL, RDW 18%, PLT 480 x\n10 /μl, WBC 9 x 10 /μl. Dziecko nigdy nie przyjmowało żadnych leków. Wskaż właściwe postępowanie: A. skierowanie chłopca w trybie pilnym do szpitala ze względu na niedokrwistość i infekcję. B. rozpoznanie niedokrwistości megaloblastycznej, powstałej w konsekwencji błędów żywieniowych; zalecenie doustnych preparatów kwasu foliowego i witaminy B . C. rozpoznanie niedokrwistości w przebiegu ostrej infekcji; należy wyleczyć infekcję i zalecić kontrolę morfologii za 2 tygodnie. D. dziecko jest dobrze zaadoptowane do niedokrwistości, nie wymaga\n6\n3 3\n12 żadnego leczenia, a jedynie modyfikacji diety. E. rozpoznanie niedokrwistości z niedoboru żelaza, wdrożenie leczniczych dawek doustnego preparatu żelaza oraz zalecenie modyfikacji diety.",
+      "question": "Mama zgłosiła się z rocznym chłopcem do lekarza POZ z powodu objawów banalnej infekcji wirusowej górnych dróg oddechowych. Lekarz zwrócił uwagę na bladość dziecka. Chłopiec karmiony jest od 6. miesiąca życia niemodyfikowanym mlekiem krowim. Niechętnie zjada cokolwiek innego poza kaszką na mleku krowim. W wykonanej morfologii krwi obwodowej wykazano: RBC 4 x 10^6 /μl, Hgb 9,0 g/dl, MCV 60 fL, RDW 18%, PLT 480 x10^3 /μl, WBC 9 x 10^3 /μl. Dziecko nigdy nie przyjmowało żadnych leków. Wskaż właściwe postępowanie:",
       "answers": [
         {
           "id": "A",
@@ -5694,7 +5694,7 @@
         },
         {
           "id": "B",
-          "text": "rozpoznanie niedokrwistości megaloblastycznej, powstałej w konsekwencji błędów żywieniowych; zalecenie doustnych preparatów kwasu foliowego i witaminy B .",
+          "text": "rozpoznanie niedokrwistości megaloblastycznej, powstałej w konsekwencji błędów żywieniowych; zalecenie doustnych preparatów kwasu foliowego i witaminy B12.",
           "isCorrect": false
         },
         {
@@ -5704,13 +5704,13 @@
         },
         {
           "id": "D",
-          "text": "dziecko jest dobrze zaadoptowane do niedokrwistości, nie wymaga 6 3 3 12 żadnego leczenia, a jedynie modyfikacji diety.",
+          "text": "dziecko jest dobrze zaadoptowane do niedokrwistości, nie wymaga żadnego leczenia, a jedynie modyfikacji diety.",
           "isCorrect": false
         },
         {
           "id": "E",
           "text": "rozpoznanie niedokrwistości z niedoboru żelaza, wdrożenie leczniczych dawek doustnego preparatu żelaza oraz zalecenie modyfikacji diety.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5734,7 +5734,7 @@
         {
           "id": "C",
           "text": "mukowiscydoza.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5753,7 +5753,7 @@
     },
     {
       "id": "ped-1-170",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące zakażeń układu moczowego (ZUM) u dzieci: A. ryzyko zachorowania jest większe u noworodków urodzonych przedwcześnie. D. ZUM jest najczęściej wywołany przez E. coli, ale u nastolatków może dochodzić do zakażeń Staphylococcus saprophyticus. E. stulejka może predysponować do zakażeń.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące zakażeń układu moczowego (ZUM) u dzieci:",
       "answers": [
         {
           "id": "A",
@@ -5763,7 +5763,7 @@
         {
           "id": "B",
           "text": "ryzyko zachorowania jest większe u noworodków płci żeńskiej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5777,7 +5777,7 @@
         },
         {
           "id": "E",
-          "text": "coli, ale u nastolatków może dochodzić do zakażeń Staphylococcus saprophyticus. E. stulejka może predysponować do zakażeń.",
+          "text": "stulejka może predysponować do zakażeń.",
           "isCorrect": false
         }
       ],
@@ -5797,7 +5797,7 @@
         {
           "id": "B",
           "text": "poinfekcyjne kłębuszkowe zapalenie nerek.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5846,7 +5846,7 @@
         {
           "id": "E",
           "text": "dystrofii mięśniowej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5855,7 +5855,7 @@
     },
     {
       "id": "ped-1-173",
-      "question": "Dziecko 15-miesięczne, szczepione zgodnie z obowiązującym programem szczepień ochronnych (PSO), powinno być uodpornione przeciwko gruźlicy, błonicy, tężcowi, krztuścowi oraz: A. wzw A i B, poliomyelitis, Haemophilus influenzae typu B, pneumokokom, odrze, śwince, różyczce, meningokokom. C. wzw B, Haemophilus influenzae typu B, pneumokokom, rotawirusom, poliomyelitis, odrze, śwince, różyczce. D. wzw B, poliomyelitis, Haemophilus influenzae typu B, pneumokokom, odrze, śwince, różyczce. E. wzw B, poliomyelitis, Haemophilus influenzae typu B, odrze, śwince, różyczce, grypie.",
+      "question": "Dziecko 15-miesięczne, szczepione zgodnie z obowiązującym programem szczepień ochronnych (PSO), powinno być uodpornione przeciwko gruźlicy, błonicy, tężcowi, krztuścowi oraz:",
       "answers": [
         {
           "id": "A",
@@ -5870,7 +5870,7 @@
         {
           "id": "C",
           "text": "wzw B, Haemophilus influenzae typu B, pneumokokom, rotawirusom, poliomyelitis, odrze, śwince, różyczce.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5889,12 +5889,12 @@
     },
     {
       "id": "ped-1-174",
-      "question": "10-letnia dziewczynka przywieziona została do SOR z powodu wystąpienia uogólnionej pokrzywki i trudności w oddychaniu. Powyższe objawy wystąpiły po użądleniu przez pszczołę. Przy przyjęciu w badaniu przedmiotowym stwierdzono: liczne, rozsiane zmiany pokrzywkowe na skórze ciała, osłuchowo nad polami płucnymi dość liczne świsty, częstość oddechów\n56/min, czynność serca 110/min, RR 75/50 mmHg. Który z poniższych wariantów postępowania terapeutycznego jest prawidłowy? A. podaż domięśniowa adrenaliny, zabezpieczenie dostępu dożylnego, nawodnienie dożylne. B. zabezpieczenie dostępu dożylnego, podaż glikokortykosteroidów systemowych, obserwacja w SOR przez 2 godz. C. podaż leków przeciwhistaminowych, beta -mimetyków wziewnych, a w przypadku braku poprawy - zabezpieczenie dostępu dożylnego i podaż glikokortykosteroidów systemowych. E. zabezpieczenie dostępu dożylnego, podaż glikokortykosteroidów systemowych, a w przypadku braku poprawy - adrenaliny.",
+      "question": "10-letnia dziewczynka przywieziona została do SOR z powodu wystąpienia uogólnionej pokrzywki i trudności w oddychaniu. Powyższe objawy wystąpiły po użądleniu przez pszczołę. Przy przyjęciu w badaniu przedmiotowym stwierdzono: liczne, rozsiane zmiany pokrzywkowe na skórze ciała, osłuchowo nad polami płucnymi dość liczne świsty, częstość oddechów\n56/min, czynność serca 110/min, RR 75/50 mmHg. Który z poniższych wariantów postępowania terapeutycznego jest prawidłowy?",
       "answers": [
         {
           "id": "A",
           "text": "podaż domięśniowa adrenaliny, zabezpieczenie dostępu dożylnego, nawodnienie dożylne.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5903,7 +5903,7 @@
         },
         {
           "id": "C",
-          "text": "podaż leków przeciwhistaminowych, beta -mimetyków wziewnych, a w przypadku braku poprawy - zabezpieczenie dostępu dożylnego i podaż glikokortykosteroidów systemowych.",
+          "text": "podaż leków przeciwhistaminowych, beta2-mimetyków wziewnych, a w przypadku braku poprawy - zabezpieczenie dostępu dożylnego i podaż glikokortykosteroidów systemowych.",
           "isCorrect": false
         },
         {
@@ -5923,7 +5923,7 @@
     },
     {
       "id": "ped-1-175",
-      "question": "Zakażenie Streptococcus pyogenes może wywołać u dzieci różnorodne powikłania, które wynikają najczęściej z reakcji autoimmunologicznych. Należą do nich:\n1) zespół hemolityczno-mocznicowy (HUS);\n2) gorączka reumatyczna;\n3) zespół zaburzeń obsesyjno-kompulsywnych (PANDAS);\n4) ostre kłębuszkowe zapalenie nerek;\n5) zespół gorączek nawrotowych (zespół PFAPA: nawroty gorączek, zapalenie gardła, limfadenopatia oraz aftoza jamy ustnej). Prawidłowa odpowiedź to: D. 2,4.\n2",
+      "question": "Zakażenie Streptococcus pyogenes może wywołać u dzieci różnorodne powikłania, które wynikają najczęściej z reakcji autoimmunologicznych. Należą do nich:\n1) zespół hemolityczno-mocznicowy (HUS);\n2) gorączka reumatyczna;\n3) zespół zaburzeń obsesyjno-kompulsywnych (PANDAS);\n4) ostre kłębuszkowe zapalenie nerek;\n5) zespół gorączek nawrotowych (zespół PFAPA: nawroty gorączek, zapalenie gardła, limfadenopatia oraz aftoza jamy ustnej). Prawidłowa odpowiedź to:",
       "answers": [
         {
           "id": "A",
@@ -5938,11 +5938,11 @@
         {
           "id": "C",
           "text": "2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
-          "text": "2,4. 2",
+          "text": "2,4.",
           "isCorrect": false
         },
         {
@@ -5967,7 +5967,7 @@
         {
           "id": "B",
           "text": "1,2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5991,7 +5991,7 @@
     },
     {
       "id": "ped-1-177",
-      "question": "16-letnia pacjentka skarżąca się na uporczywy świąd skóry, od 3 miesięcy stosuje leczenie immunosupresyjne w postaci maści i kremów, przepisanych przez dermatologa, bez żadnego rezultatu. W relacji pacjentki w ostatnim czasie „spuchła jej szyja”, a ponadto podaje osłabienie i ograniczenie tolerancji wysiłku. W badaniu stwierdza się tachypnoe, pakiet powiększonych węzłów chłonnych (największy o średnicy 3 cm) w okolicy mięśnia mostkowo-obojczykowo-sutkowego lewego i nadobojczykowej po tej samej stronie. Na skórze klatki piersiowej widoczny rysunek naczyniowy. Pacjentkę należy skierować: B. do ośrodka zajmującego się leczeniem nowotworów u dzieci, z podejrzeniem zespołu żyły głównej górnej wtórnego do chłoniaka. C. do Poradni Onkologicznej w celu wykonania badań laboratoryjnych, USG węzłów chłonnych szyjnych, badań wirusologicznych oraz umówienia terminu biopsji. D. do ośrodka zajmującego się chirurgią onkologiczną z zaleceniem wykonania biopsji gruboigłowej ze względu na podejrzenie chłoniaka Hodgkina. E. do Poradni POZ z sugestią wykonania diagnostyki obrazowej: RTG klatki piersiowej oraz USG węzłów chłonnych szyjnych.",
+      "question": "16-letnia pacjentka skarżąca się na uporczywy świąd skóry, od 3 miesięcy stosuje leczenie immunosupresyjne w postaci maści i kremów, przepisanych przez dermatologa, bez żadnego rezultatu. W relacji pacjentki w ostatnim czasie „spuchła jej szyja”, a ponadto podaje osłabienie i ograniczenie tolerancji wysiłku. W badaniu stwierdza się tachypnoe, pakiet powiększonych węzłów chłonnych (największy o średnicy 3 cm) w okolicy mięśnia mostkowo-obojczykowo-sutkowego lewego i nadobojczykowej po tej samej stronie. Na skórze klatki piersiowej widoczny rysunek naczyniowy. Pacjentkę należy skierować:",
       "answers": [
         {
           "id": "A",
@@ -6001,7 +6001,7 @@
         {
           "id": "B",
           "text": "do ośrodka zajmującego się leczeniem nowotworów u dzieci, z podejrzeniem zespołu żyły głównej górnej wtórnego do chłoniaka.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6045,7 +6045,7 @@
         {
           "id": "D",
           "text": "nie stosować farmakoterapii.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6069,7 +6069,7 @@
         {
           "id": "B",
           "text": "w przegrodzie międzyprzedsionkowej serca.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6108,7 +6108,7 @@
         {
           "id": "C",
           "text": "przewlekłe stosowanie glikokortykosteroidów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6127,12 +6127,12 @@
     },
     {
       "id": "ped-1-181",
-      "question": "Do rozpoznania zakażenia układu moczowego u noworodka upoważniają: A. każda liczba bakterii Gram ujemnych w moczu pobranym drogą nakłucia nadłonowego pęcherza moczowego. B. każda liczba bakterii Gram dodatnich w moczu pobranym drogą nakłucia nadłonowego pęcherza moczowego. C. liczba bakterii > 10 w moczu pobranym drogą cewnikowania pęcherza moczowego. D. liczba bakterii > 10 w moczu pobranym drogą cewnikowania pęcherza moczowego.",
+      "question": "Do rozpoznania zakażenia układu moczowego u noworodka upoważniają:",
       "answers": [
         {
           "id": "A",
           "text": "każda liczba bakterii Gram ujemnych w moczu pobranym drogą nakłucia nadłonowego pęcherza moczowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6141,17 +6141,17 @@
         },
         {
           "id": "C",
-          "text": "liczba bakterii > 10 w moczu pobranym drogą cewnikowania pęcherza moczowego.",
+          "text": "liczba bakterii > 10^2 w moczu pobranym drogą cewnikowania pęcherza moczowego.",
           "isCorrect": false
         },
         {
           "id": "D",
-          "text": "liczba bakterii > 10 w moczu pobranym drogą cewnikowania pęcherza moczowego.",
+          "text": "liczba bakterii > 10^3 w moczu pobranym drogą cewnikowania pęcherza moczowego.",
           "isCorrect": false
         },
         {
           "id": "E",
-          "text": "liczba bakterii > 10 w moczu pobranym do woreczka.",
+          "text": "liczba bakterii > 10^5 w moczu pobranym do woreczka.",
           "isCorrect": false
         }
       ],
@@ -6161,7 +6161,7 @@
     },
     {
       "id": "ped-1-182",
-      "question": "Główne cechy zespołu WAGR to: A. wrodzony brak rogówek, guz Wilmsa, wady rozwojowe układu moczowego, upośledzenie umysłowe. B. wrodzony brak tęczówek, guz wątroby, wady rozwojowe układu moczowego, upośledzenie umysłowe. C. wrodzony brak tęczówek, guz Wilmsa, wady rozwojowe układu moczowego, upośledzenie umysłowe. D. wrodzony brak rogówek, guz Wilmsa, wady rozwojowe układu pokarmowego, upośledzenie umysłowe. E. wrodzony brak tęczówek, guz gałki ocznej, wady rozwojowe układu moczowego, upośledzenie umysłowe.",
+      "question": "Główne cechy zespołu WAGR to:",
       "answers": [
         {
           "id": "A",
@@ -6176,7 +6176,7 @@
         {
           "id": "C",
           "text": "wrodzony brak tęczówek, guz Wilmsa, wady rozwojowe układu moczowego, upośledzenie umysłowe.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6195,11 +6195,11 @@
     },
     {
       "id": "ped-1-183",
-      "question": "Do gabinetu lekarskiego zgłosił się 15-letni chłopiec z powodu złego samopoczucia, kataru i kaszlu. Zmierzona temperatura wynosiła 37,5°C. Lekarz w badaniu fizykalnym, poza nieżytem nosa, stwierdził zaczerwienione, rozpulchnione gardło. Ocenił pacjenta w skali Centora/McIsaaca na 1 punkt. Lekarz w postępowaniu leczniczym powinien: A. zastosować doustną penicylinę bowiem podstawowym patogenem nieżytu gardła jest Streptococcus pyogenes.\n2\n3\n5 B. zastosować antybiotyk makrolidowy, bo powinien uwzględnić możliwość koincydencji drobnoustroju atypowego w infekcji górnych dróg oddechowych. D. zastosować acyklowir bowiem stwierdzone objawy odpowiadają infekcji wirusowej. E. zastosować chemioterapeutyk (trimetoprim+sulfametoksazol) bowiem w niezbyt nasilonej infekcji nie ma potrzeby stosowania od razu antybiotyku.",
+      "question": "Do gabinetu lekarskiego zgłosił się 15-letni chłopiec z powodu złego samopoczucia, kataru i kaszlu. Zmierzona temperatura wynosiła 37,5°C. Lekarz w badaniu fizykalnym, poza nieżytem nosa, stwierdził zaczerwienione, rozpulchnione gardło. Ocenił pacjenta w skali Centora/McIsaaca na 1 punkt. Lekarz w postępowaniu leczniczym powinien:",
       "answers": [
         {
           "id": "A",
-          "text": "zastosować doustną penicylinę bowiem podstawowym patogenem nieżytu gardła jest Streptococcus pyogenes. 2 3 5",
+          "text": "zastosować doustną penicylinę bowiem podstawowym patogenem nieżytu gardła jest Streptococcus pyogenes.",
           "isCorrect": false
         },
         {
@@ -6210,7 +6210,7 @@
         {
           "id": "C",
           "text": "zastosować wyłącznie leczenie objawowe.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6229,7 +6229,7 @@
     },
     {
       "id": "ped-1-184",
-      "question": "Wskazaniem do pilnego przyjęcia dziecka do szpitala z powodu astmy oskrzelowej jest/są: B. tachypnoe mimo podania jednej dawki krótko działającego beta-2 mimetyku (SABA).",
+      "question": "Wskazaniem do pilnego przyjęcia dziecka do szpitala z powodu astmy oskrzelowej jest/są:",
       "answers": [
         {
           "id": "A",
@@ -6249,7 +6249,7 @@
         {
           "id": "D",
           "text": "trudności w jedzeniu, piciu i mówieniu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6263,7 +6263,7 @@
     },
     {
       "id": "ped-1-185",
-      "question": "Niemowlę otrzymało drugą dawkę szczepionki DTP 20 dni po pierwszej. Wskaż prawidłowe postępowanie w opisanej sytuacji: A. należy uznać realizację tej dawki i kontynuować szczepienia wg schematu. B. należy uznać podaną dawkę szczepionki jako niewykonaną i po 4 tygodniach podać powtórnie dawkę drugą i kolejne według schematu. D. w zaistniałej sytuacji należy wydłużyć odstęp pomiędzy dawką drugą i trzecią do 40 dni i kontynuować dalsze szczepienie według schematu. E. po 4-tygodniowej przerwie należy rozpocząć szczepienie DTP od początku, czyli od pierwszej dawki.",
+      "question": "Niemowlę otrzymało drugą dawkę szczepionki DTP 20 dni po pierwszej. Wskaż prawidłowe postępowanie w opisanej sytuacji:",
       "answers": [
         {
           "id": "A",
@@ -6273,7 +6273,7 @@
         {
           "id": "B",
           "text": "należy uznać podaną dawkę szczepionki jako niewykonaną i po 4 tygodniach podać powtórnie dawkę drugą i kolejne według schematu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6307,7 +6307,7 @@
         {
           "id": "B",
           "text": "ognisko pierwotne powoduje nawarstwienie okostnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6331,12 +6331,12 @@
     },
     {
       "id": "ped-1-187",
-      "question": "Które stwierdzenie dotyczące pokrzywki jest fałszywe? C. przyczyną pokrzywki mogą być m.in. choroby nowotworowe i tkanki łącznej. D. najważniejszymi lekami w terapii pokrzywek są leki p/histaminowe II generacji.",
+      "question": "Które stwierdzenie dotyczące pokrzywki jest fałszywe?",
       "answers": [
         {
           "id": "A",
           "text": "w przebiegu pokrzywki nie występuje wstrząs anafilaktyczny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6385,7 +6385,7 @@
         {
           "id": "D",
           "text": "endoskopia z pobraniem wycinków.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6404,7 +6404,7 @@
         {
           "id": "A",
           "text": "zespół nerczycowy typu Fińskiego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6433,7 +6433,7 @@
     },
     {
       "id": "ped-1-190",
-      "question": "U dwuletniego dziecka rozpoznano ostre odmiedniczkowe zapalenie nerek. Jakie będzie najwłaściwsze postępowanie? A. rozpoczęcie antybiotykoterapii po otrzymaniu wyniku posiewu moczu oraz antybiogramu. E. podanie antybiotyku jedynie w przypadku współistniejącego wrodzonego wodonercza.",
+      "question": "U dwuletniego dziecka rozpoznano ostre odmiedniczkowe zapalenie nerek. Jakie będzie najwłaściwsze postępowanie?",
       "answers": [
         {
           "id": "A",
@@ -6453,7 +6453,7 @@
         {
           "id": "D",
           "text": "natychmiastowe rozpoczęcie antybiotykoterapii.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6467,7 +6467,7 @@
     },
     {
       "id": "ped-1-191",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące zapalenia oskrzelików: A. występuje u dzieci poniżej 2. roku życia, najczęściej w okresie od jesieni do wiosny. B. przebieg choroby jest dwufazowy, po 2-3 dniowym okresie nieżytu górnych dróg oddechowych, pojawia się duszność wdechowo-wydechowa. C. w badaniu fizykalnym stwierdza się wdechowe ustawienie klatki piersiowej, bębenkowy odgłos opukowy, rzężenia drobnobańkowe i trzeszczenia, cichy szmer oddechowy. D. w leczeniu stosuje się standardowo antybiotyk o szerokim spektrum, leki rozszerzające oskrzela, duże dawki glikokortykosteroidów. E. najważniejszym w postępowaniu jest właściwe nawodnienie, podawanie tlenu i nawilżenie powietrza.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące zapalenia oskrzelików:",
       "answers": [
         {
           "id": "A",
@@ -6487,7 +6487,7 @@
         {
           "id": "D",
           "text": "w leczeniu stosuje się standardowo antybiotyk o szerokim spektrum, leki rozszerzające oskrzela, duże dawki glikokortykosteroidów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6516,7 +6516,7 @@
         {
           "id": "C",
           "text": "1,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6560,7 +6560,7 @@
         {
           "id": "E",
           "text": "100%.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6574,7 +6574,7 @@
         {
           "id": "A",
           "text": "leczenie glikokortykosteroidami chorób z autoagresji.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6618,7 +6618,7 @@
         {
           "id": "C",
           "text": "ospy wietrznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6657,7 +6657,7 @@
         {
           "id": "D",
           "text": "atrezji przełyku.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6671,12 +6671,12 @@
     },
     {
       "id": "ped-1-197",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące gruźlicy u dzieci: A. największa podatność na zakażenie M. tuberculosis dotyczy dzieci do 3. r.ż. C. obraz histopatologiczny w gruźlicy pierwotnej u dzieci > 12. m.ż. wykazuje najczęściej zmiany serowate. D. gruźlica układu moczowo-płciowego należy do postaci o ciężkim przebiegu klinicznym. E. u dzieci najmłodszych pierwsze zmiany płucne występują najczęściej jednostronnie.",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące gruźlicy u dzieci:",
       "answers": [
         {
           "id": "A",
           "text": "największa podatność na zakażenie M. tuberculosis dotyczy dzieci do 3. r.ż.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6710,7 +6710,7 @@
         {
           "id": "A",
           "text": "1,4,5,7.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6739,7 +6739,7 @@
     },
     {
       "id": "ped-1-199",
-      "question": "Do cech charakterystycznych dla mukowiscydozy nie należy/ą: B. przewlekłe zakażenie Mycoplasma pneumoniae i/lub Chlamydia trachomatis.",
+      "question": "Do cech charakterystycznych dla mukowiscydozy nie należy/ą:",
       "answers": [
         {
           "id": "A",
@@ -6749,7 +6749,7 @@
         {
           "id": "B",
           "text": "przewlekłe zakażenie Mycoplasma pneumoniae i/lub Chlamydia trachomatis.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6783,7 +6783,7 @@
         {
           "id": "B",
           "text": "1,4,5,6.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6812,7 +6812,7 @@
         {
           "id": "A",
           "text": "1,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6846,7 +6846,7 @@
         {
           "id": "A",
           "text": "pojawiły się nagle, nie znikają przy ucisku, mają kolor ciemnoczerwony.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6890,7 +6890,7 @@
         {
           "id": "C",
           "text": "stawy kolanowe.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6914,7 +6914,7 @@
         {
           "id": "A",
           "text": "hiperglikemię, ketonemię, ketonurię i kwasicę metaboliczną.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6948,7 +6948,7 @@
         {
           "id": "A",
           "text": "> 6. m.ż.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6987,7 +6987,7 @@
         {
           "id": "B",
           "text": "1,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7036,7 +7036,7 @@
         {
           "id": "E",
           "text": "dysplazja oskrzelowo-płucna.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7055,7 +7055,7 @@
         {
           "id": "B",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7084,7 +7084,7 @@
         {
           "id": "A",
           "text": "krwinkomocz, obrzęki, nadciśnienie tętnicze.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7138,7 +7138,7 @@
         {
           "id": "E",
           "text": "wirusy (Parainfluenzae, Adenovirus, Rhinovirus, RS-virus).",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7147,7 +7147,7 @@
     },
     {
       "id": "ped-1-211",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące chemioprofilaktyki poekspozycyjnej w sytuacji stwierdzenia zakażenia inwazyjnego Neisseria meningitidis: A. jest ona zalecana domownikom i osobom śpiącym w jednym pokoju z chorym w ciągu 7 dni poprzedzających zachorowanie. D. należy zastosować chemioprofilaktykę osobom z bliskiego kontaktu najlepiej w ciągu 24 godzin, ale do 2 tygodni od zachorowania. E. w chemioprofilaktyce inwazyjnej choroby meningokokowej u dzieci stosuje się ryfampicynę lub ceftriakson.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące chemioprofilaktyki poekspozycyjnej w sytuacji stwierdzenia zakażenia inwazyjnego Neisseria meningitidis:",
       "answers": [
         {
           "id": "A",
@@ -7162,7 +7162,7 @@
         {
           "id": "C",
           "text": "podaje się doustnie acyklowir w dawce 4 x 200 mg.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7186,7 +7186,7 @@
         {
           "id": "A",
           "text": "1,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7220,7 +7220,7 @@
         {
           "id": "A",
           "text": "złośliwe guzy kości.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7254,7 +7254,7 @@
         {
           "id": "A",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7298,7 +7298,7 @@
         {
           "id": "C",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7322,7 +7322,7 @@
         {
           "id": "A",
           "text": "Pradera-Willego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7371,7 +7371,7 @@
         {
           "id": "D",
           "text": "podwyższone stężenie cholesterolu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7385,7 +7385,7 @@
     },
     {
       "id": "ped-1-218",
-      "question": "Typowy zespół hemolityczno-mocznicowy, zaliczany do mikroangiopatii zakrzepowej, charakteryzuje się u dzieci następującą triadą objawów: C. niedokrwistość hemolityczna, nadpłytkowość, przewlekłe uszkodzenie nerek.",
+      "question": "Typowy zespół hemolityczno-mocznicowy, zaliczany do mikroangiopatii zakrzepowej, charakteryzuje się u dzieci następującą triadą objawów:",
       "answers": [
         {
           "id": "A",
@@ -7405,7 +7405,7 @@
         {
           "id": "D",
           "text": "niedokrwistość hemolityczna, małopłytkowość, ostre uszkodzenie nerek.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7444,7 +7444,7 @@
         {
           "id": "E",
           "text": "histiocytozy z komórek Langerhansa.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7473,7 +7473,7 @@
         {
           "id": "D",
           "text": "1,2,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7487,7 +7487,7 @@
     },
     {
       "id": "ped-1-221",
-      "question": "12-latek zgłasza się do lekarza rodzinnego po zaopatrzeniu skaleczenia nogi w ogrodzie z pytaniem o profilaktykę tężca. Chłopiec otrzymał w przeszłości kompletne szczepienie podstawowe przeciwko tężcowi, a ostatnią dawkę przypominającą otrzymał 6 lat temu. W ocenie lekarza ryzyko wystąpienia tężca jest niskie. Wskaż prawidłowe postępowanie: A. nie ma wskazań do podawania dawki przypominającej szczepionki tężcowo-błoniczej. C. należy podać dwie dawki szczepionki tężcowo-błoniczej lub tężcowej w odstępie 4 tygodni. D. należy podać trzy dawki szczepionki tężcowo-błoniczej lub tężcowej według cyklu 0;1;6 miesięcy. E. należy podać jedną dawkę szczepionki tężcowo-błoniczej lub tężcowej oraz antytoksynę (swoistą immunoglobulinę).",
+      "question": "12-latek zgłasza się do lekarza rodzinnego po zaopatrzeniu skaleczenia nogi w ogrodzie z pytaniem o profilaktykę tężca. Chłopiec otrzymał w przeszłości kompletne szczepienie podstawowe przeciwko tężcowi, a ostatnią dawkę przypominającą otrzymał 6 lat temu. W ocenie lekarza ryzyko wystąpienia tężca jest niskie. Wskaż prawidłowe postępowanie:",
       "answers": [
         {
           "id": "A",
@@ -7497,7 +7497,7 @@
         {
           "id": "B",
           "text": "należy podać jedną dawkę szczepionki tężcowo-błoniczej lub tężcowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7526,7 +7526,7 @@
         {
           "id": "A",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7575,7 +7575,7 @@
         {
           "id": "D",
           "text": "rumień zakaźny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7589,7 +7589,7 @@
     },
     {
       "id": "ped-1-224",
-      "question": "U 5-letniego dziecka rodzice usunęli ze skóry kleszcza. Po 10 dniach w miejscu ukąszenia pojawił się rumień, który stopniowo powiększał się. W chwili badania lekarskiego widoczny jest rumień o średnicy 7 cm z przejaśnieniem w części centralnej. Wskaż prawidłowe postępowanie w opisanej sytuacji: A. należy wykonać badanie na obecność swoistych przeciwciał przeciwko Borrelia burgdorferi sensu lato metodą ELISA. B. należy wykonać badanie na obecność swoistych przeciwciał przeciwko Borrelia burgdorferi sensu lato metodą western-blot. C. należy wykonać badanie na obecność swoistych przeciwciał przeciwko Borrelia burgdorferi sensu lato metodą ELISA, a następnie western-blot. D. diagnostyka serologiczna nie jest konieczna; należy zalecić doksycyklinę na okres 14 dni. E. diagnostyka serologiczna nie jest konieczna; należy zalecić amoksycylinę na okres 14 dni.",
+      "question": "U 5-letniego dziecka rodzice usunęli ze skóry kleszcza. Po 10 dniach w miejscu ukąszenia pojawił się rumień, który stopniowo powiększał się. W chwili badania lekarskiego widoczny jest rumień o średnicy 7 cm z przejaśnieniem w części centralnej. Wskaż prawidłowe postępowanie w opisanej sytuacji:",
       "answers": [
         {
           "id": "A",
@@ -7614,7 +7614,7 @@
         {
           "id": "E",
           "text": "diagnostyka serologiczna nie jest konieczna; należy zalecić amoksycylinę na okres 14 dni.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7623,7 +7623,7 @@
     },
     {
       "id": "ped-1-225",
-      "question": "Młodzieńcze idiopatyczne zapalenie stawów jest najczęściej występującą grupą przewlekłych zapalnych układowych chorób tkanki łącznej w wieku rozwojowym o nieznanej etiologii. Wskaż prawdziwe stwierdzenie opisujące kryteria rozpoznania tej choroby: C. wiek zachorowania poniżej 16. roku życia, minimum 6 tygodni objawów zapalenia stawów i wykluczenie innych przyczyn zapalenia stawów z tzw.\n„listy wykluczeń”. D. wykluczenie przyczyn infekcyjnych zapalenia stawów, przy zachowanym wieku zachorowania do 18. roku życia.",
+      "question": "Młodzieńcze idiopatyczne zapalenie stawów jest najczęściej występującą grupą przewlekłych zapalnych układowych chorób tkanki łącznej w wieku rozwojowym o nieznanej etiologii. Wskaż prawdziwe stwierdzenie opisujące kryteria rozpoznania tej choroby:",
       "answers": [
         {
           "id": "A",
@@ -7638,7 +7638,7 @@
         {
           "id": "C",
           "text": "wiek zachorowania poniżej 16. roku życia, minimum 6 tygodni objawów zapalenia stawów i wykluczenie innych przyczyn zapalenia stawów z tzw. „listy wykluczeń”.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7677,7 +7677,7 @@
         {
           "id": "D",
           "text": "penicylina fenoksymetylowa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7691,7 +7691,7 @@
     },
     {
       "id": "ped-1-227",
-      "question": "Do lekarza zgłosił się chory z powiększającym się rumieniem na ramieniu - aktualnie średnica około 12 cm. Na podstawie wywiadu i wyglądu zmiany skórnej lekarz rozpoznał rumień wędrujący. Jakie postępowanie powinien podjąć lekarz? A. zlecić badanie przeciwciał przeciwko Borrelia w klasie IgM metodą ELISA. C. zlecić badanie przeciwciał przeciwko Borrelia w klasie IgG i IgM metodą Western-Blot.",
+      "question": "Do lekarza zgłosił się chory z powiększającym się rumieniem na ramieniu - aktualnie średnica około 12 cm. Na podstawie wywiadu i wyglądu zmiany skórnej lekarz rozpoznał rumień wędrujący. Jakie postępowanie powinien podjąć lekarz?",
       "answers": [
         {
           "id": "A",
@@ -7716,7 +7716,7 @@
         {
           "id": "E",
           "text": "rozpocząć leczenie właściwym antybiotykiem.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7725,7 +7725,7 @@
     },
     {
       "id": "ped-1-228",
-      "question": "Chorobę trzewną od nieceliakalnej nadwrażliwości na gluten odróżnia: E. stwierdzenie całkowitego lub prawie całkowitego zaniku kosmków jelitowych w materiale bioptycznym pobranym z dwunastnicy.",
+      "question": "Chorobę trzewną od nieceliakalnej nadwrażliwości na gluten odróżnia:",
       "answers": [
         {
           "id": "A",
@@ -7750,7 +7750,7 @@
         {
           "id": "E",
           "text": "stwierdzenie całkowitego lub prawie całkowitego zaniku kosmków jelitowych w materiale bioptycznym pobranym z dwunastnicy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7769,7 +7769,7 @@
         {
           "id": "B",
           "text": "2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7808,7 +7808,7 @@
         {
           "id": "C",
           "text": "przerost migdałka gardłowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7837,7 +7837,7 @@
         {
           "id": "B",
           "text": "szczepienie lub przechorowanie daje trwałą odporność.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7881,7 +7881,7 @@
         {
           "id": "D",
           "text": "wrodzony przerost kory nadnerczy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7920,7 +7920,7 @@
         {
           "id": "E",
           "text": "mięczak zakaźny.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7954,7 +7954,7 @@
         {
           "id": "E",
           "text": "hiperglikemii.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7983,7 +7983,7 @@
         {
           "id": "D",
           "text": "przepuklinę przeponową.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7997,12 +7997,12 @@
     },
     {
       "id": "ped-1-236",
-      "question": "Do lekarza zgłasza się kobieta w 13. tygodniu ciąży z objawami półpaśca zaniepokojona wpływem tego zakażenia na płód. Wskaż prawidłową odpowiedź dotyczącą przedstawionej sytuacji: B. wirus półpaśca jest potencjalnie niebezpieczny dla płodu, ale tylko do 10. tygodnia ciąży. C. dla określenia zagrożenia płodu istotne jest uzupełnienie wywiadu, czy kobieta chorowała na ospę wietrzną. D. z uwagi na bezpieczeństwo płodu należy natychmiast rozpocząć leczenie acyklowirem.",
+      "question": "Do lekarza zgłasza się kobieta w 13. tygodniu ciąży z objawami półpaśca zaniepokojona wpływem tego zakażenia na płód. Wskaż prawidłową odpowiedź dotyczącą przedstawionej sytuacji:",
       "answers": [
         {
           "id": "A",
           "text": "półpasiec u ciężarnej nie stwarza zagrożenia dla płodu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8051,7 +8051,7 @@
         {
           "id": "D",
           "text": "Ballarda.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8085,7 +8085,7 @@
         {
           "id": "D",
           "text": "zakażenie matki wirusem C zapalenia wątroby.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8104,7 +8104,7 @@
         {
           "id": "A",
           "text": "wyłącznie przez matkę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8153,7 +8153,7 @@
         {
           "id": "D",
           "text": "anafilaktyczna reakcja na składnik szczepionki w wywiadzie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8172,7 +8172,7 @@
         {
           "id": "A",
           "text": "prednizon.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8216,7 +8216,7 @@
         {
           "id": "C",
           "text": "zgaga.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8235,12 +8235,12 @@
     },
     {
       "id": "ped-1-243",
-      "question": "Wskaż fałszywe zdanie dotyczące choroby Schönleina-Henocha: A. warunkiem rozpoznania choroby jest stwierdzenie białkomoczu i krwinkomoczu. D. postacie łagodne, bez objawów nefropatii mają charakter samoograniczający. E. choroba ma związek z obecnością antygenów wirusowych lub bakteryjnych.",
+      "question": "Wskaż fałszywe zdanie dotyczące choroby Schönleina-Henocha:",
       "answers": [
         {
           "id": "A",
           "text": "warunkiem rozpoznania choroby jest stwierdzenie białkomoczu i krwinkomoczu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8274,7 +8274,7 @@
         {
           "id": "A",
           "text": "ostre popaciorkowcowe kłębuszkowe zapalenie nerek.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8303,7 +8303,7 @@
     },
     {
       "id": "ped-1-245",
-      "question": "Bardzo wysokie wartości wskaźników ostrej fazy są charakterystyczne dla: D. martwicy aseptycznej guzowatości kości piszczelowej - choroba Osgooda-Schlattera.",
+      "question": "Bardzo wysokie wartości wskaźników ostrej fazy są charakterystyczne dla:",
       "answers": [
         {
           "id": "A",
@@ -8313,7 +8313,7 @@
         {
           "id": "B",
           "text": "układowej postaci młodzieńczego idiopatycznego zapalenia stawów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8352,7 +8352,7 @@
         {
           "id": "C",
           "text": "zaburzenie wybuchu tlenowego granulocytów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8386,7 +8386,7 @@
         {
           "id": "C",
           "text": "marskość wątroby.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8420,7 +8420,7 @@
         {
           "id": "C",
           "text": "neurofibromatozy typu 1.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8454,7 +8454,7 @@
         {
           "id": "C",
           "text": "wazopresyna i oksytocyna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8488,7 +8488,7 @@
         {
           "id": "C",
           "text": "choroba Kawasakiego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8532,7 +8532,7 @@
         {
           "id": "E",
           "text": "powiększenie śledziony.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8546,7 +8546,7 @@
         {
           "id": "A",
           "text": "zespół Noonan.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8590,7 +8590,7 @@
         {
           "id": "C",
           "text": "guzy mózgu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8634,7 +8634,7 @@
         {
           "id": "E",
           "text": "zwolnienie częstości pracy serca.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8658,7 +8658,7 @@
         {
           "id": "C",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8677,7 +8677,7 @@
     },
     {
       "id": "ped-1-256",
-      "question": "Metodą diagnostyczną rozstrzygającą o rozpoznaniu alergii na pokarm jest wykonanie: A. testów skórnych i atopowych testów płatkowych z natywnymi alergenami pokarmowymi. D. wykonanie doustnej próby prowokacji pokarmowej z podejrzanym pokarmem. E. dodatni wynik każdego z wymienionych badań upoważnia do rozpoznania alergii na pokarm.",
+      "question": "Metodą diagnostyczną rozstrzygającą o rozpoznaniu alergii na pokarm jest wykonanie:",
       "answers": [
         {
           "id": "A",
@@ -8697,7 +8697,7 @@
         {
           "id": "D",
           "text": "wykonanie doustnej próby prowokacji pokarmowej z podejrzanym pokarmem.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8711,12 +8711,12 @@
     },
     {
       "id": "ped-1-257",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące zakażenia wirusem HHV6: E. charakterystycznym objawem zakażenia jest grudkowo-plamista wysypka w obrębie twarzy i tułowia.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące zakażenia wirusem HHV6:",
       "answers": [
         {
           "id": "A",
           "text": "jest czynnikiem etiologicznym rumienia zakaźnego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8765,7 +8765,7 @@
         {
           "id": "D",
           "text": "małopłytkowość.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8804,7 +8804,7 @@
         {
           "id": "E",
           "text": "tylko 6.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8813,7 +8813,7 @@
     },
     {
       "id": "ped-1-260",
-      "question": "12-letni chłopiec, dyslektyk, skarży się na bolesne guzki na brzuchu. Zauważono też u niego co najmniej 8 plamek typu cafe au lait o średnicy około 10 mm i piegowate nakrapiania pod pachami. Należy go pilnie skierować na konsultację w poradni: A. pedagogicznej, bo u chłopca należy zapobiegać innym trudnościom szkolnym. B. dermatologicznej, bo zmiany skórne wymagają regularnej oceny dermatoskopowej. E. neurologicznej, bo wymagana jest diagnostyka w kierunku schorzeń nerwowo-skórnych.",
+      "question": "12-letni chłopiec, dyslektyk, skarży się na bolesne guzki na brzuchu. Zauważono też u niego co najmniej 8 plamek typu cafe au lait o średnicy około 10 mm i piegowate nakrapiania pod pachami. Należy go pilnie skierować na konsultację w poradni:",
       "answers": [
         {
           "id": "A",
@@ -8838,7 +8838,7 @@
         {
           "id": "E",
           "text": "neurologicznej, bo wymagana jest diagnostyka w kierunku schorzeń nerwowo-skórnych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8872,7 +8872,7 @@
         {
           "id": "E",
           "text": "grypy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8896,7 +8896,7 @@
         {
           "id": "C",
           "text": "1,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8940,7 +8940,7 @@
         {
           "id": "E",
           "text": "niedobór parathormonu.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8964,7 +8964,7 @@
         {
           "id": "C",
           "text": "doksorubicyna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8983,7 +8983,7 @@
     },
     {
       "id": "ped-1-265",
-      "question": "Typowy zespół hemolityczno-mocznicowy jest: C. spowodowany niedoborem proteazy rozkładającej czynnik von Willebranda. E. spowodowany przez stosowanie inhibitorów kalcyneuryny.",
+      "question": "Typowy zespół hemolityczno-mocznicowy jest:",
       "answers": [
         {
           "id": "A",
@@ -9003,11 +9003,11 @@
         {
           "id": "D",
           "text": "poprzedzony biegunką wywołaną enteropatogennym szczepem E. coli.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
-          "text": "coli. E. spowodowany przez stosowanie inhibitorów kalcyneuryny.",
+          "text": "spowodowany przez stosowanie inhibitorów kalcyneuryny.",
           "isCorrect": false
         }
       ],
@@ -9017,7 +9017,7 @@
     },
     {
       "id": "ped-1-266",
-      "question": "Które z niżej podanych zaleceń dotyczących dziecka urodzonego z masą ciała 1700 g jest nieprawdziwe w świetle aktualnie obowiązującego Programu Szczepień Ochronnych? A. należy odroczyć podanie szczepionki BCG do czasu osiągnięcia masy ciała 2000 g. B. należy odroczyć podanie szczepionki przeciw wirusowemu zapaleniu wątroby typu B do czasu osiągnięcia masy ciała 2000 g. C. należy w ramach szczepień obowiązkowych zastosować szczepionkę przeciw błonicy, tężcowi i krztuścowi z bezkomórkowym składnikiem krztuścowym. D. należy w ramach szczepień obowiązkowych podać koniugowaną szczepionkę przeciw pneumokokom. E. szczepienie przeciw odrze, śwince i różyczce należy podać zgodnie z wiekiem metrykalnym.",
+      "question": "Które z niżej podanych zaleceń dotyczących dziecka urodzonego z masą ciała 1700 g jest nieprawdziwe w świetle aktualnie obowiązującego Programu Szczepień Ochronnych?",
       "answers": [
         {
           "id": "A",
@@ -9027,7 +9027,7 @@
         {
           "id": "B",
           "text": "należy odroczyć podanie szczepionki przeciw wirusowemu zapaleniu wątroby typu B do czasu osiągnięcia masy ciała 2000 g.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9061,7 +9061,7 @@
         {
           "id": "B",
           "text": "zwojaka zarodkowego (neuroblastoma).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9110,7 +9110,7 @@
         {
           "id": "E",
           "text": "wildagliptyny.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -9119,7 +9119,7 @@
     },
     {
       "id": "ped-1-269",
-      "question": "Wskaż zestaw objawów typowych dla tocznia rumieniowatego układowego: A. nadwrażliwość na światło słoneczne, zaburzenia neurologiczne, ostre odmiedniczkowe zapalenie nerek. B. nadwrażliwość na światło słoneczne, zaburzenia neurologiczne, nadpłytkowość.",
+      "question": "Wskaż zestaw objawów typowych dla tocznia rumieniowatego układowego:",
       "answers": [
         {
           "id": "A",
@@ -9134,7 +9134,7 @@
         {
           "id": "C",
           "text": "nadwrażliwość na światło słoneczne, bóle głowy, pancytopenia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9153,7 +9153,7 @@
     },
     {
       "id": "ped-1-270",
-      "question": "U 6-letniego chłopca, dwukrotnie wystąpiła swędząca, rumieniowo-grudkowa wysypka i upośledzona drożność nosa po spożyciu naturalnego jogurtu. Objawy utrzymywały się do kilku godzin. Rodzice chłopca podejrzewają, że ich dziecko ma objawy alergii na białka mleka krowiego. Które z poniższych badań byłoby najlepsze do zdiagnozowania alergii na pokarm? B. ocena stężenia alergenowo swoistych przeciwciał IgE na alergeny pokarmowe.",
+      "question": "U 6-letniego chłopca, dwukrotnie wystąpiła swędząca, rumieniowo-grudkowa wysypka i upośledzona drożność nosa po spożyciu naturalnego jogurtu. Objawy utrzymywały się do kilku godzin. Rodzice chłopca podejrzewają, że ich dziecko ma objawy alergii na białka mleka krowiego. Które z poniższych badań byłoby najlepsze do zdiagnozowania alergii na pokarm?",
       "answers": [
         {
           "id": "A",
@@ -9168,7 +9168,7 @@
         {
           "id": "C",
           "text": "podwójnie ślepa próba prowokacji pokarmowej kontrolowana placebo.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9202,7 +9202,7 @@
         {
           "id": "C",
           "text": "1,2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9231,7 +9231,7 @@
         {
           "id": "B",
           "text": "gronkowcowego zapalenia płuc.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9260,7 +9260,7 @@
         {
           "id": "A",
           "text": "odry.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -9314,7 +9314,7 @@
         {
           "id": "E",
           "text": "1,3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -9338,7 +9338,7 @@
         {
           "id": "C",
           "text": "kontakt z osobą chorą na biegunkę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9367,7 +9367,7 @@
         {
           "id": "B",
           "text": "1,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9401,7 +9401,7 @@
         {
           "id": "B",
           "text": "choroba Kawasakiego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9430,7 +9430,7 @@
         {
           "id": "A",
           "text": "desmopresynę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -9464,7 +9464,7 @@
         {
           "id": "A",
           "text": "nefropatia zmian minimalnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -9518,7 +9518,7 @@
         {
           "id": "E",
           "text": "sferocytozę.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -9527,7 +9527,7 @@
     },
     {
       "id": "ped-1-281",
-      "question": "Wcześniej zdrowa, 14-letnia dziewczynka zgłosiła się do lekarza ze względu na niewysoką gorączkę i nieproduktywny kaszel trwający od 7 dni. Temperatura ciała wynosi 37,7°C. Słyszalne są pojedyncze rzężenia. Rtg klatki piersiowej wykazuje zmiany śródmiąższowe i powiększenie węzłów chłonnych wnęk. Który z wymienionych leków powinien być zastosowany jako pierwszy? C. cyprofloksacyna.",
+      "question": "Wcześniej zdrowa, 14-letnia dziewczynka zgłosiła się do lekarza ze względu na niewysoką gorączkę i nieproduktywny kaszel trwający od 7 dni. Temperatura ciała wynosi 37,7°C. Słyszalne są pojedyncze rzężenia. Rtg klatki piersiowej wykazuje zmiany śródmiąższowe i powiększenie węzłów chłonnych wnęk. Który z wymienionych leków powinien być zastosowany jako pierwszy?",
       "answers": [
         {
           "id": "A",
@@ -9541,7 +9541,7 @@
         },
         {
           "id": "C",
-          "text": "Słyszalne są pojedyncze rzężenia. Rtg klatki piersiowej wykazuje zmiany śródmiąższowe i powiększenie węzłów chłonnych wnęk. Który z wymienionych leków powinien być zastosowany jako pierwszy? A. amoksycylina. B. metronidazol. C. cyprofloksacyna.",
+          "text": "cyprofloksacyna.",
           "isCorrect": false
         },
         {
@@ -9552,7 +9552,7 @@
         {
           "id": "E",
           "text": "klarytromycyna lub azytromycyna.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -9561,7 +9561,7 @@
     },
     {
       "id": "ped-1-282",
-      "question": "7-miesięczny chłopiec od 2 dni gorączkuje do 39 stopni C. Dziecko jest w dobrym stanie ogólnym. W badaniu fizykalnym stwierdza się zaczerwienione gardło, poza tym bez odchyleń od normy. W trzecim dniu normalizacja temperatury, na skórze wielopostaciowa plamkowa wysypka w kolorze bladoróżowym, blednąca pod uciskiem. Najbardziej prawdopodobną etiologią obserwowanych zaburzeń jest zakażenie: C. wirusem ospy wietrznej.",
+      "question": "7-miesięczny chłopiec od 2 dni gorączkuje do 39 stopni C. Dziecko jest w dobrym stanie ogólnym. W badaniu fizykalnym stwierdza się zaczerwienione gardło, poza tym bez odchyleń od normy. W trzecim dniu normalizacja temperatury, na skórze wielopostaciowa plamkowa wysypka w kolorze bladoróżowym, blednąca pod uciskiem. Najbardziej prawdopodobną etiologią obserwowanych zaburzeń jest zakażenie:.",
       "answers": [
         {
           "id": "A",
@@ -9571,11 +9571,11 @@
         {
           "id": "B",
           "text": "ludzkim herpeswirusem typu 6 (HHV-6).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
-          "text": "Dziecko jest w dobrym stanie ogólnym. W badaniu fizykalnym stwierdza się zaczerwienione gardło, poza tym bez odchyleń od normy. W trzecim dniu normalizacja temperatury, na skórze wielopostaciowa plamkowa wysypka w kolorze bladoróżowym, blednąca pod uciskiem. Najbardziej prawdopodobną etiologią obserwowanych zaburzeń jest zakażenie: A. paciorkowcem grupy A. B. ludzkim herpeswirusem typu 6 (HHV-6). C. wirusem ospy wietrznej.",
+          "text": "wirusem ospy wietrznej.",
           "isCorrect": false
         },
         {
@@ -9605,7 +9605,7 @@
         {
           "id": "B",
           "text": "1,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9654,7 +9654,7 @@
         {
           "id": "E",
           "text": "1, 2, 3, 4.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -9683,7 +9683,7 @@
         {
           "id": "D",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -9717,7 +9717,7 @@
         {
           "id": "D",
           "text": "1, 2, 3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -9736,7 +9736,7 @@
         {
           "id": "A",
           "text": "kamica układu moczowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -9770,7 +9770,7 @@
         {
           "id": "A",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -9809,7 +9809,7 @@
         {
           "id": "B",
           "text": "podanie wziewnie krótko działających β-mimetyków.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9833,7 +9833,7 @@
     },
     {
       "id": "ped-1-290",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące alergicznego kontaktowego zapalenia skóry: A. zmiany skórne mogą być asymetryczne i dotyczyć zarówno miejsca kontaktującego się z alergenem, jak i odległych rejonów skóry. B. w rozwoju zapalenia alergicznego bierze udział IV typ reakcji immunologicznej.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące alergicznego kontaktowego zapalenia skóry:",
       "answers": [
         {
           "id": "A",
@@ -9848,7 +9848,7 @@
         {
           "id": "C",
           "text": "objawy występują po ok. 15-30 min. od kontaktu z alergenem.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9882,7 +9882,7 @@
         {
           "id": "C",
           "text": "ostra białaczka limfoblastyczna, neuroblastoma, guz Wilmsa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9901,7 +9901,7 @@
     },
     {
       "id": "ped-1-292",
-      "question": "3-letni chłopiec przyjęty do SOR z powodu wysokiej gorączki > 39,5°C trwającej drugą dobę, bólu brzucha, apatii, braku apetytu oraz nieprzyjemnego zapachu moczu. Wykonane badanie ogólne moczu wykazało leukocyturię oraz obecność azotynów. Wskaż właściwe postępowanie: C. zastosowanie cefalosporyny II lub III generacji dożylnie, doustnie lub sekwencyjnie.",
+      "question": "3-letni chłopiec przyjęty do SOR z powodu wysokiej gorączki > 39,5°C trwającej drugą dobę, bólu brzucha, apatii, braku apetytu oraz nieprzyjemnego zapachu moczu. Wykonane badanie ogólne moczu wykazało leukocyturię oraz obecność azotynów. Wskaż właściwe postępowanie:",
       "answers": [
         {
           "id": "A",
@@ -9916,7 +9916,7 @@
         {
           "id": "C",
           "text": "zastosowanie cefalosporyny II lub III generacji dożylnie, doustnie lub sekwencyjnie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9960,7 +9960,7 @@
         {
           "id": "E",
           "text": "wgłobienie.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -9979,7 +9979,7 @@
         {
           "id": "B",
           "text": "1,2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -10028,7 +10028,7 @@
         {
           "id": "E",
           "text": "1,3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -10037,7 +10037,7 @@
     },
     {
       "id": "ped-1-296",
-      "question": "U matki 5-miesięcznego dziecka od 3 dni występuje gorączka i kaszel, a w dniu badania rozpoznano grypę typu B (potwierdzona szybkim testem). Matka karmi dziecko piersią, w ciąży była szczepiona przeciwko grypie. Wskaż właściwe postępowanie w związku z ekspozycją dziecka na grypę: A. profilaktyka poekspozycyjna oseltamiwirem w dawce 3 mg/kg masy ciała z uwagi na korzyści ochronne dla dziecka. B. profilaktyka poekspozycyjna nie jest konieczna, ponieważ dziecko jest karmione piersią. C. profilaktyka poekspozycyjna nie jest konieczna, ponieważ dziecko jest karmione piersią przez mamę, która była szczepiona przeciwko grypie w ciąży. D. profilaktyka poekspozycyjna nie jest zalecana, ponieważ matka rozwinęła grypę typu B. E. profilaktyka poekspozycyjna nie jest zalecana z powodu czasu, jaki upłynął od chwili ekspozycji.",
+      "question": "U matki 5-miesięcznego dziecka od 3 dni występuje gorączka i kaszel, a w dniu badania rozpoznano grypę typu B (potwierdzona szybkim testem). Matka karmi dziecko piersią, w ciąży była szczepiona przeciwko grypie. Wskaż właściwe postępowanie w związku z ekspozycją dziecka na grypę:",
       "answers": [
         {
           "id": "A",
@@ -10062,7 +10062,7 @@
         {
           "id": "E",
           "text": "profilaktyka poekspozycyjna nie jest zalecana z powodu czasu, jaki upłynął od chwili ekspozycji.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -10096,7 +10096,7 @@
         {
           "id": "E",
           "text": "zapalenie płuc.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -10125,7 +10125,7 @@
         {
           "id": "D",
           "text": "1,2,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -10139,7 +10139,7 @@
     },
     {
       "id": "ped-1-299",
-      "question": "Wskaż prawdziwe stwierdzenie dotyczące mykoplazmatycznego zapalenia płuc: B. w przebiegu choroby stopniowo narastają objawy ze strony górnych dróg oddechowych z łagodną gorączką.",
+      "question": "Wskaż prawdziwe stwierdzenie dotyczące mykoplazmatycznego zapalenia płuc:.",
       "answers": [
         {
           "id": "A",
@@ -10149,7 +10149,7 @@
         {
           "id": "B",
           "text": "w przebiegu choroby stopniowo narastają objawy ze strony górnych dróg oddechowych z łagodną gorączką.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -10173,7 +10173,7 @@
     },
     {
       "id": "ped-1-300",
-      "question": "Określenie cech cytogenetycznych i molekularnych nie jest wymagane do rozpoznania, ale należy do podstawowych kryteriów klasyfikacji ostrej białaczki limfoblastycznej (ALL). Wskaż fałszywe stwierdzenie dotyczące białaczki ALL: A. w ALL limfoblasty linii B są prawie zawsze dodatnie dla markerów komórek B CD19. B. w ALL limfoblasty B muszą być ujemne pod względem CD3 (antygen komórek T). C. w ALL limfoblasty B muszą być ujemne pod względem mieloperoksydazy\n(MPO).",
+      "question": "Określenie cech cytogenetycznych i molekularnych nie jest wymagane do rozpoznania, ale należy do podstawowych kryteriów klasyfikacji ostrej białaczki limfoblastycznej (ALL). Wskaż fałszywe stwierdzenie dotyczące białaczki ALL:",
       "answers": [
         {
           "id": "A",
@@ -10198,7 +10198,7 @@
         {
           "id": "E",
           "text": "rozpoznanie B-ALL jest zawsze przy liczbie limfoblastów >5%.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -10227,7 +10227,7 @@
         {
           "id": "D",
           "text": "ziarnica złośliwa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -10241,7 +10241,7 @@
     },
     {
       "id": "ped-1-302",
-      "question": "Podstawą do ustalenia rozpoznania ziarnicy złośliwej są wszystkie wymienione, z wyjątkiem: B. stwierdzenia komórek Hodgkina/Reed-Sternberga (HRS) w materiale histopatologicznym.",
+      "question": "Podstawą do ustalenia rozpoznania ziarnicy złośliwej są wszystkie wymienione, z wyjątkiem:",
       "answers": [
         {
           "id": "A",
@@ -10256,7 +10256,7 @@
         {
           "id": "C",
           "text": "biopsji cienkoigłowa węzła chłonnego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -10280,7 +10280,7 @@
         {
           "id": "A",
           "text": "enterowirusy (EV).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -10314,7 +10314,7 @@
         {
           "id": "A",
           "text": "antybiotyku makrolidowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -10343,12 +10343,12 @@
     },
     {
       "id": "ped-1-305",
-      "question": "Wskaż fałszywe stwierdzenie dotyczące szczepienia przeciw odrze, śwince i różyczce: A. dzieciom, które nie zostały zaszczepione w 6. roku życia brakujące szczepienie można podać tylko w 10. roku życia. B. wcześniejsze szczepienie szczepionką przeciw odrze nie jest przeciwwskazaniem do zaszczepienia skojarzoną szczepionką przeciw odrze, śwince i różyczce. C. dzieci, które otrzymały dwie dawki skojarzonej szczepionki przeciw odrze, śwince i różyczce w poprzednich latach życia, nie wymagają̨ podawania trzeciej dawki tej szczepionki. D. podawane w wywiadzie przebycie zachorowania na odrę, świnkę i różyczkę nie stanowi przeciwwskazania do szczepienia. E. nie należy szczepić szczepionką skojarzoną przeciw odrze, śwince i różyczce 4 tygodnie przed planowaną ciążą.",
+      "question": "Wskaż fałszywe stwierdzenie dotyczące szczepienia przeciw odrze, śwince i różyczce:",
       "answers": [
         {
           "id": "A",
           "text": "dzieciom, które nie zostały zaszczepione w 6. roku życia brakujące szczepienie można podać tylko w 10. roku życia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -10402,7 +10402,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -10416,7 +10416,7 @@
         {
           "id": "A",
           "text": "1,2,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -10470,7 +10470,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -10479,7 +10479,7 @@
     },
     {
       "id": "ped-1-309",
-      "question": "Wskaż prawidłowe postępowanie po ugryzieniu przez kleszcza: D. wdrożenie leczenia u osoby ugryzionej przez kleszcza, u którego stwierdzono obecność patogenu.",
+      "question": "Wskaż prawidłowe postępowanie po ugryzieniu przez kleszcza:",
       "answers": [
         {
           "id": "A",
@@ -10504,7 +10504,7 @@
         {
           "id": "E",
           "text": "kleszcza należy usunąć i zdezynfekować miejsce ugryzienia na skórze.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -10513,7 +10513,7 @@
     },
     {
       "id": "ped-1-310",
-      "question": "Wskaż profilaktyczne dawki witaminy D u dzieci, które są nieprawidłowe dla wskazanego przedziału wiekowego: A. 600 j.m. w zależności od masy ciała i podaży witaminy D w diecie dzieci\n1–10 lat. B. 1000 j.m. w zależności od masy ciała i podaży witaminy D w diecie dzieci\n1–10 lat. C. 800 j.m. w zależności od masy ciała i podaży witaminy D w diecie dzieci\n11–18 lat. D. dzieci 11-18 lat – 1000 j.m. w zależności od masy ciała i podaży witaminy D w diecie. E. niemowlęta 7–12 mies. życia – 1000-2000 j.m. zależnie od ilości witaminy D przyjętej z pokarmem.",
+      "question": "Wskaż profilaktyczne dawki witaminy D u dzieci, które są nieprawidłowe dla wskazanego przedziału wiekowego:",
       "answers": [
         {
           "id": "A",
@@ -10538,7 +10538,7 @@
         {
           "id": "E",
           "text": "niemowlęta 7–12 mies. życia – 1000-2000 j.m. zależnie od ilości witaminy D przyjętej z pokarmem.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -10572,7 +10572,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -10606,6 +10606,40 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "ped-1-313",
+      "question": "W leczeniu młodzieńczego idiopatycznego zapalenia stawów stosuje się:",
+      "answers": [
+        {
+          "id": "A",
+          "text": "kwas acetylosalicylowy.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "cefalosporynę II generacji.",
+          "isCorrect": false
+        },
+        {
+          "id": "C",
+          "text": "fenoksymetylopenicylinę.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "metotreksat.",
+          "isCorrect": true
+        },
+        {
+          "id": "E",
+          "text": "żaden z wymienionych.",
           "isCorrect": false
         }
       ],
