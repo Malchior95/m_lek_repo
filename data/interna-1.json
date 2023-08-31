@@ -160,7 +160,7 @@
         {
           "id": "D",
           "text": "zespół nerczycowy w przebiegu pierwotnej amyloidozy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -199,7 +199,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -228,7 +228,7 @@
         {
           "id": "D",
           "text": "2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -262,7 +262,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A i B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -291,7 +291,7 @@
         {
           "id": "C",
           "text": "w niedokrwistości chorób przewlekłych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -325,7 +325,7 @@
         {
           "id": "C",
           "text": "1,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -369,7 +369,7 @@
         {
           "id": "E",
           "text": "do rozpoznania wystarczające jest stwierdzenie ponad dwukrotnie podwyższonego stężenia chromograniny A we krwi.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -403,7 +403,7 @@
         {
           "id": "E",
           "text": "kwasu foliowego w dawce powyżej 5 mg/d.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -432,7 +432,7 @@
         {
           "id": "D",
           "text": "2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -466,7 +466,7 @@
         {
           "id": "D",
           "text": "PZW B powinno leczyć się pegylowanym interferonem u wybranych chorych przez 48 tygodni lub entekawirem lub tenofowirem do utraty antygenu HBs i pojawienia się anty-HBs.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -490,7 +490,7 @@
         {
           "id": "B",
           "text": "1,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -539,7 +539,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A, B i C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -558,7 +558,7 @@
         {
           "id": "B",
           "text": "stosunek albuminy do kreatyniny w pierwszej próbce porannego moczu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -597,7 +597,7 @@
         {
           "id": "C",
           "text": "jest wskazaniem do wykonania przezodbytniczej ultrasonografii z pobraniem wycinków do badania histologicznego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -631,7 +631,7 @@
         {
           "id": "C",
           "text": "różnica stężeń albumin w surowicy i płynie puchlinowym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -670,7 +670,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi B i C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -689,7 +689,7 @@
         {
           "id": "A",
           "text": "cholestyramina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -733,7 +733,7 @@
         {
           "id": "C",
           "text": "uchyłki jelita grubego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -762,7 +762,7 @@
         {
           "id": "B",
           "text": "2,3,5. 2",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -811,7 +811,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -840,7 +840,7 @@
         {
           "id": "D",
           "text": "po 1-2 minutach po położeniu się i ustępuje w kilka minut po przyjęciu pozycji siedzącej lub stojącej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -879,7 +879,7 @@
         {
           "id": "E",
           "text": "zespół nerczycowy w przebiegu kłębuszkowego zapalenia nerek.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -903,7 +903,7 @@
         {
           "id": "C",
           "text": "skierowanie pacjenta do chirurga w celu resekcji prawego płata wątroby.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -937,7 +937,7 @@
         {
           "id": "C",
           "text": "oznaczenie stężenia wapnia, fosforanów i PTH w surowicy krwi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -981,7 +981,7 @@
         {
           "id": "E",
           "text": "wszystkie powyższe.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1015,7 +1015,7 @@
         {
           "id": "E",
           "text": "ból głowy, wysoka gorączka, sztywność karku.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1044,7 +1044,7 @@
         {
           "id": "D",
           "text": "linagliptyna i insulina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1068,7 +1068,7 @@
         {
           "id": "B",
           "text": "postać nabyta RCM może rozwinąć się w przebiegu zaciskającego zapalenia osierdzia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1107,7 +1107,7 @@
         {
           "id": "C",
           "text": "ostrej białaczki szpikowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1146,7 +1146,7 @@
         {
           "id": "D",
           "text": "2,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1180,7 +1180,7 @@
         {
           "id": "D",
           "text": "1,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1214,7 +1214,7 @@
         {
           "id": "D",
           "text": "gazometrię krwi i echokardiografię z użyciem wstrząśniętej soli fizjologicznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1253,7 +1253,7 @@
         {
           "id": "E",
           "text": "pobranie moczu w celu wykonania badania ogólnego oraz krwi w celu oznaczenia stężenia kreatyniny.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1287,7 +1287,7 @@
         {
           "id": "E",
           "text": "należy jej jedynie zalecić spożywanie zdrowej i zrównoważonej diety.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1301,7 +1301,7 @@
         {
           "id": "A",
           "text": "1,2,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1340,7 +1340,7 @@
         {
           "id": "B",
           "text": "nietolerancji tiopuryn (azatiopryna, 6-merkaptopuryna).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1369,7 +1369,7 @@
         {
           "id": "A",
           "text": "wszystkie IPP muszą być stosowane 15-30 minut przed porannym posiłkiem.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1423,7 +1423,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1437,7 +1437,7 @@
         {
           "id": "A",
           "text": "X - miejsce stymulacji; Y - miejsce odczytywania potencjałów; Z - tryb pracy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1491,7 +1491,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1525,7 +1525,7 @@
         {
           "id": "E",
           "text": "2,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1544,7 +1544,7 @@
         {
           "id": "B",
           "text": "kamica nerkowa z towarzyszącym zakażeniem układu moczowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1588,7 +1588,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1617,7 +1617,7 @@
         {
           "id": "C",
           "text": "zastosowanie diuretyków oraz leków rozszerzających naczynia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1656,7 +1656,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1695,7 +1695,7 @@
         {
           "id": "E",
           "text": "renoscyntygrafię.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -1724,7 +1724,7 @@
         {
           "id": "D",
           "text": "choroba zwyrodnieniowa stawów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -1753,7 +1753,7 @@
         {
           "id": "C",
           "text": "3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1777,7 +1777,7 @@
         {
           "id": "A",
           "text": "metformina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1811,7 +1811,7 @@
         {
           "id": "A",
           "text": "należy zmniejszyć dawkę tyroksyny do 75 μg/dobę i skontrolować TSH za 4-6 tygodni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1855,7 +1855,7 @@
         {
           "id": "C",
           "text": "1,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -1884,7 +1884,7 @@
         {
           "id": "B",
           "text": "migotaniu towarzyszy bardzo szybka akcja komór serca.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -1913,7 +1913,7 @@
         {
           "id": "A",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1947,7 +1947,7 @@
         {
           "id": "A",
           "text": "IgG.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -1996,7 +1996,7 @@
         {
           "id": "D",
           "text": "tylko 4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2035,7 +2035,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2069,7 +2069,7 @@
         {
           "id": "E",
           "text": "należy wykonać endoskopię po 24 godzinach od początku hospitalizacji.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2088,7 +2088,7 @@
         {
           "id": "B",
           "text": "1,2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2122,7 +2122,7 @@
         {
           "id": "B",
           "text": "metotreksat.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2166,7 +2166,7 @@
         {
           "id": "D",
           "text": "korekta hiponatremii wymaga podania stężonego (3%) roztworu soli fizjologicznej u większości pacjentów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2185,7 +2185,7 @@
         {
           "id": "A",
           "text": "ostre zapalenie trzustki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2239,7 +2239,7 @@
         {
           "id": "E",
           "text": "obecność mononuklearów w rozmazie krwi.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2253,7 +2253,7 @@
         {
           "id": "A",
           "text": "natężona objętość wydechowa pierwszosekundowa (FEV1) oraz natężona pojemność życiowa (FVC).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2307,7 +2307,7 @@
         {
           "id": "E",
           "text": "w każdym z wymienionych przypadków.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2331,7 +2331,7 @@
         {
           "id": "C",
           "text": "1,2,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2365,7 +2365,7 @@
         {
           "id": "C",
           "text": "3 miesięcy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2389,7 +2389,7 @@
         {
           "id": "A",
           "text": "teofilina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2438,7 +2438,7 @@
         {
           "id": "D",
           "text": "nefropatię cukrzycową.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2457,7 +2457,7 @@
         {
           "id": "A",
           "text": "1,2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2506,7 +2506,7 @@
         {
           "id": "D",
           "text": "2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2525,7 +2525,7 @@
         {
           "id": "A",
           "text": "pH - 7,30, pCO - 55 mmHg, HCO - 24 mmol/l.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -2564,7 +2564,7 @@
         {
           "id": "B",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2598,7 +2598,7 @@
         {
           "id": "B",
           "text": "nefropatia IgA.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -2647,7 +2647,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi B i C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2676,7 +2676,7 @@
         {
           "id": "D",
           "text": "chłoniak żołądka.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2710,7 +2710,7 @@
         {
           "id": "D",
           "text": "IGF-1 (insulinopodobnego czynnika wzrostu 1).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2744,7 +2744,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2773,7 +2773,7 @@
         {
           "id": "C",
           "text": "1,3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2812,7 +2812,7 @@
         {
           "id": "D",
           "text": "przeciw Chlamydia trachomatis w wysokim mianie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -2851,7 +2851,7 @@
         {
           "id": "E",
           "text": "zapalenie chrząstek małżowiny usznej i nosa.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2875,7 +2875,7 @@
         {
           "id": "C",
           "text": "1,2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2909,7 +2909,7 @@
         {
           "id": "C",
           "text": "1,2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -2953,7 +2953,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A, B i C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -2977,7 +2977,7 @@
         {
           "id": "C",
           "text": "1,2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3021,7 +3021,7 @@
         {
           "id": "E",
           "text": "opisywane zmiany w moczu są typowe dla osób starszych i nie powinny być wskazaniem do włączenia leczenia przeciwbakteryjnego przy braku objawów klinicznych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3050,7 +3050,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A i B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3089,7 +3089,7 @@
         {
           "id": "E",
           "text": "tylko 3.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3123,7 +3123,7 @@
         {
           "id": "E",
           "text": "kamicy cystynowej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3157,7 +3157,7 @@
         {
           "id": "E",
           "text": "terapia doustna dwoma lub trzema lekami o bezpośrednim działaniu hamującym replikację HCV, której celem jest wyleczenie zakażenia HCV (genotyp 1) w ponad 90% przepadków.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3171,7 +3171,7 @@
         {
           "id": "A",
           "text": "2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3225,7 +3225,7 @@
         {
           "id": "E",
           "text": "2,3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3254,7 +3254,7 @@
         {
           "id": "D",
           "text": "eptyfibatydu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3283,7 +3283,7 @@
         {
           "id": "C",
           "text": "Czy zaobserwowała czerwone zabarwienie moczu?.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3317,7 +3317,7 @@
         {
           "id": "C",
           "text": "obniżone stężenie żelaza w surowicy, obniżone lub prawidłowe stężenie transferyny, obniżone wysycenie transferyny, prawidłowe lub podwyższone stężenie ferrytyny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3341,7 +3341,7 @@
         {
           "id": "A",
           "text": "Escherichia coli.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3375,7 +3375,7 @@
         {
           "id": "A",
           "text": "spirometria.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3419,7 +3419,7 @@
         {
           "id": "C",
           "text": "izolowane zapalenie stawu kolanowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3458,7 +3458,7 @@
         {
           "id": "D",
           "text": "zwiększyć dawki dotychczas stosowanych leków.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3492,7 +3492,7 @@
         {
           "id": "D",
           "text": "0,9% roztworu chlorku sodu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3531,7 +3531,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A, B i C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -3555,7 +3555,7 @@
         {
           "id": "C",
           "text": "podejrzewając infekcyjne zapalenie wsierdzia należy wykonać badania echokardiografii przezklatkowej i przezprzełykowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3594,7 +3594,7 @@
         {
           "id": "D",
           "text": "1,2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3618,7 +3618,7 @@
         {
           "id": "B",
           "text": "płynu wieloelektrolitowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3647,7 +3647,7 @@
         {
           "id": "A",
           "text": "dożylna podaż furosemidu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -3686,7 +3686,7 @@
         {
           "id": "B",
           "text": "ciśnienie tętnicze jest zwiększone podczas wizyt w gabinecie/przychodni natomiast prawidłowe w pomiarach domowych/ambulatoryjnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3730,7 +3730,7 @@
         {
           "id": "D",
           "text": "furosemid 40 mg i.v.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3759,7 +3759,7 @@
         {
           "id": "C",
           "text": "gastroskopię z pobraniem testu ureazowego i bioptatów na całej długości przełyku do oceny hist.-pat.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3788,7 +3788,7 @@
         {
           "id": "B",
           "text": "łagodny rozrost prostaty.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -3827,7 +3827,7 @@
         {
           "id": "C",
           "text": "2,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3861,7 +3861,7 @@
         {
           "id": "C",
           "text": "1,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3900,7 +3900,7 @@
         {
           "id": "D",
           "text": "płyn puchlinowy i błona otrzewnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -3929,7 +3929,7 @@
         {
           "id": "C",
           "text": "natychmiast przesłać chorą do szpitala i podać heparynę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3963,7 +3963,7 @@
         {
           "id": "C",
           "text": "azytromycynę p.o. 1 g jednorazowo.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -3992,7 +3992,7 @@
         {
           "id": "B",
           "text": "niedomykalność zastawki aortalnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4026,7 +4026,7 @@
         {
           "id": "B",
           "text": "2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4065,7 +4065,7 @@
         {
           "id": "C",
           "text": "zespół policystycznych jajników.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4104,7 +4104,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A i C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4143,7 +4143,7 @@
         {
           "id": "E",
           "text": "kobiety po porodzie celem oceny możliwości karmienia piersią.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4167,7 +4167,7 @@
         {
           "id": "C",
           "text": "Streptococcus pneumoniae i Neisseria meningitidis.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4211,7 +4211,7 @@
         {
           "id": "E",
           "text": "zaostrzenie niewydolności serca, prawdopodobnie na skutek przebytego zawału serca.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4235,7 +4235,7 @@
         {
           "id": "C",
           "text": "1,2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4259,7 +4259,7 @@
         {
           "id": "A",
           "text": "NASH jest etapem pośrednim między izolowanym stłuszczeniem wątroby i zaawansowanymi postaciami niealkoholowej choroby stłuszczeniowej wątroby.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4313,7 +4313,7 @@
         {
           "id": "E",
           "text": "krew oraz mocz po przecewnikowaniu.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4332,7 +4332,7 @@
         {
           "id": "B",
           "text": "obniżone stężenie TSH, podwyższone stężenie FT4 i FT3, hipocholesterolemia, hiperkalcemia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4361,7 +4361,7 @@
         {
           "id": "A",
           "text": "mikroskopowe zapalenie jelita grubego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4405,7 +4405,7 @@
         {
           "id": "C",
           "text": "ból brzucha w prawym górnym kwadrancie z gorączką oraz podejrzeniem zapalenia dróg żółciowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4434,7 +4434,7 @@
         {
           "id": "B",
           "text": "obecność HCV RNA w surowicy utrzymująca się powyżej 6 miesięcy oraz zmiany zapalno-martwicze i włóknienie w wątrobie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4478,7 +4478,7 @@
         {
           "id": "D",
           "text": "methemoglobinemię.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4507,7 +4507,7 @@
         {
           "id": "C",
           "text": "1,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4551,7 +4551,7 @@
         {
           "id": "E",
           "text": "przewlekłej białaczki szpikowej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4585,7 +4585,7 @@
         {
           "id": "E",
           "text": "jest wyzwalany przez zmianę pozycji ciała lub ucisk.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4619,7 +4619,7 @@
         {
           "id": "E",
           "text": "2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4638,7 +4638,7 @@
         {
           "id": "B",
           "text": "1,2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4682,7 +4682,7 @@
         {
           "id": "D",
           "text": "kaszel trwający co najmniej 8 tygodni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4711,7 +4711,7 @@
         {
           "id": "C",
           "text": "choroba Stilla u dorosłych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4735,7 +4735,7 @@
         {
           "id": "A",
           "text": "poszerzenie pierścienia zastawki trójdzielnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4779,7 +4779,7 @@
         {
           "id": "C",
           "text": "należy podać węglowodany proste, np. słodzoną herbatę, a następnie węglowodany złożone, np. kanapkę z chleba pełnoziarnistego i wykonać kontrolny pomiar glikemii za około godzinę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -4823,7 +4823,7 @@
         {
           "id": "E",
           "text": "prawidłowy OB.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -4842,7 +4842,7 @@
         {
           "id": "B",
           "text": "przy braku przeciwwskazań do wdrożenia terapii dożylnej rekombinowanym aktywatorem plazminogenu, jak najszybsze zastosowanie leczenia trombolitycznego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -4886,7 +4886,7 @@
         {
           "id": "D",
           "text": "pętlowy lek moczopędny w połączeniu z antagonistą kanału wapniowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4920,7 +4920,7 @@
         {
           "id": "D",
           "text": "3% roztwór NaCl - wlew w ciągu 20 min.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -4939,7 +4939,7 @@
         {
           "id": "A",
           "text": "napadu dny moczanowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -4978,7 +4978,7 @@
         {
           "id": "B",
           "text": "rak płaskonabłonkowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5012,7 +5012,7 @@
         {
           "id": "B",
           "text": "przeciwko receptorowi fosfolipazy A2 (PLA2R) błony komórkowej podocyta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5051,7 +5051,7 @@
         {
           "id": "C",
           "text": "zespołu mononukleozowego w przebiegu ostrej choroby retrowirusowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5085,7 +5085,7 @@
         {
           "id": "C",
           "text": "4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5114,7 +5114,7 @@
         {
           "id": "B",
           "text": "2,3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5153,7 +5153,7 @@
         {
           "id": "C",
           "text": "nie występuje u pacjentów z pierwotnym nadciśnieniem tętniczym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5192,7 +5192,7 @@
         {
           "id": "D",
           "text": "choroba zwyrodnieniowa stawów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5231,7 +5231,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi B i C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5265,7 +5265,7 @@
         {
           "id": "E",
           "text": "jest bezwzględnym wskazaniem do implantacji rozrusznika serca.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5299,7 +5299,7 @@
         {
           "id": "E",
           "text": "metyldopa.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5333,7 +5333,7 @@
         {
           "id": "E",
           "text": "rozpoznać cukrzycę i rozpocząć leczenie farmakologiczne.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5362,7 +5362,7 @@
         {
           "id": "D",
           "text": "astma.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5401,7 +5401,7 @@
         {
           "id": "E",
           "text": "wynik nie powinien być analizowany w oderwaniu od danych klinicznych i oceny stężenia FT4.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5435,7 +5435,7 @@
         {
           "id": "E",
           "text": "kłębuszkowe zapalenie nerek.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5454,7 +5454,7 @@
         {
           "id": "B",
           "text": "znaczna retencja płynów z dusznością i trzeszczeniami u podstawy płuc pomimo stosowania diuretyku pętlowego w dużej dawce u chorego z przewlekłą niewydolnością nerek (filtracja kłębuszkowa < 15 ml/min/1,73 m ).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5483,7 +5483,7 @@
         {
           "id": "A",
           "text": "INR.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5522,7 +5522,7 @@
         {
           "id": "B",
           "text": "ból stawów utrzymujący się przez > 14 dni;.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5561,7 +5561,7 @@
         {
           "id": "C",
           "text": "w stenozie aortalnej głośność szmeru nie odzwierciedla stopnia zwężenia zastawki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5605,7 +5605,7 @@
         {
           "id": "E",
           "text": "inhibitorów kotransportera sodowo-glukozowego 2, tzw. flozyn.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -5619,7 +5619,7 @@
         {
           "id": "A",
           "text": "przesłać pobrany płyn mózgowo-rdzeniowy na badanie bakteriologiczne oraz niezwłocznie włączyć empirycznie leczenie dożylne maksymalną dawką antybiotyku o szerokim spektrum (np. cefalosporyną III generacji).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5653,7 +5653,7 @@
         {
           "id": "A",
           "text": "azatiopryna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5697,7 +5697,7 @@
         {
           "id": "C",
           "text": "pancytopenią we krwi obwodowej, ubogokomórkowym szpikiem i nieobecnością choroby nowotworowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5726,7 +5726,7 @@
         {
           "id": "B",
           "text": "leczeniem pierwszego rzutu jest metronidazol lub wankomycyna, podawane doustnie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -5755,7 +5755,7 @@
         {
           "id": "A",
           "text": "pH 7,32; PaCO 60,4 mmHg; PaO 43,8 mmHg; HCO 31,6 mmol/l; SaO 75,5%.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5804,7 +5804,7 @@
         {
           "id": "D",
           "text": "1,2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -5823,7 +5823,7 @@
         {
           "id": "A",
           "text": "należy unikać produktów mlecznych, które powodują wzdęcia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5857,7 +5857,7 @@
         {
           "id": "A",
           "text": "insulinoma.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -5901,7 +5901,7 @@
         {
           "id": "C",
           "text": "od ryzyka wystąpienia zaostrzeń POChP i od nasilenia objawów podmiotowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5935,7 +5935,7 @@
         {
           "id": "C",
           "text": "kwasu acetylosalicylowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -5959,7 +5959,7 @@
         {
           "id": "A",
           "text": "1,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6003,7 +6003,7 @@
         {
           "id": "C",
           "text": "reumatoidalne zapalenie stawów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6027,7 +6027,7 @@
         {
           "id": "A",
           "text": "wysokiego stężenia wapnia w surowicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6066,7 +6066,7 @@
         {
           "id": "B",
           "text": "metformina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6105,7 +6105,7 @@
         {
           "id": "C",
           "text": "przewód Wirsunga jest znacznie poszerzony.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6134,7 +6134,7 @@
         {
           "id": "B",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6183,7 +6183,7 @@
         {
           "id": "E",
           "text": "kardiowersja elektryczna.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6217,7 +6217,7 @@
         {
           "id": "E",
           "text": "po stronie krwiaka nadtwardówkowego można stwierdzić niedowład połowiczy oraz poszerzenie źrenicy.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6241,7 +6241,7 @@
         {
           "id": "C",
           "text": "kwasica ketonowa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6285,7 +6285,7 @@
         {
           "id": "E",
           "text": "RTG klatki piersiowej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6314,7 +6314,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A i B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6343,7 +6343,7 @@
         {
           "id": "C",
           "text": "III, aVF.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6372,7 +6372,7 @@
         {
           "id": "B",
           "text": "reumatoidalne zapalenie stawów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6411,7 +6411,7 @@
         {
           "id": "C",
           "text": "defektu tzw. wspólnej drogi krzepnięcia - (czynnik X, V, II, fibrynogen).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6440,7 +6440,7 @@
         {
           "id": "B",
           "text": "zwężenie zastawki aortalnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6474,7 +6474,7 @@
         {
           "id": "B",
           "text": "należy zmniejszać dawki insuliny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6508,7 +6508,7 @@
         {
           "id": "B",
           "text": "oznaczenie stężenia K .",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6552,7 +6552,7 @@
         {
           "id": "D",
           "text": "obniżone stężenie wapnia we krwi (niedoczynność przytarczyc).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6581,7 +6581,7 @@
         {
           "id": "C",
           "text": "nie należy stosować pętlowych leków moczopędnych u chorych bez hiperkaliemii.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6620,7 +6620,7 @@
         {
           "id": "D",
           "text": "dna moczanowa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6644,7 +6644,7 @@
         {
           "id": "B",
           "text": "tętno z dwoma falami dodatnimi w czasie skurczu, wywołane obecnością dodatkowej fali przepływu krwi, występuje w kardiomiopatii przerostowej z zawężeniem drogi odpływu oraz w wadzie złożonej obejmującej niedomykalność i zwężenie zastawki aortalnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -6673,7 +6673,7 @@
         {
           "id": "A",
           "text": "przewodu pokarmowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6727,7 +6727,7 @@
         {
           "id": "E",
           "text": "statyną.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6761,7 +6761,7 @@
         {
           "id": "E",
           "text": "niepodejmowanie dalszej diagnostyki oraz niewłączanie leczenia przeciwbakteryjnego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6775,7 +6775,7 @@
         {
           "id": "A",
           "text": "podwyższona limfocytoza we krwi obwodowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -6824,7 +6824,7 @@
         {
           "id": "D",
           "text": "preparat złożony - inhibitor enzymu konwertującego z diuretykiem tiazydowym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6858,7 +6858,7 @@
         {
           "id": "D",
           "text": "leczenie chirurgiczne.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6892,7 +6892,7 @@
         {
           "id": "D",
           "text": "odstawić ramipril i indapamid.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -6921,7 +6921,7 @@
         {
           "id": "C",
           "text": "hipokalcemia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -6965,7 +6965,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -6984,7 +6984,7 @@
         {
           "id": "B",
           "text": "2,3. 12",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7033,7 +7033,7 @@
         {
           "id": "E",
           "text": "1,2.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7047,7 +7047,7 @@
         {
           "id": "A",
           "text": "stężenie amylazy w surowicy krwi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7081,7 +7081,7 @@
         {
           "id": "A",
           "text": "klasyczne zdjęcie radiologiczne.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7130,7 +7130,7 @@
         {
           "id": "D",
           "text": "2,3,6.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7154,7 +7154,7 @@
         {
           "id": "B",
           "text": "2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7183,7 +7183,7 @@
         {
           "id": "A",
           "text": "ciąża jest przeciwwskazaniem do szczepień.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7237,7 +7237,7 @@
         {
           "id": "E",
           "text": "diuretyki pętlowe nie należą do głównych grup leków hipotensyjnych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7261,7 +7261,7 @@
         {
           "id": "C",
           "text": "czynnik reumatoidalny i przeciwciała aCCP.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7295,7 +7295,7 @@
         {
           "id": "C",
           "text": "spondyloartropatię seronegatywną.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7339,7 +7339,7 @@
         {
           "id": "E",
           "text": "2,5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7353,7 +7353,7 @@
         {
           "id": "A",
           "text": "N-acetylocysteina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7407,7 +7407,7 @@
         {
           "id": "E",
           "text": "nieprowadzenie dalszej diagnostyki ani żadnego leczenia przeciwbakteryjnego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7441,7 +7441,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7470,7 +7470,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A i B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7509,7 +7509,7 @@
         {
           "id": "E",
           "text": "V przestrzeni międzyżebrowej przyśrodkowo od linii środkowo- obojczykowej lewej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7528,7 +7528,7 @@
         {
           "id": "B",
           "text": "badanie tomografii komputerowej głowy bez podania kontrastu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7577,7 +7577,7 @@
         {
           "id": "E",
           "text": "podanie domięśniowe adrenaliny, tlenoterapia, dożylne przetoczenie soli fizjologicznej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7606,7 +7606,7 @@
         {
           "id": "D",
           "text": "1,2,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7630,7 +7630,7 @@
         {
           "id": "B",
           "text": "pomiar surowiczego stężenia trójglicerydów.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7674,7 +7674,7 @@
         {
           "id": "D",
           "text": "pseudodnę wywołaną pirofosforanami wapnia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -7713,7 +7713,7 @@
         {
           "id": "E",
           "text": "ze względu na obwód pasa chory ma zwiększone ryzyko sercowo- naczyniowe.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7727,7 +7727,7 @@
         {
           "id": "A",
           "text": "zakrzepica żył głębokich.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -7771,7 +7771,7 @@
         {
           "id": "C",
           "text": "insuliny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7805,7 +7805,7 @@
         {
           "id": "C",
           "text": "2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7849,7 +7849,7 @@
         {
           "id": "E",
           "text": "zalecić jedynie zdrowy tryb życia bez dalszej diagnostyki.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -7868,7 +7868,7 @@
         {
           "id": "B",
           "text": "zakażony HBV, prawdopodobnie z wysoką replikacją HBV, bez cech kontaktu z wirusem C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -7907,7 +7907,7 @@
         {
           "id": "C",
           "text": "zmniejsza się po ćwiczeniach fizycznych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7941,7 +7941,7 @@
         {
           "id": "C",
           "text": "toczniowe zapalenie nerek.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -7975,7 +7975,7 @@
         {
           "id": "C",
           "text": "kolka nerkowa spowodowana kamicą.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8004,7 +8004,7 @@
         {
           "id": "B",
           "text": "zespół nefrytyczny w przebiegu ostrego kłębuszkowego zapalenia nerek.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8038,7 +8038,7 @@
         {
           "id": "B",
           "text": "obrzęk mózgu grożący wklinowaniem i guzy OUN (zwłaszcza zlokalizowane w tylnym dole czaszki).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8082,7 +8082,7 @@
         {
           "id": "D",
           "text": "tylko 4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8116,7 +8116,7 @@
         {
           "id": "D",
           "text": "odmę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8135,7 +8135,7 @@
         {
           "id": "A",
           "text": "podostre zapalenie tarczycy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8169,7 +8169,7 @@
         {
           "id": "A",
           "text": "oceny ryzyka udaru niedokrwiennego mózgu u chorych z niezastawkowym migotaniem przedsionków.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8203,7 +8203,7 @@
         {
           "id": "A",
           "text": "jest nowotworem potencjalnie wyleczalnym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8252,7 +8252,7 @@
         {
           "id": "D",
           "text": "wiek, płeć, cholesterol całkowity, ciśnienie tętnicze skurczowe, nikotynizm.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8286,7 +8286,7 @@
         {
           "id": "D",
           "text": "amoksycylina z kwasem klawulanowym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8325,7 +8325,7 @@
         {
           "id": "E",
           "text": "jak najszybsza pierwotna przezskórna interwencja wieńcowa.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8339,7 +8339,7 @@
         {
           "id": "A",
           "text": "antagoniści aldosteronu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8388,7 +8388,7 @@
         {
           "id": "D",
           "text": "hipernatremia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8427,7 +8427,7 @@
         {
           "id": "E",
           "text": "zapalenia dróg żółciowych.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8461,7 +8461,7 @@
         {
           "id": "E",
           "text": "bakteriemii.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8485,7 +8485,7 @@
         {
           "id": "C",
           "text": "2,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8509,7 +8509,7 @@
         {
           "id": "A",
           "text": "niedoczynność tarczycy w przebiegu leczenia związkiem litu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8548,7 +8548,7 @@
         {
           "id": "B",
           "text": "wydalanie białka z moczem oraz filtrację kłębuszkową co rok.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8592,7 +8592,7 @@
         {
           "id": "D",
           "text": "1,2,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8611,7 +8611,7 @@
         {
           "id": "A",
           "text": "1,2,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -8655,7 +8655,7 @@
         {
           "id": "C",
           "text": "podostrego zapalenia tarczycy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -8694,7 +8694,7 @@
         {
           "id": "D",
           "text": "wapnia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8728,7 +8728,7 @@
         {
           "id": "D",
           "text": "za prawidłowe przyjmuje się średnie ciśnienie tętnicze w ciągu dnia < 140/90 mmHg, w ciągu nocy < 125/75 mmHg i w ciągu doby < 135/85 mmHg.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8767,7 +8767,7 @@
         {
           "id": "E",
           "text": "3,4.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8786,7 +8786,7 @@
         {
           "id": "B",
           "text": "z zawałem serca bez uniesienia odcinka ST (NSTEMI).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8830,7 +8830,7 @@
         {
           "id": "D",
           "text": "hipertrójglicerydemia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -8869,7 +8869,7 @@
         {
           "id": "E",
           "text": "badanie tomografii komputerowej głowy bez podania kontrastu.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8903,7 +8903,7 @@
         {
           "id": "E",
           "text": "3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8922,7 +8922,7 @@
         {
           "id": "B",
           "text": "pierwotna nadczynność tarczycy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -8971,7 +8971,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -8990,7 +8990,7 @@
         {
           "id": "B",
           "text": "dołączenie ezetymibu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9034,7 +9034,7 @@
         {
           "id": "D",
           "text": "duże wahania nasilenia objawów w ciągu dnia i z dnia na dzień.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -9058,7 +9058,7 @@
         {
           "id": "B",
           "text": "SS-A.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9102,7 +9102,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A i B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -9131,7 +9131,7 @@
         {
           "id": "C",
           "text": "hipernatremia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9165,7 +9165,7 @@
         {
           "id": "C",
           "text": "eozynofilowe zapalenie przełyku.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9209,7 +9209,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -9238,7 +9238,7 @@
         {
           "id": "D",
           "text": "klonidyna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -9272,7 +9272,7 @@
         {
           "id": "D",
           "text": "zignorowanie tego wyniku - chora nie wymaga leczenia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -9291,7 +9291,7 @@
         {
           "id": "A",
           "text": "niedokrwistość autoimmunohemolityczna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -9325,7 +9325,7 @@
         {
           "id": "A",
           "text": "wydłużonego odstępu PQ.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -9359,7 +9359,7 @@
         {
           "id": "A",
           "text": "II prawe międzyżebrze przy mostku.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -9403,7 +9403,7 @@
         {
           "id": "C",
           "text": "warfaryna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9447,7 +9447,7 @@
         {
           "id": "E",
           "text": "kolchicyna.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -9466,7 +9466,7 @@
         {
           "id": "B",
           "text": "łagodny rozrost stercza.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9505,7 +9505,7 @@
         {
           "id": "C",
           "text": "CCS.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9539,7 +9539,7 @@
         {
           "id": "C",
           "text": "jelita grubego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9578,7 +9578,7 @@
         {
           "id": "D",
           "text": "ostre odmiedniczkowe zapalenie nerek.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -9607,7 +9607,7 @@
         {
           "id": "C",
           "text": "kolchicynę.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9631,7 +9631,7 @@
         {
           "id": "A",
           "text": "acyklowir.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -9675,7 +9675,7 @@
         {
           "id": "C",
           "text": "u ciężarnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9719,7 +9719,7 @@
         {
           "id": "E",
           "text": "3,4.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -9748,7 +9748,7 @@
         {
           "id": "D",
           "text": "międzypaliczkowe dalsze.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -9777,7 +9777,7 @@
         {
           "id": "C",
           "text": "duży białkomocz.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9811,7 +9811,7 @@
         {
           "id": "C",
           "text": "cyprofloksacyna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9855,7 +9855,7 @@
         {
           "id": "E",
           "text": "terapia inhibitorami konwertazy angiotensyny lub antagonistami receptora angiotensynowego.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -9874,7 +9874,7 @@
         {
           "id": "B",
           "text": "pierwotną nadczynność przytarczyc.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -9913,7 +9913,7 @@
         {
           "id": "C",
           "text": "indapamid.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9947,7 +9947,7 @@
         {
           "id": "C",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -9971,7 +9971,7 @@
         {
           "id": "A",
           "text": "hemofilii.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -10025,7 +10025,7 @@
         {
           "id": "E",
           "text": "przewodnienie.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -10044,7 +10044,7 @@
         {
           "id": "B",
           "text": "wyniku badania morfologii krwi obwodowej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -10083,7 +10083,7 @@
         {
           "id": "C",
           "text": "rozkurczowego w II międzyżebrzu po stronie prawej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -10127,7 +10127,7 @@
         {
           "id": "E",
           "text": "należy rozpocząć suplementację potasu dożylnie nawet, gdy jego stężenie w surowicy krwi jest wyższe niż 4,0 mmol/l.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -10141,7 +10141,7 @@
         {
           "id": "A",
           "text": "rak płuca.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -10185,7 +10185,7 @@
         {
           "id": "C",
           "text": "u którego wystąpiła choroba zakrzepowo-zatorowa bez uchwytnych czynników ryzyka.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -10209,7 +10209,7 @@
         {
           "id": "A",
           "text": "zebrać wywiad chorobowy (od chorego lub świadków zachorowania) odnośnie do godziny i minut wystąpienia objawów, przebytych chorób oraz ustalić, czy i jakie leki chory pobiera oraz odnotować to w dokumentacji medycznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -10243,7 +10243,7 @@
         {
           "id": "A",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -10292,7 +10292,7 @@
         {
           "id": "D",
           "text": "mikroskopowe zapalenie jelita grubego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -10326,7 +10326,7 @@
         {
           "id": "D",
           "text": "stenozy zastawki aortalnej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -10345,7 +10345,7 @@
         {
           "id": "A",
           "text": "1,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -10379,7 +10379,7 @@
         {
           "id": "A",
           "text": "uchyłki nabyte zlokalizowane w esicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -10418,7 +10418,7 @@
         {
           "id": "B",
           "text": "dobra odpowiedź na leczenie antybiotykami.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -10462,7 +10462,7 @@
         {
           "id": "D",
           "text": "3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -10501,7 +10501,7 @@
         {
           "id": "E",
           "text": "bodypletyzmografii.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -10520,7 +10520,7 @@
         {
           "id": "B",
           "text": "przeciwciał przeciw cyklicznemu cytrulinowanemu peptydowi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -10564,7 +10564,7 @@
         {
           "id": "D",
           "text": "IgG4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -10598,7 +10598,7 @@
         {
           "id": "D",
           "text": "2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -10632,7 +10632,7 @@
         {
           "id": "D",
           "text": "niedoczynność przytarczyc.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -10651,7 +10651,7 @@
         {
           "id": "A",
           "text": "może być związane z neutropenią polekową.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -10700,7 +10700,7 @@
         {
           "id": "D",
           "text": "raka wątrobowokomórkowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -10724,7 +10724,7 @@
         {
           "id": "B",
           "text": "symetryczny obrzęk i ból drobnych stawów rąk.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -10758,7 +10758,7 @@
         {
           "id": "B",
           "text": "1,2,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -10787,7 +10787,7 @@
         {
           "id": "A",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -10831,7 +10831,7 @@
         {
           "id": "C",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -10870,7 +10870,7 @@
         {
           "id": "D",
           "text": "krwinkomocz dysmorficzny i wałeczki erytrocytarne wskazują na zaawansowanie cukrzycowej choroby nerek odpowiadające stadium 4. przewlekłej choroby nerek.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -10904,7 +10904,7 @@
         {
           "id": "D",
           "text": "analogów insulin długo działających.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -10933,7 +10933,7 @@
         {
           "id": "C",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -10972,7 +10972,7 @@
         {
           "id": "D",
           "text": "2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -11001,7 +11001,7 @@
         {
           "id": "C",
           "text": "należy pilnie oznaczyć poranne stężenie kortyzolu, elektrolity oraz przeciwciała anty-TPO.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -11040,7 +11040,7 @@
         {
           "id": "D",
           "text": "2,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -11064,7 +11064,7 @@
         {
           "id": "B",
           "text": "bezwzględnej liczby retikulocytów > 150 000/μl.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -11103,7 +11103,7 @@
         {
           "id": "C",
           "text": "ziarniniakowatość z zapaleniem naczyń (GPA Wegenera).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -11142,7 +11142,7 @@
         {
           "id": "D",
           "text": "zmiany osteolityczne w kościach.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -11181,7 +11181,7 @@
         {
           "id": "E",
           "text": "twardzinę układową.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -11210,7 +11210,7 @@
         {
           "id": "D",
           "text": "doustnym antykoagulantem niebędącym antagonistą witaminy K (dabigatran, rywaroksaban) lub antagonistą witaminy K (acenokumarol, warfaryna).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -11244,7 +11244,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A i C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -11268,7 +11268,7 @@
         {
           "id": "B",
           "text": "wrzodziejące zapalenie jelita grubego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -11312,7 +11312,7 @@
         {
           "id": "D",
           "text": "0,9% NaCl dożylnie.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -11351,7 +11351,7 @@
         {
           "id": "E",
           "text": "aktywność transaminaz jest prawidłowa a stężenie bilirubiny podwyższone, lecz nie przekraczające 5 mg/dl.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -11380,7 +11380,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A,B,C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -11414,7 +11414,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A i B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -11448,7 +11448,7 @@
         {
           "id": "D",
           "text": "tylko 4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -11482,7 +11482,7 @@
         {
           "id": "D",
           "text": "nieefektywna erytropoeza.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -11506,7 +11506,7 @@
         {
           "id": "B",
           "text": "70 mg/dl.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -11550,7 +11550,7 @@
         {
           "id": "D",
           "text": "niewydolność nerek.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -11579,7 +11579,7 @@
         {
           "id": "C",
           "text": "1,2,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -11608,7 +11608,7 @@
         {
           "id": "B",
           "text": "1,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -11647,7 +11647,7 @@
         {
           "id": "C",
           "text": "hamowanie układu renina-angiotensyna-aldosteron.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -11691,7 +11691,7 @@
         {
           "id": "E",
           "text": "4,5.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -11710,7 +11710,7 @@
         {
           "id": "B",
           "text": "niedokrwistości z niedoboru witaminy B .",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -11744,7 +11744,7 @@
         {
           "id": "B",
           "text": "objawy szpiczaka plazmocytowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -11793,7 +11793,7 @@
         {
           "id": "E",
           "text": "zwężenie zastawki aortalnej.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -11812,7 +11812,7 @@
         {
           "id": "B",
           "text": "2,3,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -11846,7 +11846,7 @@
         {
           "id": "B",
           "text": "nieleczonej pooperacyjnej niedoczynności przytarczyc.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -11895,7 +11895,7 @@
         {
           "id": "E",
           "text": "< 1,8 mmol/l (< 70 mg/dl).",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -11909,7 +11909,7 @@
         {
           "id": "A",
           "text": "hipokalcemia, hiperfosfatemia i hiperkaliemia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -11958,7 +11958,7 @@
         {
           "id": "D",
           "text": "glikokortykosteroidy wziewne.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -11997,7 +11997,7 @@
         {
           "id": "E",
           "text": "ANCA.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -12021,7 +12021,7 @@
         {
           "id": "C",
           "text": "skala CHA2DS2-VASc jest stosowana do oceny ryzyka udaru niedokrwiennego mózgu u chorych z żylną chorobą zakrzepowo-zatorową.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -12065,7 +12065,7 @@
         {
           "id": "E",
           "text": "hiperlipidemia ze stężeniem LDL > 150 mg%.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -12089,7 +12089,7 @@
         {
           "id": "C",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -12123,7 +12123,7 @@
         {
           "id": "C",
           "text": "2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -12157,7 +12157,7 @@
         {
           "id": "C",
           "text": "domięśniowo lub głęboko podskórnie do końca życia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -12186,7 +12186,7 @@
         {
           "id": "B",
           "text": "zespołu Conna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -12215,7 +12215,7 @@
         {
           "id": "A",
           "text": "selektywnych dla COX-2 niesteroidowych leków przeciwzapalnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -12264,7 +12264,7 @@
         {
           "id": "D",
           "text": "losartan i ramipryl.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -12298,7 +12298,7 @@
         {
           "id": "D",
           "text": "2,4,6.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -12317,7 +12317,7 @@
         {
           "id": "A",
           "text": "peryndopryl.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -12351,7 +12351,7 @@
         {
           "id": "A",
           "text": "zapalenie wielomięśniowe.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -12405,7 +12405,7 @@
         {
           "id": "E",
           "text": "gwałtownie postępujące kłębuszkowe zapalenie nerek.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -12439,7 +12439,7 @@
         {
           "id": "E",
           "text": "powstrzymanie się od antybiotykoterapii w większości przypadków.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -12463,7 +12463,7 @@
         {
           "id": "C",
           "text": "syntetyczne leki modyfikujące przebieg choroby (np. metotreksat).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -12502,7 +12502,7 @@
         {
           "id": "D",
           "text": "enalaprylu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -12536,7 +12536,7 @@
         {
           "id": "D",
           "text": "HLA B-27.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -12565,7 +12565,7 @@
         {
           "id": "C",
           "text": "zwiększonego miana antystreptolizyny O (ASO).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -12594,7 +12594,7 @@
         {
           "id": "B",
           "text": "jest w większości przypadków związany z polipowatością rodzinną.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -12638,7 +12638,7 @@
         {
           "id": "D",
           "text": "spondyloartropatii seronegatywnych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -12662,7 +12662,7 @@
         {
           "id": "B",
           "text": "2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -12691,7 +12691,7 @@
         {
           "id": "A",
           "text": "EHRA.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -12745,7 +12745,7 @@
         {
           "id": "E",
           "text": "rozpad elementów morfotycznych krwi podczas wirowania.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -12764,7 +12764,7 @@
         {
           "id": "B",
           "text": "peryndopryl.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -12808,7 +12808,7 @@
         {
           "id": "D",
           "text": "tylko 1.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -12827,7 +12827,7 @@
         {
           "id": "A",
           "text": "jest w Polsce najczęstszą przyczyną zgonów na nowotwory u kobiet.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -12866,7 +12866,7 @@
         {
           "id": "B",
           "text": "sartany.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -12905,7 +12905,7 @@
         {
           "id": "C",
           "text": "zwolnić akcję serca do poziomu bezpiecznego i dobrze tolerowanego przez pacjenta, bez przerywania arytmii.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -12929,7 +12929,7 @@
         {
           "id": "A",
           "text": "udar niedokrwienny w okresie ostatnich 6 miesięcy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -12968,7 +12968,7 @@
         {
           "id": "B",
           "text": "może zależeć od wydzielania parathormonu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -13012,7 +13012,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi B i C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -13046,7 +13046,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi B i C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -13070,7 +13070,7 @@
         {
           "id": "B",
           "text": "1, 2, 5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -13104,7 +13104,7 @@
         {
           "id": "B",
           "text": "jest rozpoznawana u chorych z liczbą neutrocytów poniżej 500/μl.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -13133,7 +13133,7 @@
         {
           "id": "A",
           "text": "2, 3, 5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -13182,7 +13182,7 @@
         {
           "id": "D",
           "text": "codziennych zmian kreatyninemii i diurezy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -13211,7 +13211,7 @@
         {
           "id": "C",
           "text": "podwyższona leukocytoza z obecnością blastów, form pośrednich linii neutrofilowej i neutrocytów („krew jak szpik”), powiększenie śledziony.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -13255,7 +13255,7 @@
         {
           "id": "E",
           "text": "prawidłowe lub wysokie stężenia składowych C3 i C4 dopełniacza.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -13284,7 +13284,7 @@
         {
           "id": "D",
           "text": "2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -13318,7 +13318,7 @@
         {
           "id": "D",
           "text": "1,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -13347,7 +13347,7 @@
         {
           "id": "C",
           "text": "pierwotna nefropatia błoniasta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -13391,7 +13391,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -13405,7 +13405,7 @@
         {
           "id": "A",
           "text": "2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -13459,7 +13459,7 @@
         {
           "id": "E",
           "text": "obecność czynnika reumatoidalnego (RF).",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -13478,7 +13478,7 @@
         {
           "id": "B",
           "text": "są pierwszą przyczyną umieralności u osób w wieku 20-64 lat.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -13522,7 +13522,7 @@
         {
           "id": "D",
           "text": "prawdziwe są odpowiedzi A i B.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -13561,7 +13561,7 @@
         {
           "id": "E",
           "text": "prawdziwe są odpowiedzi A, B i C.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -13575,7 +13575,7 @@
         {
           "id": "A",
           "text": "raka endometrium.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -13609,7 +13609,7 @@
         {
           "id": "A",
           "text": "1,2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -13653,7 +13653,7 @@
         {
           "id": "C",
           "text": "założenie karty DiLO (karta diagnostyki i leczenia onkologicznego) i skierowanie pacjentki do poradni onkologicznej.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -13692,7 +13692,7 @@
         {
           "id": "D",
           "text": "raka gruczołu krokowego i raka trzonu macicy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -13731,7 +13731,7 @@
         {
           "id": "E",
           "text": "prawostronna kamica moczowodu.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -13745,7 +13745,7 @@
         {
           "id": "A",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -13784,7 +13784,7 @@
         {
           "id": "B",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -13813,7 +13813,7 @@
         {
           "id": "A",
           "text": "1,2,3,4.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -13852,7 +13852,7 @@
         {
           "id": "B",
           "text": "1,3,4,5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -13896,7 +13896,7 @@
         {
           "id": "D",
           "text": "praca na wolnym powietrzu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -13920,7 +13920,7 @@
         {
           "id": "B",
           "text": "implantacja cewnika dializacyjnego oraz przewlekła dializoterapia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -13949,7 +13949,7 @@
         {
           "id": "A",
           "text": "wzrost stężenia kreatyniny we krwi o ≥ 0,3 mg/dl w ciągu 48 godzin.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -13998,7 +13998,7 @@
         {
           "id": "D",
           "text": "leukocytozy z gorączką oraz wzrostem CRP.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -14022,7 +14022,7 @@
         {
           "id": "B",
           "text": "znaczna otyłość.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -14071,7 +14071,7 @@
         {
           "id": "E",
           "text": "wszystkie wymienione.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -14090,7 +14090,7 @@
         {
           "id": "B",
           "text": "odpowiednie dożylne nawodnienie przez 3–6 h przed badaniem oraz 6–12 h po badaniu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -14129,7 +14129,7 @@
         {
           "id": "C",
           "text": "oznaczenie wskaźnika albumina/kreatynina w próbce moczu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -14153,7 +14153,7 @@
         {
           "id": "A",
           "text": "1,2.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -14187,7 +14187,7 @@
         {
           "id": "A",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -14236,7 +14236,7 @@
         {
           "id": "D",
           "text": "hiponatremię.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -14270,6 +14270,40 @@
         {
           "id": "D",
           "text": "mieszaną chorobę tkanki łącznej.",
+          "isCorrect": false
+        },
+        {
+          "id": "E",
+          "text": "wszystkie wymienione.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": null,
+      "comment": null,
+      "tags": null
+    },
+    {
+      "id": "int-1-422",
+      "question": "Powiększenie wątroby może być spowodowane przez:\n1) ADPKD;\n2) hemochromatozę;\n3) amyloidozę;\n4) marskość wątroby w fazie późnej;\n5) przerzuty nowotworowe do wątroby.",
+      "answers": [
+        {
+          "id": "A",
+          "text": "2,3,4,5.",
+          "isCorrect": false
+        },
+        {
+          "id": "B",
+          "text": "1,2,3,5.",
+          "isCorrect": true
+        },
+        {
+          "id": "C",
+          "text": "2, 3.",
+          "isCorrect": false
+        },
+        {
+          "id": "D",
+          "text": "1, 5.",
           "isCorrect": false
         },
         {
