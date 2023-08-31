@@ -12,7 +12,7 @@
         {
           "id": "A",
           "text": "krótko działającego beta-2 mimetyku i oznaczeniu FEV1 w badaniu krzywej przepływ-objętość.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -51,7 +51,7 @@
         {
           "id": "B",
           "text": "wzrost FEV1 o minimum 12% po leku bronchodilatacyjnym.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -90,7 +90,7 @@
         {
           "id": "C",
           "text": "wirusy paragrypy, grypy i adenowirusy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -124,7 +124,7 @@
         {
           "id": "C",
           "text": "paciorkowce z grupy B, Enterobacteriaceae.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -163,7 +163,7 @@
         {
           "id": "D",
           "text": "biały dermografizm.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -187,7 +187,7 @@
         {
           "id": "B",
           "text": "salbutamolu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -226,7 +226,7 @@
         {
           "id": "C",
           "text": "antybiotyków makrolidowych.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -270,7 +270,7 @@
         {
           "id": "E",
           "text": "fenoksymetylpenicyliny doustnie.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -289,7 +289,7 @@
         {
           "id": "B",
           "text": "amoksycyliny.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -328,7 +328,7 @@
         {
           "id": "C",
           "text": "adrenalinę w dawce 0,01 mg/kg m.c. domięśniowo w przednio-boczną powierzchnię mięśnia czworogłowego uda.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -352,7 +352,7 @@
         {
           "id": "A",
           "text": "idiopatyczny zespół nerczycowy.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -396,7 +396,7 @@
         {
           "id": "C",
           "text": "oznaczeniu stężenia TSH w suchej kropli krwi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -430,7 +430,7 @@
         {
           "id": "C",
           "text": "1,2,3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -454,7 +454,7 @@
         {
           "id": "A",
           "text": "kortykosteroid wziewny w niskich dawkach.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -498,7 +498,7 @@
         {
           "id": "C",
           "text": "chłopiec, małopłytkowość, atopowe zapalenie skóry, uporczywe zakażenia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -522,7 +522,7 @@
         {
           "id": "A",
           "text": "wolno – wywiad chorobowy jest zwykle długi.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -561,7 +561,7 @@
         {
           "id": "B",
           "text": "węzły chłonne śródpiersia i grasica.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -595,7 +595,7 @@
         {
           "id": "B",
           "text": "hipernatremia.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -624,7 +624,7 @@
         {
           "id": "A",
           "text": "mięsak poprzecznie prążkowany (RMS).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -668,7 +668,7 @@
         {
           "id": "C",
           "text": "Eisenmengera.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -707,7 +707,7 @@
         {
           "id": "D",
           "text": "postawić rozpoznanie cukrzycy bez wykonania dodatkowych badań.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -741,7 +741,7 @@
         {
           "id": "D",
           "text": "choroba Graves-Basedowa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "E",
@@ -765,7 +765,7 @@
         {
           "id": "B",
           "text": "kwasu wanilinomigdałowego i homowanilinowego w dobowej zbiórce moczu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -814,7 +814,7 @@
         {
           "id": "E",
           "text": "neuroblastoma.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -833,7 +833,7 @@
         {
           "id": "B",
           "text": "nerki.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "C",
@@ -872,7 +872,7 @@
         {
           "id": "C",
           "text": "IX.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "D",
@@ -896,7 +896,7 @@
         {
           "id": "A",
           "text": "aplazji układu czerwonokrwinkowego.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
@@ -950,7 +950,7 @@
         {
           "id": "E",
           "text": "temperatura.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "explanation": null,
@@ -964,7 +964,7 @@
         {
           "id": "A",
           "text": "jest <10 percentyla.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "B",
